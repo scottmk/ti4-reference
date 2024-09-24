@@ -1,0 +1,75 @@
+site_name: TI4 References
+nav:
+  - index.md
+  - Factions:
+    - Arborec: factions/arborec.md
+    - Argent Flight: factions/argent.md
+    - Barony of Letnev: factions/barony.md
+    - Clan of Saar: factions/saar.md
+    - Council Keleres: factions/keleres.md
+    - Embers of Muaat: factions/muaat.md
+    - Emirates of Hacan: factions/hacan.md
+    - Empyrean: factions/empyrean.md
+    - Federation of Sol: factions/sol.md
+    - Ghosts of Creuss: factions/ghosts.md
+    - L1Z1X Mindnet: factions/l1z1x.md
+    - Mahact Gene-Sorcerers: factions/mahact.md
+    - Mentak Coalition: factions/mentak.md
+    - Naalu Collective: factions/naalu.md
+    - Naaz-Rokha Alliance: factions/nra.md
+    - Nekro Virus: factions/nekro.md
+    - Nomad: factions/nomad.md
+    - Sardakk N'orr: factions/sardakk.md
+    - Titans of Ul: factions/titans.md
+    - Universities of Jol-Nar: factions/jol-nar.md
+    - Vuil'Raith Cabal: factions/cabal.md
+    - Winnu: factions/winnu.md
+    - Xxcha Kingdom: factions/xxcha.md
+    - Yin Brotherhood: factions/yin.md
+    - Yssaril Tribes: factions/yssaril.md
+theme:
+  name: material
+  palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  custom_dir: overrides
+  features:
+    - content.tabs.link
+    - content.tooltips
+    - header.autohide
+    - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - navgiation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - toc.integrate
+markdown_extensions: 
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      toc_depth: 2

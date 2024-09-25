@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 207 210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(103.807,-0.669473,-0.741421,-114.963,102.986,99.3636)">
+        <path d="M-0.992,0.079L-0.992,0.062C-0.991,-0.237 -0.822,-0.529 -0.418,-0.636C-0.248,-0.972 0.242,-0.959 0.414,-0.737C0.23,-0.803 0.016,-0.757 0.014,-0.656C0.143,-0.627 0.295,-0.486 0.314,-0.299C0.528,-0.442 0.619,-0.791 0.159,-0.956L0.295,-0.957C0.681,-0.93 0.929,-0.663 0.983,-0.36C0.992,-0.286 0.993,-0.212 0.987,-0.137L0.985,-0.118C0.942,0.141 0.753,0.387 0.386,0.502C0.145,0.927 -0.383,0.762 -0.41,0.596C-0.228,0.696 -0.048,0.647 -0.033,0.488C-0.106,0.488 -0.273,0.403 -0.282,0.152C-0.642,0.233 -0.594,0.892 0.071,0.787C-0.047,0.841 -0.159,0.865 -0.263,0.866C-0.691,0.868 -0.985,0.471 -0.992,0.079Z" style="fill:url(#_Radial1);fill-rule:nonzero;"/>
+    </g>
+    <g transform="matrix(0,31.1333,21.7177,0,103.021,104.592)">
+        <ellipse cx="0" cy="-0" rx="1.014" ry="0.987" style="fill:url(#_Radial2);"/>
+    </g>
+    <defs>
+        <radialGradient id="_Radial1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,-1,0,-0.0454863)"><stop offset="0" style="stop-color:rgb(186,116,168);stop-opacity:1"/><stop offset="0.54" style="stop-color:rgb(150,97,141);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(79,58,89);stop-opacity:1"/></radialGradient>
+        <radialGradient id="_Radial2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,1,1,0,3.53852e-05,-3.53852e-05)"><stop offset="0" style="stop-color:rgb(224,232,141);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(169,171,105);stop-opacity:1"/></radialGradient>
+    </defs>
+</svg>

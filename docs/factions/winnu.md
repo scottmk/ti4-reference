@@ -1,3 +1,7 @@
+---
+toc_depth: 2
+---
+
 # :ti4-faction-winnu: Winnu
 
 <div class="grid cards" markdown>

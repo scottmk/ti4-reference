@@ -1,3 +1,7 @@
+---
+toc_depth: 2
+---
+
 # :ti4-faction-saar: Clan of Saar
 
 <div class="grid cards" markdown>

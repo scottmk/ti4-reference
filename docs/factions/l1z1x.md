@@ -1,3 +1,7 @@
+---
+toc_depth: 2
+---
+
 # :ti4-faction-l1z1x: L1Z1X Mindnet
 
 <div class="grid cards" markdown>

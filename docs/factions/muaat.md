@@ -1,3 +1,7 @@
+---
+toc_depth: 2
+---
+
 # :ti4-faction-muaat: Embers of Muaat
 
 <div class="grid cards" markdown>

@@ -29,6 +29,7 @@ nav:
     - Xxcha Kingdom: factions/xxcha.md
     - Yin Brotherhood: factions/yin.md
     - Yssaril Tribes: factions/yssaril.md
+  - Units: units.md
   - Promissory Notes: promissory-notes.md
 extra_css:
   - stylesheets/extra.css

@@ -50,7 +50,7 @@ toc_depth: 2
     ---
     ### **C'Morran N'orr**
     
-    **Cost** 8 __|__ **Combat** 6(x2) __|__ **Move** 1 __|__ **Capacity** 3
+    <span style="font-variant:small-caps;">Cost</span> 8 __|__ <span style="font-variant:small-caps;">Combat</span> 6(x2) __|__ <span style="font-variant:small-caps;">Move</span> 1 __|__ <span style="font-variant:small-caps;">Capacity</span> 3
     
     <span style="font-variant:small-caps;">Sustain Damage</span>
 
@@ -62,7 +62,7 @@ toc_depth: 2
     === "Base Game"
         ### **Valkyrie Exoskeleton**
         
-        **Cost** 2 __|__ **Combat** 6
+        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
         
         <span style="font-variant:small-caps;">Sustain Damage</span>
 
@@ -71,7 +71,7 @@ toc_depth: 2
     === "Absol's Mod :ti4-absol:"
         ### **Valkyrie Exoskeleton**:ti4-absol:
         
-        **Cost** 2 __|__ **Combat** 6
+        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
         
         <span style="font-variant:small-caps;">Sustain Damage</span>
 
@@ -86,7 +86,7 @@ toc_depth: 2
     ---
     ### **Exotrireme I**
     
-    **Cost** 4 __|__ **Combat** 5 __|__ **Move** 1 __|__ **Capacity** 1
+    <span style="font-variant:small-caps;">Cost</span> 4 __|__ <span style="font-variant:small-caps;">Combat</span> 5 __|__ <span style="font-variant:small-caps;">Move</span> 1 __|__ <span style="font-variant:small-caps;">Capacity</span> 1
 
     <span style="font-variant:small-caps;">Sustain Damage</span>
     __|__ <span style="font-variant:small-caps;">Bombardment 4(x2)</span>

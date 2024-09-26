@@ -54,7 +54,7 @@ toc_depth: 2
     ---
     ### **Salai Sai Corian**
     
-    **Cost** 8 __|__ **Combat** 7 __|__ **Move** 1 __|__ **Capacity** 3
+    <span style="font-variant:small-caps;">Cost</span> 8 __|__ <span style="font-variant:small-caps;">Combat</span> 7 __|__ <span style="font-variant:small-caps;">Move</span> 1 __|__ <span style="font-variant:small-caps;">Capacity</span> 3
     
     <span style="font-variant:small-caps;">Sustain Damage</span>
 
@@ -66,7 +66,7 @@ toc_depth: 2
     === "Base Game"
         ### **Reclaimer**
         
-        **Cost** 2 __|__ **Combat** 6
+        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
         
         <span style="font-variant:small-caps;">Sustain Damage</span>
 
@@ -75,7 +75,7 @@ toc_depth: 2
     === "Absol's Mod :ti4-absol:"
         ### **Reclaimer**:ti4-absol:
         
-        **Cost** 2 __|__ **Combat** 6
+        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
         
         <span style="font-variant:small-caps;">Sustain Damage</span>
 

@@ -63,7 +63,7 @@ toc_depth: 2
     ---
     ### **Fourth Moon**
     
-    **Cost** 8 __|__ **Combat** 7(x2) __|__ **Move** 1 __|__ **Capacity** 5
+    <span style="font-variant:small-caps;">Cost</span> 8 __|__ <span style="font-variant:small-caps;">Combat</span> 7(x2) __|__ <span style="font-variant:small-caps;">Move</span> 1 __|__ <span style="font-variant:small-caps;">Capacity</span> 5
     
     <span style="font-variant:small-caps;">Sustain Damage</span>
 
@@ -75,7 +75,7 @@ toc_depth: 2
     === "Base Game"
         ### **Moll Terminus**
         
-        **Cost** 2 __|__ **Combat** 6
+        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
         
         <span style="font-variant:small-caps;">Sustain Damage</span>
 
@@ -84,7 +84,7 @@ toc_depth: 2
     === "Absol's Mod :ti4-absol:"
         ### **Moll Terminus**:ti4-absol:
         
-        **Cost** 2 __|__ **Combat** 6
+        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
         
         <span style="font-variant:small-caps;">Sustain Damage</span>
 

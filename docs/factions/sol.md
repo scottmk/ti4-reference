@@ -59,7 +59,7 @@ toc_depth: 2
     ---
     ### **Genesis**
     
-    **Cost** 8 __|__ **Combat** 5(x2) __|__ **Move** 1 __|__ **Capacity** 12
+    <span style="font-variant:small-caps;">Cost</span> 8 __|__ <span style="font-variant:small-caps;">Combat</span> 5(x2) __|__ <span style="font-variant:small-caps;">Move</span> 1 __|__ <span style="font-variant:small-caps;">Capacity</span> 12
     
     <span style="font-variant:small-caps;">Sustain Damage</span>
 
@@ -71,7 +71,7 @@ toc_depth: 2
     === "Base Game"
         ### **ZS Thunderbolt M2**
         
-        **Cost** 2 __|__ **Combat** 6
+        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
         
         <span style="font-variant:small-caps;">Sustain Damage</span>
 
@@ -80,7 +80,7 @@ toc_depth: 2
     === "Absol's Mod :ti4-absol:"
         ### **ZS Thunderbolt M2**:ti4-absol:
         
-        **Cost** 2 __|__ **Combat** 6
+        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
         
         <span style="font-variant:small-caps;">Sustain Damage</span>
 
@@ -97,10 +97,10 @@ toc_depth: 2
 <div class="grid cards" markdown>
 
 -   ### **Spec Ops I**
-**Cost** 1 (x2) __|__ **Combat** 7
+<span style="font-variant:small-caps;">Cost</span> 1 (x2) __|__ <span style="font-variant:small-caps;">Combat</span> 7
 
 -   ### **Advanced Carrier I**
-**Cost** 3 __|__ **Combat** 9 __|__ **Move** 1 __|__ **Capacity** 6
+<span style="font-variant:small-caps;">Cost</span> 3 __|__ <span style="font-variant:small-caps;">Combat</span> 9 __|__ <span style="font-variant:small-caps;">Move</span> 1 __|__ <span style="font-variant:small-caps;">Capacity</span> 6
 
 </div>
 

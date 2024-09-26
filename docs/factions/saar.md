@@ -58,7 +58,7 @@ toc_depth: 2
     ---
     ### **Son of Ragh**
     
-    **Cost** 8 __|__ **Combat** 5(x2) __|__ **Move** 1 __|__ **Capacity** 3
+    <span style="font-variant:small-caps;">Cost</span> 8 __|__ <span style="font-variant:small-caps;">Combat</span> 5(x2) __|__ <span style="font-variant:small-caps;">Move</span> 1 __|__ <span style="font-variant:small-caps;">Capacity</span> 3
     
     <span style="font-variant:small-caps;">Sustain Damage</span>
     __|__ <span style="font-variant:small-caps;">Anti-Fighter Barrage 6(x4)</span>
@@ -69,7 +69,7 @@ toc_depth: 2
     === "Base Game"
         ### **Scavenger Zeta**
         
-        **Cost** 2 __|__ **Combat** 6
+        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
         
         <span style="font-variant:small-caps;">Sustain Damage</span>
 
@@ -78,7 +78,7 @@ toc_depth: 2
     === "Absol's Mod :ti4-absol:"
         ### **Scavenger Zeta**:ti4-absol:
         
-        **Cost** 2 __|__ **Combat** 6
+        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
         
         <span style="font-variant:small-caps;">Sustain Damage</span>
 
@@ -93,7 +93,7 @@ toc_depth: 2
     ---
     ### **Floating Factory I**
     
-    **Move** 1 __|__ Capacity 4
+    <span style="font-variant:small-caps;">Move</span> 1 __|__ Capacity 4
 
     <span style="font-variant:small-caps;">Production 5</span>
 

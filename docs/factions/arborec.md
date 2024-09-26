@@ -56,7 +56,7 @@ toc_depth: 2
     ---
     ### **Duha Menaimon**
     
-    **Cost** 8 __|__ **Combat** 7(x2) __|__ **Move** 1 __|__ **Capacity** 5
+    <span style="font-variant:small-caps;">Cost</span> 8 __|__ <span style="font-variant:small-caps;">Combat</span> 7(x2) __|__ <span style="font-variant:small-caps;">Move</span> 1 __|__ <span style="font-variant:small-caps;">Capacity</span> 5
     
     <span style="font-variant:small-caps;">Sustain Damage</span>
 
@@ -68,7 +68,7 @@ toc_depth: 2
     === "Base Game"
         ### **Letani Behemoth**
         
-        **Cost** 2 __|__ **Combat** 6
+        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
         
         <span style="font-variant:small-caps;">Sustain Damage</span> 
         __|__ <span style="font-variant:small-caps;">Production 2</span> 
@@ -79,7 +79,7 @@ toc_depth: 2
     === "Absol's Mod :ti4-absol:"
         ### **Letani Behemoth**:ti4-absol:
         
-        **Cost** 2 __|__ **Combat** 6
+        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
         
         <span style="font-variant:small-caps;">Sustain Damage</span> 
         __|__ <span style="font-variant:small-caps;">Production 3</span> 
@@ -98,7 +98,7 @@ toc_depth: 2
     ---
     ### **Letani Warrior I**
     
-    **Cost** 1 (x2) __|__ **Combat** 8
+    <span style="font-variant:small-caps;">Cost</span> 1 (x2) __|__ <span style="font-variant:small-caps;">Combat</span> 8
 
     <span style="font-variant:small-caps;">Sustain Damage</span> 
     __|__ <span style="font-variant:small-caps;">Production 1</span> 

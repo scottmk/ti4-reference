@@ -1,4 +1,4 @@
-### :ti4-tech-biotic: **Yin Spinner Omega**
+### :ti4-tech-biotic: **Yin Spinner Ω**
 
 Requirements: :ti4-tech-biotic: :ti4-tech-biotic:
 

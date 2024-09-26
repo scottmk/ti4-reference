@@ -2,4 +2,4 @@
 
 Requirements: :ti4-tech-cybernetic:
 
-During an invasion, units cannot use Space Cannon against your units.
+During an invasion, units cannot use <span style="font-variant:small-caps;">Space Cannon</span> against your units.

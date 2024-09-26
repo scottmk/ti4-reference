@@ -6,4 +6,4 @@ Requirements: :ti4-tech-biotic: :ti4-tech-propulsion:
 
 This unit may move without being transported.
 
-Fighters in excess of your ships' capacity count as 1/2 of a ship against your fleet pool.
+Fighters in excess of your ships' capacity count as ½ of a ship against your fleet pool.

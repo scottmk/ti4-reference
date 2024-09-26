@@ -2,7 +2,9 @@
 
 Requirements: :ti4-tech-cybernetic: :ti4-tech-cybernetic:
 
-Move 2, Capacity 5, <span style="font-variant:small-caps;">Production</span> 7
+<span style="font-variant:small-caps;">Move 2</span> __|__ <span style="font-variant:small-caps;">Capacity 5</span>
+
+<span style="font-variant:small-caps;">Production</span> 7
 
 This unit is placed in the space area instead of on a planet.
 

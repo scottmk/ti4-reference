@@ -1,4 +1,4 @@
-### :ti4-tech-propulsion: **Spatial Conduit Cylinders**
+### :ti4-tech-propulsion: **Spatial Conduit Cylinder**
 
 Requirements: :ti4-tech-propulsion: :ti4-tech-propulsion:
 

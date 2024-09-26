@@ -1,6 +1,6 @@
 ### :ti4-tech-unit-upgrade: **Fighter II**:ti4-absol:
 
-Requirements: :ti4-tech-propulsion: :ti4-tech-biotic:
+Requirements: :ti4-tech-biotic: :ti4-tech-propulsion:
 
 <span style="font-variant:small-caps;">Cost 1(x2)</span> __|__ <span style="font-variant:small-caps;">Combat 8</span> __|__ <span style="font-variant:small-caps;">Move 2</span>
 

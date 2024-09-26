@@ -4,7 +4,119 @@ toc_depth: 2
 
 # :ti4-faction-argent: Argent Flight
 
-_Coming soon_.
+<div class="grid cards" markdown>
+
+-   ## __Home System__
+
+    ---
+
+    * Valk (2/0)
+    * Avar (1/1)
+    * Ylir (0/2)
+    * Commodities: 3
+
+</div>
+
+<div class="grid cards" markdown>
+
+-   ## __Starting Space Units__
+
+    ---
+
+    * 1 Carrier
+    * 2 Destroyers
+    * 2 Fighters
+
+-   ## __Starting Ground Units__
+
+    ---
+
+    * 5 Fighters
+    * 1 Space Dock
+    * 1 PDS
+
+-   ## __Starting Technologies__
+
+    ---
+    === "Base Game"
+        ### **Choose two of the following**:
+
+        --8<-- "snippets/techs/base/yellow/sarween-tools.md"
+
+        --8<-- "snippets/techs/base/red/plasma-scoring.md"
+
+        --8<-- "snippets/techs/base/green/neural-motivator.md"
+
+    === "Absol's Mod :ti4-absol:"  
+        ### **Choose two of the following**:
+
+        --8<-- "snippets/techs/absol/yellow/sarween-tools.md"
+
+        --8<-- "snippets/techs/absol/red/plasma-scoring.md"
+
+        --8<-- "snippets/techs/absol/green/neural-motivator.md"
+
+-   ## __Faction Abilities__
+
+    ---
+    ### **Zeal**
+    
+    You always vote first during the agenda phase.
+
+    When you cast at least 1 vote, cast 1 additional vote for each player in the game including you.
+
+    ### **Raid Formation**
+
+    When your units use <span style="font-variant:small-caps;">Anti-Fighter Barrage</span>:
+    
+    For each hit produced in excess of your opponent’s Fighters, choose 1 of your opponent’s ships that has <span style="font-variant:small-caps;">Sustain Damage</span> to become damaged.
+
+-   ## __Flagship__
+
+    ---
+    ### **Quetzecoatl**
+    
+    <span style="font-variant:small-caps;">Cost</span> 8 __|__ <span style="font-variant:small-caps;">Combat</span> 7(x2) __|__ <span style="font-variant:small-caps;">Move</span> 1 __|__ <span style="font-variant:small-caps;">Capacity</span> 3
+    
+    <span style="font-variant:small-caps;">Sustain Damage</span>
+
+    Other players cannot use <span style="font-variant:small-caps;">Space Cannon</span> against your ships in this system.
+
+-   ## __Mech__
+
+    ---
+    === "Base Game"
+        ### **Aerie Sentinel**
+        
+        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
+        
+        <span style="font-variant:small-caps;">Sustain Damage</span>
+
+        This unit does not count against capacity if it is being transported or if it is in a space area with 1 or more of your ships that has capacity values.
+
+    === "Absol's Mod :ti4-absol:"
+        ### **TODO**:ti4-absol:
+        
+        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
+        
+        <span style="font-variant:small-caps;">Sustain Damage</span>
+
+        This unit does not count against capacity if it is being transported or if it is in a space area with 1 or more of your ships that has capacity values.
+
+</div>
+
+<div class="grid cards" markdown>
+
+-   ## __Special Units__
+
+    ---
+    ### :ti4-tech-unit-upgrade: **Strike Wing Alpha I**
+
+    <span style="font-variant:small-caps;">Cost 1</span> __|__ <span style="font-variant:small-caps;">Combat 8</span> __|__ <span style="font-variant:small-caps;">Move 2</span> __|__ <span style="font-variant:small-caps;">Capacity 1</span>
+
+    <span style="font-variant:small-caps;">Anti-Fighter Barrage</span> 9(x2)
+
+</div>
 
 <div class="grid cards" markdown>
 
@@ -20,5 +132,37 @@ _Coming soon_.
         --8<-- "snippets/techs/absol/unit/argent-strike-wing-alpha-ii.md"
 
         --8<-- "snippets/techs/absol/yellow/argent-aerie-hololattice.md"
+
+-   ## __Leaders__
+
+    ---
+    ### **Agent**: Trillossa Aun Mirik
+    
+    When a player produces ground forces in a system you may exhaust this card:
+    That player may place those units on any planets they control in that system and adjacent systems.
+
+    ### **Commander**: Trrakan Aun Zulok
+    
+    _Unlock: Have 6 units that have <span style="font-variant:small-caps;">Anti-Fighter Barrage</span>, <span style="font-variant:small-caps;">Space Cannon</span> or <span style="font-variant:small-caps;">Bombardment</span> on the game board._
+
+    When your units make a roll for a unit ability:
+    Choose 1 unit to roll 1 additional die.
+
+    ### **Hero**: Mirik Aun Sissiri - HELIX PROTOCOL
+    
+    _Unlock: Have 3 Scored Objectives_
+
+    <span style="font-variant:small-caps;">Action</span>: Move any number of your ships from any systems to any number of other systems that contain 1 of your command tokens and no other players’ ships.
+    
+    Then, purge this card.
+
+-   ## __Faction Promissory Note__
+
+    ---
+    ### **Strike Wing Ambuscade**
+    
+    When your units make a roll for a unit ability: Choose 1 unit to roll 1 additional die.
+
+    Then, return this card to the Argent player.
 
 </div>

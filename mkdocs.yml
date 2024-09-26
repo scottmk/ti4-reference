@@ -1,6 +1,7 @@
 site_name: TI4 References
 nav:
   - index.md
+  - Rules Summary: rules-summary.md
   - Tech:
     - tech/tech-trees.md
   - Factions:

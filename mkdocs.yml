@@ -1,6 +1,8 @@
 site_name: TI4 References
 nav:
   - index.md
+  - Tech:
+    - tech/tech-trees.md
   - Factions:
     - Arborec: factions/arborec.md
     - Argent Flight: factions/argent.md
@@ -27,6 +29,8 @@ nav:
     - Xxcha Kingdom: factions/xxcha.md
     - Yin Brotherhood: factions/yin.md
     - Yssaril Tribes: factions/yssaril.md
+extra_css:
+  - stylesheets/extra.css
 theme:
   name: material
   palette: 

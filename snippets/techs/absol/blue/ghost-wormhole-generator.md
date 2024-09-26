@@ -2,4 +2,4 @@
 
 Requirements: :ti4-tech-propulsion: :ti4-tech-propulsion:
 
-ACTION: Exhaust this card to place or move up to 2 Creuss wormhole tokens into systems that contain a planet you control and/or non-home systems that do not contain another player's ships.
+<span style="font-variant:small-caps;">Action</span>: Exhaust this card to place or move up to 2 Creuss wormhole tokens into systems that contain a planet you control and/or non-home systems that do not contain another player's ships.

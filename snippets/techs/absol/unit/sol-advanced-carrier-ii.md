@@ -1,7 +1,7 @@
-### :ti4-tech-unitupgrade: **Advanced Carrier II**:ti4-absol:
+### :ti4-tech-unit-upgrade: **Advanced Carrier II**:ti4-absol:
 
 Requirements: :ti4-tech-propulsion: :ti4-tech-propulsion:
 
-COST 3; COMBAT 9; MOVE 2; CAPACITY 8
+<span style="font-variant:small-caps;">Cost 3</span> __|__ <span style="font-variant:small-caps;">Combat 9</span> __|__ <span style="font-variant:small-caps;">Move 2</span> __|__ <span style="font-variant:small-caps;">Capacity 8</span>
 
 <span style="font-variant:small-caps;">Sustain Damage</span>

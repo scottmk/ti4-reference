@@ -2,7 +2,7 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-ghosts: Ghosts of Creuss
+# :ti4-faction-ghost: Ghosts of Creuss
 
 _Coming soon_.
 

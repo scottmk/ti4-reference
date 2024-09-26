@@ -1,5 +1,5 @@
-### :ti4-tech-unitupgrade: **PDS II**
+### :ti4-tech-unit-upgrade: **PDS II**
 
 Requirements: :ti4-tech-warfare: :ti4-tech-cybernetic:
 
-<span style="font-variant:small-caps;">Planetary Shield</span>, DEEP <span style="font-variant:small-caps;">Space Cannon</span> 5
+<span style="font-variant:small-caps;">Planetary Shield</span> __|__ <span style="font-variant:small-caps;">Deep Space Cannon</span> 5

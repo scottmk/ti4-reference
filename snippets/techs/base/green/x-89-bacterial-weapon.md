@@ -1,4 +1,4 @@
-### :ti4-tech-biotic: **X-89 Bacterial Weapon**
+### :ti4-tech-biotic: **X-89 Bacterial Weapon Ω**
 
 Requirements: :ti4-tech-biotic: :ti4-tech-biotic: :ti4-tech-biotic:
 

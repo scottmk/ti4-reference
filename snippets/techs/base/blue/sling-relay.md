@@ -2,4 +2,4 @@
 
 Requirements: :ti4-tech-propulsion:
 
-ACTION: Exhaust this card to produce 1 ship in any system that contains one of your space docks.
+<span style="font-variant:small-caps;">Action</span>: Exhaust this card to produce 1 ship in any system that contains one of your space docks.

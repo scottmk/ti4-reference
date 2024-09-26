@@ -159,10 +159,6 @@ toc_depth: 2
 -   ## __Faction Promissory Note__
 
     ---
-    ### **Strike Wing Ambuscade**
-    
-    When your units make a roll for a unit ability: Choose 1 unit to roll 1 additional die.
-
-    Then, return this card to the Argent player.
+    --8<-- "snippets/promissory-notes/base/faction/argent-strike-wing-ambuscade.md"
 
 </div>

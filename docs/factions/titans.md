@@ -158,10 +158,6 @@ toc_depth: 2
 -   ## __Faction Promissory Note__
 
     ---
-    ### **Terraform**
-    
-    <span style="font-variant:small-caps;">Action</span>: Attach this card to a non-home planet you control other than Mecatol Rex.
-
-    Its resource and influence values are each increased by 1 and it is treated as having all 3 planet traits (Cultural, Hazardous, and Industrial).
+    --8<-- "snippets/promissory-notes/base/faction/titans-terraform.md"
 
 </div>

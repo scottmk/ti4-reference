@@ -130,12 +130,6 @@ toc_depth: 2
 -   ## __Faction Promissory Note__
 
     ---
-    ### **Promise of Protection**
-    
-    <span style="font-variant:small-caps;">Action</span>: Place this card face-up in your play area.
-
-    While this card is in your play area, the Mentak player cannot use their <span style="font-variant:small-caps;">Pillage</span> faction ability against you.
-
-    If you activate a system that contains 1 or more of the Mentak player's units, return this card to the Mentak player.
+    --8<-- "snippets/promissory-notes/base/faction/mentak-promise-of-protection.md"
 
 </div>

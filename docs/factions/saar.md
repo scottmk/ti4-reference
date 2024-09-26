@@ -149,12 +149,6 @@ toc_depth: 2
 -   ## __Faction Promissory Note__
 
     ---
-    ### **Ragh's Call**
-    
-    After you commit 1 or more units to land on a planet:
-
-    Remove all of the Saar player's ground forces from that planet and place them on a planet controlled by the Saar player.
-
-    Then return this card to the Saar player.
+    --8<-- "snippets/promissory-notes/base/faction/saar-raghs-call.md"
 
 </div>

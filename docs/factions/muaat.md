@@ -143,10 +143,6 @@ toc_depth: 2
 -   ## __Faction Promissory Note__
 
     ---
-    ### **Fires of the Gashlai**
-    
-    <span style="font-variant:small-caps;">Action</span>: Remove 1 token from the Muaat player's fleet pool and return it to their reinforcements. Then, gain your war sun unit upgrade technology card.
-
-    Then, return this card to the Muaat player.
+    --8<-- "snippets/promissory-notes/base/faction/muaat-fires-of-the-gashlai.md"
 
 </div>

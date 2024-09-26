@@ -111,52 +111,14 @@ toc_depth: 2
 
     ---
     === "Base Game"
-        ### **Floating Factory II** 
+        --8<-- "snippets/techs/base/unit/saar-floating-factory-ii.md"
 
-        Requirements: :ti4-tech-cybernetic: :ti4-tech-cybernetic:
-        
-        **Move** 2 __|__ Capacity 5
-
-        <span style="font-variant:small-caps;">Production 7</span>
-
-        This unit is placed in a space area instead of on a planet.
-
-        This unit can move and retreat as if it were a ship.
-
-        If this unit is blockaded, it is destroyed.
-
-        ### :ti4-tech-propulsion: **Chaos Mapping**
-
-        Requirements: :ti4-tech-propulsion:
-
-        Other players cannot activate asteroid fields that contain 1 or more of your ships.
-
-        At the start of your turn during the action phase, you may produce 1 unit in a system that contains at least 1 of your units that has <span style="font-variant:small-caps;">Production</span>.
+        --8<-- "snippets/techs/base/blue/saar-chaos-mapping.md"
 
     === "Absol's Mod :ti4-absol:"
-        ### **Floating Factory II**:ti4-absol:
+        --8<-- "snippets/techs/absol/unit/saar-floating-factory-ii.md"
 
-        Requirements: :ti4-tech-cybernetic: :ti4-tech-cybernetic:
-
-        **Move** 2 __|__ Capacity 6
-
-        <span style="font-variant:small-caps;">Production 7</span>
-
-        This unit is placed in the space area instead of on a planet. 
-        
-        This unit can move and retreat as if it were a ship. 
-        
-        If this unit is blockaded, it is destroyed. 
-        
-        1 non-fighter ship in this system does not count against your fleet pool.
-
-        ### :ti4-tech-propulsion: **Chaos Mapping**:ti4-absol:
-
-        Requirements: :ti4-tech-propulsion:
-
-        At the start of your turn, you may exhaust this card to produce 1 unit at each of your space docks.
-
-        Apply +1 to your ship's combat rolls in asteroid fields.
+        --8<-- "snippets/techs/absol/blue/saar-chaos-mapping.md"
 
 -   ## __Leaders__
 

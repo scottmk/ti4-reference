@@ -85,32 +85,14 @@ toc_depth: 2
 
     ---
     === "Base Game"
-        ### :ti4-tech-propulsion: **Lazax Gate Folding**
+        --8<-- "snippets/techs/base/blue/winnu-lazax-gate-folding.md"
 
-        Requirements: :ti4-tech-propulsion: :ti4-tech-propulsion:
-        
-        During your tactical actions, if you do not control Mecatol Rex, treat its system as if it contains both an alpha and beta wormhole.
-
-        <span style="font-variant:small-caps;">Action</span>: If you control Mecatol Rex, exhaust this card to place 1 infantry from your reinforcements on Mecatol Rex.
-
-        ### :ti4-tech-cybernetic: **Hegemonic Trade Policy**
-
-        Requirements: :ti4-tech-cybernetic: :ti4-tech-cybernetic:
-
-        Exhaust this card when 1 or more of your units use <span style="font-variant:small-caps;">Production</span>; swap the resource and influence values of 1 planet you control during that use of Production.
+        --8<-- "snippets/techs/base/yellow/winnu-hegemonic-trade-policy.md"
 
     === "Absol's Mod :ti4-absol:"
-        ### :ti4-tech-propulsion: **Lazax Gate Folding**:ti4-absol:
+        --8<-- "snippets/techs/absol/blue/winnu-lazax-gate-folding.md"
 
-        Requirements: :ti4-tech-propulsion: :ti4-tech-propulsion:
-        
-        During your tactical actions, you may treat your home system and the Mecatol Rex system as if they contained a gamma wormhole.
-
-        ### :ti4-tech-cybernetic: **Hegemonic Trade Policy**:ti4-absol:
-
-        Requirements: :ti4-tech-cybernetic: :ti4-tech-cybernetic:
-
-        During the production step of your tactical actions, you may treat the resource value of any number of planets you control as if it were equal to its influence value instead.
+        --8<-- "snippets/techs/absol/yellow/winnu-hegemonic-trade-policy.md"
 
 -   ## __Leaders__
 

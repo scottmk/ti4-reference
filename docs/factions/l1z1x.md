@@ -113,42 +113,14 @@ toc_depth: 2
 
     ---
     === "Base Game"
-        ### **Super-Dreadnought II** 
+        --8<-- "snippets/techs/base/unit/l1z1x-super-dreadnought-ii.md"
 
-        Requirements: :ti4-tech-propulsion: :ti4-tech-propulsion: :ti4-tech-cybernetic:
-        
-        **Cost** 4 __|__ **Combat** 4 __|__ **Move** 2 __|__ **Capacity** 2
-
-        <span style="font-variant:small-caps;">Sustain Damage</span>
-        __|__ <span style="font-variant:small-caps;">Bombardment 4</span>
-
-        This unit cannot be destroyed by "Direct Hit" action cards.
-
-        ### :ti4-tech-cybernetic: **Inheritance Systems**
-
-        Requirements: :ti4-tech-cybernetic: :ti4-tech-cybernetic:
-
-        You may exhaust this card and spend 2 resources when you research a technology; ignore all of that technology's prerequisites.
+        --8<-- "snippets/techs/base/yellow/l1z1x-inheritance-systems.md"
 
     === "Absol's Mod :ti4-absol:"
-        ### **Super-Dreadnought II**:ti4-absol:
+        --8<-- "snippets/techs/absol/unit/l1z1x-super-dreadnought-ii.md"
 
-        Requirements: :ti4-tech-propulsion: :ti4-tech-propulsion: :ti4-tech-cybernetic:
-
-        **Cost** 4 __|__ **Combat** 4 __|__ **Move** 2 __|__ **Capacity** 2
-
-        <span style="font-variant:small-caps;">Sustain Damage</span>
-        __|__ <span style="font-variant:small-caps;">Bombardment 4</span>
-
-        This unit cannot be destroyed by "Direct Hit" action cards.
-
-        ### :ti4-tech-cybernetic: **Inheritance Systems**:ti4-absol:
-
-        Requirements: :ti4-tech-cybernetic: :ti4-tech-cybernetic:
-
-        When you research a technology, you may exhaust this card to ignore all prerequisites on that technology.
-
-        <span style="font-variant:small-caps;">Action</span>: You may exhaust this card and spend 1 command token from your strategy pool and 4 resources to research a technology.
+        --8<-- "snippets/techs/absol/yellow/l1z1x-inheritance-systems.md"
 
 -   ## __Leaders__
 

@@ -110,44 +110,14 @@ toc_depth: 2
 
     ---
     === "Base Game"
-        ### **Spec Ops II** 
+        --8<-- "snippets/techs/base/unit/sol-spec-ops-ii.md"
 
-        Requirements: :ti4-tech-biotic: :ti4-tech-biotic:
-
-        **Cost** 1 (x2) __|__ **Combat** 6
-        
-        After this unit is destroyed, roll 1 die. 
-        If the result is 5 or greater, place the unit on this card. 
-        
-        At the start of your next turn, place each unit that is on this card on a planet you control in your home system.
-
-        ### **Advanced Carrier II**
-
-        Requirements: :ti4-tech-propulsion: :ti4-tech-propulsion:
-
-        **Cost** 3 __|__ **Combat** 9 __|__ **Move** 2 __|__ **Capacity** 8
-
-        <span style="font-variant:small-caps;">Sustain Damage</span>
+        --8<-- "snippets/techs/base/unit/sol-advanced-carrier-ii.md"
 
     === "Absol's Mod :ti4-absol:"
-        ### **Spec Ops II**:ti4-absol:
+        --8<-- "snippets/techs/absol/unit/sol-spec-ops-ii.md"
 
-        Requirements: :ti4-tech-biotic: :ti4-tech-biotic:
-
-        **Cost** 1 (x2) __|__ **Combat** 6
-        
-        After this unit is destroyed, roll 1 die. 
-        If the result is 5 or greater, place the unit on this card. 
-        
-        At the start of your next turn, place each unit that is on this card on a planet that contains 1 of your space docks.
-
-        ### **Advanced Carrier II**:ti4-absol:
-
-        Requirements: :ti4-tech-propulsion: :ti4-tech-propulsion:
-
-        **Cost** 3 __|__ **Combat** 9 __|__ **Move** 2 __|__ **Capacity** 8
-
-        <span style="font-variant:small-caps;">Sustain Damage</span>
+        --8<-- "snippets/techs/absol/unit/sol-advanced-carrier-ii.md"
 
 -   ## __Leaders__
 

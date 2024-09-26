@@ -107,46 +107,14 @@ toc_depth: 2
 
     ---
     === "Base Game"
-        ### **Prototype War Sun II** 
+        --8<-- "snippets/techs/base/unit/muaat-prototype-war-sun-ii.md"
 
-        Requirements: :ti4-tech-cybernetic: :ti4-tech-warfare: :ti4-tech-warfare: :ti4-tech-warfare:
-        
-        **Cost** 10 __|__ **Combat** 3(x3) __|__ Move 3 __|__ Capacity 6
-
-        <span style="font-variant:small-caps;">Sustain Damage</span>
-        __|__ <span style="font-variant:small-caps;">Bombardment 3(x3)</span>
-
-        Other players' units in this system lose <span style="font-variant:small-caps;">Planetary Shield</span>.
-
-        ### :ti4-tech-warfare: **Magmus Reactor Ω**
-
-        Requirements: :ti4-tech-warfare: :ti4-tech-warfare:
-
-        Your ships can move into supernovas.
-
-        Each supernova that contains 1 or more of your units gains the <span style="font-variant:small-caps;">Production 5</span> ability as if it were 1 of your units.
+        --8<-- "snippets/techs/base/red/muaat-magmus-reactor.md"
 
     === "Absol's Mod :ti4-absol:"
-        ### **Prototype War Sun II**:ti4-absol:
+        --8<-- "snippets/techs/absol/unit/muaat-prototype-war-sun-ii.md"
 
-        Requirements: :ti4-tech-cybernetic: :ti4-tech-warfare: :ti4-tech-warfare: :ti4-tech-warfare:
-        
-        **Cost** 8 __|__ **Combat** 3(x3) __|__ Move 3 __|__ Capacity 6
-
-        <span style="font-variant:small-caps;">Sustain Damage</span>
-        __|__ <span style="font-variant:small-caps;">Bombardment 3(x3)</span>
-
-        Other players' units in this system lose <span style="font-variant:small-caps;">Planetary Shield</span>.
-
-        This unit cannot be destroyed by "Direct Hit" action cards.
-
-        ### :ti4-tech-warfare: **Magmus Reactor**:ti4-absol:
-
-        Requirements: :ti4-tech-warfare: :ti4-tech-warfare:
-
-        Your ships can move into supernovas.
-
-        Each supernova that contains 1 or more of your units gains the <span style="font-variant:small-caps;">Production 5</span> ability as if it were 1 of your units.
+        --8<-- "snippets/techs/absol/red/muaat-magmus-reactor.md"
 
 -   ## __Leaders__
 

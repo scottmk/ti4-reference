@@ -122,52 +122,14 @@ toc_depth: 2
 
     ---
     === "Base Game"
-        ### **Saturn Engine II** 
+        --8<-- "snippets/techs/base/unit/titans-saturn-engine-ii.md"
 
-        Requirements: :ti4-tech-biotic: :ti4-tech-cybernetic: :ti4-tech-warfare:
-        
-        **Cost** 2 __|__ **Combat** 6 __|__ **Move** 3 __|__ **Capacity** 2
-
-        <span style="font-variant:small-caps;">Sustain Damage</span> 
-
-        ### **Hel‑Titan II**
-
-        Requirements: :ti4-tech-cybernetic: :ti4-tech-warfare:
-
-        **Combat** 6
-
-        <span style="font-variant:small-caps;">Planetary Shield</span>
-        __|__ <span style="font-variant:small-caps;">Space Cannon 5</span>
-        __|__ <span style="font-variant:small-caps;">Sustain Damage</span> 
-        __|__ <span style="font-variant:small-caps;">Production 1</span> 
-
-        This unit is treated as both a structure and a ground force. It cannot be transported.
-
-        You may use this unit's <span style="font-variant:small-caps;">Space Cannon</span> against ships that are adjacent to this unit's system.
+        --8<-- "snippets/techs/base/unit/titans-hel-titan-ii.md"
 
     === "Absol's Mod :ti4-absol:"
-        ### **Saturn Engine II**:ti4-absol:
+        --8<-- "snippets/techs/absol/unit/titans-saturn-engine-ii.md"
 
-        Requirements: :ti4-tech-biotic: :ti4-tech-cybernetic: :ti4-tech-warfare:
-
-        **Cost** 2 __|__ **Combat** 6 __|__ **Move** 3 __|__ **Capacity** 2
-
-        <span style="font-variant:small-caps;">Sustain Damage</span> 
-
-        ### **Hel‑Titan II**:ti4-absol:
-
-        Requirements: :ti4-tech-cybernetic: :ti4-tech-warfare:
-
-        **Combat** 6
-
-        <span style="font-variant:small-caps;">Planetary Shield</span>
-        __|__ <span style="font-variant:small-caps;">Space Cannon 5</span>
-        __|__ <span style="font-variant:small-caps;">Sustain Damage</span> 
-        __|__ <span style="font-variant:small-caps;">Production 1</span> 
-
-        This unit is treated as both a structure and a ground force. It cannot be transported.
-
-        You may use this unit's <span style="font-variant:small-caps;">Space Cannon</span> against ships that are adjacent to this unit's system.
+        --8<-- "snippets/techs/absol/unit/titans-hel-titan-ii.md"
 
 -   ## __Leaders__
 

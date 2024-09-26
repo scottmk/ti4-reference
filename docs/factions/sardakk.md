@@ -99,46 +99,14 @@ toc_depth: 2
 
     ---
     === "Base Game"
-        ### **Exotrireme II** 
+        --8<-- "snippets/techs/base/unit/sardakk-exotrireme-ii.md"
 
-        Requirements: :ti4-tech-propulsion: :ti4-tech-propulsion: :ti4-tech-cybernetic:
-        
-        **Cost** 4 __|__ **Combat** 5 __|__ **Move** 2 __|__ **Capacity** 1
-
-        <span style="font-variant:small-caps;">Sustain Damage</span>
-        __|__ <span style="font-variant:small-caps;">Bombardment 4(x2)</span>
-
-        This unit cannot be destroyed by "Direct Hit" action cards.
-
-        After a round of space combat, you may destroy this unit to destroy up to 2 ships in this system.
-
-        ### :ti4-tech-warfare: **Valkyrie Particle Weave**
-
-        Requirements: :ti4-tech-warfare: :ti4-tech-warfare:
-
-        After making combat rolls during a round of ground combat, if your opponent produced 1 or more hits, you produce 1 additional hit.
+        --8<-- "snippets/techs/base/red/sardakk-valkyrie-particle-weave.md"
 
     === "Absol's Mod :ti4-absol:"
-        ### **Exotrireme II**:ti4-absol:
+        --8<-- "snippets/techs/absol/unit/sardakk-exotrireme-ii.md"
 
-        Requirements: :ti4-tech-propulsion: :ti4-tech-propulsion: :ti4-tech-cybernetic:
-
-        **Cost** 4 __|__ **Combat** 5 __|__ **Move** 2 __|__ **Capacity** 1
-
-        <span style="font-variant:small-caps;">Sustain Damage</span>
-        __|__ <span style="font-variant:small-caps;">Bombardment 4(x2)</span>
-
-        This unit cannot be destroyed by "Direct Hit" action cards. 
-        
-        After a round of space combat, you may destroy this unit to destroy up to 2 ships in this system.
-
-        ### :ti4-tech-warfare: **Valkyrie Particle Weave**:ti4-absol:
-
-        Requirements: :ti4-tech-warfare: :ti4-tech-warfare:
-
-        When you commit ground forces to a planet from 1 or more other planets, you may commit 2 ground forces from each planet.
-
-        After making combat rolls during a round of ground combat, if your opponent produced 1 or more hits, you produce 1 additional hit.
+        --8<-- "snippets/techs/absol/red/sardakk-valkyrie-particle-weave.md"
 
 -   ## __Leaders__
 

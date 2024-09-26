@@ -111,45 +111,14 @@ toc_depth: 2
 
     ---
     === "Base Game"
-        ### **Letani Warrior II** 
+        --8<-- "snippets/techs/base/unit/arborec-letani-warrior-ii.md"
 
-        Requirements: :ti4-tech-biotic: :ti4-tech-biotic:
-
-        **Cost** 1 (x2) __|__ **Combat** 7
-
-        <span style="font-variant:small-caps;">Sustain Damage</span> 
-        __|__ <span style="font-variant:small-caps;">Production 2</span> 
-        
-        After this unit is destroyed, roll 1 die. 
-        If the result is 6 or greater, place the unit on this card. 
-        
-        At the start of your next turn, place each unit that is on this card on a planet you control in your home system.
-
-        ### :ti4-tech-biotic: **Bioplasmosis**
-
-        Requirements: :ti4-tech-biotic: :ti4-tech-biotic:
-
-        At the end of the status phase, you may remove any number of infantry from planets you control and place them on 1 or more planets you control in the same or adjacent systems.
+        --8<-- "snippets/techs/base/green/arborec-bioplasmosis.md"
 
     === "Absol's Mod :ti4-absol:"
-        ### **Letani Warrior II**:ti4-absol:
+        --8<-- "snippets/techs/absol/unit/arborec-letani-warrior-ii.md"
 
-        Requirements: :ti4-tech-biotic: :ti4-tech-biotic:
-
-        **Cost** 1 (x2) __|__ **Combat** 7
-
-        <span style="font-variant:small-caps;">Sustain Damage</span> 
-        __|__ <span style="font-variant:small-caps;">Production 2</span> 
-        
-        After this unit is destroyed, place the unit on this card. 
-        
-        At the start of your next turn, for every 2 units that are on this card, place 1 on a planet you control and return the rest to your reinforcements.
-
-        ### :ti4-tech-biotic: **Bioplasmosis**:ti4-absol:
-
-        Requirements: :ti4-tech-biotic: :ti4-tech-biotic:
-
-        When you produce units in a system, you may exhaust this card and reduce the combined <span style="font-variant:small-caps;">Production</span> value of your units in that system by up to half (rounded down) to reduce the combined cost of the produced units by the same amount.
+        --8<-- "snippets/techs/absol/green/arborec-bioplasmosis.md"
 
 -   ## __Leaders__
 

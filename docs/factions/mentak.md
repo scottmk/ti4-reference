@@ -94,33 +94,14 @@ toc_depth: 2
 
     ---
     === "Base Game"
-        ### :ti4-tech-cybernetic: **Salvage Operations** 
+        --8<-- "snippets/techs/base/yellow/mentak-salvage-operations.md"
 
-        Requirements: :ti4-tech-cybernetic: :ti4-tech-cybernetic:
-        
-        After you win or lose a space combat, gain 1 trade good; 
-        if you won the combat, you may also produce 1 ship in that system of any ship type that was destroyed during the combat.
-
-        ### :ti4-tech-cybernetic: **Mirror Computing**
-
-        Requirements: :ti4-tech-cybernetic: :ti4-tech-cybernetic: :ti4-tech-cybernetic:
-
-        When you spend trade goods, each trade good is worth 2 resources or influence instead of 1
+        --8<-- "snippets/techs/base/yellow/mentak-mirror-computing.md"
 
     === "Absol's Mod :ti4-absol:"
-        ### :ti4-tech-cybernetic: **Salvage Operations**:ti4-absol:
+        --8<-- "snippets/techs/absol/yellow/mentak-salvage-operations.md"
 
-        Requirements: :ti4-tech-cybernetic: :ti4-tech-cybernetic:
-
-        At the start of each space combat in systems that contain or are adjacent to your ships, gain 1 commodity.
-
-        If you win a space combat, you may produce 1 ship of any type that was destroyed during that combat, and may spend commodities as resources.
-
-        ### :ti4-tech-cybernetic: **Mirror Computing**:ti4-absol:
-
-        Requirements: :ti4-tech-cybernetic: :ti4-tech-cybernetic: :ti4-tech-cybernetic:
-
-        When you spend trade goods, every 2 trade goods spent are worth 3 resources or influence instead of 2.
+        --8<-- "snippets/techs/absol/yellow/mentak-mirror-computing.md"
 
 -   ## __Leaders__
 

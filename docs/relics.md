@@ -1,5 +1,7 @@
 ---
-toc_depth: 2
+hide:
+  - navigation
+  - toc
 ---
 
 # Relics
@@ -66,6 +68,82 @@ toc_depth: 2
 
     -   
 
-       TODO
+        --8<-- "snippets/relics/absol/dominus-orb.md"
+
+    -   
+
+        --8<-- "snippets/relics/absol/dynamis-core.md"
+
+    -   
+
+        --8<-- "snippets/relics/absol/jr-xs455-0.md"
+
+    -   
+
+        --8<-- "snippets/relics/absol/luxarch-treatise.md"
+    
+    -   
+
+        --8<-- "snippets/relics/absol/maw-of-worlds.md"
+
+    -   
+
+        --8<-- "snippets/relics/absol/nanoforge.md"
+
+    -   
+
+        --8<-- "snippets/relics/absol/plenary-orbital.md"
+    
+    -   
+
+        --8<-- "snippets/relics/absol/quantumcore.md"
+
+    -   
+
+        --8<-- "snippets/relics/absol/scepter-of-emelpar.md"
+
+    -   
+
+        --8<-- "snippets/relics/absol/shard-of-the-throne-1.md"
+    
+    -   
+
+        --8<-- "snippets/relics/absol/shard-of-the-throne-2.md"
+
+    -   
+
+        --8<-- "snippets/relics/absol/shard-of-the-throne-3.md"
+
+    -   
+
+        --8<-- "snippets/relics/absol/stellar-converter.md"
+    
+    -   
+
+        --8<-- "snippets/relics/absol/the-codex.md"
+
+    -   
+
+        --8<-- "snippets/relics/absol/the-crown-of-emphidia.md"
+
+    -   
+
+        --8<-- "snippets/relics/absol/the-crown-of-thalnos.md"
+
+    -   
+
+        --8<-- "snippets/relics/absol/the-obsidian.md"
+    
+    -   
+
+        --8<-- "snippets/relics/absol/the-prophets-tears.md"
+
+    -   
+
+        --8<-- "snippets/relics/absol/the-syncretone.md"
+
+    -   
+
+        --8<-- "snippets/relics/absol/tyrants-lament.md"
 
     </div>

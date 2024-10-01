@@ -74,34 +74,12 @@ toc_depth: 2
 -   ## __Flagship__
 
     ---
-    ### **Quetzecoatl**
-    
-    <span style="font-variant:small-caps;">Cost</span> 8 __|__ <span style="font-variant:small-caps;">Combat</span> 7(x2) __|__ <span style="font-variant:small-caps;">Move</span> 1 __|__ <span style="font-variant:small-caps;">Capacity</span> 3
-    
-    <span style="font-variant:small-caps;">Sustain Damage</span>
-
-    Other players cannot use <span style="font-variant:small-caps;">Space Cannon</span> against your ships in this system.
+    --8<-- "snippets/units/faction/pok/argent-flagship.md"
 
 -   ## __Mech__
 
     ---
-    === "Base Game"
-        ### **Aerie Sentinel**
-        
-        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
-        
-        <span style="font-variant:small-caps;">Sustain Damage</span>
-
-        This unit does not count against capacity if it is being transported or if it is in a space area with 1 or more of your ships that has capacity values.
-
-    === "Absol's Mod :ti4-absol:"
-        ### **Aerie Sentinel**:ti4-absol:
-        
-        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
-        
-        <span style="font-variant:small-caps;">Sustain Damage</span>
-
-        This unit does not count against capacity if it is being transported or if it is in a space area with 1 or more of your ships that has capacity values.
+    --8<-- "snippets/units/faction/pok/argent-mech.md"
 
 </div>
 
@@ -110,11 +88,7 @@ toc_depth: 2
 -   ## __Special Units__
 
     ---
-    ### :ti4-tech-unit-upgrade: **Strike Wing Alpha I**
-
-    <span style="font-variant:small-caps;">Cost 1</span> __|__ <span style="font-variant:small-caps;">Combat 8</span> __|__ <span style="font-variant:small-caps;">Move 2</span> __|__ <span style="font-variant:small-caps;">Capacity 1</span>
-
-    <span style="font-variant:small-caps;">Anti-Fighter Barrage</span> 9(x2)
+    --8<-- "snippets/units/faction/pok/argent-destroyer.md"
 
 </div>
 

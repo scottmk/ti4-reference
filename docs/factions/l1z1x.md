@@ -60,36 +60,12 @@ toc_depth: 2
 -   ## __Flagship__
 
     ---
-    ### **\[0.0.1\]**
-    
-    <span style="font-variant:small-caps;">Cost</span> 8 __|__ <span style="font-variant:small-caps;">Combat</span> 5(x2) __|__ <span style="font-variant:small-caps;">Move</span> 1 __|__ <span style="font-variant:small-caps;">Capacity</span> 5
-    
-    <span style="font-variant:small-caps;">Sustain Damage</span>
-
-    During a space combat, hits produced by this ship and by your dreadnoughts in this system must be assigned to non-fighter ships if able.
+    --8<-- "snippets/units/faction/pok/l1z1x-flagship.md"
 
 -   ## __Mech__
 
     ---
-    === "Base Game"
-        ### **Annihilator**
-        
-        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
-        
-        <span style="font-variant:small-caps;">Sustain Damage</span>
-        __|__ <span style="font-variant:small-caps;">Bombardment 8</span>
-
-        While not participating in ground combat, this unit can use its __|__ <span style="font-variant:small-caps;">Bombardment</span> ability on planets in its system as if it were a ship.
-
-    === "Absol's Mod :ti4-absol:"
-        ### **Annihilator**:ti4-absol:
-        
-        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
-        
-        <span style="font-variant:small-caps;">Sustain Damage</span>
-        __|__ <span style="font-variant:small-caps;">Bombardment 8</span>
-
-        While not participating in ground combat, this unit can use its __|__ <span style="font-variant:small-caps;">Bombardment</span> ability on planets in its system as if it were a ship.
+    --8<-- "snippets/units/faction/pok/l1z1x-mech.md"
 
 </div>
 
@@ -98,12 +74,7 @@ toc_depth: 2
 -   ## __Special Units__
 
     ---
-    ### **Super-Dreadnought I**
-    
-    <span style="font-variant:small-caps;">Cost</span> 4 __|__ <span style="font-variant:small-caps;">Combat</span> 5 __|__ <span style="font-variant:small-caps;">Move</span> 1 __|__ <span style="font-variant:small-caps;">Capacity</span> 2
-
-    <span style="font-variant:small-caps;">Sustain Damage</span>
-    __|__ <span style="font-variant:small-caps;">Bombardment 5</span>
+    --8<-- "snippets/units/faction/pok/l1z1x-dreadnought.md"
 
 </div>
 

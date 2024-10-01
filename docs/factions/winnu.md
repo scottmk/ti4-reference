@@ -52,34 +52,12 @@ toc_depth: 2
 -   ## __Flagship__
 
     ---
-    ### **Salai Sai Corian**
-    
-    <span style="font-variant:small-caps;">Cost</span> 8 __|__ <span style="font-variant:small-caps;">Combat</span> 7 __|__ <span style="font-variant:small-caps;">Move</span> 1 __|__ <span style="font-variant:small-caps;">Capacity</span> 3
-    
-    <span style="font-variant:small-caps;">Sustain Damage</span>
-
-    When this unit makes a combat roll, it rolls a number of dice equal to the number of your opponent's non-fighter ships in this system.
+    --8<-- "snippets/units/faction/pok/winnu-flagship.md"
 
 -   ## __Mech__
 
     ---
-    === "Base Game"
-        ### **Reclaimer**
-        
-        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
-        
-        <span style="font-variant:small-caps;">Sustain Damage</span>
-
-        After you resolve a tactical action where you gained control of this planet, you may place 1 PDS or 1 Space Dock from your reinforcements on this planet.
-
-    === "Absol's Mod :ti4-absol:"
-        ### **Reclaimer**:ti4-absol:
-        
-        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
-        
-        <span style="font-variant:small-caps;">Sustain Damage</span>
-
-        After you resolve a tactical action where you gained control of this planet, you may place 1 PDS or 1 Space Dock from your reinforcements on this planet.
+    --8<-- "snippets/units/faction/pok/winnu-mech.md"
 
 -   ## __Faction Technologies__
 

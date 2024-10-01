@@ -62,57 +62,26 @@ toc_depth: 2
 -   ## __Flagship__
 
     ---
-    ### **Ouranos**
-    
-    <span style="font-variant:small-caps;">Cost</span> 8 __|__ <span style="font-variant:small-caps;">Combat</span> 7(x2) __|__ <span style="font-variant:small-caps;">Move</span> 1 __|__ <span style="font-variant:small-caps;">Capacity</span> 3
-    
-    <span style="font-variant:small-caps;">Sustain Damage</span>
-
-    <span style="font-variant:small-caps;">Deploy</span>: After you activate a system that contains 1 or more of your PDS, you may replace 1 of those PDS with this unit.
+    --8<-- "snippets/units/faction/pok/titans-flagship.md"
 
 -   ## __Mech__
 
     ---
-    === "Base Game"
-        ### **Hecatoncheires**
-        
-        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
-        
-        <span style="font-variant:small-caps;">Sustain Damage</span>
-
-        <span style="font-variant:small-caps;">Deploy</span>: When you would place a PDS on a planet, you may place 1 mech and 1 infantry on that planet instead.
-
-    === "Absol's Mod :ti4-absol:"
-        ### **Hecatoncheires**:ti4-absol:
-        
-        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
-        
-        <span style="font-variant:small-caps;">Sustain Damage</span>
-
-        <span style="font-variant:small-caps;">Deploy</span>: When you would place a PDS on a planet, you may place 1 mech and 1 infantry on that planet instead.
+    --8<-- "snippets/units/faction/pok/titans-mech.md"
 
 </div>
 
-<div class="grid cards" markdown>
-
--   ## __Special Units__
-
-</div>
+## __Special Units__
 
 <div class="grid cards" markdown>
 
--   ### **Saturn Engine I**
-    <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 7 __|__ <span style="font-variant:small-caps;">Move</span> 2 __|__ <span style="font-variant:small-caps;">Capacity</span> 1
+-   
 
--   ### **Hel-Titan I**
-     <span style="font-variant:small-caps;">Combat</span> 7
+    --8<-- "snippets/units/faction/pok/titans-cruiser.md"
 
-    <span style="font-variant:small-caps;">Planetary Shield</span>
-    __|__ <span style="font-variant:small-caps;">Space Cannon 6</span> 
-    __|__ <span style="font-variant:small-caps;">Sustain Damage</span> 
-    __|__ <span style="font-variant:small-caps;">Production 1</span> 
+-   
 
-    This unit is treated as both a structure and a ground force. It cannot be transported.
+    --8<-- "snippets/units/faction/pok/titans-pds.md"
 
 </div>
 

@@ -54,34 +54,12 @@ toc_depth: 2
 -   ## __Flagship__
 
     ---
-    ### **The Inferno**
-    
-    <span style="font-variant:small-caps;">Cost</span> 8 __|__ <span style="font-variant:small-caps;">Combat</span> 5(x2) __|__ <span style="font-variant:small-caps;">Move</span> 1 __|__ <span style="font-variant:small-caps;">Capacity</span> 5
-    
-    <span style="font-variant:small-caps;">Sustain Damage</span>
-
-    <span style="font-variant:small-caps;">Action</span>: Spend 1 token from your strategy pool to place 1 cruiser in this unit's system.
+    --8<-- "snippets/units/faction/pok/muaat-flagship.md"
 
 -   ## __Mech__
 
     ---
-    === "Base Game"
-        ### **Ember Colossus**
-        
-        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
-        
-        <span style="font-variant:small-caps;">Sustain Damage</span>
-
-        When you use your <span style="font-variant:small-caps;">Star Forge</span> faction ability in this system or an adjacent system, you may place 1 infantry from your reinforcements with this unit.
-
-    === "Absol's Mod :ti4-absol:"
-        ### **Ember Colossus**:ti4-absol:
-        
-        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
-        
-        <span style="font-variant:small-caps;">Sustain Damage</span>
-
-        When you use your <span style="font-variant:small-caps;">Star Forge</span> faction ability in this system or an adjacent system, you may place 1 infantry from your reinforcements with this unit.
+    --8<-- "snippets/units/faction/pok/muaat-mech.md"
 
 </div>
 
@@ -90,14 +68,7 @@ toc_depth: 2
 -   ## __Special Units__
 
     ---
-    ### **Prototype War Sun I**
-    
-    <span style="font-variant:small-caps;">Cost</span> 12 __|__ <span style="font-variant:small-caps;">Combat</span> 3(x3) __|__ Move 1 __|__ Capacity 6
-
-    <span style="font-variant:small-caps;">Sustain Damage</span>
-    __|__ <span style="font-variant:small-caps;">Bombardment 3(x3)</span>
-
-    Other players' units in this system lose <span style="font-variant:small-caps;">Planetary Shield</span>.
+    --8<-- "snippets/units/faction/pok/muaat-warsun.md"
 
 </div>
 

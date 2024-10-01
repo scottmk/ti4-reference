@@ -31,7 +31,7 @@ toc_depth: 2
     ---
 
     * 4 Infantry
-    * 1 Spacedock
+    * 1 Space Dock
 
 -   ## __Starting Technologies__
 
@@ -56,33 +56,16 @@ toc_depth: 2
 -   ## __Flagship__
 
     ---
-    ### **Son of Ragh**
-    
-    <span style="font-variant:small-caps;">Cost</span> 8 __|__ <span style="font-variant:small-caps;">Combat</span> 5(x2) __|__ <span style="font-variant:small-caps;">Move</span> 1 __|__ <span style="font-variant:small-caps;">Capacity</span> 3
-    
-    <span style="font-variant:small-caps;">Sustain Damage</span>
-    __|__ <span style="font-variant:small-caps;">Anti-Fighter Barrage 6(x4)</span>
+    --8<-- "snippets/units/faction/pok/saar-flagship.md"
 
 -   ## __Mech__
 
     ---
     === "Base Game"
-        ### **Scavenger Zeta**
-        
-        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
-        
-        <span style="font-variant:small-caps;">Sustain Damage</span>
-
-        <span style="font-variant:small-caps;">Deploy</span>: After you gain control of a planet, you may spend 1 trade good to place 1 mech on that planet.
+        --8<-- "snippets/units/faction/pok/saar-mech.md"
 
     === "Absol's Mod :ti4-absol:"
-        ### **Scavenger Zeta**:ti4-absol:
-        
-        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
-        
-        <span style="font-variant:small-caps;">Sustain Damage</span>
-
-        <span style="font-variant:small-caps;">Deploy</span>: After you gain control of a planet, you may spend 1 trade good to replace 1 infantry on that planet with 1 mech.
+        --8<-- "snippets/units/faction/absol/saar-mech.md"
 
 </div>
 
@@ -91,17 +74,7 @@ toc_depth: 2
 -   ## __Special Units__
 
     ---
-    ### **Floating Factory I**
-    
-    <span style="font-variant:small-caps;">Move</span> 1 __|__ Capacity 4
-
-    <span style="font-variant:small-caps;">Production 5</span>
-
-    This unit is placed in a space area instead of on a planet.
-
-    This unit can move and retreat as if it were a ship.
-
-    If this unit is blockaded, it is destroyed.
+    --8<-- "snippets/units/faction/pok/saar-spacedock.md"
 
 </div>
 

@@ -57,50 +57,27 @@ toc_depth: 2
 -   ## __Flagship__
 
     ---
-    ### **Genesis**
-    
-    <span style="font-variant:small-caps;">Cost</span> 8 __|__ <span style="font-variant:small-caps;">Combat</span> 5(x2) __|__ <span style="font-variant:small-caps;">Move</span> 1 __|__ <span style="font-variant:small-caps;">Capacity</span> 12
-    
-    <span style="font-variant:small-caps;">Sustain Damage</span>
-
-    At the end of the status phase, place 1 infantry from your reinforcements in this system's space area.
+    --8<-- "snippets/units/faction/pok/sol-flagship.md"
 
 -   ## __Mech__
 
     ---
-    === "Base Game"
-        ### **ZS Thunderbolt M2**
-        
-        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
-        
-        <span style="font-variant:small-caps;">Sustain Damage</span>
-
-        <span style="font-variant:small-caps;">Deploy</span>: After you use your <span style="font-variant:small-caps;">Orbital Drop</span> faction ability, you may spend 3 resources to place 1 mech on that planet.
-
-    === "Absol's Mod :ti4-absol:"
-        ### **ZS Thunderbolt M2**:ti4-absol:
-        
-        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
-        
-        <span style="font-variant:small-caps;">Sustain Damage</span>
-
-        <span style="font-variant:small-caps;">Deploy</span>: After you use your <span style="font-variant:small-caps;">Orbital Drop</span> faction ability, you may spend 3 resources to place 1 mech on that planet.
+    --8<-- "snippets/units/faction/pok/sol-mech.md"
 
 </div>
 
-<div class="grid cards" markdown>
-
--   ## __Special Units__
-
-</div>
+## __Special Units__
 
 <div class="grid cards" markdown>
 
--   ### **Spec Ops I**
-<span style="font-variant:small-caps;">Cost</span> 1 (x2) __|__ <span style="font-variant:small-caps;">Combat</span> 7
+-   
 
--   ### **Advanced Carrier I**
-<span style="font-variant:small-caps;">Cost</span> 3 __|__ <span style="font-variant:small-caps;">Combat</span> 9 __|__ <span style="font-variant:small-caps;">Move</span> 1 __|__ <span style="font-variant:small-caps;">Capacity</span> 6
+    --8<-- "snippets/units/faction/pok/sol-infantry.md"
+
+
+-   
+
+    --8<-- "snippets/units/faction/pok/sol-carrier.md"
 
 </div>
 

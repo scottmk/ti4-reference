@@ -148,3 +148,25 @@ toc_depth: 2
             --8<-- "snippets/techs/absol/unit/space-dock-ii.md"
 
     </div>
+
+## Special Units
+
+=== "Base Game"
+    <div class="grid cards" markdown>
+
+    None
+    
+    </div>
+
+=== "Absol's Mod :ti4-absol:"
+    <div class="grid cards" markdown>
+
+    -   
+
+        --8<-- "snippets/units/special/absol/plenary-orbital.md"
+
+    -   
+
+        --8<-- "snippets/units/special/absol/tyrants-lament.md"
+
+    </div>

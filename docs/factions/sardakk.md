@@ -48,34 +48,12 @@ toc_depth: 2
 -   ## __Flagship__
 
     ---
-    ### **C'Morran N'orr**
-    
-    <span style="font-variant:small-caps;">Cost</span> 8 __|__ <span style="font-variant:small-caps;">Combat</span> 6(x2) __|__ <span style="font-variant:small-caps;">Move</span> 1 __|__ <span style="font-variant:small-caps;">Capacity</span> 3
-    
-    <span style="font-variant:small-caps;">Sustain Damage</span>
-
-    Apply +1 to the result of each of your other ship's combat rolls in this system.
+    --8<-- "snippets/units/faction/pok/sardakk-flagship.md"
 
 -   ## __Mech__
 
     ---
-    === "Base Game"
-        ### **Valkyrie Exoskeleton**
-        
-        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
-        
-        <span style="font-variant:small-caps;">Sustain Damage</span>
-
-        After this unit uses its <span style="font-variant:small-caps;">Sustain Damage</span> ability during Ground Combat, it produces 1 hit against your opponent's ground forces on this planet.
-
-    === "Absol's Mod :ti4-absol:"
-        ### **Valkyrie Exoskeleton**:ti4-absol:
-        
-        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
-        
-        <span style="font-variant:small-caps;">Sustain Damage</span>
-
-        After this unit uses its <span style="font-variant:small-caps;">Sustain Damage</span> ability during Ground Combat, it produces 1 hit against your opponent's ground forces on this planet.
+    --8<-- "snippets/units/faction/pok/sardakk-mech.md"
 
 </div>
 
@@ -84,12 +62,7 @@ toc_depth: 2
 -   ## __Special Units__
 
     ---
-    ### **Exotrireme I**
-    
-    <span style="font-variant:small-caps;">Cost</span> 4 __|__ <span style="font-variant:small-caps;">Combat</span> 5 __|__ <span style="font-variant:small-caps;">Move</span> 1 __|__ <span style="font-variant:small-caps;">Capacity</span> 1
-
-    <span style="font-variant:small-caps;">Sustain Damage</span>
-    __|__ <span style="font-variant:small-caps;">Bombardment 4(x2)</span>
+    --8<-- "snippets/units/faction/pok/sardakk-dreadnought.md"
 
 </div>
 

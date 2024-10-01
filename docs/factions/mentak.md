@@ -61,34 +61,12 @@ toc_depth: 2
 -   ## __Flagship__
 
     ---
-    ### **Fourth Moon**
-    
-    <span style="font-variant:small-caps;">Cost</span> 8 __|__ <span style="font-variant:small-caps;">Combat</span> 7(x2) __|__ <span style="font-variant:small-caps;">Move</span> 1 __|__ <span style="font-variant:small-caps;">Capacity</span> 5
-    
-    <span style="font-variant:small-caps;">Sustain Damage</span>
-
-    Other players' ships in this system cannot use Sustain Damage.
+    --8<-- "snippets/units/faction/pok/mentak-flagship.md"
 
 -   ## __Mech__
 
     ---
-    === "Base Game"
-        ### **Moll Terminus**
-        
-        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
-        
-        <span style="font-variant:small-caps;">Sustain Damage</span>
-
-        Other players' ground forces on this planet cannot use SUSTAIN DAMAGE.
-
-    === "Absol's Mod :ti4-absol:"
-        ### **Moll Terminus**:ti4-absol:
-        
-        <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
-        
-        <span style="font-variant:small-caps;">Sustain Damage</span>
-
-        Other players' ground forces on this planet cannot use SUSTAIN DAMAGE.
+    --8<-- "snippets/units/faction/pok/mentak-mech.md"
 
 -   ## __Faction Technologies__
 

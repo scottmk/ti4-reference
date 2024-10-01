@@ -2,4 +2,4 @@
 
 Requirements: :ti4-tech-warfare:
 
-At the start of a combat round, you may exhaust a relic fragment in your play area to apply +1 to the results of each of your units’ combat rolls during this combat round.
+At the start of a combat round, you may exhaust a relic fragment in your play area to apply +1 to the results of each of your units' combat rolls during this combat round.

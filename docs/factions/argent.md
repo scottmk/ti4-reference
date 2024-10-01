@@ -69,7 +69,7 @@ toc_depth: 2
 
     When your units use <span style="font-variant:small-caps;">Anti-Fighter Barrage</span>:
     
-    For each hit produced in excess of your opponent’s Fighters, choose 1 of your opponent’s ships that has <span style="font-variant:small-caps;">Sustain Damage</span> to become damaged.
+    For each hit produced in excess of your opponent's Fighters, choose 1 of your opponent's ships that has <span style="font-variant:small-caps;">Sustain Damage</span> to become damaged.
 
 -   ## __Flagship__
 
@@ -152,7 +152,7 @@ toc_depth: 2
     
     _Unlock: Have 3 Scored Objectives_
 
-    <span style="font-variant:small-caps;">Action</span>: Move any number of your ships from any systems to any number of other systems that contain 1 of your command tokens and no other players’ ships.
+    <span style="font-variant:small-caps;">Action</span>: Move any number of your ships from any systems to any number of other systems that contain 1 of your command tokens and no other players' ships.
     
     Then, purge this card.
 

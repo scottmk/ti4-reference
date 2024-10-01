@@ -125,7 +125,7 @@ toc_depth: 2
     ---
     ### **Agent**: Letani Ospha
     
-    <span style="font-variant:small-caps;">Action</span>: Exhaust this card and choose a player’s non-fighter ship.
+    <span style="font-variant:small-caps;">Action</span>: Exhaust this card and choose a player's non-fighter ship.
     That player may replace the chosen ship with one from their reinforcements that costs up to 2 more than the replaced ship.
 
     ### **Commander**: Drzuga Rophal

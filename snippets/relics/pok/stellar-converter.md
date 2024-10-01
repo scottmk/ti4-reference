@@ -8,4 +8,4 @@ Then, place the destroyed planet token on that planet and purge this card.
 
 ---
 
-*A power great enough to envelop a star, such that its energies might be concentrated… and scattered.*
+*A power great enough to envelop a star, such that its energies might be concentrated... and scattered.*

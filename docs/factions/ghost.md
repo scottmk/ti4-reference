@@ -12,9 +12,9 @@ _Coming soon_.
 
     ---
     === "Base Game"
-        --8<-- "snippets/techs/base/blue/ghost-wormhole-generator.md"
+        --8<-- "snippets/techs/pok/blue/ghost-wormhole-generator.md"
 
-        --8<-- "snippets/techs/base/red/ghost-dimensional-splicer.md"
+        --8<-- "snippets/techs/pok/red/ghost-dimensional-splicer.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/blue/ghost-wormhole-generator.md"

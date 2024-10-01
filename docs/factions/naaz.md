@@ -12,9 +12,9 @@ _Coming soon_.
 
     ---
     === "Base Game"
-        --8<-- "snippets/techs/base/red/naaz-supercharge.md"
+        --8<-- "snippets/techs/pok/red/naaz-supercharge.md"
 
-        --8<-- "snippets/techs/base/green/naaz-pre-fab-arcologies.md"
+        --8<-- "snippets/techs/pok/green/naaz-pre-fab-arcologies.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/red/naaz-supercharge.md"

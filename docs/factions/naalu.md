@@ -12,9 +12,9 @@ _Coming soon_.
 
     ---
     === "Base Game"
-        --8<-- "snippets/techs/base/unit/naalu-hybrid-crystal-fighter-ii.md"
+        --8<-- "snippets/techs/pok/unit/naalu-hybrid-crystal-fighter-ii.md"
 
-        --8<-- "snippets/techs/base/green/naalu-neuroglaive.md"
+        --8<-- "snippets/techs/pok/green/naalu-neuroglaive.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/unit/naalu-hybrid-crystal-fighter-ii.md"

@@ -36,8 +36,8 @@ toc_depth: 2
 
     ---
     === "Base Game"
-        --8<-- "snippets/techs/base/green/neural-motivator.md"
-        --8<-- "snippets/techs/base/blue/antimass-deflectors.md"
+        --8<-- "snippets/techs/pok/green/neural-motivator.md"
+        --8<-- "snippets/techs/pok/blue/antimass-deflectors.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/green/neural-motivator.md"
@@ -110,9 +110,9 @@ toc_depth: 2
 
     ---
     === "Base Game"
-        --8<-- "snippets/techs/base/unit/sol-spec-ops-ii.md"
+        --8<-- "snippets/techs/pok/unit/sol-spec-ops-ii.md"
 
-        --8<-- "snippets/techs/base/unit/sol-advanced-carrier-ii.md"
+        --8<-- "snippets/techs/pok/unit/sol-advanced-carrier-ii.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/unit/sol-spec-ops-ii.md"
@@ -147,6 +147,6 @@ toc_depth: 2
 -   ## __Faction Promissory Note__
 
     ---
-    --8<-- "snippets/promissory-notes/base/faction/sol-military-support.md"
+    --8<-- "snippets/promissory-notes/pok/faction/sol-military-support.md"
 
 </div>

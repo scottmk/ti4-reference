@@ -12,9 +12,9 @@ _Coming soon_.
 
     ---
     === "Base Game"
-        --8<-- "snippets/techs/base/unit/mahact-crimson-legionnaire-ii.md"
+        --8<-- "snippets/techs/pok/unit/mahact-crimson-legionnaire-ii.md"
 
-        --8<-- "snippets/techs/base/green/mahact-genetic-recombination.md"
+        --8<-- "snippets/techs/pok/green/mahact-genetic-recombination.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/unit/mahact-crimson-legionnaire-ii.md"

@@ -12,13 +12,13 @@ toc_depth: 3
 
     ---
 
-    --8<-- "snippets/promissory-notes/base/trade-agreement.md"
+    --8<-- "snippets/promissory-notes/pok/trade-agreement.md"
 
 -   ### __Political Secret__
 
     ---
     === "Base Game"
-        --8<-- "snippets/promissory-notes/base/political-secret.md"
+        --8<-- "snippets/promissory-notes/pok/political-secret.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/promissory-notes/absol/political-secret.md"
@@ -26,17 +26,17 @@ toc_depth: 3
 -   ### __Ceasefire__
 
     ---
-    --8<-- "snippets/promissory-notes/base/ceasefire.md"
+    --8<-- "snippets/promissory-notes/pok/ceasefire.md"
 
 -   ### __Support for the Throne__
 
     ---
-    --8<-- "snippets/promissory-notes/base/support-for-the-throne.md"
+    --8<-- "snippets/promissory-notes/pok/support-for-the-throne.md"
 
 -   ### __Alliance__
 
     ---
-    --8<-- "snippets/promissory-notes/base/alliance.md"
+    --8<-- "snippets/promissory-notes/pok/alliance.md"
 
 </div>
 
@@ -46,157 +46,157 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/base/faction/arborec-stymie.md"
+    --8<-- "snippets/promissory-notes/pok/faction/arborec-stymie.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/base/faction/argent-strike-wing-ambuscade.md"
+    --8<-- "snippets/promissory-notes/pok/faction/argent-strike-wing-ambuscade.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/base/faction/letnev-war-funding.md"
+    --8<-- "snippets/promissory-notes/pok/faction/letnev-war-funding.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/base/faction/saar-raghs-call.md"
+    --8<-- "snippets/promissory-notes/pok/faction/saar-raghs-call.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/base/faction/keleres-keleres-rider.md"
+    --8<-- "snippets/promissory-notes/pok/faction/keleres-keleres-rider.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/base/faction/muaat-fires-of-the-gashlai.md"
+    --8<-- "snippets/promissory-notes/pok/faction/muaat-fires-of-the-gashlai.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/base/faction/hacan-trade-convoys.md"
+    --8<-- "snippets/promissory-notes/pok/faction/hacan-trade-convoys.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/base/faction/empyrean-dark-pact.md"
+    --8<-- "snippets/promissory-notes/pok/faction/empyrean-dark-pact.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/base/faction/empyrean-blood-pact.md"
+    --8<-- "snippets/promissory-notes/pok/faction/empyrean-blood-pact.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/base/faction/sol-military-support.md"
+    --8<-- "snippets/promissory-notes/pok/faction/sol-military-support.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/base/faction/ghost-creuss-iff.md"
+    --8<-- "snippets/promissory-notes/pok/faction/ghost-creuss-iff.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/base/faction/l1z1x-cybernetic-enhancements.md"
+    --8<-- "snippets/promissory-notes/pok/faction/l1z1x-cybernetic-enhancements.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/base/faction/mahact-scepter-of-dominion.md"
+    --8<-- "snippets/promissory-notes/pok/faction/mahact-scepter-of-dominion.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/base/faction/mentak-promise-of-protection.md"
+    --8<-- "snippets/promissory-notes/pok/faction/mentak-promise-of-protection.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/base/faction/naalu-gift-of-prescience.md"
+    --8<-- "snippets/promissory-notes/pok/faction/naalu-gift-of-prescience.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/base/faction/naaz-black-market-forgery.md"
+    --8<-- "snippets/promissory-notes/pok/faction/naaz-black-market-forgery.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/base/faction/nekro-antivirus.md"
+    --8<-- "snippets/promissory-notes/pok/faction/nekro-antivirus.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/base/faction/nomad-the-cavalry.md"
+    --8<-- "snippets/promissory-notes/pok/faction/nomad-the-cavalry.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/base/faction/sardakk-tekklar-legion.md"
+    --8<-- "snippets/promissory-notes/pok/faction/sardakk-tekklar-legion.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/base/faction/titans-terraform.md"
+    --8<-- "snippets/promissory-notes/pok/faction/titans-terraform.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/base/faction/jolnar-research-agreement.md"
+    --8<-- "snippets/promissory-notes/pok/faction/jolnar-research-agreement.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/base/faction/cabal-crucible.md"
+    --8<-- "snippets/promissory-notes/pok/faction/cabal-crucible.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/base/faction/winnu-acquiescence.md"
+    --8<-- "snippets/promissory-notes/pok/faction/winnu-acquiescence.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/base/faction/xxcha-political-favor.md"
+    --8<-- "snippets/promissory-notes/pok/faction/xxcha-political-favor.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/base/faction/yin-greyfire-mutagen.md"
+    --8<-- "snippets/promissory-notes/pok/faction/yin-greyfire-mutagen.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/base/faction/yssaril-spy-net.md"
+    --8<-- "snippets/promissory-notes/pok/faction/yssaril-spy-net.md"
 
 </div>
 </div>

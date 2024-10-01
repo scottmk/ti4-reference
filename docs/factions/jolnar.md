@@ -12,9 +12,9 @@ _Coming soon_.
 
     ---
     === "Base Game"
-        --8<-- "snippets/techs/base/blue/jolnar-spatial-conduit-cylinder.md"
+        --8<-- "snippets/techs/pok/blue/jolnar-spatial-conduit-cylinder.md"
 
-        --8<-- "snippets/techs/base/yellow/jolnar-e-res-siphons.md"
+        --8<-- "snippets/techs/pok/yellow/jolnar-e-res-siphons.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/blue/jolnar-spatial-conduit-cylinder.md"

@@ -12,9 +12,9 @@ _Coming soon_.
 
     ---
     === "Base Game"
-        --8<-- "snippets/techs/base/unit/nomad-memoria-ii.md"
+        --8<-- "snippets/techs/pok/unit/nomad-memoria-ii.md"
 
-        --8<-- "snippets/techs/base/yellow/nomad-temporal-command-suite.md"
+        --8<-- "snippets/techs/pok/yellow/nomad-temporal-command-suite.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/unit/nomad-memoria-ii.md"

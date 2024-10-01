@@ -41,11 +41,11 @@ toc_depth: 2
     === "Base Game"
         ### **Choose two of the following**:
 
-        --8<-- "snippets/techs/base/yellow/sarween-tools.md"
+        --8<-- "snippets/techs/pok/yellow/sarween-tools.md"
 
-        --8<-- "snippets/techs/base/red/plasma-scoring.md"
+        --8<-- "snippets/techs/pok/red/plasma-scoring.md"
 
-        --8<-- "snippets/techs/base/green/neural-motivator.md"
+        --8<-- "snippets/techs/pok/green/neural-motivator.md"
 
     === "Absol's Mod :ti4-absol:"  
         ### **Choose two of the following**:
@@ -95,7 +95,7 @@ toc_depth: 2
         This unit does not count against capacity if it is being transported or if it is in a space area with 1 or more of your ships that has capacity values.
 
     === "Absol's Mod :ti4-absol:"
-        ### **TODO**:ti4-absol:
+        ### **Aerie Sentinel**:ti4-absol:
         
         <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
         
@@ -124,9 +124,9 @@ toc_depth: 2
 
     ---
     === "Base Game"
-        --8<-- "snippets/techs/base/unit/argent-strike-wing-alpha-ii.md"
+        --8<-- "snippets/techs/pok/unit/argent-strike-wing-alpha-ii.md"
 
-        --8<-- "snippets/techs/base/yellow/argent-aerie-hololattice.md"
+        --8<-- "snippets/techs/pok/yellow/argent-aerie-hololattice.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/unit/argent-strike-wing-alpha-ii.md"
@@ -159,6 +159,6 @@ toc_depth: 2
 -   ## __Faction Promissory Note__
 
     ---
-    --8<-- "snippets/promissory-notes/base/faction/argent-strike-wing-ambuscade.md"
+    --8<-- "snippets/promissory-notes/pok/faction/argent-strike-wing-ambuscade.md"
 
 </div>

@@ -41,7 +41,7 @@ toc_depth: 2
     -   
 
         === "Base Game"
-            --8<-- "snippets/techs/base/unit/fighter-ii.md"
+            --8<-- "snippets/techs/pok/unit/fighter-ii.md"
 
         === "Absol's Mod :ti4-absol:"  
             --8<-- "snippets/techs/absol/unit/fighter-ii.md"
@@ -49,7 +49,7 @@ toc_depth: 2
     -   
 
         === "Base Game"
-            --8<-- "snippets/techs/base/unit/destroyer-ii.md"
+            --8<-- "snippets/techs/pok/unit/destroyer-ii.md"
 
         === "Absol's Mod :ti4-absol:"
             --8<-- "snippets/techs/absol/unit/destroyer-ii.md"
@@ -57,7 +57,7 @@ toc_depth: 2
     -   
 
         === "Base Game"
-            --8<-- "snippets/techs/base/unit/cruiser-ii.md"
+            --8<-- "snippets/techs/pok/unit/cruiser-ii.md"
 
         === "Absol's Mod :ti4-absol:"
             --8<-- "snippets/techs/absol/unit/cruiser-ii.md"
@@ -65,7 +65,7 @@ toc_depth: 2
     -   
 
         === "Base Game"
-            --8<-- "snippets/techs/base/unit/carrier-ii.md"
+            --8<-- "snippets/techs/pok/unit/carrier-ii.md"
 
         === "Absol's Mod :ti4-absol:"
             --8<-- "snippets/techs/absol/unit/carrier-ii.md"
@@ -73,7 +73,7 @@ toc_depth: 2
     -   
 
         === "Base Game"
-            --8<-- "snippets/techs/base/unit/dreadnought-ii.md"
+            --8<-- "snippets/techs/pok/unit/dreadnought-ii.md"
 
         === "Absol's Mod :ti4-absol:"
             --8<-- "snippets/techs/absol/unit/dreadnought-ii.md"
@@ -81,7 +81,7 @@ toc_depth: 2
     -   
 
         === "Base Game"
-            --8<-- "snippets/techs/base/unit/war-sun.md"
+            --8<-- "snippets/techs/pok/unit/war-sun.md"
 
         === "Absol's Mod :ti4-absol:"
             --8<-- "snippets/techs/absol/unit/war-sun.md"
@@ -106,7 +106,7 @@ toc_depth: 2
     -   
 
         === "Base Game"
-            --8<-- "snippets/techs/base/unit/infantry-ii.md"
+            --8<-- "snippets/techs/pok/unit/infantry-ii.md"
 
         === "Absol's Mod :ti4-absol:"
             --8<-- "snippets/techs/absol/unit/infantry-ii.md"
@@ -134,7 +134,7 @@ toc_depth: 2
     -   
 
         === "Base Game"
-            --8<-- "snippets/techs/base/unit/pds-ii.md"
+            --8<-- "snippets/techs/pok/unit/pds-ii.md"
 
         === "Absol's Mod :ti4-absol:"
             --8<-- "snippets/techs/absol/unit/pds-ii.md"
@@ -142,7 +142,7 @@ toc_depth: 2
     -   
 
         === "Base Game"
-            --8<-- "snippets/techs/base/unit/space-dock-ii.md"
+            --8<-- "snippets/techs/pok/unit/space-dock-ii.md"
 
         === "Absol's Mod :ti4-absol:"
             --8<-- "snippets/techs/absol/unit/space-dock-ii.md"

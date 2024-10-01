@@ -85,9 +85,9 @@ toc_depth: 2
 
     ---
     === "Base Game"
-        --8<-- "snippets/techs/base/blue/winnu-lazax-gate-folding.md"
+        --8<-- "snippets/techs/pok/blue/winnu-lazax-gate-folding.md"
 
-        --8<-- "snippets/techs/base/yellow/winnu-hegemonic-trade-policy.md"
+        --8<-- "snippets/techs/pok/yellow/winnu-hegemonic-trade-policy.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/blue/winnu-lazax-gate-folding.md"
@@ -122,6 +122,6 @@ toc_depth: 2
 -   ## __Faction Promissory Note__
 
     ---
-    --8<-- "snippets/promissory-notes/base/faction/winnu-acquiescence.md"
+    --8<-- "snippets/promissory-notes/pok/faction/winnu-acquiescence.md"
 
 </div>

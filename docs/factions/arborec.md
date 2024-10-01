@@ -37,7 +37,7 @@ toc_depth: 2
 
     ---
     === "Base Game"
-        --8<-- "snippets/techs/base/red/magen-defense-grid.md"
+        --8<-- "snippets/techs/pok/red/magen-defense-grid.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/red/magen-defense-grid.md"
@@ -111,9 +111,9 @@ toc_depth: 2
 
     ---
     === "Base Game"
-        --8<-- "snippets/techs/base/unit/arborec-letani-warrior-ii.md"
+        --8<-- "snippets/techs/pok/unit/arborec-letani-warrior-ii.md"
 
-        --8<-- "snippets/techs/base/green/arborec-bioplasmosis.md"
+        --8<-- "snippets/techs/pok/green/arborec-bioplasmosis.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/unit/arborec-letani-warrior-ii.md"
@@ -146,6 +146,6 @@ toc_depth: 2
 -   ## __Faction Promissory Note__
 
     ---
-    --8<-- "snippets/promissory-notes/base/faction/arborec-stymie.md"
+    --8<-- "snippets/promissory-notes/pok/faction/arborec-stymie.md"
 
 </div>

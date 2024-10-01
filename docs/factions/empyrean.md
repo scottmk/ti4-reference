@@ -12,9 +12,9 @@ _Coming soon_.
 
     ---
     === "Base Game"
-        --8<-- "snippets/techs/base/blue/empyrean-aetherstream.md"
+        --8<-- "snippets/techs/pok/blue/empyrean-aetherstream.md"
 
-        --8<-- "snippets/techs/base/green/empyrean-voidwatch.md"
+        --8<-- "snippets/techs/pok/green/empyrean-voidwatch.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/blue/empyrean-aetherstream.md"

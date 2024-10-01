@@ -12,9 +12,9 @@ _Coming soon_.
 
     ---
     === "Base Game"
-        --8<-- "snippets/techs/base/green/xxcha-instinct-training.md"
+        --8<-- "snippets/techs/pok/green/xxcha-instinct-training.md"
 
-        --8<-- "snippets/techs/base/yellow/xxcha-nullification-field.md"
+        --8<-- "snippets/techs/pok/yellow/xxcha-nullification-field.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/green/xxcha-instinct-training.md"

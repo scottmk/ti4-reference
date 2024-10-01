@@ -36,9 +36,9 @@ toc_depth: 2
 
     ---
     === "Base Game"
-        --8<-- "snippets/techs/base/blue/antimass-deflectors.md"
+        --8<-- "snippets/techs/pok/blue/antimass-deflectors.md"
 
-        --8<-- "snippets/techs/base/yellow/scanlink-drone-network.md"
+        --8<-- "snippets/techs/pok/yellow/scanlink-drone-network.md"
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/blue/antimass-deflectors.md"
 
@@ -122,9 +122,9 @@ toc_depth: 2
 
     ---
     === "Base Game"
-        --8<-- "snippets/techs/base/unit/titans-saturn-engine-ii.md"
+        --8<-- "snippets/techs/pok/unit/titans-saturn-engine-ii.md"
 
-        --8<-- "snippets/techs/base/unit/titans-hel-titan-ii.md"
+        --8<-- "snippets/techs/pok/unit/titans-hel-titan-ii.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/unit/titans-saturn-engine-ii.md"
@@ -158,6 +158,6 @@ toc_depth: 2
 -   ## __Faction Promissory Note__
 
     ---
-    --8<-- "snippets/promissory-notes/base/faction/titans-terraform.md"
+    --8<-- "snippets/promissory-notes/pok/faction/titans-terraform.md"
 
 </div>

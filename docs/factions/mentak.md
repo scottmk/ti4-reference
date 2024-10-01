@@ -37,9 +37,9 @@ toc_depth: 2
 
     ---
     === "Base Game"
-        --8<-- "snippets/techs/base/yellow/sarween-tools.md"
+        --8<-- "snippets/techs/pok/yellow/sarween-tools.md"
 
-        --8<-- "snippets/techs/base/red/plasma-scoring.md"
+        --8<-- "snippets/techs/pok/red/plasma-scoring.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/yellow/sarween-tools.md"
@@ -94,9 +94,9 @@ toc_depth: 2
 
     ---
     === "Base Game"
-        --8<-- "snippets/techs/base/yellow/mentak-salvage-operations.md"
+        --8<-- "snippets/techs/pok/yellow/mentak-salvage-operations.md"
 
-        --8<-- "snippets/techs/base/yellow/mentak-mirror-computing.md"
+        --8<-- "snippets/techs/pok/yellow/mentak-mirror-computing.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/yellow/mentak-salvage-operations.md"
@@ -130,6 +130,6 @@ toc_depth: 2
 -   ## __Faction Promissory Note__
 
     ---
-    --8<-- "snippets/promissory-notes/base/faction/mentak-promise-of-protection.md"
+    --8<-- "snippets/promissory-notes/pok/faction/mentak-promise-of-protection.md"
 
 </div>

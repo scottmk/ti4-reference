@@ -37,14 +37,14 @@ toc_depth: 2
 
     ---
     === "Base Game"
-        --8<-- "snippets/techs/base/green/neural-motivator.md"
+        --8<-- "snippets/techs/pok/green/neural-motivator.md"
 
-        --8<-- "snippets/techs/base/red/plasma-scoring.md"
+        --8<-- "snippets/techs/pok/red/plasma-scoring.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/green/neural-motivator.md"
 
-        --8<-- "snippets/techs/base/red/plasma-scoring.md"
+        --8<-- "snippets/techs/pok/red/plasma-scoring.md"
 
 -   ## __Faction Abilities__
 
@@ -113,9 +113,9 @@ toc_depth: 2
 
     ---
     === "Base Game"
-        --8<-- "snippets/techs/base/unit/l1z1x-super-dreadnought-ii.md"
+        --8<-- "snippets/techs/pok/unit/l1z1x-super-dreadnought-ii.md"
 
-        --8<-- "snippets/techs/base/yellow/l1z1x-inheritance-systems.md"
+        --8<-- "snippets/techs/pok/yellow/l1z1x-inheritance-systems.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/unit/l1z1x-super-dreadnought-ii.md"
@@ -149,6 +149,6 @@ toc_depth: 2
 -   ## __Faction Promissory Note__
 
     ---
-    --8<-- "snippets/promissory-notes/base/faction/l1z1x-cybernetic-enhancements.md"
+    --8<-- "snippets/promissory-notes/pok/faction/l1z1x-cybernetic-enhancements.md"
 
 </div>

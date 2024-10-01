@@ -4,3 +4,4 @@
 
 <span style="font-variant:small-caps;">Anti-Fighter Barrage</span> 9(x2)
 
+<span style="font-variant:small-caps;">Upgrade</span>: :ti4-tech-warfare: :ti4-tech-warfare:

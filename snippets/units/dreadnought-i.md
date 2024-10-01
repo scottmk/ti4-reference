@@ -4,3 +4,4 @@
 
 <span style="font-variant:small-caps;">Sustain Damage</span>
 
+<span style="font-variant:small-caps;">Upgrade</span>: :ti4-tech-propulsion: :ti4-tech-propulsion: :ti4-tech-cybernetic:

@@ -1,4 +1,4 @@
-### **Omniopiares**:ti4-absol:
+### **Omniopiares**
 
 Unit Type: Mech 
 

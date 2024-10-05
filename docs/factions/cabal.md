@@ -97,27 +97,16 @@ toc_depth: 2
 -   ## __Leaders__
 
     ---
-    ### **Agent**: The Stillness of Stars
-
-    After another player replenishes commodities:
-
-    You may exhaust this card to convert their commodities to trade goods and <span style="font-variant:small-caps;">capture</span> 1 unit from their reinforcements that has a cost equal to or lower than their commodity value. 
-
-    ### **Commander**: That Which Molds Flesh
     
-    _Unlock: Have units in 3 Gravity Rifts_
+    --8<-- "snippets/leaders/pok/cabal-agent.md"
 
-    When you produce fighter or infantry units:
+    ---
 
-    Up to 2 of those units do not count against your <span style="font-variant:small-caps;">production</span> limit. 
+    --8<-- "snippets/leaders/pok/cabal-commander.md"
 
-    ### **Hero**: It Feeds on Carrion - DIMENSIONAL ANCHOR
-    
-    _Unlock: Have 3 Scored Objectives_
+    ---
 
-    <span style="font-variant:small-caps;">Action</span>: Each other player rolls a die for each of their non-fighter ships that are in or adjacent to a system that contains a dimensional tear; on a 1-3, <span style="font-variant:small-caps;">capture</span> that unit. If this causes a player's ground forces or fighters to be removed, also <span style="font-variant:small-caps;">capture</span> those units.
-
-    Then, purge this card. 
+    --8<-- "snippets/leaders/pok/cabal-hero.md"
 
 -   ## __Faction Promissory Note__
 

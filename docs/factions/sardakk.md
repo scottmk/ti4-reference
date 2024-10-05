@@ -84,28 +84,16 @@ toc_depth: 2
 -   ## __Leaders__
 
     ---
-    ### **Agent**: T'ro
-
-    At the end of a player's tactical action:
-
-    You may exhaust this card; if you do, that player may place 2 infantry from their reinforcements on a planet they control in the active system.
-
-    ### **Commander**: G'hom Sek'kus
     
-    _Unlock: Control 5 planets in non-home systems_
+    --8<-- "snippets/leaders/pok/sardakk-agent.md"
 
-    During the "Commit Ground Forces" step:
+    ---
 
-    You can commit up to 1 ground force from each planet in the active system and each planet in adjacent systems that do not contain 1 of your command tokens.
+    --8<-- "snippets/leaders/pok/sardakk-commander.md"
 
-    ### **Hero**: Sh'val, Harbinger - TEKKLAR CONDITIONING
-    
-    _Unlock: Have 3 Scored Objectives_
+    ---
 
-    After you move ships into the active system:
-
-    You may skip directly to the "Commit Ground Forces" step. 
-    If you do, after you commit ground forces to land on planets, purge this card and return each of your ships in the active system to your reinforcements.
+    --8<-- "snippets/leaders/pok/sardakk-hero.md"
 
 -   ## __Faction Promissory Note__
 

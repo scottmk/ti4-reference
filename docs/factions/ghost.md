@@ -87,27 +87,16 @@ toc_depth: 2
 -   ## __Leaders__
 
     ---
-    ### **Agent**: Emissary Taivra
     
-    After a player activates a system that contains a non-delta wormhole:
+    --8<-- "snippets/leaders/pok/ghost-agent.md"
 
-    You may exhaust this card; if you do, that system is adjacent to all other systems that contain a wormhole during this tactical action. 
+    ---
 
-    ### **Commander**: Sai Seravus
-    
-    _Unlock: Have units in 3 systems that contain alpha or beta wormholes._
+    --8<-- "snippets/leaders/pok/ghost-commander.md"
 
-    After your ships move:
+    ---
 
-    For each ship that has a capacity value and moved through 1 or more wormholes, you may place 1 fighter from your reinforcements with that ship if you have unused capacity in the active system. 
-
-    ### **Hero**: Riftwalker Meian - SINGULARITY REACTOR
-    
-    _Unlock: Have 3 Scored Objectives_
-
-    <span style="font-variant:small-caps;">Action</span>: Swap the positions of any 2 systems that contain wormholes or your units, other than the Creuss system and the Wormhole Nexus.
-
-    Then, purge this card. 
+    --8<-- "snippets/leaders/pok/ghost-hero.md"
 
 -   ## __Faction Promissory Note__
 

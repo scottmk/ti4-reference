@@ -110,25 +110,16 @@ toc_depth: 2
 -   ## __Leaders__
 
     ---
-    ### **Agent**: Trillossa Aun Mirik
     
-    When a player produces ground forces in a system you may exhaust this card:
-    That player may place those units on any planets they control in that system and adjacent systems.
+    --8<-- "snippets/leaders/pok/argent-agent.md"
 
-    ### **Commander**: Trrakan Aun Zulok
-    
-    _Unlock: Have 6 units that have <span style="font-variant:small-caps;">Anti-Fighter Barrage</span>, <span style="font-variant:small-caps;">Space Cannon</span> or <span style="font-variant:small-caps;">Bombardment</span> on the game board._
+    ---
 
-    When your units make a roll for a unit ability:
-    Choose 1 unit to roll 1 additional die.
+    --8<-- "snippets/leaders/pok/argent-commander.md"
 
-    ### **Hero**: Mirik Aun Sissiri - HELIX PROTOCOL
-    
-    _Unlock: Have 3 Scored Objectives_
+    ---
 
-    <span style="font-variant:small-caps;">Action</span>: Move any number of your ships from any systems to any number of other systems that contain 1 of your command tokens and no other players' ships.
-    
-    Then, purge this card.
+    --8<-- "snippets/leaders/pok/argent-hero.md"
 
 -   ## __Faction Promissory Note__
 

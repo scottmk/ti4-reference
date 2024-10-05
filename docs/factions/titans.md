@@ -103,26 +103,16 @@ toc_depth: 2
 -   ## __Leaders__
 
     ---
-    ### **Agent**: Tellurian
     
-    When a hit is produced against a unit:
-    
-    You may exhaust this card to cancel that hit.
+    --8<-- "snippets/leaders/pok/titans-agent.md"
 
-    ### **Commander**: Tungstantus
-    
-    _Unlock: Have 5 structures on the game board_
+    ---
 
-    When 1 or more of your units use <span style="font-variant:small-caps;">Production</span>:
+    --8<-- "snippets/leaders/pok/titans-commander.md"
 
-    You may gain 1 trade good.
+    ---
 
-    ### **Hero**: Ul The Progenitor - GEOFORM
-    
-    _Unlock: Have 3 Scored Objectives_
-
-    <span style="font-variant:small-caps;">Action</span>: Ready Elysium and attach this card to it. 
-    Its resource and influence values are each increased by 3, and it gains the <span style="font-variant:small-caps;">Space Cannon 5 (x3)</span> ability as if it were a unit.
+    --8<-- "snippets/leaders/pok/titans-hero.md"
 
 -   ## __Faction Promissory Note__
 

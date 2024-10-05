@@ -96,26 +96,16 @@ toc_depth: 2
 -   ## __Leaders__
 
     ---
-    ### **Agent**: I48S
     
-    After a player activates a system:
+    --8<-- "snippets/leaders/pok/l1z1x-agent.md"
 
-    You may exhaust this card to allow that player to replace 1 of their infantry in the active system with 1 mech from their reinforcements.
+    ---
 
-    ### **Commander**: 2RAM
-    
-    _Unlock: Have 4 dreadnoughts on the Board_
+    --8<-- "snippets/leaders/pok/l1z1x-commander.md"
 
-    Units that have <span style="font-variant:small-caps;">Planetary Shield</span> do not prevent you from using <span style="font-variant:small-caps;">Bombardment</span>.
+    ---
 
-    ### **Hero**: The Helmsman - DARK SPACE NAVIGATION
-    
-    _Unlock: Have 3 Scored Objectives_
-
-    <span style="font-variant:small-caps;">Action</span>: 
-    Choose 1 system that does not contain other players' ships; you may move your flagship and any number of your dreadnoughts from other systems into the chosen system.
-
-    Then, purge this card.
+    --8<-- "snippets/leaders/pok/l1z1x-hero.md"
 
 -   ## __Faction Promissory Note__
 

@@ -90,26 +90,16 @@ toc_depth: 2
 -   ## __Leaders__
 
     ---
-    ### **Agent**: Umbat
     
-    <span style="font-variant:small-caps;">Action</span>: Exhaust this card to choose a player; that player may produce up to 2 units that each have a cost of 4 or less in a system that contains one of their war suns or their flagship.
+    --8<-- "snippets/leaders/pok/muaat-agent.md"
 
-    ### **Commander**: Magmus
-    
-    _Unlock: Produce a War Sun_
+    ---
 
-    After you spend a token from your strategy pool:
-    
-    You may gain 1 trade good.
+    --8<-- "snippets/leaders/pok/muaat-commander.md"
 
-    ### **Hero**: Adjudicator Ba'al - NOVA SEED
-    
-    _Unlock: Have 3 Scored Objectives_
+    ---
 
-    After you move a war sun into a non-home system other than Mecatol Rex:
-
-    You may destroy all other players' units in that system and replace that system tile with the Muaat supernova tile. 
-    If you do, purge this card and each planet card that corresponds to the replaced system tile.
+    --8<-- "snippets/leaders/pok/muaat-hero.md"
 
 -   ## __Faction Promissory Note__
 

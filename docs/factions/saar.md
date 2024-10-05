@@ -96,28 +96,16 @@ toc_depth: 2
 -   ## __Leaders__
 
     ---
-    ### **Agent**: Captain Mendosa
     
-    After a player activates a system:
-    
-    You may exhaust this card to increase the move value of 1 of that player's ships to match the move value of the ship on the game board that has the highest move value.
+    --8<-- "snippets/leaders/pok/saar-agent.md"
 
-    ### **Commander**: Rowl Sarrig
-    
-    _Unlock: Have 3 space docks on the game board_
+    ---
 
-    When you produce fighters or infantry:
-    
-    You may place each of those units at any of your space docks that are not blockaded.
+    --8<-- "snippets/leaders/pok/saar-commander.md"
 
-    ### **Hero**: Gurno Aggero - ARMAGEDDON RELAY
-    
-    _Unlock: Have 3 Scored Objectives_
+    ---
 
-    <span style="font-variant:small-caps;">Action</span>: Choose 1 system that is adjacent to 1 of your space docks. 
-    Destroy all other player's infantry and fighters in that system.
-
-    Then, purge this card.
+    --8<-- "snippets/leaders/pok/saar-hero.md"
 
 -   ## __Faction Promissory Note__
 

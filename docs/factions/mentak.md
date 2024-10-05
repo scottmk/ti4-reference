@@ -84,26 +84,16 @@ toc_depth: 2
 -   ## __Leaders__
 
     ---
-    ### **Agent**: Suffi An
     
-    After the <span style="font-variant:small-caps;">Pillage</span> faction ability is used against another player:
-    You may exhaust this card; if you do, you and that player each draw 1 action card.
+    --8<-- "snippets/leaders/pok/mentak-agent.md"
 
-    ### **Commander**: S'Ula Mentarion
-    
-    _Unlock: Have 4 cruisers on the game board_
+    ---
 
-    After you win a space combat:
-    
-    You may force your opponent to give you 1 promissory note from their hand.
+    --8<-- "snippets/leaders/pok/mentak-commander.md"
 
-    ### **Hero**: Ipswitch, Loose Cannon - SLEEPER CELL
-    
-    _Unlock: Have 3 Scored Objectives_
+    ---
 
-    At the start of space combat that you are participating in:
-
-    You may purge this card; if you do, for each other player's ship that is destroyed during this combat, place 1 ship of that type from your reinforcements in the active system.
+    --8<-- "snippets/leaders/pok/mentak-hero.md"
 
 -   ## __Faction Promissory Note__
 

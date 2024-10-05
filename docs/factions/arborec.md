@@ -94,25 +94,16 @@ toc_depth: 2
 -   ## __Leaders__
 
     ---
-    ### **Agent**: Letani Ospha
     
-    <span style="font-variant:small-caps;">Action</span>: Exhaust this card and choose a player's non-fighter ship.
-    That player may replace the chosen ship with one from their reinforcements that costs up to 2 more than the replaced ship.
+    --8<-- "snippets/leaders/pok/arborec-agent.md"
 
-    ### **Commander**: Drzuga Rophal
-    
-    _Unlock: Have 12 ground forces on planets you control._
+    ---
 
-    After another player activates a system that contains 1 or more of your units that have <span style="font-variant:small-caps;">Production</span>: 
-    You may produce 1 unit in that system.
+    --8<-- "snippets/leaders/pok/arborec-commander.md"
 
-    ### **Hero**: Letani Miasmiala - ULTRASONIC EMITTER
-    
-    _Unlock: Have 3 Scored Objectives_
+    ---
 
-    <span style="font-variant:small-caps;">Action</span>: Produce any number of units in any number of systems that contain 1 or more of your ground forces.
-    
-    Then, purge this card.
+    --8<-- "snippets/leaders/pok/arborec-hero.md"
 
 -   ## __Faction Promissory Note__
 

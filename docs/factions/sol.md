@@ -99,27 +99,16 @@ toc_depth: 2
 -   ## __Leaders__
 
     ---
-    ### **Agent**: Evelyn Delouis
     
-    At the start of a ground combat round:
+    --8<-- "snippets/leaders/pok/sol-agent.md"
 
-    You may exhaust this card to choose 1 ground force in the active system; that ground force rolls 1 additional die during that combat round.
+    ---
 
-    ### **Commander**: Claire Gibson
-    
-    _Unlock: Control planets that have a combined total of at least 12 resources._
+    --8<-- "snippets/leaders/pok/sol-commander.md"
 
-    At the start of a ground combat on a planet you control:
-    
-    You may place 1 infantry from your reinforcements on that planet.
+    ---
 
-    ### **Hero**: Jace X. 4th Air Legion - HELIO COMMAND ARRAY
-    
-    _Unlock: Have 3 Scored Objectives_
-
-    <span style="font-variant:small-caps;">Action</span>: Remove each of your command tokens from the game board and return them to your reinforcements.
-
-    Then, purge this card.
+    --8<-- "snippets/leaders/pok/sol-hero.md"
 
 -   ## __Faction Promissory Note__
 

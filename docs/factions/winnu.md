@@ -75,27 +75,16 @@ toc_depth: 2
 -   ## __Leaders__
 
     ---
-    ### **Agent**: Berekar Berekon
     
-    When 1 or more of a player's units use <span style="font-variant:small-caps;">Production</span>:
+    --8<-- "snippets/leaders/pok/winnu-agent.md"
 
-    You may exhaust this card to reduce the combined cost of the produced units by 2.
+    ---
 
-    ### **Commander**: Rickar Rickani
-    
-    _Unlock: Control Mecatol Rex or enter into a combat in the Mecatol Rex system._
+    --8<-- "snippets/leaders/pok/winnu-commander.md"
 
-    During combat: 
-    
-    Apply +2 to the result of each of your unit's combat rolls in the Mecatol Rex system, your home system, and each system that contains a legendary planet.
+    ---
 
-    ### **Hero**: Mathis Mathinus - IMPERIAL SEAL
-    
-    _Unlock: Have 3 Scored Objectives_
-
-    <span style="font-variant:small-caps;">Action</span>: Perform the primary ability of any strategy card. Then, choose any number of other players. Those players may perform the secondary ability of that strategy card.
-    
-    Then, purge this card.
+    --8<-- "snippets/leaders/pok/winnu-hero.md"
 
 -   ## __Faction Promissory Note__
 

@@ -81,4 +81,5 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
   - tables
-  - toc
+  - toc:
+      permalink: "¶"

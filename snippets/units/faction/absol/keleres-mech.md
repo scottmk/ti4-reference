@@ -1,4 +1,4 @@
-### **Omniopiares**
+### **Omniopiares**:ti4-absol:
 
 Unit Type: Mech 
 
@@ -6,4 +6,4 @@ Unit Type: Mech
 
 <span style="font-variant:small-caps;">Sustain Damage</span>
 
-Other players must spend 1 influence to commit ground forces to the planet that contains this unit.
+Once per invasion, other players must spend 1 influence per mech to commit ground forces to this planet.

@@ -1,4 +1,4 @@
-### :ti4-tech-biotic: **Dacxive Animators**
+### :ti4-tech-biotic: **Daxcive Animators**
 
 Requirements: :ti4-tech-biotic:
 

@@ -86,27 +86,16 @@ toc_depth: 2
 -   ## __Leaders__
 
     ---
-    ### **Agent**: Acamar
     
-    After a player moves ships into a system that does not contain any planets:
+    --8<-- "snippets/leaders/pok/empyrean-agent.md"
 
-    You may exhaust this card; that player gains 1 command token. 
+    ---
 
-    ### **Commander**: Xuange
-    
-    _Unlock: Be neighbors with all other players_
+    --8<-- "snippets/leaders/pok/empyrean-commander.md"
 
-    After another player moves ships into a system that contains 1 of your command tokens:
+    ---
 
-    You may return that token to your reinforcements. 
-
-    ### **Hero**: Conservator Procyon - MULTIVERSE SHIFT
-    
-    _Unlock: Have 3 Scored Objectives_
-
-    <span style="font-variant:small-caps;">Action</span>: Place 1 frontier token in each system that does not contain any planets and does not already have a frontier token. Then, explore each frontier token that is in a system that contains 1 or more of your ships.
-
-    Then, purge this card. 
+    --8<-- "snippets/leaders/pok/empyrean-hero.md"
 
 </div>
 

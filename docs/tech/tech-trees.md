@@ -53,7 +53,7 @@ hide:
     --8<-- "snippets/techs/pok/green/neural-motivator.md"
       </div>
       <div markdown class="green-tech grid-item">
-    --8<-- "snippets/techs/pok/green/dacxive-animators.md"
+    --8<-- "snippets/techs/pok/green/daxcive-animators.md"
       </div>
       <div markdown class="green-tech grid-item">
     --8<-- "snippets/techs/pok/green/hyper-metabolism.md"
@@ -167,7 +167,7 @@ hide:
     --8<-- "snippets/techs/absol/green/neural-motivator.md"
       </div>
       <div markdown class="green-tech grid-item">
-    --8<-- "snippets/techs/absol/green/dacxive-animators.md"
+    --8<-- "snippets/techs/absol/green/daxcive-animators.md"
       </div>
       <div markdown class="green-tech grid-item">
     --8<-- "snippets/techs/absol/green/hyper-metabolism.md"

@@ -2,19 +2,19 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 172 201" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:10;">
     <g transform="matrix(68.0076,109.568,109.568,-68.0076,2.71107,90.1638)">
-        <path d="M0.458,-0.171L0.912,0.071L0.571,0.069L0.362,0.498L0.838,0.5L0.982,0.207L0.962,0.699L0.585,0.742C0.481,0.623 0.305,0.593 0.167,0.679C0.116,0.711 0.077,0.754 0.051,0.803L-0.171,0.828L0.458,-0.171Z" style="fill:url(#_Radial1);fill-rule:nonzero;"/>
+        <path d="M0.458,-0.171L0.912,0.071L0.571,0.069L0.362,0.498L0.838,0.5L0.982,0.207L0.962,0.699L0.585,0.742C0.481,0.623 0.305,0.593 0.167,0.679C0.116,0.711 0.077,0.754 0.051,0.803L-0.171,0.828L0.458,-0.171Z" style="fill:url(#naaz_Radial1);fill-rule:nonzero;"/>
     </g>
     <g transform="matrix(1.33333,0,0,1.33333,92.1471,16.7004)">
         <path d="M0,125.201L16.782,98.482L-7.734,59.459L-32.259,98.482L-14.733,126.38L-57.764,101.437L-7.734,-1.179L1.478,18.314C-1.224,22.965 -2.774,28.378 -2.774,34.153C-2.774,49.857 8.677,62.868 23.691,65.307L39.404,98.545L0,125.201Z" style="fill:none;fill-rule:nonzero;stroke:rgb(121,104,107);stroke-width:2.26px;"/>
     </g>
     <g transform="matrix(-1.89478e-14,128.268,128.268,1.89478e-14,169.6,18.6417)">
-        <circle cx="0.334" cy="-0.305" r="0.202" style="fill:url(#_Radial2);"/>
+        <circle cx="0.334" cy="-0.305" r="0.202" style="fill:url(#naaz_Radial2);"/>
     </g>
     <g transform="matrix(0,-1.33333,-1.33333,0,130.526,35.5964)">
         <ellipse cx="-19.418" cy="0" rx="19.419" ry="19.418" style="fill:none;stroke:rgb(121,104,107);stroke-width:2.26px;"/>
     </g>
     <defs>
-        <radialGradient id="_Radial1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,5.55112e-17,5.55112e-17,-1,0,0.657313)"><stop offset="0" style="stop-color:rgb(143,204,146);stop-opacity:1"/><stop offset="0.38" style="stop-color:rgb(100,155,101);stop-opacity:1"/><stop offset="0.74" style="stop-color:rgb(54,101,66);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(60,68,63);stop-opacity:1"/></radialGradient>
-        <radialGradient id="_Radial2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.84964,0.527363,0.527363,-0.84964,0.210874,-0.739608)"><stop offset="0" style="stop-color:rgb(143,204,146);stop-opacity:1"/><stop offset="0.38" style="stop-color:rgb(100,155,101);stop-opacity:1"/><stop offset="0.74" style="stop-color:rgb(54,101,66);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(60,68,63);stop-opacity:1"/></radialGradient>
+        <radialGradient id="naaz_Radial1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,5.55112e-17,5.55112e-17,-1,0,0.657313)"><stop offset="0" style="stop-color:rgb(143,204,146);stop-opacity:1"/><stop offset="0.38" style="stop-color:rgb(100,155,101);stop-opacity:1"/><stop offset="0.74" style="stop-color:rgb(54,101,66);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(60,68,63);stop-opacity:1"/></radialGradient>
+        <radialGradient id="naaz_Radial2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.84964,0.527363,0.527363,-0.84964,0.210874,-0.739608)"><stop offset="0" style="stop-color:rgb(143,204,146);stop-opacity:1"/><stop offset="0.38" style="stop-color:rgb(100,155,101);stop-opacity:1"/><stop offset="0.74" style="stop-color:rgb(54,101,66);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(60,68,63);stop-opacity:1"/></radialGradient>
     </defs>
 </svg>

@@ -2,19 +2,19 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 200 197" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:10;">
     <g transform="matrix(3.31587e-14,78.7452,78.7452,-3.31587e-14,97.938,66.3569)">
-        <ellipse cx="0.408" cy="0.023" rx="0.596" ry="0.596" style="fill:url(#_Radial1);"/>
+        <ellipse cx="0.408" cy="0.023" rx="0.596" ry="0.596" style="fill:url(#titans_Radial1);"/>
     </g>
     <g transform="matrix(0,-1.33333,-1.33333,0,99.7529,51.5666)">
         <ellipse cx="-35.176" cy="0" rx="35.175" ry="35.176" style="fill:none;stroke:rgb(187,189,192);stroke-width:2px;"/>
     </g>
     <g transform="matrix(66.206,91.4591,91.4591,-66.206,79.1252,76.7299)">
-        <path d="M-0.159,0.504C0.057,0.698 0.387,0.723 0.633,0.546C0.878,0.368 0.957,0.047 0.84,-0.219L0.951,-0.3C1.111,0.028 1.017,0.433 0.711,0.654C0.406,0.876 -0.008,0.838 -0.27,0.584L-0.159,0.504ZM-0.185,-0.584C0.12,-0.805 0.534,-0.768 0.796,-0.514L0.685,-0.433C0.469,-0.628 0.139,-0.653 -0.106,-0.475C-0.352,-0.298 -0.431,0.023 -0.314,0.289L-0.425,0.37C-0.585,0.042 -0.491,-0.363 -0.185,-0.584Z" style="fill:url(#_Radial2);fill-rule:nonzero;"/>
+        <path d="M-0.159,0.504C0.057,0.698 0.387,0.723 0.633,0.546C0.878,0.368 0.957,0.047 0.84,-0.219L0.951,-0.3C1.111,0.028 1.017,0.433 0.711,0.654C0.406,0.876 -0.008,0.838 -0.27,0.584L-0.159,0.504ZM-0.185,-0.584C0.12,-0.805 0.534,-0.768 0.796,-0.514L0.685,-0.433C0.469,-0.628 0.139,-0.653 -0.106,-0.475C-0.352,-0.298 -0.431,0.023 -0.314,0.289L-0.425,0.37C-0.585,0.042 -0.491,-0.363 -0.185,-0.584Z" style="fill:url(#titans_Radial2);fill-rule:nonzero;"/>
     </g>
     <g transform="matrix(1.33333,0,0,1.33333,114.672,183.505)">
         <path d="M0,-127.559L0,-115.965C24.1,-110.826 42.169,-89.415 42.169,-63.776C42.169,-38.144 24.1,-16.733 0,-11.594L0,0C30.422,-5.299 53.554,-31.836 53.554,-63.776C53.554,-95.723 30.422,-122.26 0,-127.559ZM-64.549,-63.776C-64.549,-38.144 -46.479,-16.733 -22.38,-11.594L-22.38,0C-52.802,-5.299 -75.934,-31.836 -75.934,-63.776C-75.934,-95.723 -52.802,-122.26 -22.38,-127.559L-22.38,-115.965C-46.479,-110.826 -64.549,-89.415 -64.549,-63.776Z" style="fill:none;fill-rule:nonzero;stroke:rgb(187,189,192);stroke-width:2px;"/>
     </g>
     <defs>
-        <radialGradient id="_Radial1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.818775,0.574115,0.574115,-0.818775,0.0606645,-0.192183)"><stop offset="0" style="stop-color:rgb(240,118,174);stop-opacity:1"/><stop offset="0.6" style="stop-color:rgb(141,60,106);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(71,60,69);stop-opacity:1"/></radialGradient>
-        <radialGradient id="_Radial2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,5.55112e-17,5.55112e-17,-1,0,0.0701989)"><stop offset="0" style="stop-color:rgb(240,118,174);stop-opacity:1"/><stop offset="0.6" style="stop-color:rgb(141,60,106);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(71,60,69);stop-opacity:1"/></radialGradient>
+        <radialGradient id="titans_Radial1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.818775,0.574115,0.574115,-0.818775,0.0606645,-0.192183)"><stop offset="0" style="stop-color:rgb(240,118,174);stop-opacity:1"/><stop offset="0.6" style="stop-color:rgb(141,60,106);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(71,60,69);stop-opacity:1"/></radialGradient>
+        <radialGradient id="titans_Radial2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,5.55112e-17,5.55112e-17,-1,0,0.0701989)"><stop offset="0" style="stop-color:rgb(240,118,174);stop-opacity:1"/><stop offset="0.6" style="stop-color:rgb(141,60,106);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(71,60,69);stop-opacity:1"/></radialGradient>
     </defs>
 </svg>

@@ -33,6 +33,7 @@ nav:
   - Units: units.md
   - Promissory Notes: promissory-notes.md
   - Relics: relics.md
+  - Bounce House: bounce-house.md
 extra_css:
   - stylesheets/extra.css
 theme:

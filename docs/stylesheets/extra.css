@@ -49,3 +49,36 @@
 .unit-tech {
   background-color: #f5f5f5;
 }
+
+.leadership-card {
+  border: 5px solid #ad1d1c !important;
+  color: #ad1d1c;
+}
+.diplomacy-card {
+  border: 5px solid #bb5920 !important;
+  color: #bb5920;
+}
+.politics-card {
+  border: 5px solid #c5a500 !important;
+  color: #c5a500;
+}
+.construction-card {
+  border: 5px solid #467543 !important;
+  color: #467543;
+}
+.trade-card {
+  border: 5px solid #0e6376 !important;
+  color: #0e6376;
+}
+.warfare-card {
+  border: 5px solid #1356a3 !important;
+  color: #1356a3;
+}
+.technology-card {
+  border: 5px solid #2b3e9f !important;
+  color: #2b3e9f;
+}
+.imperial-card {
+  border: 5px solid #54296a !important;
+  color: #54296a;
+}

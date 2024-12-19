@@ -6,12 +6,12 @@
     </g>
     <g transform="matrix(1.33333,0,0,1.33333,-365.312,-602.822)">
         <g transform="matrix(0.75,-0,-0,0.75,273.984,452.117)">
-            <use xlink:href="#_Image1" x="0" y="0" width="153px" height="159px"/>
+            <use xlink:href="#ghost_Image1" x="0" y="0" width="153px" height="159px"/>
         </g>
     </g>
     <g transform="matrix(1.33333,0,0,1.33333,-365.312,-602.822)">
         <g transform="matrix(0.75,-0,-0,0.75,273.984,452.117)">
-            <use xlink:href="#_Image2" x="0" y="0" width="153px" height="159px"/>
+            <use xlink:href="#ghost_Image2" x="0" y="0" width="153px" height="159px"/>
         </g>
     </g>
     <defs>

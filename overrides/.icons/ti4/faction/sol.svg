@@ -6,7 +6,7 @@
     </g>
     <g transform="matrix(1.33333,0,0,1.33333,-620.222,-622.53)">
         <g transform="matrix(0.75,-0,-0,0.75,465.166,466.898)">
-            <use xlink:href="#_Image2" x="38" y="0" width="137px" height="143px"/>
+            <use xlink:href="#sol_Image2" x="38" y="0" width="137px" height="143px"/>
         </g>
     </g>
     <g transform="matrix(44.0227,-0.229619,0.225495,43.2321,60.7392,83.3236)">
@@ -14,7 +14,7 @@
     </g>
     <g transform="matrix(1.33333,0,0,1.33333,-620.222,-622.53)">
         <g transform="matrix(0.75,-0,-0,0.75,465.166,466.898)">
-            <use xlink:href="#_Image4" x="0" y="36" width="87px" height="91px"/>
+            <use xlink:href="#sol_Image4" x="0" y="36" width="87px" height="91px"/>
         </g>
     </g>
     <defs>

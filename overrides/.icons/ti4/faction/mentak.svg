@@ -17,7 +17,7 @@
             </clipPath>
             <g clip-path="url(#mentak_clip2)">
                 <g transform="matrix(1.24344,-0,-0,1.24344,-6.9985,-8.12549)">
-                    <use xlink:href="#_Image3" x="6.048" y="7.007" width="149px" height="141px"/>
+                    <use xlink:href="#mentak_Image3" x="6.048" y="7.007" width="149px" height="141px"/>
                 </g>
             </g>
         </g>
@@ -32,7 +32,7 @@
             </clipPath>
             <g clip-path="url(#mentak_clip5)">
                 <g transform="matrix(1.24344,-0,-0,1.24344,1.00118,0.874364)">
-                    <use xlink:href="#_Image6" x="0" y="0" width="161px" height="153px"/>
+                    <use xlink:href="#mentak_Image6" x="0" y="0" width="161px" height="153px"/>
                 </g>
             </g>
         </g>

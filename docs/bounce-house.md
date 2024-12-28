@@ -9,7 +9,7 @@
     ---
 
     * Twilight Wars [(65e553f31df5390015547650)](https://www.twilightwars.com/games/65e553f31df5390015547650)
-    * **Game Modes**: Base Game with Frontier Tokens, 10 victory points
+    * **Game Modes**: Base Game with Frontier Tokens + DET, 10 victory points
     * **Winning Path**: 5 stage 1s, 1 stage 2, 3 secrets
 
     Round 7 Status Phase Win

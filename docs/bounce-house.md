@@ -130,6 +130,7 @@
     | hurripain       | :ti4-faction-naaz: Naaz-Rokha Alliance       |           |
     | LAPDConvict     | :ti4-faction-jolnar: Universities of Jol-Nar |           |
     | patthepineapple | :ti4-faction-cabal: Vuil'Raith Cabal         |           |
+    | scruffy         | :ti4-faction-yssaril: Yssaril Tribes         |           |
 
 </div>
 

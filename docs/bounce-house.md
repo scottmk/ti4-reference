@@ -246,7 +246,9 @@
 
     _Have an Alliance promissory that belongs to each other player in a 6–8 player game_
 
-    None
+    | Player      | Faction                                      | Game                                       |
+    | ----------- | -------------------------------------------- | ------------------------------------------ |
+    | LAPDConvict | :ti4-faction-jolnar: Universities of Jol-Nar | [Game 7](bounce-house.md#game-7-20241119-) |
 
 -   ### Reduce, Reuse, Regret.
 

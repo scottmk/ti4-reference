@@ -3,6 +3,11 @@ toc_depth: 2
 ---
 
 # :ti4-faction-mahact: Mahact Gene-Sorcerers
+=== "Base Game"
+=== "Absol's Mod :ti4-absol:" 
+    !!! note
+
+        --8<-- "snippets/disclaimers/absol.md"
 
 <div class="grid cards" markdown>
 

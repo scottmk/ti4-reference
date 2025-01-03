@@ -3,6 +3,11 @@ toc_depth: 2
 ---
 
 # Units
+=== "Base Game"
+=== "Absol's Mod :ti4-absol:" 
+    !!! note
+
+        --8<-- "snippets/disclaimers/absol.md"
 
 ## Ships
 

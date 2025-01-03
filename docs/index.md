@@ -9,4 +9,10 @@ This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight
 * [TI4 Calculator](https://ti4battle.com/): a battle calculator for all TI4: PoK factions :material-information-outline:{ title="NB: This calculator does not include Absol's tech & mechs mods" }
 * [Twilight Imperium Fandom Wiki](https://twilight-imperium.fandom.com/wiki/Twilight_Imperium_Wiki)
 
+## Changelog
 
+### **02 Jan 25** 
+
+* Added changelog. 
+* Absol mod references are accurate as of 14 Oct 24. On 02 Jan 25, the Absol v4 changes were published to Async TI4. As I have an ongoing game still using the older versions, I'm probably going to wait until that game is finished to update the references on this page, as my group relies on this website for our games.
+* Added disclaimers to every page clarifying this

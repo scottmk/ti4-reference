@@ -64,6 +64,10 @@ hide:
     </div>
 
 === "Absol's Mod :ti4-absol:"
+    !!! note
+
+        --8<-- "snippets/disclaimers/absol.md"
+
     <div class="grid cards" markdown>
 
     -   

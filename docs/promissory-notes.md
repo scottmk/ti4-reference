@@ -3,6 +3,11 @@ toc_depth: 3
 ---
 
 # Promissory Notes
+=== "Base Game"
+=== "Absol's Mod :ti4-absol:" 
+    !!! note
+
+        --8<-- "snippets/disclaimers/absol.md"
 
 ## Generic
 

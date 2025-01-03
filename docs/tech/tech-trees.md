@@ -122,6 +122,9 @@ hide:
     </div>
 
 === "Absol's Mod :ti4-absol:"
+    !!! note
+
+        --8<-- "snippets/disclaimers/absol.md"
     <div markdown class="grid-container">
       <div markdown class="blue-tech grid-item">
     --8<-- "snippets/techs/absol/blue/antimass-deflectors.md"

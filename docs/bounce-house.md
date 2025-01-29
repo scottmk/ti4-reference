@@ -121,16 +121,15 @@
     * **Game Modes**: PoK, Absol's agendas/relics/techs, 4/4/4, 12 victory points
     * **Winning Path**: TBD
 
-    Round 5 Agenda Phase Win
-
     | Player          | Faction                                      | Total VPs |
     | --------------- | -------------------------------------------- | --------- |
-    | theMikeNIke76   | :ti4-faction-nekro: Nekro Virus              |           |
-    | mscott          | :ti4-faction-sardakk: Sardakk N'orr          |           |
-    | hurripain       | :ti4-faction-naaz: Naaz-Rokha Alliance       |           |
     | LAPDConvict     | :ti4-faction-jolnar: Universities of Jol-Nar |           |
-    | patthepineapple | :ti4-faction-cabal: Vuil'Raith Cabal         |           |
+    | theMikeNIke76   | :ti4-faction-nekro: Nekro Virus              |           |
+    | hurripain       | :ti4-faction-naaz: Naaz-Rokha Alliance       |           |
     | scruffy         | :ti4-faction-yssaril: Yssaril Tribes         |           |
+    | mscott          | :ti4-faction-sardakk: Sardakk N'orr          |           |
+    | patthepineapple | :ti4-faction-cabal: Vuil'Raith Cabal         |           |
+    
 
 </div>
 

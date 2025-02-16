@@ -73,7 +73,7 @@ toc_depth: 2
 -   ## __Special Units__
 
     ---
-    --8<-- "snippets/units/faction/pok/muaat-warsun.md"
+    --8<-- "snippets/units/faction/pok/muaat-war-sun.md"
 
 </div>
 

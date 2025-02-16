@@ -71,19 +71,11 @@ toc_depth: 2
 -   ## __Mech__
 
     ---
-    === "Base Game"
-        --8<-- "snippets/units/faction/pok/naaz-mech.md"
+    --8<-- "snippets/units/faction/pok/naaz-mech.md"
 
-        ---
+    ---
 
-        --8<-- "snippets/units/faction/pok/naaz-mech-space.md"
-
-    === "Absol's Mod :ti4-absol:"
-        --8<-- "snippets/units/faction/pok/naaz-mech.md"
-
-        ---
-
-        --8<-- "snippets/units/faction/absol/naaz-mech-space.md"
+    --8<-- "snippets/units/faction/pok/naaz-mech-space.md"
 
 -   ## __Faction Technologies__
 

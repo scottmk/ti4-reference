@@ -1,6 +1,6 @@
 ### **Prototype War Sun I**
 
-Unit Type: Warsun 
+Unit Type: War Sun 
 
 <span style="font-variant:small-caps;">Cost</span> 12 __|__ <span style="font-variant:small-caps;">Combat</span> 3(x3) __|__ <span style="font-variant:small-caps;">Move</span> 1 __|__ <span style="font-variant:small-caps;">Capacity</span> 6
 

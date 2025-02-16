@@ -195,9 +195,9 @@
 
     _Research every technology of one color_
 
-    | Player        | Faction                          | Game                                                 |
-    | ------------- | -------------------------------- | ---------------------------------------------------- |
-    | theMikeNIke76 | :ti4-faction-nekro: Nekro Virus* | [Game 7](bounce-house.md#game-7-20241119---20250215) |
+    | Player        | Faction                          | Game                                               |
+    | ------------- | -------------------------------- | -------------------------------------------------- |
+    | theMikeNIke76 | :ti4-faction-nekro: Nekro Virus* | [Game 7](bounce-house.md#game-7-20241119-20250215) |
 
     \*<sup><sub>Nekro cannot research technology</sub></sup>
 
@@ -207,9 +207,9 @@
 
     _Score 6 VP in one game round_
 
-    | Player  | Faction                              | Game                                                 |
-    | ------- | ------------------------------------ | ---------------------------------------------------- |
-    | scruffy | :ti4-faction-yssaril: Yssaril Tribes | [Game 7](bounce-house.md#game-7-20241119---20250215) |
+    | Player  | Faction                              | Game                                               |
+    | ------- | ------------------------------------ | -------------------------------------------------- |
+    | scruffy | :ti4-faction-yssaril: Yssaril Tribes | [Game 7](bounce-house.md#game-7-20241119-20250215) |
 
 -   ### Not-Very-Secret Objective
 
@@ -253,9 +253,9 @@
 
     _Have an Alliance promissory that belongs to each other player in a 6–8 player game_
 
-    | Player      | Faction                                      | Game                                       |
-    | ----------- | -------------------------------------------- | ------------------------------------------ |
-    | LAPDConvict | :ti4-faction-jolnar: Universities of Jol-Nar | [Game 7](bounce-house.md#game-7-20241119-) |
+    | Player      | Faction                                      | Game                                               |
+    | ----------- | -------------------------------------------- | -------------------------------------------------- |
+    | LAPDConvict | :ti4-faction-jolnar: Universities of Jol-Nar | [Game 7](bounce-house.md#game-7-20241119-20250215) |
 
 -   ### Reduce, Reuse, Regret.
 
@@ -279,9 +279,9 @@
 
     _Have at least 1 promissory note that belongs to each other player in a 6–8 player game_
 
-    | Player      | Faction                                      | Game                                       |
-    | ----------- | -------------------------------------------- | ------------------------------------------ |
-    | LAPDConvict | :ti4-faction-jolnar: Universities of Jol-Nar | [Game 7](bounce-house.md#game-7-20241119-) |
+    | Player      | Faction                                      | Game                                               |
+    | ----------- | -------------------------------------------- | -------------------------------------------------- |
+    | LAPDConvict | :ti4-faction-jolnar: Universities of Jol-Nar | [Game 7](bounce-house.md#game-7-20241119-20250215) |
 
 -   ### Sincerely, Deleted
 

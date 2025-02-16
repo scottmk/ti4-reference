@@ -4,6 +4,6 @@
 
 **Erwan's Covenant: The Winds of Change**
 
-<span style="font-variant:small-caps;"><span style="font-variant:small-caps;">Action:</span></span>
+<span style="font-variant:small-caps;">Action</span>:
 
 Reveal cards from the action card deck until you reveal 3 action cards that have component actions. Draw those cards and shuffle the rest back into the action card deck. Then, purge this card.

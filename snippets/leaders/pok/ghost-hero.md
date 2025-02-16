@@ -4,6 +4,6 @@
 
 **Singularity Reactor: Changing the Ways**
 
-<span style="font-variant:small-caps;"><span style="font-variant:small-caps;">Action:</span></span>
+<span style="font-variant:small-caps;">Action</span>:
 
 Swap the positions of any 2 systems that contain wormholes or your units, other than the Creuss system and the wormhole nexus. Then, purge this card.

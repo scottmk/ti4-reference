@@ -4,6 +4,6 @@
 
 **Helio Command Array: Twilight Directive**
 
-<span style="font-variant:small-caps;"><span style="font-variant:small-caps;">Action:</span></span>
+<span style="font-variant:small-caps;">Action</span>:
 
 Remove each of your command tokens from the game board and return them to your reinforcements. Then, purge this card.

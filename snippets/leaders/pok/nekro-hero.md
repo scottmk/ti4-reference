@@ -4,6 +4,6 @@
 
 **Polymorphic Algorithm: Devour World**
 
-<span style="font-variant:small-caps;"><span style="font-variant:small-caps;">Action:</span></span>
+<span style="font-variant:small-caps;">Action</span>:
 
 Choose a planet that has a technology specialty in a system that contains your units. Destroy any other player's units on that planet. Gain trade goods equal to the planet's combined resource and influence values and gain 1 technology that matches the specialty of that planet. Then, purge this card.

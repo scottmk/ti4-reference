@@ -4,6 +4,6 @@
 
 **Ultrasonic Emitter: Overgrowth**
 
-<span style="font-variant:small-caps;"><span style="font-variant:small-caps;">Action:</span></span>
+<span style="font-variant:small-caps;">Action</span>:
 
 Produce any number of units in any number of systems that contain 1 or more of your ground forces. Then, purge this card.

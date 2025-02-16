@@ -4,6 +4,6 @@
 
 **Benediction: Pax Magnifica**
 
-<span style="font-variant:small-caps;"><span style="font-variant:small-caps;">Action:</span></span>
+<span style="font-variant:small-caps;">Action</span>:
 
 Move all units in the space area of any system to an adjacent system that contains a different player's ships. Space combat is resolved in that system. neither player can retreat or resolve abilities that would move their ships. Then, purge this card.

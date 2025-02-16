@@ -4,7 +4,7 @@
 
 **Probability Matrix: Time Warp**
 
-<span style="font-variant:small-caps;"><span style="font-variant:small-caps;">Action:</span></span>
+<span style="font-variant:small-caps;">Action</span>:
 
 Place this card near the game board. 
 Your flagship and units it transports can move out of systems that contain your command tokens during this game round. 

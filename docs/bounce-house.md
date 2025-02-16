@@ -30,7 +30,7 @@
 
     * Async TI4 ([pbd3220](https://ti4.westaddisonheavyindustries.com/game/pbd3220){:target="_blank"})
     * **Game Modes**: PoK Normal, 10 victory points
-    * **Winning Path**: 4 stage 1s, 0 stage 2s, 3 secrets, 1 supports, 1 shard, 1 custodian/imperial 
+    * **Winning Path**: 4 stage 1s, 0 stage 2s, 3 secrets, 1 support, 1 shard, 1 custodian/imperial 
 
     Round 5 Action Phase Win
 
@@ -47,7 +47,7 @@
 
     * Async TI4 ([pbd4190](https://ti4.westaddisonheavyindustries.com/game/pbd4190){:target="_blank"})
     * **Game Modes**: PoK Normal, 10 victory points
-    * **Winning Path**: 4 stage 1s, 1 stage 2s, 3 secrets, 1 supports
+    * **Winning Path**: 4 stage 1s, 1 stage 2, 3 secrets, 1 support
 
     Round 7 Status Phase Win
 
@@ -66,7 +66,7 @@
 
     * Async TI4 ([pbd4249](https://ti4.westaddisonheavyindustries.com/game/pbd4249){:target="_blank"})
     * **Game Modes**: PoK Normal, 10 victory points
-    * **Winning Path**: 4 stage 1s, 1 stage 2s, 3 secrets, 0 supports, 1 custodian/imperial
+    * **Winning Path**: 4 stage 1s, 1 stage 2, 3 secrets, 0 supports, 1 custodian/imperial
 
     Round 5 Action Phase Win
 
@@ -83,7 +83,7 @@
 
     * Async TI4 ([pbd4741](https://ti4.westaddisonheavyindustries.com/game/pbd4741){:target="_blank"})
     * **Game Modes**: PoK Normal, 14 victory points
-    * **Winning Path**: 5 stage 1s, 1 stage 2s, 3 secrets, 0 supports, 1 mutiny, 3 custodian/imperial
+    * **Winning Path**: 5 stage 1s, 1 stage 2, 3 secrets, 0 supports, 1 mutiny, 3 custodian/imperial
 
     Round 7 Action Phase Win
 
@@ -113,22 +113,24 @@
     | LAPDConvict           | :ti4-faction-saar: Clan of Saar       | 8 VP      |
     | patthepineapple       | :ti4-faction-l1z1x: L1Z1X Mindnet     | 5 VP      |
 
--   ### **Game 7:** 2024.11.19 - 
+-   ### **Game 7:** 2024.11.19 - 2025.02.15
 
     ---
 
     * Async TI4 ([pbd6200](https://ti4.westaddisonheavyindustries.com/game/pbd6200){:target="_blank"})
     * **Game Modes**: PoK, Absol's agendas/relics/techs, 4/4/4, 12 victory points
-    * **Winning Path**: TBD
+    * **Winning Path**: 4 stage 1s, 1 stage 2, 4 secrets, 1 support, 1 shard
+
+    Round 5 Agenda Phase Win
 
     | Player          | Faction                                      | Total VPs |
     | --------------- | -------------------------------------------- | --------- |
-    | LAPDConvict     | :ti4-faction-jolnar: Universities of Jol-Nar |           |
-    | theMikeNIke76   | :ti4-faction-nekro: Nekro Virus              |           |
-    | hurripain       | :ti4-faction-naaz: Naaz-Rokha Alliance       |           |
-    | scruffy         | :ti4-faction-yssaril: Yssaril Tribes         |           |
-    | mscott          | :ti4-faction-sardakk: Sardakk N'orr          |           |
-    | patthepineapple | :ti4-faction-cabal: Vuil'Raith Cabal         |           |
+    | :crown: scruffy | :ti4-faction-yssaril: Yssaril Tribes         | 12        |
+    | theMikeNIke76   | :ti4-faction-nekro: Nekro Virus              | 11        |
+    | LAPDConvict     | :ti4-faction-jolnar: Universities of Jol-Nar | 11        |
+    | hurripain       | :ti4-faction-naaz: Naaz-Rokha Alliance       | 10        |
+    | mscott          | :ti4-faction-sardakk: Sardakk N'orr          | 7         |
+    | patthepineapple | :ti4-faction-cabal: Vuil'Raith Cabal         | 5         |
     
 
 </div>
@@ -193,7 +195,11 @@
 
     _Research every technology of one color_
 
-    None
+    | Player        | Faction                          | Game                                                 |
+    | ------------- | -------------------------------- | ---------------------------------------------------- |
+    | theMikeNIke76 | :ti4-faction-nekro: Nekro Virus* | [Game 7](bounce-house.md#game-7-20241119---20250215) |
+
+    \*<sup><sub>Nekro cannot research technology</sub></sup>
 
 -   ### "Not a Threat"
 
@@ -201,7 +207,9 @@
 
     _Score 6 VP in one game round_
 
-    None
+    | Player  | Faction                              | Game                                                 |
+    | ------- | ------------------------------------ | ---------------------------------------------------- |
+    | scruffy | :ti4-faction-yssaril: Yssaril Tribes | [Game 7](bounce-house.md#game-7-20241119---20250215) |
 
 -   ### Not-Very-Secret Objective
 

@@ -2,4 +2,4 @@
 
 Requirements: :ti4-tech-propulsion: :ti4-tech-propulsion:
 
-During your tactical actions, you may treat your home system and the Mecatol Rex system as if they contained a γ wormhole.
+During your tactical actions, you treat your home system and the Mecatol Rex system as if they each contained a gamma (γ) wormhole.

@@ -2,6 +2,6 @@
 
 Requirements: :ti4-tech-biotic:
 
-You may exhaust this card during the action phase to place 2 infantry from your reinforcements on a planet that contains your ground forces.
+After you gain control of a planet, you may place 1 infantry from your reinforcements on that planet.
 
-After you win a ground combat, you may place 1 infantry from your reinforcements on that planet.
+If you have an infantry unit upgrade technology, you may reroll any dice rolled as part of your infantry units' abilities.

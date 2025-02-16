@@ -1,7 +1,7 @@
 ### **Scepter of Emelpar**:ti4-absol:
 
 When you would spend a token from your strategy pool, you may exhaust this card to spend a token from your reinforcements instead.
-<span style="font-variant:small-caps;">Action:</span> Spend a token from your strategy pool and purge this card to ready your strategy card.
+<span style="font-variant:small-caps;">Action</span>: Spend a token from your strategy pool and purge this card to ready your strategy card.
 [Note: You can still use the ACTION if this card is exhausted]
 
 ---

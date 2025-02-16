@@ -2,4 +2,6 @@
 
 Requirements: :ti4-tech-biotic: :ti4-tech-biotic:
 
-You may exhaust this card at the end of your turn to gain 1 command token or spend 1 command token from your strategy pool to ready an agent you control.
+Once per turn, after you perform an action, you may take a component action.
+
+You may exhaust this card at the end of your turn to gain 1 command token.

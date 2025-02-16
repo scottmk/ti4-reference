@@ -1,6 +1,6 @@
 ### **Tyrant's Lament**:ti4-absol:
 
-Unit Type: Flagship 
+Unit Type: Ship 
 
 <span style="font-variant:small-caps;">Combat</span> 5(x3) __|__ <span style="font-variant:small-caps;">Move</span> 2
 

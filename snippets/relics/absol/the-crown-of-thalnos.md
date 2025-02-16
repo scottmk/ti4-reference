@@ -1,12 +1,14 @@
 ### **The Crown of Thalnos**:ti4-absol:
 
-During the roll dice step of combat, you may also roll a number of dice up to the unused capacity of your ships in the active system.
+At the start of combat, you may exhaust this card to place a number of dice up to the capacity of your ships in the active system on this card.
 
-For each result of 5-10, generate 1 hit.
+Each combat round, roll the dice on this card in addition to your combat dice.
 
-For each result of 1-4, your opponent generates 1 additional hit.
+For each result of 5-10, you produce 1 additional hit.
 
-At the end of combat, if you used this ability, exhaust this card.
+For each result of 1-4, your opponent produces 1 additional hit.
+
+At the end of combat, remove all dice from this card.
 
 ---
 

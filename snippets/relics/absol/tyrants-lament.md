@@ -1,6 +1,6 @@
 ### **Tyrant's Lament**:ti4-absol:
 
-[_Tyrant's Lament_ is a special flagship unit you may add to your faction playmat.]
+[_Tyrant's Lament_ is a special unit you may add to your faction playmat. It is *not* a flagship.]
 
 <span style="font-variant:small-caps;">Move 2</span> __|__ <span style="font-variant:small-caps;">Combat</span> 5(x3)
 

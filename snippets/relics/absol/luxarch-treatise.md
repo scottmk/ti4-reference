@@ -1,6 +1,8 @@
 ### **Luxarch Treatise**:ti4-absol:
 
-You may exhaust this card to perform a tactical action in a system that contains 1 of your command tokens.
+When performing a tactical action, you may exhaust this card to activate a system that contains 1 of your command tokens.
+
+[Note: still costs a command token]
 
 When you activate a system, you may place this card next to the game board.
 If you do, you may ignore your fleet pool limit and add +2 to the results of your ships' combat rolls in the active system.

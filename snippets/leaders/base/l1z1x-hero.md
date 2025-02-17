@@ -6,4 +6,6 @@
 
 <span style="font-variant:small-caps;">Action</span>:
 
-Choose 1 system that does not contain other players' ships. you may move your flagship and any number of your dreadnoughts from other systems into the chosen system. Then, purge this card.[Note: This can move/carry ground forces and fighters up to capacity, but cannot land them]
+Choose 1 system that does not contain other players' ships. you may move your flagship and any number of your dreadnoughts from other systems into the chosen system. Then, purge this card.
+
+<sup><sub>Note: This can move/carry ground forces and fighters up to capacity, but cannot land them</sub></sup>

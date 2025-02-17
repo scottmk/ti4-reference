@@ -4,7 +4,7 @@
 
 Then, place the destroyed planet token on that planet and purge this card.
 
-[Note: You cannot choose a planet that you control]
+<sup><sub>Note: You cannot choose a planet that you control</sub></sup>
 
 ---
 

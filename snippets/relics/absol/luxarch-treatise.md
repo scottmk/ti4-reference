@@ -2,7 +2,7 @@
 
 When performing a tactical action, you may exhaust this card to activate a system that contains 1 of your command tokens.
 
-[Note: still costs a command token]
+<sup><sub>Note: Still costs a command token</sub></sup>
 
 When you activate a system, you may place this card next to the game board.
 If you do, you may ignore your fleet pool limit and add +2 to the results of your ships' combat rolls in the active system.

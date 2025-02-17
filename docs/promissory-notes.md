@@ -227,4 +227,10 @@ toc_depth: 3
     --8<-- "snippets/promissory-notes/ds/faction/nivyn-nivyn-guidance.md"
 
 </div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/promissory-notes/ds/faction/vaylerian-clans-favor.md"
+
+</div>
 </div>

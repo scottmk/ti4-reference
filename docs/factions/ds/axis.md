@@ -2,7 +2,7 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-axis: Shipwrights of Axis :ti4-ds:
+# :ti4-faction-ds-axis: Shipwrights of Axis :ti4-ds:
 === "Base Game"
 === "Absol's Mod :ti4-absol:" 
     ???+ info

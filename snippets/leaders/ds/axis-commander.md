@@ -1,4 +1,4 @@
-### :ti4-faction-axis: **Commander**: Designer TckVsk - _Diligent Retro-Engineer_
+### :ti4-faction-ds-axis: **Commander**: Designer TckVsk - _Diligent Retro-Engineer_ :ti4-ds:
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 4 Axis Order cards of different unit types in 1 or more players' play areas.
 

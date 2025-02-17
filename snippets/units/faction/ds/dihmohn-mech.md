@@ -1,4 +1,4 @@
-### **Forgetender** :ti4-ds:
+### **Repairitor** :ti4-ds:
 
 Unit Type: Mech 
 
@@ -6,4 +6,4 @@ Unit Type: Mech
 
 <span style="font-variant:small-caps;">Sustain Damage</span>
 
-You may treat a spacedock on this planet as if it has <span style="font-variant:small-caps;">Production</span> 5.
+At the start of a combat in this system you may repair 1 unit you control that is participating in that combat.

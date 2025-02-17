@@ -206,13 +206,19 @@ toc_depth: 3
 </div>
 </div>
 
-## Faction-specific: Discordant Stars
+## Faction-specific: Discordant Stars :ti4-ds:
 
 <div class="grid cards" markdown>
 <div class="grid cards" markdown>
 
 -   
     --8<-- "snippets/promissory-notes/ds/faction/axis-industry-secrets.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/promissory-notes/ds/faction/dihmohn-combat-drills.md"
 
 </div>
 </div>

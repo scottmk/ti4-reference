@@ -151,3 +151,37 @@ hide:
         --8<-- "snippets/relics/absol/tyrants-lament.md"
 
     </div>
+
+## Discordant Stars :ti4-ds:
+
+<div class="grid cards" markdown>
+
+-   
+
+    --8<-- "snippets/relics/ds/accretion-engine.md"
+
+-   
+
+    --8<-- "snippets/relics/ds/azdels-key.md"
+
+-   
+
+    --8<-- "snippets/relics/ds/e6-g0-network.md"
+
+-   
+
+    --8<-- "snippets/relics/ds/eye-of-vogul.md"
+
+-   
+
+    --8<-- "snippets/relics/ds/forgotten-throne.md"
+
+-   
+
+    --8<-- "snippets/relics/ds/starfall-array.md"
+
+-   
+
+    --8<-- "snippets/relics/ds/twilight-mirror.md"
+
+</div>

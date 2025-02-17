@@ -45,7 +45,7 @@ toc_depth: 3
 
 </div>
 
-## Faction-specific
+## Faction-specific: Base Game, Prophecy of Kings, and Codices
 
 <div class="grid cards" markdown>
 <div class="grid cards" markdown>
@@ -202,6 +202,17 @@ toc_depth: 3
 
 -   
     --8<-- "snippets/promissory-notes/pok/faction/yssaril-spy-net.md"
+
+</div>
+</div>
+
+## Faction-specific: Discordant Stars
+
+<div class="grid cards" markdown>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/promissory-notes/ds/faction/axis-industry-secrets.md"
 
 </div>
 </div>

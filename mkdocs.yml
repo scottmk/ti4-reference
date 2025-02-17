@@ -33,6 +33,8 @@ nav:
       - Vuil'raith Cabal: factions/pok/cabal.md
     - Codices:
       - Council Keleres: factions/codex/keleres.md
+    - Discordant Stars:
+      - Shipwrights of Axis: factions/ds/axis.md
   - Units: units.md
   - Promissory Notes: promissory-notes.md
   - Relics: relics.md

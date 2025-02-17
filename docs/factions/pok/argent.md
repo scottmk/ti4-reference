@@ -5,7 +5,7 @@ toc_depth: 2
 # :ti4-faction-argent: Argent Flight
 === "Base Game"
 === "Absol's Mod :ti4-absol:" 
-    !!! note
+    ???+ info
 
         --8<-- "snippets/disclaimers/absol.md"
 

@@ -64,7 +64,7 @@ hide:
     </div>
 
 === "Absol's Mod :ti4-absol:"
-    !!! note
+    ???+ info
 
         --8<-- "snippets/disclaimers/absol.md"
 

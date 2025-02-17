@@ -5,7 +5,7 @@ toc_depth: 2
 # :ti4-faction-l1z1x: L1Z1X Mindnet
 === "Base Game"
 === "Absol's Mod :ti4-absol:" 
-    !!! note
+    ???+ info
 
         --8<-- "snippets/disclaimers/absol.md"
 

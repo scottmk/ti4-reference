@@ -105,15 +105,15 @@ toc_depth: 2
 
     ---
     
-    --8<-- "snippets/leaders/pok/sol-agent.md"
+    --8<-- "snippets/leaders/base/sol-agent.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/sol-commander.md"
+    --8<-- "snippets/leaders/base/sol-commander.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/sol-hero.md"
+    --8<-- "snippets/leaders/base/sol-hero.md"
 
 -   ## __Faction Promissory Note__
 

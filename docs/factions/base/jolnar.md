@@ -106,15 +106,15 @@ toc_depth: 2
 
     ---
     
-    --8<-- "snippets/leaders/pok/jolnar-agent.md"
+    --8<-- "snippets/leaders/base/jolnar-agent.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/jolnar-commander.md"
+    --8<-- "snippets/leaders/base/jolnar-commander.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/jolnar-hero.md"
+    --8<-- "snippets/leaders/base/jolnar-hero.md"
 
 -   ## __Faction Promissory Note__
 

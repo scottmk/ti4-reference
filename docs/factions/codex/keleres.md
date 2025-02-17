@@ -102,22 +102,22 @@ toc_depth: 2
 
     ---
     
-    --8<-- "snippets/leaders/pok/keleres-agent.md"
+    --8<-- "snippets/leaders/codex/keleres-agent.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/keleres-commander.md"
+    --8<-- "snippets/leaders/codex/keleres-commander.md"
 
     ---
 
     === "Mentak Tribunii"
-        --8<-- "snippets/leaders/pok/keleres-hero-mentak.md"
+        --8<-- "snippets/leaders/codex/keleres-hero-mentak.md"
 
     === "Xxcha Tribunii"
-        --8<-- "snippets/leaders/pok/keleres-hero-xxcha.md"
+        --8<-- "snippets/leaders/codex/keleres-hero-xxcha.md"
 
     === "Argent Tribunii"
-        --8<-- "snippets/leaders/pok/keleres-hero-argent.md"
+        --8<-- "snippets/leaders/codex/keleres-hero-argent.md"
 
 -   ## __Faction Promissory Note__
 

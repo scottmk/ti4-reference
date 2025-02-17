@@ -100,15 +100,15 @@ toc_depth: 2
 
     ---
     
-    --8<-- "snippets/leaders/pok/arborec-agent.md"
+    --8<-- "snippets/leaders/base/arborec-agent.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/arborec-commander.md"
+    --8<-- "snippets/leaders/base/arborec-commander.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/arborec-hero.md"
+    --8<-- "snippets/leaders/base/arborec-hero.md"
 
 -   ## __Faction Promissory Note__
 

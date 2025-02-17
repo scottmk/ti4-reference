@@ -102,15 +102,15 @@ toc_depth: 2
 
     ---
     
-    --8<-- "snippets/leaders/pok/l1z1x-agent.md"
+    --8<-- "snippets/leaders/base/l1z1x-agent.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/l1z1x-commander.md"
+    --8<-- "snippets/leaders/base/l1z1x-commander.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/l1z1x-hero.md"
+    --8<-- "snippets/leaders/base/l1z1x-hero.md"
 
 -   ## __Faction Promissory Note__
 

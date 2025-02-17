@@ -96,15 +96,15 @@ toc_depth: 2
 
     ---
     
-    --8<-- "snippets/leaders/pok/muaat-agent.md"
+    --8<-- "snippets/leaders/base/muaat-agent.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/muaat-commander.md"
+    --8<-- "snippets/leaders/base/muaat-commander.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/muaat-hero.md"
+    --8<-- "snippets/leaders/base/muaat-hero.md"
 
 -   ## __Faction Promissory Note__
 

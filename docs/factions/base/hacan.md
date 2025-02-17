@@ -98,15 +98,15 @@ toc_depth: 2
 
     ---
     
-    --8<-- "snippets/leaders/pok/hacan-agent.md"
+    --8<-- "snippets/leaders/base/hacan-agent.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/hacan-commander.md"
+    --8<-- "snippets/leaders/base/hacan-commander.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/hacan-hero.md"
+    --8<-- "snippets/leaders/base/hacan-hero.md"
 
 -   ## __Faction Promissory Note__
 

@@ -91,15 +91,15 @@ toc_depth: 2
 
     ---
     
-    --8<-- "snippets/leaders/pok/nekro-agent.md"
+    --8<-- "snippets/leaders/base/nekro-agent.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/nekro-commander.md"
+    --8<-- "snippets/leaders/base/nekro-commander.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/nekro-hero.md"
+    --8<-- "snippets/leaders/base/nekro-hero.md"
 
 -   ## __Faction Promissory Note__
 

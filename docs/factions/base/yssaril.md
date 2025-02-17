@@ -94,15 +94,15 @@ toc_depth: 2
 
     ---
     
-    --8<-- "snippets/leaders/pok/yssaril-agent.md"
+    --8<-- "snippets/leaders/base/yssaril-agent.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/yssaril-commander.md"
+    --8<-- "snippets/leaders/base/yssaril-commander.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/yssaril-hero.md"
+    --8<-- "snippets/leaders/base/yssaril-hero.md"
 
 -   ## __Faction Promissory Note__
 

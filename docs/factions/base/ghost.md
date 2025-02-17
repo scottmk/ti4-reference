@@ -93,15 +93,15 @@ toc_depth: 2
 
     ---
     
-    --8<-- "snippets/leaders/pok/ghost-agent.md"
+    --8<-- "snippets/leaders/base/ghost-agent.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/ghost-commander.md"
+    --8<-- "snippets/leaders/base/ghost-commander.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/ghost-hero.md"
+    --8<-- "snippets/leaders/base/ghost-hero.md"
 
 -   ## __Faction Promissory Note__
 

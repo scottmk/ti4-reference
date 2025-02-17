@@ -81,15 +81,15 @@ toc_depth: 2
 
     ---
     
-    --8<-- "snippets/leaders/pok/winnu-agent.md"
+    --8<-- "snippets/leaders/base/winnu-agent.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/winnu-commander.md"
+    --8<-- "snippets/leaders/base/winnu-commander.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/winnu-hero.md"
+    --8<-- "snippets/leaders/base/winnu-hero.md"
 
 -   ## __Faction Promissory Note__
 

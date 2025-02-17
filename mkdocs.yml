@@ -5,31 +5,34 @@ nav:
   - Tech:
     - tech/tech-trees.md
   - Factions:
-    - Arborec: factions/arborec.md
-    - Argent Flight: factions/argent.md
-    - Barony of Letnev: factions/letnev.md
-    - Clan of Saar: factions/saar.md
-    - Council Keleres: factions/keleres.md
-    - Embers of Muaat: factions/muaat.md
-    - Emirates of Hacan: factions/hacan.md
-    - Empyrean: factions/empyrean.md
-    - Federation of Sol: factions/sol.md
-    - Ghosts of Creuss: factions/ghost.md
-    - L1Z1X Mindnet: factions/l1z1x.md
-    - Mahact Gene-Sorcerers: factions/mahact.md
-    - Mentak Coalition: factions/mentak.md
-    - Naalu Collective: factions/naalu.md
-    - Naaz-Rokha Alliance: factions/naaz.md
-    - Nekro Virus: factions/nekro.md
-    - Nomad: factions/nomad.md
-    - Sardakk N'orr: factions/sardakk.md
-    - Titans of Ul: factions/titans.md
-    - Universities of Jol-Nar: factions/jolnar.md
-    - Vuil'raith Cabal: factions/cabal.md
-    - Winnu: factions/winnu.md
-    - Xxcha Kingdom: factions/xxcha.md
-    - Yin Brotherhood: factions/yin.md
-    - Yssaril Tribes: factions/yssaril.md
+    - Base Game:
+      - Arborec: factions/base/arborec.md
+      - Barony of Letnev: factions/base/letnev.md
+      - Clan of Saar: factions/base/saar.md
+      - Embers of Muaat: factions/base/muaat.md
+      - Emirates of Hacan: factions/base/hacan.md
+      - Federation of Sol: factions/base/sol.md
+      - Ghosts of Creuss: factions/base/ghost.md
+      - L1Z1X Mindnet: factions/base/l1z1x.md
+      - Mentak Coalition: factions/base/mentak.md
+      - Naalu Collective: factions/base/naalu.md
+      - Nekro Virus: factions/base/nekro.md
+      - Sardakk N'orr: factions/base/sardakk.md
+      - Universities of Jol-Nar: factions/base/jolnar.md
+      - Winnu: factions/base/winnu.md
+      - Xxcha Kingdom: factions/base/xxcha.md
+      - Yin Brotherhood: factions/base/yin.md
+      - Yssaril Tribes: factions/base/yssaril.md
+    - Prophecy of Kings:
+      - Argent Flight: factions/pok/argent.md
+      - Empyrean: factions/pok/empyrean.md
+      - Mahact Gene-Sorcerers: factions/pok/mahact.md
+      - Naaz-Rokha Alliance: factions/pok/naaz.md
+      - Nomad: factions/pok/nomad.md
+      - Titans of Ul: factions/pok/titans.md
+      - Vuil'raith Cabal: factions/pok/cabal.md
+    - Codices:
+      - Council Keleres: factions/codex/keleres.md
   - Units: units.md
   - Promissory Notes: promissory-notes.md
   - Relics: relics.md

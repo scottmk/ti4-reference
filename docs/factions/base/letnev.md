@@ -94,15 +94,15 @@ toc_depth: 2
 
     ---
     
-    --8<-- "snippets/leaders/pok/letnev-agent.md"
+    --8<-- "snippets/leaders/base/letnev-agent.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/letnev-commander.md"
+    --8<-- "snippets/leaders/base/letnev-commander.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/letnev-hero.md"
+    --8<-- "snippets/leaders/base/letnev-hero.md"
 
 -   ## __Faction Promissory Note__
 

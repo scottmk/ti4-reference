@@ -88,15 +88,15 @@ toc_depth: 2
 
     ---
     
-    --8<-- "snippets/leaders/pok/yin-agent.md"
+    --8<-- "snippets/leaders/base/yin-agent.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/yin-commander.md"
+    --8<-- "snippets/leaders/base/yin-commander.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/yin-hero.md"
+    --8<-- "snippets/leaders/base/yin-hero.md"
 
 -   ## __Faction Promissory Note__
 

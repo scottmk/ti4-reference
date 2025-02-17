@@ -104,15 +104,15 @@ toc_depth: 2
 
     ---
     
-    --8<-- "snippets/leaders/pok/naalu-agent.md"
+    --8<-- "snippets/leaders/base/naalu-agent.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/naalu-commander.md"
+    --8<-- "snippets/leaders/base/naalu-commander.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/naalu-hero.md"
+    --8<-- "snippets/leaders/base/naalu-hero.md"
 
 -   ## __Faction Promissory Note__
 

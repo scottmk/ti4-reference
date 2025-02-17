@@ -90,15 +90,15 @@ toc_depth: 2
 
     ---
     
-    --8<-- "snippets/leaders/pok/mentak-agent.md"
+    --8<-- "snippets/leaders/base/mentak-agent.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/mentak-commander.md"
+    --8<-- "snippets/leaders/base/mentak-commander.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/mentak-hero.md"
+    --8<-- "snippets/leaders/base/mentak-hero.md"
 
 -   ## __Faction Promissory Note__
 

@@ -126,3 +126,81 @@ Taken from [TI4 Adjutant by Alexandre Coderre-Chabot](https://acodcha.github.io/
     * Spend 1 token from your strategy pool to draw 1 secret objective.
 
 </div>
+
+## Round Phases
+
+<div markdown class="grid cards">
+
+-   :fontawesome-solid-1: __Strategy Phase__
+
+    ---
+    
+    Beginning with the Speaker going clockwise, each player chooses a [Strategy Card](#strategy-cards).
+    
+    The number printed on the strategy card you choose determines your initiative for the round.
+
+    If there are four or fewer players, after everyone has chosen a Strategy Card, everyone chooses another card, beginning with the speaker.
+    Your initiative is the smaller of the two numbers.
+
+-   :fontawesome-solid-2: __Action Phase__
+
+    ---
+
+    In initiative order, each player takes a turn performing one of three possible actions: tactical, strategic, or component.
+
+    At any point, a player may pass, after which point they may no longer perform any actions.
+    
+    A player cannot pass until they have performed their strategic action or their strategy card has otherwise been exhausted.
+    A player may still play non-component-action Action Cards and Faction Abilities after they have passed.
+
+    The Action Phase ends after all players have passed.
+
+-   :fontawesome-solid-3: __Status Phase__
+
+    ---
+
+    The following steps are all performed in _initiative_ order, not Speaker order.
+    
+    1. Each player may score one Public Objective and one Secret Objective.
+    1. After all players have scored objectives, the Speaker reveals the next Public Objective. If there are no more objectives to reveal, the game ends in Imperium Rex. Whoever has the most points at that time wins the game; ties go to the player with the highest initiative.
+    1. Each player draws one action card.
+    1. Each player removes all their command tokens from the board.
+    1. Each player gains two command tokens and may redistribute all of their command tokens between tactical, fleet, and strategy pools.
+    1. Each player readies all cards, e.g., planets, technologies, agents, etc.
+    1. Each player repairs all units that have sustained damage.
+    1. Each player returns their Strategy Card to the pool.
+
+-   :fontawesome-solid-4: __Agenda Phase__
+
+    ---
+    
+    This phase occurs only after a player has successfully claimed the Custodians token from Mecatol Rex.
+    If that has not yet happened, proceed directly to the Strategy Phase in the next round.
+
+    Otherwise, the Speaker reveals the first agenda.
+    In Speaker order, starting with the player to the Speaker's left, each player may exhaust planets to cast votes, represented by each planet's Influence value.
+    If there is a tie, the Speaker breaks it.
+
+    Each player may perform one transaction with each other player for each agenda.
+
+</div>
+
+### Strategy Phase
+
+TODO
+
+### Action Phase
+
+#### Types of Actions
+
+* Tactical Action
+* Strategic Action
+* Component Action
+
+### Status Phase
+
+TODO
+
+### Agenda Phase
+
+TODO

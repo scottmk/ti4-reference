@@ -102,15 +102,15 @@ toc_depth: 2
 
     ---
     
-    --8<-- "snippets/leaders/pok/saar-agent.md"
+    --8<-- "snippets/leaders/base/saar-agent.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/saar-commander.md"
+    --8<-- "snippets/leaders/base/saar-commander.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/saar-hero.md"
+    --8<-- "snippets/leaders/base/saar-hero.md"
 
 -   ## __Faction Promissory Note__
 

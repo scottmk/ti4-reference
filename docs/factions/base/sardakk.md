@@ -90,15 +90,15 @@ toc_depth: 2
 
     ---
     
-    --8<-- "snippets/leaders/pok/sardakk-agent.md"
+    --8<-- "snippets/leaders/base/sardakk-agent.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/sardakk-commander.md"
+    --8<-- "snippets/leaders/base/sardakk-commander.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/sardakk-hero.md"
+    --8<-- "snippets/leaders/base/sardakk-hero.md"
 
 -   ## __Faction Promissory Note__
 

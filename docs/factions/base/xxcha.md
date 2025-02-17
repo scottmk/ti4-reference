@@ -90,15 +90,15 @@ toc_depth: 2
 
     ---
     
-    --8<-- "snippets/leaders/pok/xxcha-agent.md"
+    --8<-- "snippets/leaders/base/xxcha-agent.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/xxcha-commander.md"
+    --8<-- "snippets/leaders/base/xxcha-commander.md"
 
     ---
 
-    --8<-- "snippets/leaders/pok/xxcha-hero.md"
+    --8<-- "snippets/leaders/base/xxcha-hero.md"
 
 -   ## __Faction Promissory Note__
 

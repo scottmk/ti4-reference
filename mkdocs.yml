@@ -5,6 +5,7 @@ nav:
   - Tech:
     - tech/tech-trees.md
   - Factions:
+    - factions.md
     - Base Game:
       - Arborec: factions/base/arborec.md
       - Barony of Letnev: factions/base/letnev.md

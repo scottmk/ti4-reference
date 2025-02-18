@@ -82,3 +82,8 @@
   border: 5px solid #54296a !important;
   color: #54296a;
 }
+
+th:empty {
+  display: none !important;
+  border: none;
+}

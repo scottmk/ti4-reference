@@ -1,0 +1,43 @@
+# Overview
+
+## Base Game
+
+|                                                                                                   |                                                                                            |                                                                                          |                                                                                           |
+| :-----------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
+|      [<font size="72">:ti4-faction-arborec:</font><br>The Arborec](factions/base/arborec.md)      | [<font size="72">:ti4-faction-letnev:</font><br>Barony of Letnev](factions/base/letnev.md) |    [<font size="72">:ti4-faction-saar:</font><br>Clan of Saar](factions/base/saar.md)    |  [<font size="72">:ti4-faction-muaat:</font><br>Embers of Muaat](factions/base/muaat.md)  |
+|     [<font size="72">:ti4-faction-hacan:</font><br>Emirates of Hacan](factions/base/hacan.md)     |   [<font size="72">:ti4-faction-sol:</font><br>Federation of Sol](factions/base/sol.md)    | [<font size="72">:ti4-faction-ghost:</font><br>Ghosts of Creuss](factions/base/ghost.md) |   [<font size="72">:ti4-faction-l1z1x:</font><br>L1Z1X Mindnet](factions/base/l1z1x.md)   |
+|    [<font size="72">:ti4-faction-mentak:</font><br>Mentak Coalition](factions/base/mentak.md)     |  [<font size="72">:ti4-faction-naalu:</font><br>Naalu Collective](factions/base/naalu.md)  |   [<font size="72">:ti4-faction-nekro:</font><br>Nekro Virus](factions/base/nekro.md)    | [<font size="72">:ti4-faction-sardakk:</font><br>Sardakk N'orr](factions/base/sardakk.md) |
+| [<font size="72">:ti4-faction-jolnar:</font><br>Universities of Jol-Nar](factions/base/jolnar.md) |       [<font size="72">:ti4-faction-winnu:</font><br>Winnu](factions/base/winnu.md)        |  [<font size="72">:ti4-faction-xxcha:</font><br>Xxcha Kingdom](factions/base/xxcha.md)   |    [<font size="72">:ti4-faction-yin:</font><br>Yin Brotherhood](factions/base/yin.md)    |
+|    [<font size="72">:ti4-faction-yssaril:</font><br>Yssaril Tribes](factions/base/yssaril.md)     |                                                                                            |                                                                                          |                                                                                           |
+
+## Prophecy of Kings
+
+|                                                                                         |                                                                                            |                                                                                                 |                                                                                           |
+| :-------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
+| [<font size="72">:ti4-faction-argent:</font><br>Argent Flight](factions/base/argent.md) | [<font size="72">:ti4-faction-empyrean:</font><br>The Empyrean](factions/base/empyrean.md) | [<font size="72">:ti4-faction-mahact:</font><br>Mahact Gene-Sorcerers](factions/base/mahact.md) | [<font size="72">:ti4-faction-naaz:</font><br>Naaz-Rokha Alliance](factions/base/naaz.md) |
+|    [<font size="72">:ti4-faction-nomad:</font><br>The Nomad](factions/base/nomad.md)    |   [<font size="72">:ti4-faction-titans:</font><br>Titans of Ul](factions/base/titans.md)   |    [<font size="72">:ti4-faction-cabal:</font><br>Vuil'raith Cabal](factions/base/cabal.md)     |                                                                                           |
+
+## Codices
+
+|                                                                                             |
+| :-----------------------------------------------------------------------------------------: |
+| [<font size="72">:ti4-faction-keleres:</font><br>Council Keleres](factions/base/keleres.md) |
+
+## Discordant Stars
+
+|                                                                                              |                                                                                                      |                                                                                |                                                                                                 |
+| :------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
+| [<font size="72">:ti4-faction-ds-axis:</font><br>Shipwrights of Axis](factions/base/axis.md) |            [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars)            | [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars) | [<font size="72">:ti4-faction-ds-dihmohn:</font><br>Dih-Mohn Flotilla](factions/base/dihmon.md) |
+|        [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars)        |            [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars)            | [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars) |         [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars)          |
+|        [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars)        |            [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars)            | [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars) |         [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars)          |
+|        [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars)        |            [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars)            | [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars) |   [<font size="72">:ti4-faction-ds-nivyn:</font><br>Nivyn Star Kings](factions/base/nivyn.md)   |
+|        [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars)        |            [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars)            | [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars) |         [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars)          |
+|        [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars)        | [<font size="72">:ti4-faction-ds-vaylerian:</font><br>Vaylerian Scourge](factions/base/vaylerian.md) | [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars) |         [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars)          |
+|        [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars)        |            [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars)            | [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars) |         [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars)          |
+|  [<font size="72">:ti4-faction-ds-gledge:</font><br>GLEdge Union](factions/base/gledge.md)   |            [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars)            | [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars) |         [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars)          |
+|        [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars)        |            [<font size="72">:ti4-ds:</font><br>Coming Soon](factions.md#discordant-stars)            |                                                                                |                                                                                                 |
+
+
+
+
+

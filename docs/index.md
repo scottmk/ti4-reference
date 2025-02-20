@@ -11,6 +11,21 @@ This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight
 
 ## Changelog
 
+### **17 Feb 25**
+
+* Added [Discordant Stars relics](relics.md#discordant-stars)
+* Added [Factions overview page](factions.md)
+* Added [Dih-Mohn Flotilla](factions/ds/dihmohn.md)
+* Added [Nivyn Star Kings](factions/ds/nivyn.md)
+* Added [Vaylerian Scourge](factions/ds/vaylerian.md)
+* Added [GLEdge Union](factions/ds/gledge.md)
+
+### **16 Feb 25**
+
+* Updated Absol mod references to be accurate to v4 as of 16 Feb 25.
+* Restructured factions by expansion
+* Added [Shipwrights of Axis](factions/ds/axis.md)
+
 ### **02 Jan 25** 
 
 * Added changelog. 

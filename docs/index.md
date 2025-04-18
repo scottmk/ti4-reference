@@ -11,6 +11,10 @@ This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight
 
 ## Changelog
 
+### **17 Apr 25**
+
+* Updated trophy wall
+
 ### **17 Feb 25**
 
 * Added [Discordant Stars relics](relics.md#discordant-stars)

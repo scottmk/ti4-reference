@@ -132,6 +132,40 @@
     | mscott          | :ti4-faction-sardakk: Sardakk N'orr          | 7         |
     | patthepineapple | :ti4-faction-cabal: Vuil'Raith Cabal         | 5         |
     
+-   ### **Game 8:** 2025.02.19 - 2025.04.17
+
+    ---
+
+    * Async TI4 ([pbd8023](https://ti4.westaddisonheavyindustries.com/game/pbd8023){:target="_blank"})
+    * **Game Modes**: PoK, Discordant Stars, Absol's agendas/relics/techs, 4/4/4, 12 victory points
+    * **Winning Path**: 5 stage 1s, 3 secrets, 1 public secret, 2 supports, 1 Ixthian Rex point
+
+    Round 5 Action Phase Win (Turn 1)
+
+    | Player              | Faction                                      | Total VPs |
+    | ------------------- | -------------------------------------------- | --------- |
+    | :crown: LAPDConvict | :ti4-faction-xxcha: Xxcha Kingdom            | 12        |
+    | scruffy             | :ti4-faction-ds-dihmohn: Dih-Mohn Flotilla   | 10        |
+    | theMikeNIke76       | :ti4-faction-ds-nivyn: Nivyn Star Kings      | 8         |
+    | mscott              | :ti4-faction-ds-axis: Shipwrights of Axis    | 6         |
+    | hurripain           | :ti4-faction-ds-vaylerian: Vaylerian Scourge | 5         |
+
+-   ### **Game 9:** 2025.03.05 - 
+
+    ---
+
+    * Async TI4 ([pbd8391](https://ti4.westaddisonheavyindustries.com/game/pbd8391){:target="_blank"})
+    * **Game Modes**: PoK, Discordant Stars, Absol's agendas/relics/techs, 4/4/4, 12 victory points
+    * **Winning Path**: TBD
+
+    TBD
+
+    | Player        | Faction                                                | Total VPs |
+    | ------------- | ------------------------------------------------------ | --------- |
+    | LAPDConvict   | :ti4-faction-ds-mirveda: Mirveda Protectorate          |           |
+    | scruffy       | :ti4-faction-titans: Titans of Ul                      |           |
+    | theMikeNIke76 | :ti4-faction-ds-vaden: Vaden Banking Clans             |           |
+    | mscott        | :ti4-faction-ds-celdauri: Celdauri Trade Confederation |           |
 
 </div>
 

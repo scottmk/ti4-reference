@@ -15,6 +15,7 @@ This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight
 
 * Added [Florzen Profiteers](factions/ds/florzen.md)
 * Fixed formatting on Celdauri Trade Port I unit reference
+* Added [Free Systems Compact](factions/ds/freesystems.md)
 
 ### **17 Apr 25**
 

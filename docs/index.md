@@ -18,6 +18,7 @@ This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight
 * Fixed formatting on base AI Development Algorithm technology
 * Added [Celdauri Trade Federation](factions/ds/celdauri.md)
 * Fixed formatting on Space Dock unit and tech references
+* Added [Vaden Banking Clans](factions/ds/vaden.md)
 
 ### **17 Feb 25**
 

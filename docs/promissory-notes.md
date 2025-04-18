@@ -242,6 +242,12 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
+    --8<-- "snippets/promissory-notes/ds/faction/vaden-vaden-handshake.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
     --8<-- "snippets/promissory-notes/ds/faction/vaylerian-clans-favor.md"
 
 </div>

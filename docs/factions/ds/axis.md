@@ -73,6 +73,7 @@ toc_depth: 2
     <span style="font-variant:small-caps;">Cost</span>: 3 commodities
 
     At the end of your turn: Exhaust this card to place 1 dreadnought from your reinforcements in a system that contains 1 or more of your ships and 1 of your command tokens. 
+    
     At the start of the status phase, if this card is exhausted, return it to the Axis player's reinforcements.
 
     #### **Axis Order: Carrier**
@@ -80,6 +81,7 @@ toc_depth: 2
     <span style="font-variant:small-caps;">Cost</span>: 2 commodities
 
     At the end of your turn: Exhaust this card to place 1 carrier from your reinforcements in a system that contains 1 or more of your ships and 1 of your command tokens. 
+
     At the start of the status phase, if this card is exhausted, return it to the Axis player's reinforcements.
 
     #### **Axis Order: Cruiser**
@@ -87,6 +89,7 @@ toc_depth: 2
     <span style="font-variant:small-caps;">Cost</span>: 1 commodity
 
     At the end of your turn: Exhaust this card to place 1 cruiser from your reinforcements in a system that contains 1 or more of your ships and 1 of your command tokens. 
+
     At the start of the status phase, if this card is exhausted, return it to the Axis player's reinforcements.
 
     #### **Axis Order: 2 Destroyers**
@@ -94,7 +97,8 @@ toc_depth: 2
     <span style="font-variant:small-caps;">Cost</span>: 1 commodity
 
     At the end of your turn: Exhaust this card to place 2 destroyers from your reinforcements in a system that contains 1 or more of your ships and 1 of your command tokens. 
-    At the start of the status phase, if this card is exhausted, return it to the Axis player’s reinforcements.
+
+    At the start of the status phase, if this card is exhausted, return it to the Axis player's reinforcements.
 
 -   ## __Flagship__
 

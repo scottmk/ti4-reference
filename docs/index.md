@@ -14,6 +14,7 @@ This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight
 ### **17 Apr 25**
 
 * Updated trophy wall
+* Added [Mirveda Protectorate](factions/ds/mirveda.md)
 
 ### **17 Feb 25**
 

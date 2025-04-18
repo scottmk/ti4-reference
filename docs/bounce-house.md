@@ -1,5 +1,17 @@
 # Bounce House Trophy Wall
 
+## Leaderboard
+
+| Player              | Number of Games Won | Number of Games Played | Win Ratio |
+| ------------------- | :-----------------: | :--------------------: | :-------: |
+| :crown: LAPDConvict |          2          |           7            |   28.6%   |
+| :crown: scruffy     |          2          |           7            |   28.6%   |
+| mscott              |          2          |           8            |    25%    |
+| patthepineapple     |          1          |           4            |    25%    |
+| theMikeNIke76       |          1          |           5            |    20%    |
+| hurripain           |          0          |           7            |    0%     |
+| RyRyTheThird        |          0          |           1            |    0%     |
+
 ## Games
 
 <div markdown class="grid cards">

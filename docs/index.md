@@ -16,6 +16,8 @@ This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight
 * Updated trophy wall
 * Added [Mirveda Protectorate](factions/ds/mirveda.md)
 * Fixed formatting on base AI Development Algorithm technology
+* Added [Celdauri Trade Federation](factions/ds/celdauri.md)
+* Fixed formatting on Space Dock unit and tech references
 
 ### **17 Feb 25**
 

@@ -11,6 +11,10 @@ This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight
 
 ## Changelog
 
+### **18 Apr 25**
+
+* Added [Florzen Profiteers](factions/ds/florzen.md)
+
 ### **17 Apr 25**
 
 * Updated trophy wall

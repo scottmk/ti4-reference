@@ -14,6 +14,7 @@ This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight
 ### **27 Apr 25**
 
 * Added [Nokar Sellships](factions/ds/nokar.md)
+* Added [legendary planets](legendary-planets.md) reference page
 
 ### **18 Apr 25**
 

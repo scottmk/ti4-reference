@@ -1,10 +1,10 @@
 ---
-hide:
-  - navigation
-  - toc
+toc_depth: 2
 ---
 
 # Relics
+
+## Prophecy of Kings
 
 === "Base Game"
     <div class="grid cards" markdown>

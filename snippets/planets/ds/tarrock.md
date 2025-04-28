@@ -1,4 +1,4 @@
-### Prism
+### Tarrock
 
 :ti4-planets-resources-3: :ti4-planets-influence-0: :ti4-planets-industrial:
 

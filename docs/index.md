@@ -11,6 +11,10 @@ This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight
 
 ## Changelog
 
+### **27 Apr 25**
+
+* Added [Nokar Sellships](factions/ds/nokar.md)
+
 ### **18 Apr 25**
 
 * Added [Florzen Profiteers](factions/ds/florzen.md)

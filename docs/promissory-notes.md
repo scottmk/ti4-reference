@@ -275,4 +275,10 @@ toc_depth: 3
     --8<-- "snippets/promissory-notes/ds/faction/gledge-gledge-base.md"
 
 </div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/promissory-notes/ds/faction/nokar-nokar-navigator.md"
+
+</div>
 </div>

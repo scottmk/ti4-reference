@@ -4,13 +4,14 @@
 
 | Player              | Number of Games Won | Number of Games Played | Win Ratio |
 | ------------------- | :-----------------: | :--------------------: | :-------: |
-| :crown: LAPDConvict |          2          |           7            |   28.6%   |
-| :crown: scruffy     |          2          |           7            |   28.6%   |
-| mscott              |          2          |           8            |    25%    |
+| :crown: LAPDConvict |          3          |           8            |   37.5%   |
+| scruffy             |          2          |           8            |    25%    |
 | patthepineapple     |          1          |           4            |    25%    |
-| theMikeNIke76       |          1          |           5            |    20%    |
-| hurripain           |          0          |           7            |    0%     |
+| mscott              |          2          |           9            |   22.2%   |
+| theMikeNIke76       |          1          |           6            |   16.7%   |
+| ben                 |          0          |           0            |    0%     |
 | RyRyTheThird        |          0          |           1            |    0%     |
+| hurripain           |          0          |           7            |    0%     |
 
 ## Games
 
@@ -162,22 +163,22 @@
     | mscott              | :ti4-faction-ds-axis: Shipwrights of Axis    | 6         |
     | hurripain           | :ti4-faction-ds-vaylerian: Vaylerian Scourge | 5         |
 
--   ### **Game 9:** 2025.03.05 - 
+-   ### **Game 9:** 2025.03.05 - 2025.04.27
 
     ---
 
     * Async TI4 ([pbd8391](https://ti4.westaddisonheavyindustries.com/game/pbd8391){:target="_blank"})
     * **Game Modes**: PoK, Discordant Stars, Absol's agendas/relics/techs, 4/4/4, 12 victory points
-    * **Winning Path**: TBD
+    * **Winning Path**: 3 stage 1s, 4 secrets, 1 public secret, 1 Custodian point, supports, 1 Ixthian Rex point
 
-    TBD
+    Round 5 Status Phase Win
 
-    | Player        | Faction                                                | Total VPs |
-    | ------------- | ------------------------------------------------------ | --------- |
-    | LAPDConvict   | :ti4-faction-ds-mirveda: Mirveda Protectorate          |           |
-    | scruffy       | :ti4-faction-titans: Titans of Ul                      |           |
-    | theMikeNIke76 | :ti4-faction-ds-vaden: Vaden Banking Clans             |           |
-    | mscott        | :ti4-faction-ds-celdauri: Celdauri Trade Confederation |           |
+    | Player              | Faction                                                | Total VPs |
+    | ------------------- | ------------------------------------------------------ | --------- |
+    | :crown: LAPDConvict | :ti4-faction-ds-mirveda: Mirveda Protectorate          | 13        |
+    | scruffy             | :ti4-faction-titans: Titans of Ul                      | 10        |
+    | mscott              | :ti4-faction-ds-celdauri: Celdauri Trade Confederation | 9         |
+    | theMikeNIke76       | :ti4-faction-ds-vaden: Vaden Banking Clans             | 9         |
 
 </div>
 

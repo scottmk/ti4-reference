@@ -169,7 +169,7 @@
 
     * Async TI4 ([pbd8391](https://ti4.westaddisonheavyindustries.com/game/pbd8391){:target="_blank"})
     * **Game Modes**: PoK, Discordant Stars, Absol's agendas/relics/techs, 4/4/4, 12 victory points
-    * **Winning Path**: 3 stage 1s, 4 secrets, 1 public secret, 1 Custodian point, supports, 1 Ixthian Rex point
+    * **Winning Path**: 3 stage 1s, 1 stage 2, 4 secrets, 1 public secret, 1 Custodian point, 2 Imperial points
 
     Round 5 Status Phase Win
 

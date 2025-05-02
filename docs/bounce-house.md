@@ -6,12 +6,12 @@
 | ------------------- | :-----------------: | :--------------------: | :-------: |
 | :crown: LAPDConvict |          3          |           8            |   37.5%   |
 | scruffy             |          2          |           8            |    25%    |
-| patthepineapple     |          1          |           4            |    25%    |
 | mscott              |          2          |           9            |   22.2%   |
+| patthepineapple     |          1          |           4            |    25%    |
 | theMikeNIke76       |          1          |           6            |   16.7%   |
+| hurripain           |          0          |           7            |    0%     |
 | ben                 |          0          |           0            |    0%     |
 | RyRyTheThird        |          0          |           1            |    0%     |
-| hurripain           |          0          |           7            |    0%     |
 
 ## Games
 

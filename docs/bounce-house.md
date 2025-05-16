@@ -180,6 +180,25 @@
     | mscott              | :ti4-faction-ds-celdauri: Celdauri Trade Confederation | 9         |
     | theMikeNIke76       | :ti4-faction-ds-vaden: Vaden Banking Clans             | 9         |
 
+-   ### **Game 10:** 2025.04.26 - 
+
+    ---
+
+    * Async TI4 ([pbd9515](https://ti4.westaddisonheavyindustries.com/game/pbd9515){:target="_blank"})
+    * **Game Modes**: PoK, Discordant Stars, Absol's agendas/relics/techs, 4/4/4, 12 victory points
+    * **Winning Path**: TBD
+
+    TBD
+
+    | Player        | Faction                                     | Total VPs |
+    | ------------- | ------------------------------------------- | --------- |
+    | LAPDConvict   | :ti4-faction-naalu: Naalu Collective        |           |
+    | scruffy       | :ti4-faction-ds-nokar: Nokar Sellships      |           |
+    | mscott        | :ti4-faction-ghost: Ghosts of Creuss        |           |
+    | theMikeNIke76 | :ti4-faction-mahact: Mahact Gene-Sorcerers  |           |
+    | hurripain     | :ti4-faction-argent: Argent Flight          |           |
+    | ben           | :ti4-faction-ds-florzen: Florzen Profiteers |           |
+
 </div>
 
 ## Achievements

@@ -11,6 +11,10 @@ This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight
 
 ## Changelog
 
+### **15 May 25**
+
+* Updated trophy wall
+
 ### **27 Apr 25**
 
 * Added [Nokar Sellships](factions/ds/nokar.md)

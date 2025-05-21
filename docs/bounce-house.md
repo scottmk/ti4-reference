@@ -237,7 +237,9 @@
 
     _Trade someone their own promissory note_
 
-    None
+    | Player | Faction                              | Game                                          |
+    | ------ | ------------------------------------ | --------------------------------------------- |
+    | mscott | :ti4-faction-ghost: Ghosts of Creuss | [Game 10](bounce-house.md#game-10-20250426--) |
 
 -   ### Interdimensional Highway
 

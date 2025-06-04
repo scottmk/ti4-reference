@@ -11,6 +11,11 @@ This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight
 
 ## Changelog
 
+### **03 Jun 25**
+
+* Added [Ghemina Raiders](factions/ds/ghemina.md)
+* Added [Glimmer of Mortheus](factions/ds/mortheus.md)
+
 ### **15 May 25**
 
 * Updated trophy wall

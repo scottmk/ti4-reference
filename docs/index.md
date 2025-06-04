@@ -15,6 +15,7 @@ This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight
 
 * Added [Ghemina Raiders](factions/ds/ghemina.md)
 * Added [Glimmer of Mortheus](factions/ds/mortheus.md)
+* Added [Myko-Mentori](factions/ds/mykomentori.md)
 
 ### **15 May 25**
 

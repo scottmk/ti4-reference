@@ -242,6 +242,12 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
+    --8<-- "snippets/promissory-notes/ds/faction/ghemina-raid-leaders.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
     --8<-- "snippets/promissory-notes/ds/faction/mirveda-rapid-assembly.md"
 
 </div>

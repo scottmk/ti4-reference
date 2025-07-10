@@ -22,31 +22,7 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/base/letnev-commander.md"
-
-</div>
-<div class="grid cards" markdown>
-
--   
-    --8<-- "snippets/leaders/base/saar-commander.md"
-
-</div>
-<div class="grid cards" markdown>
-
--   
-    --8<-- "snippets/leaders/codex/keleres-commander.md"
-
-</div>
-<div class="grid cards" markdown>
-
--   
-    --8<-- "snippets/leaders/base/muaat-commander.md"
-
-</div>
-<div class="grid cards" markdown>
-
--   
-    --8<-- "snippets/leaders/base/hacan-commander.md"
+    --8<-- "snippets/leaders/pok/cabal-commander.md"
 
 </div>
 <div class="grid cards" markdown>
@@ -58,19 +34,37 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/base/sol-commander.md"
-
-</div>
-<div class="grid cards" markdown>
-
--   
     --8<-- "snippets/leaders/base/ghost-commander.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
+    --8<-- "snippets/leaders/base/hacan-commander.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/leaders/base/jolnar-commander.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/leaders/codex/keleres-commander.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
     --8<-- "snippets/leaders/base/l1z1x-commander.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/leaders/base/letnev-commander.md"
 
 </div>
 <div class="grid cards" markdown>
@@ -83,6 +77,12 @@ toc_depth: 3
 
 -   
     --8<-- "snippets/leaders/base/mentak-commander.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/leaders/base/muaat-commander.md"
 
 </div>
 <div class="grid cards" markdown>
@@ -112,25 +112,25 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
+    --8<-- "snippets/leaders/base/saar-commander.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
     --8<-- "snippets/leaders/base/sardakk-commander.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
+    --8<-- "snippets/leaders/base/sol-commander.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
     --8<-- "snippets/leaders/pok/titans-commander.md"
-
-</div>
-<div class="grid cards" markdown>
-
--   
-    --8<-- "snippets/leaders/base/jolnar-commander.md"
-
-</div>
-<div class="grid cards" markdown>
-
--   
-    --8<-- "snippets/leaders/pok/cabal-commander.md"
 
 </div>
 <div class="grid cards" markdown>

@@ -63,37 +63,7 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/pok/faction/letnev-war-funding.md"
-
-</div>
-<div class="grid cards" markdown>
-
--   
-    --8<-- "snippets/promissory-notes/pok/faction/saar-raghs-call.md"
-
-</div>
-<div class="grid cards" markdown>
-
--   
-    --8<-- "snippets/promissory-notes/pok/faction/keleres-keleres-rider.md"
-
-</div>
-<div class="grid cards" markdown>
-
--   
-    --8<-- "snippets/promissory-notes/pok/faction/muaat-fires-of-the-gashlai.md"
-
-</div>
-<div class="grid cards" markdown>
-
--   
-    --8<-- "snippets/promissory-notes/pok/faction/hacan-trade-convoys.md"
-
-</div>
-<div class="grid cards" markdown>
-
--   
-    --8<-- "snippets/promissory-notes/pok/faction/empyrean-dark-pact.md"
+    --8<-- "snippets/promissory-notes/pok/faction/cabal-crucible.md"
 
 </div>
 <div class="grid cards" markdown>
@@ -105,7 +75,7 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/pok/faction/sol-military-support.md"
+    --8<-- "snippets/promissory-notes/pok/faction/empyrean-dark-pact.md"
 
 </div>
 <div class="grid cards" markdown>
@@ -117,7 +87,31 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
+    --8<-- "snippets/promissory-notes/pok/faction/hacan-trade-convoys.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/promissory-notes/pok/faction/jolnar-research-agreement.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/promissory-notes/pok/faction/keleres-keleres-rider.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
     --8<-- "snippets/promissory-notes/pok/faction/l1z1x-cybernetic-enhancements.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/promissory-notes/pok/faction/letnev-war-funding.md"
 
 </div>
 <div class="grid cards" markdown>
@@ -130,6 +124,12 @@ toc_depth: 3
 
 -   
     --8<-- "snippets/promissory-notes/pok/faction/mentak-promise-of-protection.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/promissory-notes/pok/faction/muaat-fires-of-the-gashlai.md"
 
 </div>
 <div class="grid cards" markdown>
@@ -159,25 +159,25 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
+    --8<-- "snippets/promissory-notes/pok/faction/saar-raghs-call.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
     --8<-- "snippets/promissory-notes/pok/faction/sardakk-tekklar-legion.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
+    --8<-- "snippets/promissory-notes/pok/faction/sol-military-support.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
     --8<-- "snippets/promissory-notes/pok/faction/titans-terraform.md"
-
-</div>
-<div class="grid cards" markdown>
-
--   
-    --8<-- "snippets/promissory-notes/pok/faction/jolnar-research-agreement.md"
-
-</div>
-<div class="grid cards" markdown>
-
--   
-    --8<-- "snippets/promissory-notes/pok/faction/cabal-crucible.md"
 
 </div>
 <div class="grid cards" markdown>
@@ -242,6 +242,12 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
+    --8<-- "snippets/promissory-notes/ds/faction/gledge-gledge-base.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
     --8<-- "snippets/promissory-notes/ds/faction/ghemina-raid-leaders.md"
 
 </div>
@@ -272,13 +278,13 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/ds/faction/olradin-incite-revolution.md"
+    --8<-- "snippets/promissory-notes/ds/faction/nokar-nokar-navigator.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/ds/faction/zealots-favor-of-rhodun.md"
+    --8<-- "snippets/promissory-notes/ds/faction/olradin-incite-revolution.md"
 
 </div>
 <div class="grid cards" markdown>
@@ -296,13 +302,7 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/ds/faction/gledge-gledge-base.md"
-
-</div>
-<div class="grid cards" markdown>
-
--   
-    --8<-- "snippets/promissory-notes/ds/faction/nokar-nokar-navigator.md"
+    --8<-- "snippets/promissory-notes/ds/faction/zealots-favor-of-rhodun.md"
 
 </div>
 </div>

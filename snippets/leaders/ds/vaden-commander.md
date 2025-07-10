@@ -1,5 +1,4 @@
-### :ti4-faction-ds-vaden: **Commander**: Komdar Borodin - _Banker_
-
+### :ti4-faction-ds-vaden: **Commander**: Komdar Borodin - _Banker_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Have 1 or more different players' control tokens on your faction sheet for every 2 players in this game.
 
 At the start of the status phase:

@@ -1,5 +1,4 @@
-### :ti4-faction-ds-rhodun: **Agent**: Priestess Tuh - _The Edifier_
-
+### :ti4-faction-ds-rhodun: **Agent**: Priestess Tuh - _The Edifier_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 
 After a player researches a technology:

@@ -1,6 +1,6 @@
 ### :ti4-faction-ds-mykomentori: **Myko-Mentori Alliance**
 
-####  Amanita Muscaria - _Rampant Growth_
+####  Amanita Muscaria - _Rampant Growth_ :ti4-ds:
 
 After another player produces 1 or more hits against your units during space combat:
 

@@ -1,4 +1,4 @@
-### :ti4-faction-ds-celdauri: **Commander**: Henry Storcher - _Starbase Commander_
+### :ti4-faction-ds-celdauri: **Commander**: Henry Storcher - _Starbase Commander_ :ti4-ds:
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 1 space dock on the game board that is not in or adjacent to your home system.
 

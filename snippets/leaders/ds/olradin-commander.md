@@ -1,5 +1,4 @@
-### :ti4-faction-ds-olradin: **Commander**: Knak Halfear - _Grizzled Negotiator_
-
+### :ti4-faction-ds-olradin: **Commander**: Knak Halfear - _Grizzled Negotiator_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Control 1 cultural planet, 1 hazardous planet, and 1 industrial planet.
 
 When you pass:

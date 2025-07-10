@@ -1,6 +1,6 @@
 ### :ti4-faction-ds-rhodun: **Rhodun Alliance**
 
-####  Bishop Ulin - _The Librarian_
+####  Bishop Ulin - _The Librarian_ :ti4-ds:
 
 When researching a technology:
 

@@ -1,4 +1,4 @@
-### **Supremacy**
+### **Supremacy** :ti4-ds:
 
 Unit Type: Flagship 
 

@@ -1,5 +1,4 @@
-### :ti4-faction-ds-mirveda: **Commander**: Assault Machina - _Delta Shield_
-
+### :ti4-faction-ds-mirveda: **Commander**: Assault Machina - _Delta Shield_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Own 2 unit upgrade technologies.
 
 During Movement:

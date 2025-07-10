@@ -1,5 +1,4 @@
-### :ti4-faction-ds-rhodun: **Commander**: Bishop Ulin - _The Librarian_
-
+### :ti4-faction-ds-rhodun: **Commander**: Bishop Ulin - _The Librarian_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Have a technology with 2 or more prerequisites.
 
 When researching a technology:

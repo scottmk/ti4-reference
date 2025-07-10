@@ -1,6 +1,6 @@
 ### :ti4-faction-ds-nokar: **Nokar Alliance**
 
-####  Jack Hallard - _The Commodore_
+####  Jack Hallard - _The Commodore_ :ti4-ds:
 
 Before you assign hits to your ships during a space combat:
 

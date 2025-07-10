@@ -1,4 +1,4 @@
-### :ti4-tech-biotic: **Envoy Network**
+### :ti4-tech-biotic: **Envoy Network** :ti4-ds:
 
 Requirements: :ti4-tech-biotic:
 

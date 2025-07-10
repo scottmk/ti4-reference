@@ -1,4 +1,4 @@
-### :ti4-tech-unit-upgrade: **Trade Port II**
+### :ti4-tech-unit-upgrade: **Trade Port II** :ti4-ds:
 
 Requirements: :ti4-tech-cybernetic: :ti4-tech-cybernetic:
 

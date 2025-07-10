@@ -1,6 +1,6 @@
 ### :ti4-faction-ds-vaden: **Vaden Alliance**
 
-####  Komdar Borodin - _Banker_
+####  Komdar Borodin - _Banker_ :ti4-ds:
 
 At the start of the status phase:
 

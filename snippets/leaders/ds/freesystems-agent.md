@@ -1,5 +1,4 @@
-### :ti4-faction-ds-freesystems: **Agent**: Cordo Haved - _Friendly Diplomat_
-
+### :ti4-faction-ds-freesystems: **Agent**: Cordo Haved - _Friendly Diplomat_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 
 

@@ -1,4 +1,4 @@
-### :ti4-tech-unit-upgrade: **Sabre II**
+### :ti4-tech-unit-upgrade: **Sabre II** :ti4-ds:
 
 Requirements: :ti4-tech-warfare: :ti4-tech-warfare:
 

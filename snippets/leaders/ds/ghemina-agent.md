@@ -1,5 +1,4 @@
-### :ti4-faction-ds-ghemina: **Agent**: Skarvald & Torvar - _Raid Heralds_
-
+### :ti4-faction-ds-ghemina: **Agent**: Skarvald & Torvar - _Raid Heralds_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 
 When the active player produces 1 or more hits during a round of combat:

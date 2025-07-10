@@ -1,4 +1,4 @@
-### :ti4-tech-cybernetic: **Krovoz Strike Teams**
+### :ti4-tech-cybernetic: **Krovoz Strike Teams** :ti4-ds:
 
 Requirements: :ti4-tech-cybernetic: :ti4-tech-cybernetic:
 

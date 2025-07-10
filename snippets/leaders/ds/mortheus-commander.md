@@ -1,5 +1,4 @@
-### :ti4-faction-ds-mortheus: **Commander**: Komat - _Vibrant Blue_
-
+### :ti4-faction-ds-mortheus: **Commander**: Komat - _Vibrant Blue_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Have ships in 3 systems not adjacent to or including your home system
 
 At the start of a space combat while you are not the active player:

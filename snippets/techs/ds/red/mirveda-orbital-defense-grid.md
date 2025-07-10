@@ -1,4 +1,4 @@
-### :ti4-tech-warfare: **Orbital Defense Grid**
+### :ti4-tech-warfare: **Orbital Defense Grid** :ti4-ds:
 
 Requirements: :ti4-tech-warfare: :ti4-tech-warfare:
 

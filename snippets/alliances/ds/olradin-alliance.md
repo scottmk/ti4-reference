@@ -1,6 +1,6 @@
 ### :ti4-faction-ds-olradin: **Olradin Alliance**
 
-####  Knak Halfear - _Grizzled Negotiator_
+####  Knak Halfear - _Grizzled Negotiator_ :ti4-ds:
 
 When you pass:
 

@@ -1,5 +1,4 @@
-### :ti4-faction-ds-mirveda: **Hero**: Wrath Machina - _AI Mainframe_
-
+### :ti4-faction-ds-mirveda: **Hero**: Wrath Machina - _AI Mainframe_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 
 **Dhor's Hammer - Peace at Last**

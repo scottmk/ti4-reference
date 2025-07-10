@@ -1,5 +1,4 @@
-### :ti4-faction-ds-mykomentori: **Hero**: Coprinus Comatus - _Necromancer_
-
+### :ti4-faction-ds-mykomentori: **Hero**: Coprinus Comatus - _Necromancer_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 
 **Soul Cage - Rise Again**

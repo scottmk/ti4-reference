@@ -1,5 +1,4 @@
-### :ti4-faction-ds-mykomentori: **Agent**: Lactarius Indigo - _Omen Caller_
-
+### :ti4-faction-ds-mykomentori: **Agent**: Lactarius Indigo - _Omen Caller_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 
 Before a player rolls a die:

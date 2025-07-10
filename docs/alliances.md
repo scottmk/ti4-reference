@@ -177,6 +177,12 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
+    --8<-- "snippets/alliances/ds/cheiran-alliance.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
     --8<-- "snippets/alliances/ds/dihmohn-alliance.md"
 
 </div>

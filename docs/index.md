@@ -11,6 +11,10 @@ This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight
 
 ## Changelog
 
+### **10 Jul 25**
+
+* Added [Cheiran Hordes](factions/ds/cheiran.md)
+
 ### **09 Jul 25**
 
 * Reorganized Prophecy of Kings factions to be alphabetical by common name

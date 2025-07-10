@@ -1,4 +1,4 @@
-### :ti4-faction-ds-zealots: **Hero**: Saint Binal - _The Prophet_
+### :ti4-faction-ds-rhodun: **Hero**: Saint Binal - _The Prophet_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

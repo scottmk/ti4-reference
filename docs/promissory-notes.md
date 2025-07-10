@@ -290,6 +290,12 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
+    --8<-- "snippets/promissory-notes/ds/faction/rhodun-favor-of-rhodun.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
     --8<-- "snippets/promissory-notes/ds/faction/vaden-vaden-handshake.md"
 
 </div>
@@ -297,12 +303,6 @@ toc_depth: 3
 
 -   
     --8<-- "snippets/promissory-notes/ds/faction/vaylerian-clans-favor.md"
-
-</div>
-<div class="grid cards" markdown>
-
--   
-    --8<-- "snippets/promissory-notes/ds/faction/zealots-favor-of-rhodun.md"
 
 </div>
 </div>

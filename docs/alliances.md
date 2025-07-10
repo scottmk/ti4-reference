@@ -243,6 +243,12 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
+    --8<-- "snippets/alliances/ds/rhodun-alliance.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
     --8<-- "snippets/alliances/ds/vaden-alliance.md"
 
 </div>
@@ -250,12 +256,6 @@ toc_depth: 3
 
 -   
     --8<-- "snippets/alliances/ds/vaylerian-alliance.md"
-
-</div>
-<div class="grid cards" markdown>
-
--   
-    --8<-- "snippets/alliances/ds/zealots-alliance.md"
 
 </div>
 </div>

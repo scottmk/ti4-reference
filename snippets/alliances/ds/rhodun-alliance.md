@@ -1,4 +1,4 @@
-### :ti4-faction-ds-zealots: **Rhodun Alliance**
+### :ti4-faction-ds-rhodun: **Rhodun Alliance**
 
 ####  Bishop Ulin - _The Librarian_
 

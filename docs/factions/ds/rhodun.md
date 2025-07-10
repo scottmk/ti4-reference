@@ -2,7 +2,7 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-ds-zealots: Zealots of Rhodun :ti4-ds:
+# :ti4-faction-ds-rhodun: Zealots of Rhodun :ti4-ds:
 === "Base Game"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
@@ -64,12 +64,12 @@ toc_depth: 2
 -   ## __Flagship__
 
     ---
-    --8<-- "snippets/units/faction/ds/zealots-flagship.md"
+    --8<-- "snippets/units/faction/ds/rhodun-flagship.md"
 
 -   ## __Mech__
 
     ---
-    --8<-- "snippets/units/faction/ds/zealots-mech.md"
+    --8<-- "snippets/units/faction/ds/rhodun-mech.md"
 
 </div>
 
@@ -79,28 +79,28 @@ toc_depth: 2
 
     ---
 
-    --8<-- "snippets/techs/ds/yellow/zealots-sanctification-field.md"
+    --8<-- "snippets/techs/ds/yellow/rhodun-sanctification-field.md"
 
-    --8<-- "snippets/techs/ds/blue/zealots-pilgrimage-beacons.md"
+    --8<-- "snippets/techs/ds/blue/rhodun-pilgrimage-beacons.md"
 
 
 -   ## __Leaders__
 
     ---
     
-    --8<-- "snippets/leaders/ds/zealots-agent.md"
+    --8<-- "snippets/leaders/ds/rhodun-agent.md"
 
     ---
 
-    --8<-- "snippets/leaders/ds/zealots-commander.md"
+    --8<-- "snippets/leaders/ds/rhodun-commander.md"
 
     ---
 
-    --8<-- "snippets/leaders/ds/zealots-hero.md"
+    --8<-- "snippets/leaders/ds/rhodun-hero.md"
 
 -   ## __Faction Promissory Note__
 
     ---
-    --8<-- "snippets/promissory-notes/ds/faction/zealots-favor-of-rhodun.md"
+    --8<-- "snippets/promissory-notes/ds/faction/rhodun-favor-of-rhodun.md"
 
 </div>

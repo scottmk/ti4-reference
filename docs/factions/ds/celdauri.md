@@ -15,8 +15,8 @@ toc_depth: 2
 
     ---
 
-    * Louk: (2/1)
-    * Auldane: (1/3)
+    * Louk :ti4-planets-resources-2: :ti4-planets-influence-1:
+    * Auldane :ti4-planets-resources-1: :ti4-planets-influence-3:
     * Commodities: 4
 
 </div>

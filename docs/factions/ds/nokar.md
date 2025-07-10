@@ -15,8 +15,8 @@ toc_depth: 2
 
     ---
 
-    * Zarr: (2/1)
-    * Nokk: (1/1)
+    * Zarr :ti4-planets-resources-2: :ti4-planets-influence-1:
+    * Nokk :ti4-planets-resources-1: :ti4-planets-influence-1:
     * Commodities: 4
 
 </div>

@@ -15,8 +15,8 @@ toc_depth: 2
 
     ---
 
-    * Vadarian (3/0)
-    * Norvus: (1/2)
+    * Vadarian :ti4-planets-resources-3: :ti4-planets-influence-0:
+    * Norvus :ti4-planets-resources-1: :ti4-planets-influence-2:
     * Commodities: 3
 
 </div>

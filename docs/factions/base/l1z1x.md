@@ -15,7 +15,7 @@ toc_depth: 2
 
     ---
 
-    * \[0.0.0\] (5/0)
+    * \[0.0.0\] :ti4-planets-resources-5: :ti4-planets-influence-0:
     * Commodities: 2
 
 </div>

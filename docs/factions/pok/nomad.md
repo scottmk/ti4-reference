@@ -15,7 +15,7 @@ toc_depth: 2
 
     ---
 
-    * Arcturus (4/4)
+    * Arcturus :ti4-planets-resources-4: :ti4-planets-influence-4:
     * Commodities: 4
 
 </div>

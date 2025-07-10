@@ -15,7 +15,7 @@ toc_depth: 2
 
     ---
 
-    * Mordai II (4/0)
+    * Mordai II :ti4-planets-resources-4: :ti4-planets-influence-0:
     * Commodities: 3
 
 </div>

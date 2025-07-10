@@ -15,8 +15,8 @@ toc_depth: 2
 
     ---
 
-    * Biaheo: (3/0)
-    * Empero: (0/3)
+    * Biaheo :ti4-planets-resources-3: :ti4-planets-influence-0:
+    * Empero :ti4-planets-resources-0: :ti4-planets-influence-3:
     * Nebula
     * Commodities: 3
 

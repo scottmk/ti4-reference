@@ -15,7 +15,7 @@ toc_depth: 2
 
     ---
 
-    * Jord (4/2)
+    * Jord :ti4-planets-resources-4: :ti4-planets-influence-2:
     * Commodities: 4
 
 </div>

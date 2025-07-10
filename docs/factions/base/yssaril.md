@@ -15,8 +15,8 @@ toc_depth: 2
 
     ---
 
-    * Retillion (2/3)
-    * Shalloq (1/2)
+    * Retillion :ti4-planets-resources-2: :ti4-planets-influence-3:
+    * Shalloq :ti4-planets-resources-1: :ti4-planets-influence-2:
     * Commodities: 3
 
 </div>

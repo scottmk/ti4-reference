@@ -15,8 +15,8 @@ toc_depth: 2
 
     ---
 
-    * Naazir (2/1)
-    * Rokha (1/2)
+    * Naazir :ti4-planets-resources-2: :ti4-planets-influence-1:
+    * Rokha :ti4-planets-resources-1: :ti4-planets-influence-2:
     * Commodities: 3
 
 </div>

@@ -15,8 +15,8 @@ toc_depth: 2
 
     ---
 
-    * Jol (1/2)
-    * Nar (2/3)
+    * Jol :ti4-planets-resources-1: :ti4-planets-influence-2:
+    * Nar :ti4-planets-resources-2: :ti4-planets-influence-3:
     * Commodities: 4
 
 </div>

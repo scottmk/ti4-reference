@@ -15,8 +15,8 @@ toc_depth: 2
 
     ---
 
-    * Drah: (1/2)
-    * Trykk: (2/1)
+    * Drah :ti4-planets-resources-1: :ti4-planets-influence-2:
+    * Trykk :ti4-planets-resources-2: :ti4-planets-influence-1:
     * Commodities: 2
 
 </div>

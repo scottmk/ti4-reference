@@ -15,7 +15,7 @@ toc_depth: 2
 
     ---
 
-    * Shi-Halaum: (4/0)
+    * Shi-Halaum :ti4-planets-resources-4: :ti4-planets-influence-0:
     * Commodities: 1 (+1 per space dock)
 
 </div>

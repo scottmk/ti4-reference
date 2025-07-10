@@ -15,7 +15,7 @@ toc_depth: 2
 
     ---
 
-    * Vaylar (3/2)
+    * Vaylar :ti4-planets-resources-3: :ti4-planets-influence-2:
     * Commodities: 2
 
 </div>

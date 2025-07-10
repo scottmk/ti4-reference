@@ -15,8 +15,8 @@ toc_depth: 2
 
     ---
 
-    * Delmor: (2/1)
-    * Kyd: (1/2)
+    * Delmor :ti4-planets-resources-2: :ti4-planets-influence-1:
+    * Kyd :ti4-planets-resources-1: :ti4-planets-influence-2:
     * Commodities: 4
 
 </div>

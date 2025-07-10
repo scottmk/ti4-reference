@@ -15,7 +15,7 @@ toc_depth: 2
 
     ---
 
-    * Axis (5/0)
+    * Axis :ti4-planets-resources-5: :ti4-planets-influence-0:
     * Commodities: 5
 
 </div>

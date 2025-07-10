@@ -15,8 +15,8 @@ toc_depth: 2
 
     ---
 
-    * Ragh (2/1)
-    * Lisis II (0/1)
+    * Ragh :ti4-planets-resources-2: :ti4-planets-influence-1:
+    * Lisis II :ti4-planets-resources-0: :ti4-planets-influence-1:
     * Commodities: 3
 
 </div>

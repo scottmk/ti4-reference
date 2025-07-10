@@ -15,7 +15,7 @@ toc_depth: 2
 
     ---
 
-    * Ellas (3/3), Gravity Rift
+    * Ellas :ti4-planets-resources-3: :ti4-planets-influence-3:, Gravity Rift
     * Commodities: 3
 
 </div>

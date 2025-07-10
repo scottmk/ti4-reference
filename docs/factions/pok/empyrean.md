@@ -15,7 +15,7 @@ toc_depth: 2
 
     ---
 
-    * The Dark (3/4) with Nebula
+    * The Dark :ti4-planets-resources-3: :ti4-planets-influence-4:, Nebula
     * Commodities: 4
 
 </div>

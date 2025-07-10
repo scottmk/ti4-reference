@@ -15,8 +15,8 @@ toc_depth: 2
 
     ---
 
-    * Archon Ren (2/3)
-    * Archon Tau (1/1)
+    * Archon Ren :ti4-planets-resources-2: :ti4-planets-influence-3:
+    * Archon Tau :ti4-planets-resources-1: :ti4-planets-influence-1:
     * Commodities: 4
 
 </div>

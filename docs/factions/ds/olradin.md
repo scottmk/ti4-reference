@@ -15,7 +15,7 @@ toc_depth: 2
 
     ---
 
-    * Sanctuary (3/4)
+    * Sanctuary :ti4-planets-resources-3: :ti4-planets-influence-4:
     * Commodities: 3
 
 </div>

@@ -15,7 +15,7 @@ toc_depth: 2
 
     ---
 
-    * Muaat (4/1)
+    * Muaat :ti4-planets-resources-4: :ti4-planets-influence-1:
     * Commodities: 4
 
 </div>

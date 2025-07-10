@@ -15,9 +15,9 @@ toc_depth: 2
 
     ---
 
-    * Idyn: (1/0)
-    * Kroll: (1/1)
-    * Cyrra: (0/1)
+    * Idyn :ti4-planets-resources-1: :ti4-planets-influence-0:
+    * Kroll :ti4-planets-resources-1: :ti4-planets-influence-1:
+    * Cyrra :ti4-planets-resources-0: :ti4-planets-influence-1:
     * Commodities: 4
 
 </div>

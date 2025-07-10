@@ -15,7 +15,7 @@ toc_depth: 2
 
     ---
 
-    * Darien (4/4)
+    * Darien :ti4-planets-resources-4: :ti4-planets-influence-4:
     * Commodities: 2
 
 </div>

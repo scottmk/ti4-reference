@@ -15,8 +15,8 @@ toc_depth: 2
 
     ---
 
-    * Aldra (2/3)
-    * Beata (2/1)
+    * Aldra :ti4-planets-resources-2: :ti4-planets-influence-3:
+    * Beata :ti4-planets-resources-2: :ti4-planets-influence-1:
     * Commodities: 3
 
 </div>

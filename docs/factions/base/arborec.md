@@ -15,7 +15,7 @@ toc_depth: 2
 
     ---
 
-    * Nestphar (3/2)
+    * Nestphar :ti4-planets-resources-3: :ti4-planets-influence-2:
     * Commodities: 3
 
 </div>

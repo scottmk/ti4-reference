@@ -15,9 +15,9 @@ toc_depth: 2
 
     ---
 
-    * Valk (2/0)
-    * Avar (1/1)
-    * Ylir (0/2)
+    * Valk :ti4-planets-resources-2: :ti4-planets-influence-0:
+    * Avar :ti4-planets-resources-1: :ti4-planets-influence-1:
+    * Ylir :ti4-planets-resources-0: :ti4-planets-influence-2:
     * Commodities: 3
 
 </div>

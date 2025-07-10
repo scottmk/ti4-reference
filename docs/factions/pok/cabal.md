@@ -15,7 +15,7 @@ toc_depth: 2
 
     ---
 
-    * Acheron (4/0)
+    * Acheron :ti4-planets-resources-4: :ti4-planets-influence-0:
     * Commodities: 2
 
 </div>

@@ -15,7 +15,7 @@ toc_depth: 2
 
     ---
 
-    * Ixth (3/5)
+    * Ixth :ti4-planets-resources-3: :ti4-planets-influence-5:
     * Commodities: 3
 
 </div>

@@ -15,8 +15,8 @@ toc_depth: 2
 
     ---
 
-    * Maaluuk (0/2)
-    * Druua (3/1)
+    * Maaluuk :ti4-planets-resources-0: :ti4-planets-influence-2:
+    * Druua :ti4-planets-resources-3: :ti4-planets-influence-1:
     * Commodities: 3
 
 </div>

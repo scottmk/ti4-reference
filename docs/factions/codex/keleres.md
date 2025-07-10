@@ -16,16 +16,16 @@ toc_depth: 2
     ---
 
     === "Mentak Tribunii"
-        * Moll Primus (4/1)
+        * Moll Primus :ti4-planets-resources-4: :ti4-planets-influence-1:
 
     === "Xxcha Tribunii"
-        * Archon Ren (2/3)
-        * Archon Tau (1/1)
+        * Archon Ren :ti4-planets-resources-2: :ti4-planets-influence-3:
+        * Archon Tau :ti4-planets-resources-1: :ti4-planets-influence-1:
 
     === "Argent Tribunii"
-        * Valk (2/0)
-        * Avar (1/1)
-        * Ylir (0/2)
+        * Valk :ti4-planets-resources-2: :ti4-planets-influence-0:
+        * Avar :ti4-planets-resources-1: :ti4-planets-influence-1:
+        * Ylir :ti4-planets-resources-0: :ti4-planets-influence-2:
     * Commodities: 2
 
 </div>

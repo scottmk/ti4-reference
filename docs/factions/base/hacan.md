@@ -15,9 +15,9 @@ toc_depth: 2
 
     ---
 
-    * Arretze (2/0)
-    * Hercant (1/1)
-    * Kamdorn (0/1)
+    * Arretze :ti4-planets-resources-2: :ti4-planets-influence-0:
+    * Hercant :ti4-planets-resources-1: :ti4-planets-influence-1:
+    * Kamdorn :ti4-planets-resources-0: :ti4-planets-influence-1:
     * Commodities: 6
 
 </div>

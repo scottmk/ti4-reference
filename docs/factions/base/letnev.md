@@ -15,8 +15,8 @@ toc_depth: 2
 
     ---
 
-    * Arc Prime (4/0)
-    * Wren Terra (2/1)
+    * Arc Prime :ti4-planets-resources-4: :ti4-planets-influence-0:
+    * Wren Terra :ti4-planets-resources-2: :ti4-planets-influence-1:
     * Commodities: 2
 
 </div>

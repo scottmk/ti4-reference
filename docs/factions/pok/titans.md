@@ -15,7 +15,7 @@ toc_depth: 2
 
     ---
 
-    * Elysium (4/1)
+    * Elysium :ti4-planets-resources-4: :ti4-planets-influence-1:
     * Commodities: 2
 
 </div>

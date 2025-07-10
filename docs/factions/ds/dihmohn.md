@@ -15,7 +15,7 @@ toc_depth: 2
 
     ---
 
-    * Abyssus (4/2)
+    * Abyssus :ti4-planets-resources-4: :ti4-planets-influence-2:
     * Commodities: 2
 
 </div>

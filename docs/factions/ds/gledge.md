@@ -15,7 +15,7 @@ toc_depth: 2
 
     ---
 
-    * Last Stop (3/0)
+    * Last Stop :ti4-planets-resources-3: :ti4-planets-influence-0:
     * Commodities: 2
 
 </div>

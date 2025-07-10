@@ -15,8 +15,8 @@ toc_depth: 2
 
     ---
 
-    * Poh: (2/0)
-    * Orad: (3/1)
+    * Poh :ti4-planets-resources-2: :ti4-planets-influence-0:
+    * Orad :ti4-planets-resources-3: :ti4-planets-influence-1:
     * Commodities: 3
 
 </div>

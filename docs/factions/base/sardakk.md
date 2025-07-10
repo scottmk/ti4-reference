@@ -15,8 +15,8 @@ toc_depth: 2
 
     ---
 
-    * Tren'lak (1/0)
-    * Quinarra (3/1)
+    * Tren'lak :ti4-planets-resources-1: :ti4-planets-influence-0:
+    * Quinarra :ti4-planets-resources-3: :ti4-planets-influence-1:
     * Commodities: 3
 
 </div>

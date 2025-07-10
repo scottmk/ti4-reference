@@ -1,4 +1,4 @@
-### :ti4-faction-ds-mykomentori: **Mykomentori Alliance**
+### :ti4-faction-ds-mykomentori: **Myko-Mentori Alliance**
 
 ####  Amanita Muscaria - _Rampant Growth_
 

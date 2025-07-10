@@ -1,4 +1,4 @@
-### :ti4-faction-ds-dihmohn: **Dihmohn Alliance**
+### :ti4-faction-ds-dihmohn: **Dih-Mohn Alliance**
 
 ####  Clona Bathru - _Founder of Bathru Robotics_ :ti4-ds:
 

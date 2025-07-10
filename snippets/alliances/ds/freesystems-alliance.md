@@ -1,4 +1,4 @@
-### :ti4-faction-ds-freesystems: **Freesystems Alliance**
+### :ti4-faction-ds-freesystems: **Free Systems Alliance**
 
 ####  President Cyhn - _Crisis Leader_
 

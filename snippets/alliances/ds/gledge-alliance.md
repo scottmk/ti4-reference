@@ -1,4 +1,4 @@
-### :ti4-faction-ds-gledge: **Gledge Alliance**
+### :ti4-faction-ds-gledge: **GLEdge Alliance**
 
 ####  Voldun - _Forge Lord_ :ti4-ds:
 

@@ -1,4 +1,4 @@
-### :ti4-faction-ghost: __Ghosts of Creuss - Creuss Iff__
+### :ti4-faction-creuss: __Ghosts of Creuss - Creuss Iff__
 
 ---
 At the start of your turn during the action phase:

@@ -1,4 +1,4 @@
-### :ti4-faction-ghost: **Commander**: Sai Seravus - _Gatewarden_
+### :ti4-faction-creuss: **Commander**: Sai Seravus - _Gatewarden_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have units in 3 systems that contain alpha or beta wormholes.
 

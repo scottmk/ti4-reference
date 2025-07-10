@@ -69,6 +69,12 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
+    --8<-- "snippets/promissory-notes/pok/faction/creuss-creuss-iff.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
     --8<-- "snippets/promissory-notes/pok/faction/empyrean-blood-pact.md"
 
 </div>
@@ -76,12 +82,6 @@ toc_depth: 3
 
 -   
     --8<-- "snippets/promissory-notes/pok/faction/empyrean-dark-pact.md"
-
-</div>
-<div class="grid cards" markdown>
-
--   
-    --8<-- "snippets/promissory-notes/pok/faction/ghost-creuss-iff.md"
 
 </div>
 <div class="grid cards" markdown>

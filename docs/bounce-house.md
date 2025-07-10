@@ -69,7 +69,7 @@
     | :crown: patthepineapple | :ti4-faction-yssaril: Yssaril Tribes  | 10 VP     |
     | theMikeNIke76           | :ti4-faction-hacan: Emirates of Hacan | 9 VP      |
     | hurripain               | :ti4-faction-cabal: Vuil'Raith Cabal  | 9 VP      |
-    | mscott                  | :ti4-faction-ghost: Ghosts of Creuss  | 9 VP      |
+    | mscott                  | :ti4-faction-creuss: Ghosts of Creuss  | 9 VP      |
     | LAPDConvict             | :ti4-faction-letnev: Barony of Letnev | 9 VP      |
     | scruffy                 | :ti4-faction-yin: Brotherhood of Yin  | 8 VP      |
 
@@ -194,7 +194,7 @@
     | ------------- | ------------------------------------------- | --------- |
     | LAPDConvict   | :ti4-faction-naalu: Naalu Collective        |           |
     | scruffy       | :ti4-faction-ds-nokar: Nokar Sellships      |           |
-    | mscott        | :ti4-faction-ghost: Ghosts of Creuss        |           |
+    | mscott        | :ti4-faction-creuss: Ghosts of Creuss        |           |
     | theMikeNIke76 | :ti4-faction-mahact: Mahact Gene-Sorcerers  |           |
     | hurripain     | :ti4-faction-argent: Argent Flight          |           |
     | ben           | :ti4-faction-ds-florzen: Florzen Profiteers |           |
@@ -239,7 +239,7 @@
 
     | Player | Faction                              | Game                                          |
     | ------ | ------------------------------------ | --------------------------------------------- |
-    | mscott | :ti4-faction-ghost: Ghosts of Creuss | [Game 10](bounce-house.md#game-10-20250426--) |
+    | mscott | :ti4-faction-creuss: Ghosts of Creuss | [Game 10](bounce-house.md#game-10-20250426--) |
 
 -   ### Interdimensional Highway
 
@@ -415,7 +415,7 @@
 
     | Player | Faction                              | Game                                               |
     | ------ | ------------------------------------ | -------------------------------------------------- |
-    | mscott | :ti4-faction-ghost: Ghosts of Creuss | [Game 3](bounce-house.md#game-3-20240710-20240905) |
+    | mscott | :ti4-faction-creuss: Ghosts of Creuss | [Game 3](bounce-house.md#game-3-20240710-20240905) |
 
 -   ### 49/59
 

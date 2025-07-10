@@ -2,7 +2,7 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-ghost: Ghosts of Creuss
+# :ti4-faction-creuss: Ghosts of Creuss
 === "Base Game"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
@@ -65,12 +65,12 @@ toc_depth: 2
 -   ## __Flagship__
 
     ---
-    --8<-- "snippets/units/faction/pok/ghost-flagship.md"
+    --8<-- "snippets/units/faction/pok/creuss-flagship.md"
 
 -   ## __Mech__
 
     ---
-    --8<-- "snippets/units/faction/pok/ghost-mech.md"
+    --8<-- "snippets/units/faction/pok/creuss-mech.md"
 
 </div>
 
@@ -80,32 +80,32 @@ toc_depth: 2
 
     ---
     === "Base Game"
-        --8<-- "snippets/techs/pok/blue/ghost-wormhole-generator.md"
+        --8<-- "snippets/techs/pok/blue/creuss-wormhole-generator.md"
 
-        --8<-- "snippets/techs/pok/red/ghost-dimensional-splicer.md"
+        --8<-- "snippets/techs/pok/red/creuss-dimensional-splicer.md"
 
     === "Absol's Mod :ti4-absol:"
-        --8<-- "snippets/techs/absol/blue/ghost-wormhole-generator.md"
+        --8<-- "snippets/techs/absol/blue/creuss-wormhole-generator.md"
 
-        --8<-- "snippets/techs/absol/red/ghost-dimensional-splicer.md"
+        --8<-- "snippets/techs/absol/red/creuss-dimensional-splicer.md"
 
 -   ## __Leaders__
 
     ---
     
-    --8<-- "snippets/leaders/base/ghost-agent.md"
+    --8<-- "snippets/leaders/base/creuss-agent.md"
 
     ---
 
-    --8<-- "snippets/leaders/base/ghost-commander.md"
+    --8<-- "snippets/leaders/base/creuss-commander.md"
 
     ---
 
-    --8<-- "snippets/leaders/base/ghost-hero.md"
+    --8<-- "snippets/leaders/base/creuss-hero.md"
 
 -   ## __Faction Promissory Note__
 
     ---
-    --8<-- "snippets/promissory-notes/pok/faction/ghost-creuss-iff.md"
+    --8<-- "snippets/promissory-notes/pok/faction/creuss-creuss-iff.md"
 
 </div>

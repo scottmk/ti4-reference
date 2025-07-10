@@ -28,13 +28,13 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/pok/empyrean-commander.md"
+    --8<-- "snippets/leaders/base/creuss-commander.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/base/ghost-commander.md"
+    --8<-- "snippets/leaders/pok/empyrean-commander.md"
 
 </div>
 <div class="grid cards" markdown>

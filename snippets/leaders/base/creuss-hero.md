@@ -1,4 +1,4 @@
-### :ti4-faction-ghost: **Hero**: Riftwalker Meian - _Shaleri Guardian_
+### :ti4-faction-creuss: **Hero**: Riftwalker Meian - _Shaleri Guardian_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

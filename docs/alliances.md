@@ -10,151 +10,151 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/base/arborec-commander.md"
+    --8<-- "snippets/alliances/base/arborec-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/pok/argent-commander.md"
+    --8<-- "snippets/alliances/pok/argent-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/pok/cabal-commander.md"
+    --8<-- "snippets/alliances/pok/cabal-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/base/creuss-commander.md"
+    --8<-- "snippets/alliances/base/creuss-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/pok/empyrean-commander.md"
+    --8<-- "snippets/alliances/pok/empyrean-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/base/hacan-commander.md"
+    --8<-- "snippets/alliances/base/hacan-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/base/jolnar-commander.md"
+    --8<-- "snippets/alliances/base/jolnar-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/codex/keleres-commander.md"
+    --8<-- "snippets/alliances/codex/keleres-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/base/l1z1x-commander.md"
+    --8<-- "snippets/alliances/base/l1z1x-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/base/letnev-commander.md"
+    --8<-- "snippets/alliances/base/letnev-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/pok/mahact-commander.md"
+    --8<-- "snippets/alliances/pok/mahact-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/base/mentak-commander.md"
+    --8<-- "snippets/alliances/base/mentak-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/base/muaat-commander.md"
+    --8<-- "snippets/alliances/base/muaat-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/base/naalu-commander.md"
+    --8<-- "snippets/alliances/base/naalu-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/pok/naaz-commander.md"
+    --8<-- "snippets/alliances/pok/naaz-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/base/nekro-commander.md"
+    --8<-- "snippets/alliances/base/nekro-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/pok/nomad-commander.md"
+    --8<-- "snippets/alliances/pok/nomad-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/base/saar-commander.md"
+    --8<-- "snippets/alliances/base/saar-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/base/sardakk-commander.md"
+    --8<-- "snippets/alliances/base/sardakk-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/base/sol-commander.md"
+    --8<-- "snippets/alliances/base/sol-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/pok/titans-commander.md"
+    --8<-- "snippets/alliances/pok/titans-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/base/winnu-commander.md"
+    --8<-- "snippets/alliances/base/winnu-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/base/xxcha-commander.md"
+    --8<-- "snippets/alliances/base/xxcha-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/base/yin-commander.md"
+    --8<-- "snippets/alliances/base/yin-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/base/yssaril-commander.md"
+    --8<-- "snippets/alliances/base/yssaril-alliance.md"
 
 </div>
 </div>
@@ -165,97 +165,97 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/ds/axis-commander.md"
+    --8<-- "snippets/alliances/ds/axis-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/ds/celdauri-commander.md"
+    --8<-- "snippets/alliances/ds/celdauri-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/ds/dihmohn-commander.md"
+    --8<-- "snippets/alliances/ds/dihmohn-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/ds/florzen-commander.md"
+    --8<-- "snippets/alliances/ds/florzen-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/ds/freesystems-commander.md"
+    --8<-- "snippets/alliances/ds/freesystems-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/ds/ghemina-commander.md"
+    --8<-- "snippets/alliances/ds/ghemina-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/ds/gledge-commander.md"
+    --8<-- "snippets/alliances/ds/gledge-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/ds/mirveda-commander.md"
+    --8<-- "snippets/alliances/ds/mirveda-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/ds/mortheus-commander.md"
+    --8<-- "snippets/alliances/ds/mortheus-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/ds/mykomentori-commander.md"
+    --8<-- "snippets/alliances/ds/mykomentori-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/ds/nivyn-commander.md"
+    --8<-- "snippets/alliances/ds/nivyn-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/ds/nokar-commander.md"
+    --8<-- "snippets/alliances/ds/nokar-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/ds/olradin-commander.md"
+    --8<-- "snippets/alliances/ds/olradin-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/ds/vaden-commander.md"
+    --8<-- "snippets/alliances/ds/vaden-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/ds/vaylerian-commander.md"
+    --8<-- "snippets/alliances/ds/vaylerian-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/ds/zealots-commander.md"
+    --8<-- "snippets/alliances/ds/zealots-alliance.md"
 
 </div>
 </div>

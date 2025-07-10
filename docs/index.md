@@ -16,6 +16,7 @@ This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight
 * Reorganized Prophecy of Kings factions to be alphabetical by common name
 * Reorganized Discordant Stars factions to be alphabetical by common name
 * Added placeholders for Codex 4 "factions"
+* Fixed [alliances page](alliances.md) to be easier to read
 
 ### **03 Jun 25**
 

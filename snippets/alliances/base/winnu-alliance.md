@@ -1,0 +1,7 @@
+### :ti4-faction-winnu: **Winnu Alliance**
+
+####  Rickar Rickani - _The Hand of the Emperor_
+
+During combat:
+
+Apply +2 to the result of each of your unit's combat rolls in the Mecatol Rex system, your home system, and each system that contains a legendary planet.

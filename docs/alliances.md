@@ -201,6 +201,12 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
+    --8<-- "snippets/leaders/ds/gledge-commander.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
     --8<-- "snippets/leaders/ds/mirveda-commander.md"
 
 </div>
@@ -225,13 +231,13 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/ds/olradin-commander.md"
+    --8<-- "snippets/leaders/ds/nokar-commander.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/ds/zealots-commander.md"
+    --8<-- "snippets/leaders/ds/olradin-commander.md"
 
 </div>
 <div class="grid cards" markdown>
@@ -249,13 +255,7 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/leaders/ds/gledge-commander.md"
-
-</div>
-<div class="grid cards" markdown>
-
--   
-    --8<-- "snippets/leaders/ds/nokar-commander.md"
+    --8<-- "snippets/leaders/ds/zealots-commander.md"
 
 </div>
 </div>

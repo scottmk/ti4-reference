@@ -11,6 +11,12 @@ This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight
 
 ## Changelog
 
+### **09 Jul 25**
+
+* Reorganized Prophecy of Kings factions to be alphabetical by common name
+* Reorganized Discordant Stars factions to be alphabetical by common name
+* Added placeholders for Codex 4 "factions"
+
 ### **03 Jun 25**
 
 * Added [Ghemina Raiders](factions/ds/ghemina.md)

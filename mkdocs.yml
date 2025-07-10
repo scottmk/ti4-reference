@@ -8,18 +8,18 @@ nav:
     - factions.md
     - Base Game:
       - Arborec: factions/base/arborec.md
-      - Barony of Letnev: factions/base/letnev.md
-      - Clan of Saar: factions/base/saar.md
-      - Embers of Muaat: factions/base/muaat.md
-      - Emirates of Hacan: factions/base/hacan.md
-      - Federation of Sol: factions/base/sol.md
       - Ghosts of Creuss: factions/base/ghost.md
+      - Emirates of Hacan: factions/base/hacan.md
+      - Universities of Jol-Nar: factions/base/jolnar.md
+      - Barony of Letnev: factions/base/letnev.md
       - L1Z1X Mindnet: factions/base/l1z1x.md
+      - Embers of Muaat: factions/base/muaat.md
       - Mentak Coalition: factions/base/mentak.md
       - Naalu Collective: factions/base/naalu.md
       - Nekro Virus: factions/base/nekro.md
+      - Clan of Saar: factions/base/saar.md
       - Sardakk N'orr: factions/base/sardakk.md
-      - Universities of Jol-Nar: factions/base/jolnar.md
+      - Federation of Sol: factions/base/sol.md
       - Winnu: factions/base/winnu.md
       - Xxcha Kingdom: factions/base/xxcha.md
       - Yin Brotherhood: factions/base/yin.md
@@ -41,16 +41,16 @@ nav:
       - Florzen Profiteers: factions/ds/florzen.md
       - Free Systems Compact: factions/ds/freesystems.md
       - Ghemina Raiders: factions/ds/ghemina.md
+      - GLEdge Union: factions/ds/gledge.md
       - Mirveda Protectorate: factions/ds/mirveda.md
       - Glimmer of Mortheus: factions/ds/mortheus.md
       - Myko-Mentori: factions/ds/mykomentori.md
+      - Nokar Sellships: factions/ds/nokar.md
       - Nivyn Star Kings: factions/ds/nivyn.md
       - Olradin League: factions/ds/olradin.md
-      - Zealots of Rhodun: factions/ds/zealots.md
       - Vaden Banking Clans: factions/ds/vaden.md
       - Vaylerian Scourge: factions/ds/vaylerian.md
-      - GLEdge Union: factions/ds/gledge.md
-      - Nokar Sellships: factions/ds/nokar.md
+      - Zealots of Rhodun: factions/ds/zealots.md
   - Units: units.md
   - Promissory Notes: promissory-notes.md
   - Alliances: alliances.md

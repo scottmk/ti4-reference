@@ -30,7 +30,7 @@ toc_depth: 2
     * :ti4-unit-carrier::ti4-unit-carrier:
     * :ti4-unit-cruiser:
     * :ti4-unit-fighter::ti4-unit-fighter::ti4-unit-fighter::ti4-unit-fighter::ti4-unit-fighter:
-    * :ti4-unit-pds:
+    * :ti4-unit-pds: :material-information-outline:{ title="See Gauss Cannon below" }
 
 -   ## __Starting Ground Units__
 

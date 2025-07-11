@@ -30,13 +30,13 @@ toc_depth: 2
     * :ti4-unit-carrier::ti4-unit-carrier:
     * :ti4-unit-cruiser:
     * :ti4-unit-fighter::ti4-unit-fighter:
+    * :ti4-unit-spacedock: :material-information-outline:{ title="See Floating Factory below" }
 
 -   ## __Starting Ground Units__
 
     ---
 
     * :ti4-unit-infantry::ti4-unit-infantry::ti4-unit-infantry::ti4-unit-infantry:
-    * :ti4-unit-spacedock:
 
 -   ## __Starting Technologies__
 

@@ -26,7 +26,7 @@ toc_depth: 2
 
     ---
 
-    * :ti4-unit-war sun:
+    * :ti4-unit-warsun:
     * :ti4-unit-fighter::ti4-unit-fighter:
 
 -   ## __Starting Ground Units__

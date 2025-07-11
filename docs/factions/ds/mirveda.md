@@ -27,17 +27,17 @@ toc_depth: 2
 
     ---
 
-    * 2 Carriers
-    * 1 Cruiser
-    * 5 Fighters
-    * 1 PDS :material-information-outline:{ title="See Gauss Cannon below" }
+    * :ti4-unit-carrier::ti4-unit-carrier:
+    * :ti4-unit-cruiser:
+    * :ti4-unit-fighter::ti4-unit-fighter::ti4-unit-fighter::ti4-unit-fighter::ti4-unit-fighter:
+    * :ti4-unit-pds:
 
 -   ## __Starting Ground Units__
 
     ---
 
-    * 2 Infantry
-    * 1 Space Dock
+    * :ti4-unit-infantry::ti4-unit-infantry:
+    * :ti4-unit-spacedock:
 
 -   ## __Starting Technologies__
 

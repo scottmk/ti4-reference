@@ -26,17 +26,17 @@ toc_depth: 2
 
     ---
 
-    * 2 Dreadnoughts
-    * 2 Destroyers
-    * 2 Fighters
+    * :ti4-unit-dreadnought::ti4-unit-dreadnought:
+    * :ti4-unit-destroyer::ti4-unit-destroyer:
+    * :ti4-unit-fighter::ti4-unit-fighter:
 
 -   ## __Starting Ground Units__
 
     ---
 
-    * 2 Infantry
-    * 1 Mech
-    * 1 Space Dock
+    * :ti4-unit-infantry::ti4-unit-infantry:
+    * :ti4-unit-mech:
+    * :ti4-unit-spacedock:
 
 -   ## __Starting Technologies__
 

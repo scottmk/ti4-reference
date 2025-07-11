@@ -27,17 +27,17 @@ toc_depth: 2
 
     ---
 
-    * 1 Carrier
-    * 1 Cruiser
-    * 1 Destroyer
-    * 3 Fighters
+    * :ti4-unit-carrier:
+    * :ti4-unit-cruiser:
+    * :ti4-unit-destroyer:
+    * :ti4-unit-fighter::ti4-unit-fighter::ti4-unit-fighter:
 
 -   ## __Starting Ground Units__
 
     ---
 
-    * 4 Infantry
-    * 1 Space Dock
+    * :ti4-unit-infantry::ti4-unit-infantry::ti4-unit-infantry::ti4-unit-infantry:
+    * :ti4-unit-spacedock:
 
 -   ## __Starting Technologies__
 

@@ -15,6 +15,7 @@ This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight
 
 * Added [Cheiran Hordes](factions/ds/cheiran.md)
 * Updated all planet references to use resources and influences icons
+* Updated all faction starting unit reference to use unit icons
 
 ### **09 Jul 25**
 

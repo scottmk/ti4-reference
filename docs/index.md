@@ -14,6 +14,7 @@ This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight
 ### **15 Jul 25**
 
 * Added [Savages of Cymiae](factions/ds/cymiae.md)
+* Updated trophy wall
 
 ### **10 Jul 25**
 

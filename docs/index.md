@@ -22,6 +22,7 @@ This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight
 * Updated all planet references to use resources and influences icons
 * Updated all faction starting unit reference to use unit icons
 * Added [Kollecc Society](factions/ds/kollecc.md)
+* Added [Roh'Dhna Mechatronics](factions/ds/rohdhna.md)
 
 ### **09 Jul 25**
 

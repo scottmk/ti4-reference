@@ -188,7 +188,7 @@
     * **Game Modes**: PoK, Discordant Stars, Absol's agendas/relics/techs, 4/4/4, 12 victory points
     * **Winning Path**: 3 stage 1s, 1 stage 2, 4 secrets, 3 supports
 
-    TBD
+    Round 4 Status Phase Win
 
     | Player              | Faction                                     | Total VPs |
     | ------------------- | ------------------------------------------- | --------- |

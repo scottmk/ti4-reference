@@ -1,0 +1,9 @@
+### **Revenant**
+
+Unit Type: Mech 
+
+<span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
+
+<span style="font-variant:small-caps;">Sustain Damage</span>
+
+At the start of each ground combat round, if this planet contains no more than 1 of your mechs, repair this unit.

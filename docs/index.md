@@ -11,6 +11,10 @@ This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight
 
 ## Changelog
 
+### **15 Jul 25**
+
+* Added [Savages of Cymiae](factions/ds/cymiae.md)
+
 ### **10 Jul 25**
 
 * Added [Cheiran Hordes](factions/ds/cheiran.md)

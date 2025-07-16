@@ -15,14 +15,15 @@ This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight
 
 * Added [Savages of Cymiae](factions/ds/cymiae.md)
 * Updated trophy wall
+* Added [Kollecc Society](factions/ds/kollecc.md)
+* Added [Roh'Dhna Mechatronics](factions/ds/rohdhna.md)
+* Added [Zelian Purifier](factions/ds/zelian.md)
 
 ### **10 Jul 25**
 
 * Added [Cheiran Hordes](factions/ds/cheiran.md)
 * Updated all planet references to use resources and influences icons
 * Updated all faction starting unit reference to use unit icons
-* Added [Kollecc Society](factions/ds/kollecc.md)
-* Added [Roh'Dhna Mechatronics](factions/ds/rohdhna.md)
 
 ### **09 Jul 25**
 

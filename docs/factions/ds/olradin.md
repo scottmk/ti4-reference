@@ -96,7 +96,7 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/ds/olradin-flagship.md"
 
--   ## __Mech__ :ti4-pok:
+-   ## __Mech__ <sup><sub>:ti4-pok:</sub></sup>
 
     This mech's ability depends on your Policies.
 
@@ -124,7 +124,7 @@ toc_depth: 2
     --8<-- "snippets/techs/ds/blue/olradin-geosympathic-impeller.md"
 
 
--   ## __Leaders__ :ti4-pok:
+-   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
     

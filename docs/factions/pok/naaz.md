@@ -2,7 +2,7 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-pok-naaz: Naaz-Rokha Alliance :ti4-pok:
+# :ti4-faction-pok-naaz: Naaz-Rokha Alliance <sup><sub>:ti4-pok:</sub></sup>
 === "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
@@ -68,7 +68,7 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/pok/naaz-flagship.md"
 
--   ## __Mech__ :ti4-pok:
+-   ## __Mech__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
     --8<-- "snippets/units/faction/pok/naaz-mech.md"
@@ -90,7 +90,7 @@ toc_depth: 2
 
         --8<-- "snippets/techs/absol/green/naaz-pre-fab-arcologies.md"
 
--   ## __Leaders__ :ti4-pok:
+-   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
     

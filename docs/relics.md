@@ -4,7 +4,7 @@ toc_depth: 2
 
 # Relics
 
-## Prophecy of Kings :ti4-pok:
+## Prophecy of Kings <sup><sub>:ti4-pok:</sub></sup>
 
 === "Unmodded"
     <div class="grid cards" markdown>
@@ -128,7 +128,7 @@ toc_depth: 2
 
     </div>
 
-## Codex :ti4-codex:
+## Codex <sup><sub>:ti4-codex:</sub></sup>
 
 === "Unmodded"
     <div class="grid cards" markdown>

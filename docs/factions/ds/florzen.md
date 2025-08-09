@@ -72,7 +72,7 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/ds/florzen-flagship.md"
 
--   ## __Mech__ :ti4-pok:
+-   ## __Mech__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
     --8<-- "snippets/units/faction/ds/florzen-mech.md"
@@ -99,7 +99,7 @@ toc_depth: 2
     --8<-- "snippets/techs/ds/green/florzen-blackmail-programs.md"
 
 
--   ## __Leaders__ :ti4-pok:
+-   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
     

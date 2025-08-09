@@ -63,7 +63,7 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/pok/saar-flagship.md"
 
--   ## __Mech__ :ti4-pok:
+-   ## __Mech__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
     === "Unmodded"
@@ -98,7 +98,7 @@ toc_depth: 2
 
         --8<-- "snippets/techs/absol/blue/saar-chaos-mapping.md"
 
--   ## __Leaders__ :ti4-pok:
+-   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
     

@@ -4,7 +4,7 @@ toc_depth: 2
 
 # Legendary Planets
 
-## Prophecy of Kings :ti4-pok:
+## Prophecy of Kings <sup><sub>:ti4-pok:</sub></sup>
 
 <div class="grid cards" markdown>
 

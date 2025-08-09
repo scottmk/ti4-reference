@@ -69,7 +69,7 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/pok/naalu-flagship.md"
 
--   ## __Mech__ :ti4-pok:
+-   ## __Mech__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
     --8<-- "snippets/units/faction/pok/naalu-mech.md"
@@ -100,7 +100,7 @@ toc_depth: 2
 
         --8<-- "snippets/techs/absol/green/naalu-neuroglaive.md"
 
--   ## __Leaders__ :ti4-pok:
+-   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
     

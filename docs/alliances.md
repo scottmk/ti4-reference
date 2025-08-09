@@ -111,7 +111,7 @@ toc_depth: 3
 </div>
 </div>
 
-## Prophecy of Kings :ti4-pok:
+## Prophecy of Kings <sup><sub>:ti4-pok:</sub></sup>
 
 <div class="grid cards" markdown>
 <div class="grid cards" markdown>
@@ -158,7 +158,7 @@ toc_depth: 3
 </div>
 </div>
 
-## Codices :ti4-codex:
+## Codices <sup><sub>:ti4-codex:</sub></sup>
 
 <div class="grid cards" markdown>
 <div class="grid cards" markdown>

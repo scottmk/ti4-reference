@@ -10,14 +10,14 @@
 |   [<font size="72">:ti4-faction-base-sol:</font><br>Federation of Sol](factions/base/sol.md)    |       [<font size="72">:ti4-faction-base-winnu:</font><br>Winnu](factions/base/winnu.md)        |   [<font size="72">:ti4-faction-base-xxcha:</font><br>Xxcha Kingdom](factions/base/xxcha.md)   |        [<font size="72">:ti4-faction-base-yin:</font><br>Yin Brotherhood](factions/base/yin.md)        |
 | [<font size="72">:ti4-faction-base-yssaril:</font><br>Yssaril Tribes](factions/base/yssaril.md) |                                                                                                 |                                                                                                |                                                                                                        |
 
-## Prophecy of Kings :ti4-pok:
+## Prophecy of Kings <sup><sub>:ti4-pok:</sub></sup>
 
 |                                                                                              |                                                                                             |                                                                                               |                                                                                                    |
 | :------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 |  [<font size="72">:ti4-faction-pok-argent:</font><br>Argent Flight](factions/pok/argent.md)  | [<font size="72">:ti4-faction-pok-cabal:</font><br>Vuil'raith Cabal](factions/pok/cabal.md) | [<font size="72">:ti4-faction-pok-empyrean:</font><br>The Empyrean](factions/pok/empyrean.md) | [<font size="72">:ti4-faction-pok-mahact:</font><br>Mahact Gene-Sorcerers](factions/pok/mahact.md) |
 | [<font size="72">:ti4-faction-pok-naaz:</font><br>Naaz-Rokha Alliance](factions/pok/naaz.md) |    [<font size="72">:ti4-faction-pok-nomad:</font><br>The Nomad](factions/pok/nomad.md)     |   [<font size="72">:ti4-faction-pok-titans:</font><br>Titans of Ul](factions/pok/titans.md)   |                                                                                                    |
 
-## Codices :ti4-codex:
+## Codices <sup><sub>:ti4-codex:</sub></sup>
 
 |                                                                                                    |                                                                                                                  |                                                                                                           |                                                                                |
 | :------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |

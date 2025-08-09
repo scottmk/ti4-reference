@@ -100,13 +100,13 @@
 
     Round 7 Action Phase Win
 
-    | Player              | Faction                                      | Total VPs |
-    | ------------------- | -------------------------------------------- | --------- |
-    | :crown: LAPDConvict | :ti4-faction-keleres: Council Keleres        | 14 VP     |
-    | mscott              | :ti4-faction-naalu: Naalu Collective         | 13 VP     |
-    | hurripain           | :ti4-faction-nomad: The Nomad                | 13 VP     |
-    | theMikeNIke76       | :ti4-faction-jolnar: Universities of Jol-Nar | 12 VP     |
-    | scruffy             | :ti4-faction-naaz: Naaz-Rokha Alliance       | 11 VP     |
+    | Player              | Faction                                        | Total VPs |
+    | ------------------- | ---------------------------------------------- | --------- |
+    | :crown: LAPDConvict | :ti4-faction-keleres: Council Keleres (Mentak) | 14 VP     |
+    | mscott              | :ti4-faction-naalu: Naalu Collective           | 13 VP     |
+    | hurripain           | :ti4-faction-nomad: The Nomad                  | 13 VP     |
+    | theMikeNIke76       | :ti4-faction-jolnar: Universities of Jol-Nar   | 12 VP     |
+    | scruffy             | :ti4-faction-naaz: Naaz-Rokha Alliance         | 11 VP     |
 
 -   ### **Game 6:** 2024.10.01 - 2024.11.18
 
@@ -205,31 +205,52 @@
 
 ### Leaderboard
 
-| Player        | Number of Games Won | Number of Games Played | Win Ratio |
-| ------------- | :-----------------: | :--------------------: | :-------: |
-| LAPDConvict   |          0          |           1            |    0%     |
-| mscott        |          0          |           1            |    0%     |
-| scruffy       |          0          |           2            |    0%     |
-| theMikeNIke76 |          0          |           0            |    0%     |
-| hurripain     |          0          |           0            |    0%     |
-| ben           |          0          |           0            |    0%     |
+| Player             | Number of Games Won | Number of Games Played | Win Ratio |
+| ------------------ | :-----------------: | :--------------------: | :-------: |
+| :crown:LAPDConvict |          1          |           1            |   100%    |
+| :crown:mscott      |          1          |           1            |   1000%   |
+| scruffy            |          0          |           2            |    0%     |
+| theMikeNIke76      |          0          |           0            |    0%     |
+| hurripain          |          0          |           0            |    0%     |
+| ben                |          0          |           0            |    0%     |
+| jtexp              |          0          |           0            |    0%     |
+| Water              |          0          |           0            |    0%     |
 
 <div markdown class="grid cards">
 
--   ### **Alliance Game 1:** 2025.06.02 - 
+-   ### **Alliance Game 1:** 2025.06.02 - 2025.08.03
 
     ---
 
     * Async TI4 ([pbd10515](https://ti4.westaddisonheavyindustries.com/game/pbd10515){:target="_blank"})
     * **Game Modes**: PoK, Discordant Stars, Absol's agendas/relics/techs, 4/4/4, 12+10 victory points
+    * **Winning Path**: 
+        * LAPDConvict - 2 stage 1s, 2 stage 2s, 3 secrets, 1 Custodians (10 VP)
+        * mscott - 1 stage 1, 3 stage 2s, 4 secrets, 1 Imperial (12 VP)
+
+    Round 6 Status Phase Win
+
+    | Player                              | Faction                                                                                | Total VPs |
+    | ----------------------------------- | -------------------------------------------------------------------------------------- | --------- |
+    | :crown:LAPDConvict<br>:crown:mscott | :ti4-faction-ds-ghemina: Ghemina Raiders<br>:ti4-faction-nomad: Nomad                  | 10<br>12  |
+    | scruffy<br>scruffy                  | :ti4-faction-ds-mykomentori: Myko-Mentori<br>:ti4-faction-ds-rhodun: Zealots of Rhodun | 6<br>6    |
+
+-   ### **Alliance Game 2:** TBD - 
+
+    ---
+
+    * Async TI4 ([pbd10515](https://ti4.westaddisonheavyindustries.com/game/pbd10515){:target="_blank"})
+    * **Game Modes**: PoK, Discordant Stars, Alliance Mode, Total War, Absol's agendas/relics/techs, 4/4/4, 14+12 victory points
     * **Winning Path**: TBD
 
     TBD
 
-    | Player               | Faction                                                                               | Total VPs |
-    | -------------------- | ------------------------------------------------------------------------------------- | --------- |
-    | scruffy<br>scruffy    | :ti4-faction-ds-mykomentori: Myko-Mentori<br>:ti4-faction-ds-rhodun: Zealots of Rhodun |           |
-    | LAPDConvict<br>mscott | :ti4-faction-ds-ghemina: Ghemina Raiders<br>:ti4-faction-nomad: Nomad                  |           |
+    | Player                   | Faction                                                                                    | Total VPs |
+    | ------------------------ | ------------------------------------------------------------------------------------------ | --------- |
+    | scruffy<br>theMikeNIke76 | :ti4-faction-ds-kollecc: Kollecc Society<br>:ti4-faction-keleres: Council Keleres (Mentak) |           |
+    | LAPDConvict<br>ben       | :ti4-faction-ds-zelian: Zelian Purifier<br>:ti4-faction-ds-cheiran: Cheiran Hordes         |           |
+    | hurripain<br>mscott      | :ti4-faction-ds-rohdhna: Roh'Dhna Mechatronics<br>:ti4-faction-l1z1x: L1Z1X Mindnet        |           |
+    | jtexp<br>Water           | :ti4-faction-naaz: Naaz-Rokha Alliance<br>:ti4-faction-ds-cymiae: Savages of Cymiae        |           |
 
 </div>
 

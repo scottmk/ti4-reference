@@ -3,7 +3,7 @@ toc_depth: 2
 ---
 
 # :ti4-faction-ds-kollecc: Kollecc Society :ti4-ds:
-=== "Base Game"
+=== "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
 
@@ -40,7 +40,7 @@ toc_depth: 2
 -   ## __Starting Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/yellow/scanlink-drone-network.md"
 
     === "Absol's Mod :ti4-absol:"  
@@ -67,7 +67,7 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/ds/kollecc-flagship.md"
 
--   ## __Mech__
+-   ## __Mech__ :ti4-pok:
 
     ---
     --8<-- "snippets/units/faction/ds/kollecc-mech.md"
@@ -85,7 +85,7 @@ toc_depth: 2
     --8<-- "snippets/techs/ds/blue/kollecc-shrouded-skirmishers.md"
 
 
--   ## __Leaders__
+-   ## __Leaders__ :ti4-pok:
 
     ---
     

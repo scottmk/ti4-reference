@@ -67,7 +67,7 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/pok/l1z1x-flagship.md"
 
--   ## __Mech__
+-   ## __Mech__ :ti4-pok:
 
     ---
     --8<-- "snippets/units/faction/pok/l1z1x-mech.md"
@@ -98,7 +98,7 @@ toc_depth: 2
 
         --8<-- "snippets/techs/absol/yellow/l1z1x-inheritance-systems.md"
 
--   ## __Leaders__
+-   ## __Leaders__ :ti4-pok:
 
     ---
     

@@ -2,7 +2,7 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-pok-mahact: Mahact Gene-Sorcerers
+# :ti4-faction-pok-mahact: Mahact Gene-Sorcerers :ti4-pok:
 === "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
@@ -71,7 +71,7 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/pok/mahact-flagship.md"
 
--   ## __Mech__
+-   ## __Mech__ :ti4-pok:
 
     ---
     --8<-- "snippets/units/faction/pok/mahact-mech.md"
@@ -102,7 +102,7 @@ toc_depth: 2
 
         --8<-- "snippets/techs/absol/green/mahact-genetic-recombination.md"
 
--   ## __Leaders__
+-   ## __Leaders__ :ti4-pok:
 
     ---
     

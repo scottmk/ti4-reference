@@ -10,20 +10,20 @@
 |   [<font size="72">:ti4-faction-base-sol:</font><br>Federation of Sol](factions/base/sol.md)    |       [<font size="72">:ti4-faction-base-winnu:</font><br>Winnu](factions/base/winnu.md)        |   [<font size="72">:ti4-faction-base-xxcha:</font><br>Xxcha Kingdom](factions/base/xxcha.md)   |        [<font size="72">:ti4-faction-base-yin:</font><br>Yin Brotherhood](factions/base/yin.md)        |
 | [<font size="72">:ti4-faction-base-yssaril:</font><br>Yssaril Tribes](factions/base/yssaril.md) |                                                                                                 |                                                                                                |                                                                                                        |
 
-## Prophecy of Kings
+## Prophecy of Kings :ti4-pok:
 
 |                                                                                              |                                                                                             |                                                                                               |                                                                                                    |
 | :------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 |  [<font size="72">:ti4-faction-pok-argent:</font><br>Argent Flight](factions/pok/argent.md)  | [<font size="72">:ti4-faction-pok-cabal:</font><br>Vuil'raith Cabal](factions/pok/cabal.md) | [<font size="72">:ti4-faction-pok-empyrean:</font><br>The Empyrean](factions/pok/empyrean.md) | [<font size="72">:ti4-faction-pok-mahact:</font><br>Mahact Gene-Sorcerers](factions/pok/mahact.md) |
 | [<font size="72">:ti4-faction-pok-naaz:</font><br>Naaz-Rokha Alliance](factions/pok/naaz.md) |    [<font size="72">:ti4-faction-pok-nomad:</font><br>The Nomad](factions/pok/nomad.md)     |   [<font size="72">:ti4-faction-pok-titans:</font><br>Titans of Ul](factions/pok/titans.md)   |                                                                                                    |
 
-## Codices
+## Codices :ti4-codex:
 
 |                                                                                                    |                                                                                                                  |                                                                                                           |                                                                                |
 | :------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
 | [<font size="72">:ti4-faction-codex-keleres:</font><br>Council Keleres](factions/codex/keleres.md) | [<font size="72">:ti4-faction-base-creuss:</font><br>Crimson Legionnaires<br>(Coming Soon)](factions.md#codices) | [<font size="72">:ti4-faction-base-nekro:</font><br>Ordinian Nekro<br>(Coming Soon)](factions.md#codices) | [<font size="72"></font><br>Salient Sun<br>(Coming Soon)](factions.md#codices) |
 
-## Discordant Stars
+## Discordant Stars :ti4-ds:
 
 |                                                                                                           |                                                                                                              |                                                                                                          |                                                                                                     |
 | :-------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |

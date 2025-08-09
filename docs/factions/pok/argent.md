@@ -2,7 +2,7 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-pok-argent: Argent Flight
+# :ti4-faction-pok-argent: Argent Flight <sup><sub>:ti4-pok:</sub></sup>
 === "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
@@ -81,7 +81,7 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/pok/argent-flagship.md"
 
--   ## __Mech__
+-   ## __Mech__ :ti4-pok:
 
     ---
     --8<-- "snippets/units/faction/pok/argent-mech.md"
@@ -112,7 +112,7 @@ toc_depth: 2
 
         --8<-- "snippets/techs/absol/yellow/argent-aerie-hololattice.md"
 
--   ## __Leaders__
+-   ## __Leaders__ :ti4-pok:
 
     ---
     

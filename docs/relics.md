@@ -4,7 +4,7 @@ toc_depth: 2
 
 # Relics
 
-## Prophecy of Kings (PoK)
+## Prophecy of Kings :ti4-pok:
 
 === "Unmodded"
     <div class="grid cards" markdown>
@@ -15,19 +15,7 @@ toc_depth: 2
 
     -   
 
-        --8<-- "snippets/relics/pok/dynamis-core.md"
-
-    -   
-
-        --8<-- "snippets/relics/pok/jr-xs455-0.md"
-
-    -   
-
         --8<-- "snippets/relics/pok/maw-of-worlds.md"
-
-    -   
-
-        --8<-- "snippets/relics/pok/nanoforge.md"
 
     -   
 
@@ -76,23 +64,11 @@ toc_depth: 2
 
     -   
 
-        --8<-- "snippets/relics/absol/dynamis-core.md"
-
-    -   
-
-        --8<-- "snippets/relics/absol/jr-xs455-0.md"
-
-    -   
-
         --8<-- "snippets/relics/absol/luxarch-treatise.md"
     
     -   
 
         --8<-- "snippets/relics/absol/maw-of-worlds.md"
-
-    -   
-
-        --8<-- "snippets/relics/absol/nanoforge.md"
 
     -   
 
@@ -151,6 +127,61 @@ toc_depth: 2
         --8<-- "snippets/relics/absol/tyrants-lament.md"
 
     </div>
+
+## Codex :ti4-codex:
+
+=== "Unmodded"
+    <div class="grid cards" markdown>
+
+    -   
+
+        --8<-- "snippets/relics/pok/dynamis-core.md"
+
+    -   
+
+        --8<-- "snippets/relics/pok/jr-xs455-0.md"
+
+    -   
+
+        --8<-- "snippets/relics/pok/nanoforge.md"
+
+    </div>
+
+=== "Absol's Mod :ti4-absol:"
+    ???+ info
+
+        --8<-- "snippets/disclaimers/absol.md"
+
+    <div class="grid cards" markdown>
+
+    -   
+
+        --8<-- "snippets/relics/absol/dynamis-core.md"
+
+    -   
+
+        --8<-- "snippets/relics/absol/jr-xs455-0.md"
+
+    -   
+
+        --8<-- "snippets/relics/absol/nanoforge.md"
+
+    </div>
+
+<div class="grid cards" markdown>
+
+-   
+
+    Coming soon
+
+-   
+
+    Coming soon
+
+-   
+
+    Coming soon
+</div>
 
 ## Discordant Stars :ti4-ds:
 

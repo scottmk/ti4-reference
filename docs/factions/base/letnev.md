@@ -68,7 +68,7 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/pok/letnev-flagship.md"
 
--   ## __Mech__
+-   ## __Mech__ :ti4-pok:
 
     ---
     --8<-- "snippets/units/faction/pok/letnev-mech.md"
@@ -90,7 +90,7 @@ toc_depth: 2
 
         --8<-- "snippets/techs/absol/red/letnev-non-euclidean-shielding.md"
 
--   ## __Leaders__
+-   ## __Leaders__ :ti4-pok:
 
     ---
     

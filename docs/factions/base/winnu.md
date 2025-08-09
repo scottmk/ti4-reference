@@ -59,7 +59,7 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/pok/winnu-flagship.md"
 
--   ## __Mech__
+-   ## __Mech__ :ti4-pok:
 
     ---
     --8<-- "snippets/units/faction/pok/winnu-mech.md"
@@ -77,7 +77,7 @@ toc_depth: 2
 
         --8<-- "snippets/techs/absol/yellow/winnu-hegemonic-trade-policy.md"
 
--   ## __Leaders__
+-   ## __Leaders__ :ti4-pok:
 
     ---
     

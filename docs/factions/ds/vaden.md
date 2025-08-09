@@ -3,7 +3,7 @@ toc_depth: 2
 ---
 
 # :ti4-faction-ds-vaden: Vaden Banking Clans :ti4-ds:
-=== "Base Game"
+=== "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
 
@@ -42,7 +42,7 @@ toc_depth: 2
 -   ## __Starting Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         ### **Choose two of the following**:
 
         --8<-- "snippets/techs/pok/blue/antimass-deflectors.md"
@@ -82,7 +82,7 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/ds/vaden-flagship.md"
 
--   ## __Mech__
+-   ## __Mech__ :ti4-pok:
 
     ---
     --8<-- "snippets/units/faction/ds/vaden-mech.md"
@@ -100,7 +100,7 @@ toc_depth: 2
     --8<-- "snippets/techs/ds/yellow/vaden-krovoz-strike-teams.md"
 
 
--   ## __Leaders__
+-   ## __Leaders__ :ti4-pok:
 
     ---
     

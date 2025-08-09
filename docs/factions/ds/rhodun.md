@@ -3,7 +3,7 @@ toc_depth: 2
 ---
 
 # :ti4-faction-ds-rhodun: Zealots of Rhodun :ti4-ds:
-=== "Base Game"
+=== "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
 
@@ -42,7 +42,7 @@ toc_depth: 2
 -   ## __Starting Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/green/bio-stims.md"
 
     === "Absol's Mod :ti4-absol:"  
@@ -66,7 +66,7 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/ds/rhodun-flagship.md"
 
--   ## __Mech__
+-   ## __Mech__ :ti4-pok:
 
     ---
     --8<-- "snippets/units/faction/ds/rhodun-mech.md"
@@ -84,7 +84,7 @@ toc_depth: 2
     --8<-- "snippets/techs/ds/blue/rhodun-pilgrimage-beacons.md"
 
 
--   ## __Leaders__
+-   ## __Leaders__ :ti4-pok:
 
     ---
     

@@ -64,7 +64,7 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/pok/xxcha-flagship.md"
 
--   ## __Mech__
+-   ## __Mech__ :ti4-pok:
 
     ---
     === "Unmodded"
@@ -86,7 +86,7 @@ toc_depth: 2
 
         --8<-- "snippets/techs/absol/yellow/xxcha-nullification-field.md"
 
--   ## __Leaders__
+-   ## __Leaders__ :ti4-pok:
 
     ---
     

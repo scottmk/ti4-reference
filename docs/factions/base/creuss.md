@@ -67,7 +67,7 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/pok/creuss-flagship.md"
 
--   ## __Mech__
+-   ## __Mech__ :ti4-pok:
 
     ---
     --8<-- "snippets/units/faction/pok/creuss-mech.md"
@@ -89,7 +89,7 @@ toc_depth: 2
 
         --8<-- "snippets/techs/absol/red/creuss-dimensional-splicer.md"
 
--   ## __Leaders__
+-   ## __Leaders__ :ti4-pok:
 
     ---
     

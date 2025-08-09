@@ -3,7 +3,7 @@ toc_depth: 2
 ---
 
 # :ti4-faction-ds-gledge: GLEdge Union :ti4-ds:
-=== "Base Game"
+=== "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
 
@@ -42,7 +42,7 @@ toc_depth: 2
 -   ## __Starting Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         ### **Choose two of the following**:
 
         --8<-- "snippets/techs/pok/red/ai-development-algorithm.md"
@@ -83,7 +83,7 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/ds/gledge-flagship.md"
 
--   ## __Mech__
+-   ## __Mech__ :ti4-pok:
 
     ---
     --8<-- "snippets/units/faction/ds/gledge-mech.md"
@@ -110,7 +110,7 @@ toc_depth: 2
     --8<-- "snippets/techs/ds/unit/gledge-orion-platform-ii.md"
 
 
--   ## __Leaders__
+-   ## __Leaders__ :ti4-pok:
 
     ---
     

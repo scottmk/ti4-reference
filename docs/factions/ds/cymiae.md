@@ -3,7 +3,7 @@ toc_depth: 2
 ---
 
 # :ti4-faction-ds-cymiae: Savages of Cymiae :ti4-ds:
-=== "Base Game"
+=== "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
 
@@ -41,7 +41,7 @@ toc_depth: 2
 -   ## __Starting Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/red/ai-development-algorithm.md"
 
         --8<-- "snippets/techs/pok/green/neural-motivator.md"
@@ -68,7 +68,7 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/ds/cymiae-flagship.md"
 
--   ## __Mech__
+-   ## __Mech__ :ti4-pok:
 
     ---
     --8<-- "snippets/units/faction/ds/cymiae-mech.md"
@@ -95,7 +95,7 @@ toc_depth: 2
     --8<-- "snippets/techs/ds/yellow/cymiae-recursive-worm.md"
 
 
--   ## __Leaders__
+-   ## __Leaders__ :ti4-pok:
 
     ---
     

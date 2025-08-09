@@ -2,7 +2,7 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-pok-titans: Titans of Ul
+# :ti4-faction-pok-titans: Titans of Ul :ti4-pok:
 === "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
@@ -69,7 +69,7 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/pok/titans-flagship.md"
 
--   ## __Mech__
+-   ## __Mech__ :ti4-pok:
 
     ---
     --8<-- "snippets/units/faction/pok/titans-mech.md"
@@ -105,7 +105,7 @@ toc_depth: 2
 
         --8<-- "snippets/techs/absol/unit/titans-hel-titan-ii.md"
 
--   ## __Leaders__
+-   ## __Leaders__ :ti4-pok:
 
     ---
     

@@ -3,7 +3,7 @@ toc_depth: 2
 ---
 
 # :ti4-faction-ds-mykomentori: Myko-Mentori :ti4-ds:
-=== "Base Game"
+=== "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
 
@@ -40,7 +40,7 @@ toc_depth: 2
 -   ## __Starting Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/yellow/predictive-intelligence.md"
 
     === "Absol's Mod :ti4-absol:"  
@@ -69,7 +69,7 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/ds/mykomentori-flagship.md"
 
--   ## __Mech__
+-   ## __Mech__ :ti4-pok:
 
     ---
     --8<-- "snippets/units/faction/ds/mykomentori-mech.md"
@@ -96,7 +96,7 @@ toc_depth: 2
     --8<-- "snippets/techs/ds/green/mykomentori-psychoactive-armaments.md"
 
 
--   ## __Leaders__
+-   ## __Leaders__ :ti4-pok:
 
     ---
     

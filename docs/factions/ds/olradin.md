@@ -3,7 +3,7 @@ toc_depth: 2
 ---
 
 # :ti4-faction-ds-olradin: Olradin League :ti4-ds:
-=== "Base Game"
+=== "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
 
@@ -40,7 +40,7 @@ toc_depth: 2
 -   ## __Starting Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/yellow/scanlink-drone-network.md"
 
         --8<-- "snippets/techs/pok/green/psychoarchaeology.md"
@@ -96,7 +96,7 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/ds/olradin-flagship.md"
 
--   ## __Mech__
+-   ## __Mech__ :ti4-pok:
 
     This mech's ability depends on your Policies.
 
@@ -124,7 +124,7 @@ toc_depth: 2
     --8<-- "snippets/techs/ds/blue/olradin-geosympathic-impeller.md"
 
 
--   ## __Leaders__
+-   ## __Leaders__ :ti4-pok:
 
     ---
     

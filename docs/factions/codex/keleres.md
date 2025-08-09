@@ -2,7 +2,7 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-codex-keleres: Council Keleres
+# :ti4-faction-codex-keleres: Council Keleres :ti4-codex:
 === "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
@@ -72,7 +72,7 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/pok/keleres-flagship.md"
 
--   ## __Mech__
+-   ## __Mech__ :ti4-pok:
 
     ---
     === "Unmodded"
@@ -98,7 +98,7 @@ toc_depth: 2
 
         --8<-- "snippets/techs/absol/yellow/keleres-agency-supply-network.md"
 
--   ## __Leaders__
+-   ## __Leaders__ :ti4-pok:
 
     ---
     

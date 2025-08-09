@@ -80,7 +80,7 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/pok/jolnar-flagship.md"
 
--   ## __Mech__
+-   ## __Mech__ :ti4-pok:
 
     ---
     --8<-- "snippets/units/faction/pok/jolnar-mech.md"
@@ -102,7 +102,7 @@ toc_depth: 2
 
         --8<-- "snippets/techs/absol/yellow/jolnar-e-res-siphons.md"
 
--   ## __Leaders__
+-   ## __Leaders__ :ti4-pok:
 
     ---
     

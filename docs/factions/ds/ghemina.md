@@ -3,7 +3,7 @@ toc_depth: 2
 ---
 
 # :ti4-faction-ds-ghemina: Ghemina Raiders :ti4-ds:
-=== "Base Game"
+=== "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
 
@@ -41,7 +41,7 @@ toc_depth: 2
 -   ## __Starting Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/blue/dark-energy-tap.md"
 
         --8<-- "snippets/techs/pok/green/psychoarchaeology.md"
@@ -73,7 +73,7 @@ toc_depth: 2
 
     --8<-- "snippets/units/faction/ds/ghemina-flagship-lord.md"
 
--   ## __Mech__
+-   ## __Mech__ :ti4-pok:
 
     ---
     --8<-- "snippets/units/faction/ds/ghemina-mech.md"
@@ -100,7 +100,7 @@ toc_depth: 2
     --8<-- "snippets/techs/ds/green/ghemina-war-song-implants.md"
 
 
--   ## __Leaders__
+-   ## __Leaders__ :ti4-pok:
 
     ---
     

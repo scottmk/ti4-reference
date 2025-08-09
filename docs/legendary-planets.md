@@ -39,6 +39,24 @@ toc_depth: 2
 
 </div>
 
+## Thunder's Edge :ti4-te:
+
+<div class="grid cards" markdown>
+
+-   
+
+    --8<-- "snippets/planets/te/avernus.md"
+
+-   
+
+    --8<-- "snippets/planets/te/ordinian.md"
+
+-   
+
+    --8<-- "snippets/planets/te/thunders-edge.md"
+
+</div>
+
 ## Discordant Stars :ti4-ds:
 
 <div class="grid cards" markdown>

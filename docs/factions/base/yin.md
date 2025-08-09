@@ -98,6 +98,12 @@ toc_depth: 2
 
     --8<-- "snippets/leaders/base/yin-hero.md"
 
+- ## __Breakthrough__ :ti4-te:
+
+    ---
+    --8<-- "snippets/breakthroughs/base/yin-yin-ascendent.md"
+
+
 -   ## __Faction Promissory Note__
 
     ---

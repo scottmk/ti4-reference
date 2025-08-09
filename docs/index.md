@@ -16,6 +16,7 @@ This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight
 * Added missing source icons
 * Added [Liberation of Ordinian Nekro Virus variant](factions/codex/ordiniannekro.md) and [Salient Sun (alliance)](factions/codex/salientsun.md) faction references for Liberation of Ordinian scenario from [Codex IV](https://images-cdn.fantasyflightgames.com/filer_public/f6/be/f6be8343-a4fc-47e4-a722-efe3e01fc5d9/ti_codex_4_rules.pdf)
 * Updated core techs to include source icons and added updated Magen Defense Grid and X-89 Bacterial Weapon from the ["Codex 4.5" announcement](https://images-cdn.fantasyflightgames.com/filer_public/e9/8f/e98f4722-2f45-4328-9119-56508bf1c94b/codex_45_technology_card_updates.pdf)
+* Added the few breakthroughs and legendary planets known so far from Thunder's Edge
 
 ### **08 Aug 25**
 

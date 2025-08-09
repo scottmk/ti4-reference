@@ -83,6 +83,11 @@
   color: #54296a;
 }
 
+.breakthrough-synergy {
+  text-align: center !important;
+  font-size: 24px;
+}
+
 th:empty {
   display: none !important;
   border: none;

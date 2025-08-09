@@ -103,6 +103,12 @@ toc_depth: 2
 
     --8<-- "snippets/leaders/base/creuss-hero.md"
 
+- ## __Breakthrough__ :ti4-te:
+
+    ---
+    --8<-- "snippets/breakthroughs/base/creuss-.md"
+
+
 -   ## __Faction Promissory Note__
 
     ---

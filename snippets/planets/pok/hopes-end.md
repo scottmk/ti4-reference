@@ -4,7 +4,7 @@
 
 #### Imperial Arms Vault
 
-You may exhaust this card at the end of your turn to place 1 mech from your reinforcements on any planet you control or draw 1 action card
+You may exhaust this card at the end of your turn to place 1 mech from your reinforcements on any planet you control or draw 1 action card.
 
 *Buried deep beneath the surface, the lost vaults contain a legion's worth of weapons.*
 

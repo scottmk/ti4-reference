@@ -1,4 +1,4 @@
-### :ti4-tech-cybernetic: **L4 Disruptors**
+### :ti4-faction-base-letnev: :ti4-tech-cybernetic: **L4 Disruptors**
 
 Requirements: :ti4-tech-cybernetic:
 

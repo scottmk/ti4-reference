@@ -1,4 +1,4 @@
-### :ti4-tech-cybernetic: **Aerie Hololattice**
+### :ti4-faction-pok-argent: :ti4-tech-cybernetic: **Aerie Hololattice** :ti4-pok:
 
 Requirements: :ti4-tech-cybernetic:
 

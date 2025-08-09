@@ -1,4 +1,4 @@
-### **Reclaimer**
+### :ti4-faction-base-winnu: **Reclaimer** :ti4-pok:
 
 Unit Type: Mech 
 

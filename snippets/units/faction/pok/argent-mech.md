@@ -1,4 +1,4 @@
-### **Aerie Sentinel**
+### :ti4-faction-pok-argent: **Aerie Sentinel** :ti4-pok:
 
 Unit Type: Mech 
 

@@ -1,4 +1,4 @@
-### **Arvicon Rex**
+### :ti4-faction-pok-mahact: **Arvicon Rex** :ti4-pok:
 
 Unit Type: Flagship 
 

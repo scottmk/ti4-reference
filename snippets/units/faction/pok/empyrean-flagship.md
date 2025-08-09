@@ -1,4 +1,4 @@
-### **Dynamo**
+### :ti4-faction-pok-empyrean: **Dynamo** :ti4-pok:
 
 Unit Type: Flagship 
 

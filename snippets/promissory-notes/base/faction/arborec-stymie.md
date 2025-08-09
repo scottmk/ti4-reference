@@ -1,4 +1,4 @@
-### :ti4-faction-base-arborec: __Arborec - Stymie Ω__
+### :ti4-faction-base-arborec: __Arborec - Stymie Ω__ :ti4-codex:
 
 ---
 After another player moves ships into a system that contains 1 or more of your units: 

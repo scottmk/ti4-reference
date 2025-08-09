@@ -1,4 +1,4 @@
-### **Strike Wing Alpha I**
+### :ti4-faction-pok-argent: **Strike Wing Alpha I** :ti4-pok:
 
 Unit Type: Destroyer 
 

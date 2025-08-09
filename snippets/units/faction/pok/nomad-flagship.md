@@ -1,4 +1,4 @@
-### **Memoria I**
+### :ti4-faction-pok-nomad: **Memoria I** :ti4-pok:
 
 Unit Type: Flagship 
 

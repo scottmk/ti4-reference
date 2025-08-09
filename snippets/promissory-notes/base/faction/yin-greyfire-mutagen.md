@@ -1,4 +1,4 @@
-### :ti4-faction-base-yin: __Yin Brotherhood - Greyfire Mutagen Ω__
+### :ti4-faction-base-yin: __Yin Brotherhood - Greyfire Mutagen Ω__ :ti4-codex:
 
 ---
 At the start of a ground combat against 2 or more ground forces that are not controlled by the Yin player: 

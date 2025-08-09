@@ -1,4 +1,4 @@
-### :ti4-tech-cybernetic: **Impulse Core**
+### :ti4-faction-base-yin: :ti4-tech-cybernetic: **Impulse Core**
 
 Requirements: :ti4-tech-cybernetic: :ti4-tech-cybernetic:
 

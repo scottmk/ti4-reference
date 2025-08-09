@@ -1,4 +1,4 @@
-### **Dunlain Reaper**
+### :ti4-faction-base-letnev: **Dunlain Reaper** :ti4-pok:
 
 Unit Type: Mech 
 

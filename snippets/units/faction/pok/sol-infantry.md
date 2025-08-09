@@ -1,4 +1,4 @@
-### **Spec Ops I**
+### :ti4-faction-base-sol: **Spec Ops I**
 
 Unit Type: Infantry 
 

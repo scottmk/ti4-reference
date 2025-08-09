@@ -1,4 +1,4 @@
-### **The Terror Between**
+### :ti4-faction-pok-cabal: **The Terror Between** :ti4-pok:
 
 Unit Type: Flagship 
 

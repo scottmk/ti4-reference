@@ -1,4 +1,4 @@
-### **Hybrid Crystal Fighter I**
+### :ti4-faction-base-naalu: **Hybrid Crystal Fighter I**
 
 Unit Type: Fighter 
 

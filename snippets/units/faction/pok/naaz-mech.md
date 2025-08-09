@@ -1,4 +1,4 @@
-### **Eidolon**
+### :ti4-faction-pok-naaz: **Eidolon** :ti4-pok:
 
 Unit Type: Mech 
 

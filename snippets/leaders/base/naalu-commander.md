@@ -1,4 +1,4 @@
-### :ti4-faction-base-naalu: **Commander**: M'aban - _Crystalline Sorceress_
+### :ti4-faction-base-naalu: **Commander**: M'aban Ω - _Crystalline Sorceress_ :ti4-codex:
 
 <span style="font-variant:small-caps;">Unlock</span>: Have ground forces in or adjacent to the Mecatol Rex system.
 

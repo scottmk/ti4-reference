@@ -1,4 +1,4 @@
-### **Iconoclast Omega**
+### :ti4-faction-base-naalu: **Iconoclast Ω** :ti4-pok:
 
 Unit Type: Mech 
 

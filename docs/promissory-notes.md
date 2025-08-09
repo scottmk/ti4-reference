@@ -152,7 +152,7 @@ toc_depth: 3
 </div>
 </div>
 
-## Faction-specific: Prophecy of Kings (PoK)
+## Faction-specific: Prophecy of Kings <sup><sub>:ti4-pok:</sub></sup>
 
 <div class="grid cards" markdown>
 <div class="grid cards" markdown>
@@ -205,7 +205,7 @@ toc_depth: 3
 </div>
 </div>
 
-## Faction-specific: Codices
+## Faction-specific: Codices <sup><sub>:ti4-codex:</sub></sup>
 
 <div class="grid cards" markdown>
 <div class="grid cards" markdown>

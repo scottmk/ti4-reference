@@ -1,4 +1,4 @@
-### :ti4-faction-base-winnu: __Winnu - Acquiescence Ω__
+### :ti4-faction-base-winnu: __Winnu - Acquiescence Ω__ :ti4-codex:
 
 ---
 When the Winnu player resolves a strategic action:

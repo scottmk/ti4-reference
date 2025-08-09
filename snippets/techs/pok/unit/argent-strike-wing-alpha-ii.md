@@ -1,4 +1,4 @@
-### :ti4-tech-unit-upgrade: **Strike Wing Alpha II**
+### :ti4-faction-pok-argent: :ti4-tech-unit-upgrade: **Strike Wing Alpha II** :ti4-pok:
 
 Requirements: :ti4-tech-warfare: :ti4-tech-warfare:
 

@@ -1,4 +1,4 @@
-### **Exotrireme I**
+### :ti4-faction-base-sardakk: **Exotrireme I**
 
 Unit Type: Dreadnought 
 

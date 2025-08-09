@@ -1,4 +1,4 @@
-### **Indomitus**
+### :ti4-faction-base-winnu: **Indomitus** :ti4-pok:
 
 Unit Type: Mech 
 

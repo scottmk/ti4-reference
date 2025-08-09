@@ -1,8 +1,8 @@
-### :ti4-faction-base-yin: **Hero**: Dannel of the Tenth - _High Priest of Yin_
+### :ti4-faction-base-yin: **Hero**: Dannel of the Tenth - _High Priest of Yin_ :ti4-codex:
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 
-**Quantum Dissemination: Blessing of the Yin**
+**Quantum Dissemination Ω: Blessing of the Yin**
 
 <span style="font-variant:small-caps;">Action</span>:
 

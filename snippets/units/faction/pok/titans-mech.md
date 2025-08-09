@@ -1,4 +1,4 @@
-### **Hecatoncheires**
+### :ti4-faction-pok-titans: **Hecatoncheires** :ti4-pok:
 
 Unit Type: Mech 
 

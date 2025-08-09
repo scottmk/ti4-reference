@@ -1,4 +1,4 @@
-### **Prototype War Sun I**
+### :ti4-faction-base-muaat: **Prototype War Sun I**
 
 Unit Type: War Sun 
 

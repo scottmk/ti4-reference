@@ -1,4 +1,4 @@
-### :ti4-tech-biotic: **Genetic Recombination**
+### :ti4-faction-pok-mahact: :ti4-tech-biotic: **Genetic Recombination** :ti4-pok:
 
 Requirements: :ti4-tech-biotic:
 

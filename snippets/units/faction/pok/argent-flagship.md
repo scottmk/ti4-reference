@@ -1,4 +1,4 @@
-### **Quetzecoatl**
+### :ti4-faction-pok-argent: **Quetzecoatl** :ti4-pok:
 
 Unit Type: Flagship 
 

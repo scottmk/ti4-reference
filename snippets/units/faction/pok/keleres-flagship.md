@@ -1,4 +1,4 @@
-### **Artemiris**
+### :ti4-faction-codex-keleres: **Artemiris** :ti4-codex:
 
 Unit Type: Flagship 
 

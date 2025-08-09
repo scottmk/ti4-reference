@@ -1,4 +1,4 @@
-### :ti4-tech-warfare: **Supercharge**
+### :ti4-faction-pok-naaz: :ti4-tech-warfare: **Supercharge** :ti4-pok:
 
 Requirements: :ti4-tech-warfare:
 

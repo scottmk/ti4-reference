@@ -1,4 +1,4 @@
-### **ZS Thunderbolt M2**
+### :ti4-faction-base-sol: **ZS Thunderbolt M2** :ti4-pok:
 
 Unit Type: Mech 
 

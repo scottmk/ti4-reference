@@ -1,4 +1,4 @@
-### :ti4-tech-cybernetic: **Hegemonic Trade Policy**
+### :ti4-faction-base-winnu: :ti4-tech-cybernetic: **Hegemonic Trade Policy**
 
 Requirements: :ti4-tech-cybernetic: :ti4-tech-cybernetic:
 

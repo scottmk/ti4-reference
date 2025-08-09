@@ -1,4 +1,4 @@
-### :ti4-tech-unit-upgrade: **Memoria II**
+### :ti4-faction-pok-nomad: :ti4-tech-unit-upgrade: **Memoria II** :ti4-pok:
 
 Requirements: :ti4-tech-propulsion: :ti4-tech-biotic: :ti4-tech-cybernetic:
 

@@ -1,4 +1,4 @@
-### **Omniopiares**
+### :ti4-faction-codex-keleres: **Omniopiares** :ti4-codex:
 
 Unit Type: Mech 
 

@@ -1,4 +1,4 @@
-### **Ember Colossus**
+### :ti4-faction-base-muaat: **Ember Colossus** :ti4-pok:
 
 Unit Type: Mech 
 

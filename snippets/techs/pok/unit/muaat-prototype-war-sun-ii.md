@@ -1,4 +1,4 @@
-### :ti4-tech-unit-upgrade: **Prototype War Sun II**
+### :ti4-faction-base-muaat: :ti4-tech-unit-upgrade: **Prototype War Sun II**
 
 Requirements: :ti4-tech-cybernetic: :ti4-tech-warfare: :ti4-tech-warfare: :ti4-tech-warfare:
 

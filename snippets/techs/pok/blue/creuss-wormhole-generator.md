@@ -1,4 +1,4 @@
-### :ti4-tech-propulsion: **Wormhole Generator**
+### :ti4-faction-base-creuss: :ti4-tech-propulsion: **Wormhole Generator Ω** :ti4-codex:
 
 Requirements: :ti4-tech-propulsion: :ti4-tech-propulsion:
 

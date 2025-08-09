@@ -1,4 +1,4 @@
-### **Moll Terminus**
+### :ti4-faction-base-mentak: **Moll Terminus** :ti4-pok:
 
 Unit Type: Mech 
 

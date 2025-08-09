@@ -1,4 +1,4 @@
-### **Arc Secundus**
+### :ti4-faction-base-letnev: **Arc Secundus**
 
 Unit Type: Flagship 
 

@@ -1,4 +1,4 @@
-### **Hel-Titan I**
+### :ti4-faction-pok-titans: **Hel-Titan I** :ti4-pok:
 
 Unit Type: PDS 
 

@@ -1,4 +1,4 @@
-### **Quantum Manipulator**
+### :ti4-faction-pok-nomad: **Quantum Manipulator** :ti4-pok:
 
 Unit Type: Mech 
 

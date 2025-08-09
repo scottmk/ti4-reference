@@ -1,4 +1,4 @@
-### **Mordred**
+### :ti4-faction-base-nekro: **Mordred** :ti4-pok:
 
 Unit Type: Mech 
 

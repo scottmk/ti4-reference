@@ -1,4 +1,4 @@
-### **Letani Warrior I**
+### :ti4-faction-base-arborec: **Letani Warrior I**
 
 Unit Type: Infantry 
 

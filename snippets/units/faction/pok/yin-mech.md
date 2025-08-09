@@ -1,4 +1,4 @@
-### **Moyin's Ashes**
+### :ti4-faction-base-yin: **Moyin's Ashes** :ti4-pok:
 
 Unit Type: Mech 
 

@@ -1,4 +1,4 @@
-### **Anihilator**
+### :ti4-faction-base-l1z1x: **Anihilator** :ti4-pok:
 
 Unit Type: Mech 
 

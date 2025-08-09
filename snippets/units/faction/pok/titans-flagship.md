@@ -1,4 +1,4 @@
-### **Ouranos**
+### :ti4-faction-pok-titans: **Ouranos** :ti4-pok:
 
 Unit Type: Flagship 
 

@@ -1,4 +1,4 @@
-### **Shield Paling**
+### :ti4-faction-base-jolnar: **Shield Paling** :ti4-pok:
 
 Unit Type: Mech 
 

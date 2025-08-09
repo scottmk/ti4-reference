@@ -1,4 +1,4 @@
-### :ti4-tech-warfare: **Magmus Reactor Ω**
+### :ti4-faction-base-muaat: :ti4-tech-warfare: **Magmus Reactor Ω** :ti4-codex:
 
 Requirements: :ti4-tech-warfare: :ti4-tech-warfare:
 

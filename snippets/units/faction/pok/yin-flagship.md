@@ -1,4 +1,4 @@
-### **Van Hauge**
+### :ti4-faction-base-yin: **Van Hauge**
 
 Unit Type: Flagship 
 

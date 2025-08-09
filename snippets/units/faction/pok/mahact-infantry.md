@@ -1,4 +1,4 @@
-### **Crimson Legionnaire I**
+### :ti4-faction-pok-mahact: **Crimson Legionnaire I** :ti4-pok:
 
 Unit Type: Infantry 
 

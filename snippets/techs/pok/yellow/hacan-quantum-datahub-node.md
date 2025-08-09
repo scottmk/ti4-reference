@@ -1,4 +1,4 @@
-### :ti4-tech-cybernetic: **Quantum Datahub Node**
+### :ti4-faction-base-hacan: :ti4-tech-cybernetic: **Quantum Datahub Node**
 
 Requirements: :ti4-tech-cybernetic: :ti4-tech-cybernetic: :ti4-tech-cybernetic:
 

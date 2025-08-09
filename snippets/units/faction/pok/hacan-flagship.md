@@ -1,4 +1,4 @@
-### **Wrath of Kenara**
+### :ti4-faction-base-hacan: **Wrath of Kenara**
 
 Unit Type: Flagship 
 

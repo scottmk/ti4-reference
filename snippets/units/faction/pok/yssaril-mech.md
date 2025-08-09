@@ -1,4 +1,4 @@
-### **Blackshade Infiltrator**
+### :ti4-faction-base-yssaril: **Blackshade Infiltrator** :ti4-pok:
 
 Unit Type: Mech 
 

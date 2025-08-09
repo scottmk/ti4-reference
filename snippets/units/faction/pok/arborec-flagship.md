@@ -1,4 +1,4 @@
-### **Duha Menaimon**
+### :ti4-faction-base-arborec: **Duha Menaimon**
 
 Unit Type: Flagship 
 

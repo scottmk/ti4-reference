@@ -1,4 +1,4 @@
-### **Loncara Ssodu**
+### :ti4-faction-base-xxcha: **Loncara Ssodu**
 
 Unit Type: Flagship 
 

@@ -1,4 +1,4 @@
-### **The Alastor**
+### :ti4-faction-base-nekro: **The Alastor**
 
 Unit Type: Flagship 
 

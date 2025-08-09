@@ -1,4 +1,4 @@
-### **Reanimator**
+### :ti4-faction-pok-cabal: **Reanimator** :ti4-pok:
 
 Unit Type: Mech 
 

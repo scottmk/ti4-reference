@@ -1,4 +1,4 @@
-### **Visz El Vir**
+### :ti4-faction-pok-naaz: **Visz El Vir** :ti4-pok:
 
 Unit Type: Flagship 
 

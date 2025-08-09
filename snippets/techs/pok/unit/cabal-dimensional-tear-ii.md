@@ -1,4 +1,4 @@
-### :ti4-tech-unit-upgrade: **Dimensional Tear II**
+### :ti4-faction-pok-cabal: :ti4-tech-unit-upgrade: **Dimensional Tear II** :ti4-pok:
 
 Requirements: :ti4-tech-cybernetic: :ti4-tech-cybernetic:
 

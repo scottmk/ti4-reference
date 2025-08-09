@@ -1,4 +1,4 @@
-### **Z-Grav Eidolon**
+### :ti4-faction-pok-naaz: **Z-Grav Eidolon** :ti4-pok:
 
 Unit Type: Mech 
 

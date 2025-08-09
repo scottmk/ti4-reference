@@ -1,4 +1,4 @@
-### **Scavenger Zeta**
+### :ti4-faction-base-saar: **Scavenger Zeta** :ti4-pok:
 
 Unit Type: Mech 
 

@@ -1,4 +1,4 @@
-### **Pride of Kenara**
+### :ti4-faction-base-hacan: **Pride of Kenara** :ti4-pok:
 
 Unit Type: Mech 
 

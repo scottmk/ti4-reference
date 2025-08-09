@@ -42,7 +42,7 @@ toc_depth: 2
 
     ---
     === "Unmodded"
-        --8<-- "snippets/techs/pok/red/magen-defense-grid.md"
+        --8<-- "snippets/techs/codex/red/magen-defense-grid.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/red/magen-defense-grid.md"

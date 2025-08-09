@@ -46,7 +46,7 @@ toc_depth: 2
     === "Unmodded"
         ### **Choose one of the following**:
 
-        --8<-- "snippets/techs/pok/red/magen-defense-grid.md"
+        --8<-- "snippets/techs/codex/red/magen-defense-grid.md"
 
         --8<-- "snippets/techs/pok/red/self-assembly-routines.md"
 

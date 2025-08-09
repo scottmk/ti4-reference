@@ -1,4 +1,4 @@
-### :ti4-tech-warfare: **AI Development Algorithm**
+### :ti4-tech-warfare: **AI Development Algorithm** :ti4-pok:
 
 Requirements: None
 

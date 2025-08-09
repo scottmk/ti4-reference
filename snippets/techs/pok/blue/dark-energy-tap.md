@@ -1,4 +1,4 @@
-### :ti4-tech-propulsion: **Dark Energy Tap**
+### :ti4-tech-propulsion: **Dark Energy Tap** :ti4-pok:
 
 Requirements: None
 

@@ -1,4 +1,4 @@
-### :ti4-tech-biotic: **Bio-Stims**
+### :ti4-tech-biotic: **Bio-Stims** :ti4-pok:
 
 Requirements: :ti4-tech-biotic:
 

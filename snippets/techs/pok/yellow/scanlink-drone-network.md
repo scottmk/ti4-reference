@@ -1,4 +1,4 @@
-### :ti4-tech-cybernetic: **Scanlink Drone Network**
+### :ti4-tech-cybernetic: **Scanlink Drone Network** :ti4-pok:
 
 Requirements: None
 

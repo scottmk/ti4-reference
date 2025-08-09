@@ -1,4 +1,4 @@
-### :ti4-tech-warfare: **Magen Defense Grid Ω**
+### :ti4-tech-warfare: **Magen Defense Grid Ω** :ti4-codex:
 
 Requirements: :ti4-tech-warfare:
 

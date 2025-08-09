@@ -1,4 +1,4 @@
-### :ti4-tech-cybernetic: **Predictive Intelligence**
+### :ti4-tech-cybernetic: **Predictive Intelligence** :ti4-pok:
 
 Requirements: :ti4-tech-cybernetic:
 

@@ -40,26 +40,26 @@ hide:
       </div>
       <div markdown class="grid-item"></div>
       <div markdown class="green-tech grid-item">
-    --8<-- "snippets/techs/pok/green/psychoarchaeology.md"
+    --8<-- "snippets/techs/pok/green/neural-motivator.md"
       </div>
       <div markdown class="green-tech grid-item">
-    --8<-- "snippets/techs/pok/green/bio-stims.md"
+    --8<-- "snippets/techs/pok/green/daxcive-animators.md"
       </div>
       <div markdown class="unit-tech grid-item">
     --8<-- "snippets/techs/pok/unit/infantry-ii.md"
       </div>
       <div markdown class="grid-item"></div>
       <div markdown class="green-tech grid-item">
-    --8<-- "snippets/techs/pok/green/neural-motivator.md"
+    --8<-- "snippets/techs/pok/green/psychoarchaeology.md"
       </div>
       <div markdown class="green-tech grid-item">
-    --8<-- "snippets/techs/pok/green/daxcive-animators.md"
+    --8<-- "snippets/techs/pok/green/bio-stims.md"
       </div>
       <div markdown class="green-tech grid-item">
     --8<-- "snippets/techs/pok/green/hyper-metabolism.md"
       </div>
       <div markdown class="green-tech grid-item">
-    --8<-- "snippets/techs/pok/green/x-89-bacterial-weapon.md"
+    --8<-- "snippets/techs/codex/green/x-89-bacterial-weapon.md"
       </div>
       <div markdown class="grid-item"></div>
       <div markdown class="unit-tech grid-item">
@@ -98,20 +98,20 @@ hide:
     --8<-- "snippets/techs/pok/unit/war-sun.md"
       </div>
       <div markdown class="red-tech grid-item">
-    --8<-- "snippets/techs/pok/red/ai-development-algorithm.md"
+    --8<-- "snippets/techs/pok/red/plasma-scoring.md"
       </div>
       <div markdown class="red-tech grid-item">
-    --8<-- "snippets/techs/pok/red/self-assembly-routines.md"
+    --8<-- "snippets/techs/codex/red/magen-defense-grid.md"
       </div>
       <div markdown class="unit-tech grid-item">
     --8<-- "snippets/techs/pok/unit/destroyer-ii.md"
       </div>
       <div markdown class="grid-item"></div>
       <div markdown class="red-tech grid-item">
-    --8<-- "snippets/techs/pok/red/plasma-scoring.md"
+    --8<-- "snippets/techs/pok/red/ai-development-algorithm.md"
       </div>
       <div markdown class="red-tech grid-item">
-    --8<-- "snippets/techs/pok/red/magen-defense-grid.md"
+    --8<-- "snippets/techs/pok/red/self-assembly-routines.md"
       </div>
       <div markdown class="red-tech grid-item">
     --8<-- "snippets/techs/pok/red/duranium-armor.md"
@@ -157,20 +157,20 @@ hide:
       </div>
       <div markdown class="grid-item"></div>
       <div markdown class="green-tech grid-item">
-    --8<-- "snippets/techs/absol/green/psychoarchaeology.md"
+    --8<-- "snippets/techs/absol/green/neural-motivator.md"
       </div>
       <div markdown class="green-tech grid-item">
-    --8<-- "snippets/techs/absol/green/bio-stims.md"
+    --8<-- "snippets/techs/absol/green/daxcive-animators.md"
       </div>
       <div markdown class="unit-tech grid-item">
     --8<-- "snippets/techs/absol/unit/infantry-ii.md"
       </div>
       <div markdown class="grid-item"></div>
       <div markdown class="green-tech grid-item">
-    --8<-- "snippets/techs/absol/green/neural-motivator.md"
+    --8<-- "snippets/techs/absol/green/psychoarchaeology.md"
       </div>
       <div markdown class="green-tech grid-item">
-    --8<-- "snippets/techs/absol/green/daxcive-animators.md"
+    --8<-- "snippets/techs/absol/green/bio-stims.md"
       </div>
       <div markdown class="green-tech grid-item">
     --8<-- "snippets/techs/absol/green/hyper-metabolism.md"
@@ -215,20 +215,20 @@ hide:
     --8<-- "snippets/techs/absol/unit/war-sun.md"
       </div>
       <div markdown class="red-tech grid-item">
-    --8<-- "snippets/techs/absol/red/ai-development-algorithm.md"
+    --8<-- "snippets/techs/absol/red/plasma-scoring.md"
       </div>
       <div markdown class="red-tech grid-item">
-    --8<-- "snippets/techs/absol/red/self-assembly-routines.md"
+    --8<-- "snippets/techs/absol/red/magen-defense-grid.md"
       </div>
       <div markdown class="unit-tech grid-item">
     --8<-- "snippets/techs/absol/unit/destroyer-ii.md"
       </div>
       <div markdown class="grid-item"></div>
       <div markdown class="red-tech grid-item">
-    --8<-- "snippets/techs/absol/red/plasma-scoring.md"
+    --8<-- "snippets/techs/absol/red/ai-development-algorithm.md"
       </div>
       <div markdown class="red-tech grid-item">
-    --8<-- "snippets/techs/absol/red/magen-defense-grid.md"
+    --8<-- "snippets/techs/absol/red/self-assembly-routines.md"
       </div>
       <div markdown class="red-tech grid-item">
     --8<-- "snippets/techs/absol/red/duranium-armor.md"

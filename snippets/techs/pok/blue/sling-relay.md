@@ -1,4 +1,4 @@
-### :ti4-tech-propulsion: **Sling Relay**
+### :ti4-tech-propulsion: **Sling Relay** :ti4-pok:
 
 Requirements: :ti4-tech-propulsion:
 

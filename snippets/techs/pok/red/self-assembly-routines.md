@@ -1,4 +1,4 @@
-### :ti4-tech-warfare: **Self-Assembly Routines**
+### :ti4-tech-warfare: **Self-Assembly Routines** :ti4-pok:
 
 Requirements: :ti4-tech-warfare:
 

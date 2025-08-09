@@ -1,4 +1,4 @@
-### :ti4-tech-biotic: **Psychoarchaeology**
+### :ti4-tech-biotic: **Psychoarchaeology** :ti4-pok:
 
 Requirements: None
 

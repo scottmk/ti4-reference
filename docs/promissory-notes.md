@@ -38,7 +38,7 @@ toc_depth: 3
     ---
     --8<-- "snippets/promissory-notes/base/support-for-the-throne.md"
 
--   ### __Alliance__
+-   ### __Alliance__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
     --8<-- "snippets/promissory-notes/pok/alliance.md"

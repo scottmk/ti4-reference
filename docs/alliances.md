@@ -173,11 +173,6 @@ toc_depth: 3
     --8<-- "snippets/alliances/codex/redcreuss-alliance.md"
 
 </div>
-<div class="grid cards" markdown>
-
--   
-
-</div>
 </div>
 
 ## Discordant Stars :ti4-ds:

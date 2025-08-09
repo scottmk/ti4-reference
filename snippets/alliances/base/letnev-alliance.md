@@ -1,4 +1,4 @@
-### :ti4-faction-letnev: **Letnev Alliance**
+### :ti4-faction-base-letnev: **Letnev Alliance**
 
 ####  Rear Admiral Farran - _Sector XVIII Viceroy_
 

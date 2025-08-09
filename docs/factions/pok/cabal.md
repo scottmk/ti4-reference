@@ -2,8 +2,8 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-cabal: Vuil'raith Cabal
-=== "Base Game"
+# :ti4-faction-pok-cabal: Vuil'raith Cabal
+=== "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
 
@@ -41,7 +41,7 @@ toc_depth: 2
 -   ## __Starting Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/red/self-assembly-routines.md"
 
     === "Absol's Mod :ti4-absol:"  
@@ -88,7 +88,7 @@ toc_depth: 2
 -   ## __Faction Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/unit/cabal-dimensional-tear-ii.md"
 
         --8<-- "snippets/techs/pok/red/cabal-vortex.md"

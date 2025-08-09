@@ -1,4 +1,4 @@
-### :ti4-faction-creuss: **Creuss Alliance**
+### :ti4-faction-base-creuss: **Creuss Alliance**
 
 ####  Sai Seravus - _Gatewarden_
 

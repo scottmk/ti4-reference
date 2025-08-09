@@ -1,4 +1,4 @@
-### :ti4-faction-letnev: **Agent**: Viscount Unlenn - _The Dunlain Scourge_
+### :ti4-faction-base-letnev: **Agent**: Viscount Unlenn - _The Dunlain Scourge_
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

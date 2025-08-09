@@ -1,4 +1,4 @@
-### :ti4-faction-yssaril: **Commander**: So Ata - _Loyal Only to a Point_
+### :ti4-faction-base-yssaril: **Commander**: So Ata - _Loyal Only to a Point_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 7 action cards.
 

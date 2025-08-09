@@ -1,4 +1,4 @@
-### :ti4-faction-mentak: **Agent**: Suffi An - _90% Smuggler, 110% Energy_
+### :ti4-faction-base-mentak: **Agent**: Suffi An - _90% Smuggler, 110% Energy_
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

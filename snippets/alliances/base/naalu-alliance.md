@@ -1,4 +1,4 @@
-### :ti4-faction-naalu: **Naalu Alliance**
+### :ti4-faction-base-naalu: **Naalu Alliance**
 
 ####  M'aban - _Crystalline Sorceress_
 

@@ -2,8 +2,8 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-mahact: Mahact Gene-Sorcerers
-=== "Base Game"
+# :ti4-faction-pok-mahact: Mahact Gene-Sorcerers
+=== "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
 
@@ -41,7 +41,7 @@ toc_depth: 2
 -   ## __Starting Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/green/bio-stims.md"
 
         --8<-- "snippets/techs/pok/yellow/predictive-intelligence.md"
@@ -92,7 +92,7 @@ toc_depth: 2
 -   ## __Faction Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/unit/mahact-crimson-legionnaire-ii.md"
 
         --8<-- "snippets/techs/pok/green/mahact-genetic-recombination.md"

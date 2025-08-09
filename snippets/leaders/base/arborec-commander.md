@@ -1,4 +1,4 @@
-### :ti4-faction-arborec: **Commander**: Dirzuga Rophal - _Peace Through Strength_
+### :ti4-faction-base-arborec: **Commander**: Dirzuga Rophal - _Peace Through Strength_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 12 ground forces on planets you control.
 

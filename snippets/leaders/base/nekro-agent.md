@@ -1,4 +1,4 @@
-### :ti4-faction-nekro: **Agent**: Nekro Malleon - _The Shifting Host_
+### :ti4-faction-base-nekro: **Agent**: Nekro Malleon - _The Shifting Host_
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

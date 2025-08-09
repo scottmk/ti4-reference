@@ -1,4 +1,4 @@
-### :ti4-faction-xxcha: **Hero**: Xxekir Grom - _The Council's Heart_
+### :ti4-faction-base-xxcha: **Hero**: Xxekir Grom - _The Council's Heart_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

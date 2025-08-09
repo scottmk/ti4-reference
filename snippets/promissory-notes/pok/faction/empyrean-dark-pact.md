@@ -1,4 +1,4 @@
-### :ti4-faction-empyrean: __Empyrean - Dark Pact__
+### :ti4-faction-pok-empyrean: __Empyrean - Dark Pact__
 
 ---
 <span style="font-variant:small-caps;">Action</span>: Place this card face up in your play area. 

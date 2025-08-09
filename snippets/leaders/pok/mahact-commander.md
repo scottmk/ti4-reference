@@ -1,4 +1,4 @@
-### :ti4-faction-mahact: **Commander**: Il Na Viroset - _Archon of Virtue_
+### :ti4-faction-pok-mahact: **Commander**: Il Na Viroset - _Archon of Virtue_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 2 other factions' command tokens in your fleet pool.
 

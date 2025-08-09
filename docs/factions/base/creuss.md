@@ -2,8 +2,8 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-creuss: Ghosts of Creuss
-=== "Base Game"
+# :ti4-faction-base-creuss: Ghosts of Creuss
+=== "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
 
@@ -40,7 +40,7 @@ toc_depth: 2
 -   ## __Starting Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/blue/gravity-drive.md"
 
     === "Absol's Mod :ti4-absol:"  
@@ -79,7 +79,7 @@ toc_depth: 2
 -   ## __Faction Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/blue/creuss-wormhole-generator.md"
 
         --8<-- "snippets/techs/pok/red/creuss-dimensional-splicer.md"
@@ -106,6 +106,6 @@ toc_depth: 2
 -   ## __Faction Promissory Note__
 
     ---
-    --8<-- "snippets/promissory-notes/pok/faction/creuss-creuss-iff.md"
+    --8<-- "snippets/promissory-notes/base/faction/creuss-creuss-iff.md"
 
 </div>

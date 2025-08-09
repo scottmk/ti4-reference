@@ -2,8 +2,8 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-l1z1x: L1Z1X Mindnet
-=== "Base Game"
+# :ti4-faction-base-l1z1x: L1Z1X Mindnet
+=== "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
 
@@ -41,7 +41,7 @@ toc_depth: 2
 -   ## __Starting Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/green/neural-motivator.md"
 
         --8<-- "snippets/techs/pok/red/plasma-scoring.md"
@@ -88,7 +88,7 @@ toc_depth: 2
 -   ## __Faction Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/unit/l1z1x-super-dreadnought-ii.md"
 
         --8<-- "snippets/techs/pok/yellow/l1z1x-inheritance-systems.md"
@@ -115,6 +115,6 @@ toc_depth: 2
 -   ## __Faction Promissory Note__
 
     ---
-    --8<-- "snippets/promissory-notes/pok/faction/l1z1x-cybernetic-enhancements.md"
+    --8<-- "snippets/promissory-notes/base/faction/l1z1x-cybernetic-enhancements.md"
 
 </div>

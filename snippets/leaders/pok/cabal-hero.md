@@ -1,4 +1,4 @@
-### :ti4-faction-cabal: **Hero**: It Feeds on Carrion - _Twisted Horror_
+### :ti4-faction-pok-cabal: **Hero**: It Feeds on Carrion - _Twisted Horror_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

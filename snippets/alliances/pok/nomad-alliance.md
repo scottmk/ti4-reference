@@ -1,4 +1,4 @@
-### :ti4-faction-nomad: **Nomad Alliance**
+### :ti4-faction-pok-nomad: **Nomad Alliance**
 
 ####  Navarch Feng - _Company Shipmaster_
 

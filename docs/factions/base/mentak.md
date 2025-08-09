@@ -2,8 +2,8 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-mentak: Mentak Coalition
-=== "Base Game"
+# :ti4-faction-base-mentak: Mentak Coalition
+=== "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
 
@@ -41,7 +41,7 @@ toc_depth: 2
 -   ## __Starting Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/yellow/sarween-tools.md"
 
         --8<-- "snippets/techs/pok/red/plasma-scoring.md"
@@ -76,7 +76,7 @@ toc_depth: 2
 -   ## __Faction Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/yellow/mentak-salvage-operations.md"
 
         --8<-- "snippets/techs/pok/yellow/mentak-mirror-computing.md"
@@ -103,6 +103,6 @@ toc_depth: 2
 -   ## __Faction Promissory Note__
 
     ---
-    --8<-- "snippets/promissory-notes/pok/faction/mentak-promise-of-protection.md"
+    --8<-- "snippets/promissory-notes/base/faction/mentak-promise-of-protection.md"
 
 </div>

@@ -2,8 +2,8 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-saar: Clan of Saar
-=== "Base Game"
+# :ti4-faction-base-saar: Clan of Saar
+=== "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
 
@@ -41,7 +41,7 @@ toc_depth: 2
 -   ## __Starting Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/blue/antimass-deflectors.md"
 
     === "Absol's Mod :ti4-absol:"  
@@ -66,7 +66,7 @@ toc_depth: 2
 -   ## __Mech__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/units/faction/pok/saar-mech.md"
 
     === "Absol's Mod :ti4-absol:"
@@ -88,7 +88,7 @@ toc_depth: 2
 -   ## __Faction Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/unit/saar-floating-factory-ii.md"
 
         --8<-- "snippets/techs/pok/blue/saar-chaos-mapping.md"
@@ -115,6 +115,6 @@ toc_depth: 2
 -   ## __Faction Promissory Note__
 
     ---
-    --8<-- "snippets/promissory-notes/pok/faction/saar-raghs-call.md"
+    --8<-- "snippets/promissory-notes/base/faction/saar-raghs-call.md"
 
 </div>

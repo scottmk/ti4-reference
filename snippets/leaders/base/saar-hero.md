@@ -1,4 +1,4 @@
-### :ti4-faction-saar: **Hero**: Gurno Aggero - _Captain of the First Fleet_
+### :ti4-faction-base-saar: **Hero**: Gurno Aggero - _Captain of the First Fleet_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

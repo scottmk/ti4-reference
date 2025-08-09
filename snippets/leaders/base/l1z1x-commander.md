@@ -1,4 +1,4 @@
-### :ti4-faction-l1z1x: **Commander**: 2RAM - _Integrated Systems Engineer_
+### :ti4-faction-base-l1z1x: **Commander**: 2RAM - _Integrated Systems Engineer_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 4 dreadnoughts on the game board.
 

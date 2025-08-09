@@ -2,8 +2,8 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-argent: Argent Flight
-=== "Base Game"
+# :ti4-faction-pok-argent: Argent Flight
+=== "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
 
@@ -43,7 +43,7 @@ toc_depth: 2
 -   ## __Starting Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         ### **Choose two of the following**:
 
         --8<-- "snippets/techs/pok/yellow/sarween-tools.md"
@@ -102,7 +102,7 @@ toc_depth: 2
 -   ## __Faction Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/unit/argent-strike-wing-alpha-ii.md"
 
         --8<-- "snippets/techs/pok/yellow/argent-aerie-hololattice.md"

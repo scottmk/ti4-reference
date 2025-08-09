@@ -11,6 +11,10 @@ This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight
 
 ## Changelog
 
+### **08 Aug 25**
+* Restructured all the files to separate base game from PoK and Codex materials, in preparation for Thunder's Edge expansion
+* Changed tabs from "Base Game" to "Unmodded" to eliminate confusion, because "Base Game" refers to pre-expansion content. Each faction page will include all materials for all expansions, using the latest omega variants available.
+
 ### **15 Jul 25**
 
 * Added [Savages of Cymiae](factions/ds/cymiae.md)

@@ -1,4 +1,4 @@
-### :ti4-faction-titans: **Hero**: Ul the Progenitor - _Elysium's Core_
+### :ti4-faction-pok-titans: **Hero**: Ul the Progenitor - _Elysium's Core_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

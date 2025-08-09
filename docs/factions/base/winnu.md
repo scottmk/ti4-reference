@@ -2,8 +2,8 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-winnu: Winnu
-=== "Base Game"
+# :ti4-faction-base-winnu: Winnu
+=== "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
 
@@ -67,7 +67,7 @@ toc_depth: 2
 -   ## __Faction Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/blue/winnu-lazax-gate-folding.md"
 
         --8<-- "snippets/techs/pok/yellow/winnu-hegemonic-trade-policy.md"
@@ -94,6 +94,6 @@ toc_depth: 2
 -   ## __Faction Promissory Note__
 
     ---
-    --8<-- "snippets/promissory-notes/pok/faction/winnu-acquiescence.md"
+    --8<-- "snippets/promissory-notes/base/faction/winnu-acquiescence.md"
 
 </div>

@@ -1,4 +1,4 @@
-### :ti4-faction-jolnar: **Jol-Nar Alliance**
+### :ti4-faction-base-jolnar: **Jol-Nar Alliance**
 
 ####  Ta Zern - _Deepwrought Visionary_
 

@@ -1,4 +1,4 @@
-### :ti4-faction-naaz: **Commander**: Dart and Tai - _Adrenaline Junkies_
+### :ti4-faction-pok-naaz: **Commander**: Dart and Tai - _Adrenaline Junkies_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have mechs in 3 systems.
 

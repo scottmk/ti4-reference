@@ -2,8 +2,8 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-jolnar: Universities of Jol-Nar
-=== "Base Game"
+# :ti4-faction-base-jolnar: Universities of Jol-Nar
+=== "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
 
@@ -42,7 +42,7 @@ toc_depth: 2
 -   ## __Starting Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/green/neural-motivator.md"
 
         --8<-- "snippets/techs/pok/blue/antimass-deflectors.md"
@@ -92,7 +92,7 @@ toc_depth: 2
 -   ## __Faction Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/blue/jolnar-spatial-conduit-cylinder.md"
 
         --8<-- "snippets/techs/pok/yellow/jolnar-e-res-siphons.md"
@@ -119,6 +119,6 @@ toc_depth: 2
 -   ## __Faction Promissory Note__
 
     ---
-    --8<-- "snippets/promissory-notes/pok/faction/jolnar-research-agreement.md"
+    --8<-- "snippets/promissory-notes/base/faction/jolnar-research-agreement.md"
 
 </div>

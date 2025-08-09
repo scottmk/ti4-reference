@@ -1,4 +1,4 @@
-### :ti4-faction-jolnar: **Agent**: Doctor Sucaban - _Head of Medical "R&D"_
+### :ti4-faction-base-jolnar: **Agent**: Doctor Sucaban - _Head of Medical "R&D"_
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

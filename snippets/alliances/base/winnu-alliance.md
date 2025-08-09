@@ -1,4 +1,4 @@
-### :ti4-faction-winnu: **Winnu Alliance**
+### :ti4-faction-base-winnu: **Winnu Alliance**
 
 ####  Rickar Rickani - _The Hand of the Emperor_
 

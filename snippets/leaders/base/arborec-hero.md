@@ -1,4 +1,4 @@
-### :ti4-faction-arborec: **Hero**: Letani Miasmiala - _Strength Through Unity_
+### :ti4-faction-base-arborec: **Hero**: Letani Miasmiala - _Strength Through Unity_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

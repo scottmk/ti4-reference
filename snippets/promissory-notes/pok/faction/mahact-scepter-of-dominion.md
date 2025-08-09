@@ -1,4 +1,4 @@
-### :ti4-faction-mahact: __Mahact Gene-Sorcerers - Scepter of Dominion__
+### :ti4-faction-pok-mahact: __Mahact Gene-Sorcerers - Scepter of Dominion__
 
 ---
 At the start of the strategy phase: 

@@ -2,8 +2,8 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-empyrean: Empyrean
-=== "Base Game"
+# :ti4-faction-pok-empyrean: Empyrean
+=== "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
 
@@ -40,7 +40,7 @@ toc_depth: 2
 -   ## __Starting Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/blue/dark-energy-tap.md"
 
     === "Absol's Mod :ti4-absol:"  
@@ -78,7 +78,7 @@ toc_depth: 2
 -   ## __Faction Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/blue/empyrean-aetherstream.md"
 
         --8<-- "snippets/techs/pok/green/empyrean-voidwatch.md"

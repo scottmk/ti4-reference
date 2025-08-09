@@ -1,4 +1,4 @@
-### :ti4-faction-empyrean: **Empyrean Alliance**
+### :ti4-faction-pok-empyrean: **Empyrean Alliance**
 
 ####  Xuange - _The Archivist_
 

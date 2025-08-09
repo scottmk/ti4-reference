@@ -1,4 +1,4 @@
-### :ti4-faction-naalu: **Hero**: The Oracle - _Corrupted Mind_
+### :ti4-faction-base-naalu: **Hero**: The Oracle - _Corrupted Mind_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

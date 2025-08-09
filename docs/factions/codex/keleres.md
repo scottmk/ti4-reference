@@ -2,8 +2,8 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-keleres: Council Keleres
-=== "Base Game"
+# :ti4-faction-codex-keleres: Council Keleres
+=== "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
 
@@ -75,7 +75,7 @@ toc_depth: 2
 -   ## __Mech__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/units/faction/pok/keleres-mech.md"
 
     === "Absol's Mod :ti4-absol:"
@@ -88,7 +88,7 @@ toc_depth: 2
 -   ## __Faction Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/yellow/keleres-iihq-modernization.md"
 
         --8<-- "snippets/techs/pok/yellow/keleres-agency-supply-network.md"
@@ -122,6 +122,6 @@ toc_depth: 2
 -   ## __Faction Promissory Note__
 
     ---
-    --8<-- "snippets/promissory-notes/pok/faction/keleres-keleres-rider.md"
+    --8<-- "snippets/promissory-notes/codex/faction/keleres-keleres-rider.md"
 
 </div>

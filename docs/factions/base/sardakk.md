@@ -2,8 +2,8 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-sardakk: Sardakk N'orr
-=== "Base Game"
+# :ti4-faction-base-sardakk: Sardakk N'orr
+=== "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
 
@@ -76,7 +76,7 @@ toc_depth: 2
 -   ## __Faction Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/unit/sardakk-exotrireme-ii.md"
 
         --8<-- "snippets/techs/pok/red/sardakk-valkyrie-particle-weave.md"
@@ -103,6 +103,6 @@ toc_depth: 2
 -   ## __Faction Promissory Note__
 
     ---
-    --8<-- "snippets/promissory-notes/pok/faction/sardakk-tekklar-legion.md"
+    --8<-- "snippets/promissory-notes/base/faction/sardakk-tekklar-legion.md"
 
 </div>

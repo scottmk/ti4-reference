@@ -4,7 +4,7 @@ toc_depth: 3
 
 # Alliances
 
-## Base Game, Prophecy of Kings, and Codices
+## Base Game
 
 <div class="grid cards" markdown>
 <div class="grid cards" markdown>
@@ -16,25 +16,7 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/alliances/pok/argent-alliance.md"
-
-</div>
-<div class="grid cards" markdown>
-
--   
-    --8<-- "snippets/alliances/pok/cabal-alliance.md"
-
-</div>
-<div class="grid cards" markdown>
-
--   
     --8<-- "snippets/alliances/base/creuss-alliance.md"
-
-</div>
-<div class="grid cards" markdown>
-
--   
-    --8<-- "snippets/alliances/pok/empyrean-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
@@ -52,12 +34,6 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/alliances/codex/keleres-alliance.md"
-
-</div>
-<div class="grid cards" markdown>
-
--   
     --8<-- "snippets/alliances/base/l1z1x-alliance.md"
 
 </div>
@@ -65,12 +41,6 @@ toc_depth: 3
 
 -   
     --8<-- "snippets/alliances/base/letnev-alliance.md"
-
-</div>
-<div class="grid cards" markdown>
-
--   
-    --8<-- "snippets/alliances/pok/mahact-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
@@ -94,19 +64,7 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/alliances/pok/naaz-alliance.md"
-
-</div>
-<div class="grid cards" markdown>
-
--   
     --8<-- "snippets/alliances/base/nekro-alliance.md"
-
-</div>
-<div class="grid cards" markdown>
-
--   
-    --8<-- "snippets/alliances/pok/nomad-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
@@ -125,12 +83,6 @@ toc_depth: 3
 
 -   
     --8<-- "snippets/alliances/base/sol-alliance.md"
-
-</div>
-<div class="grid cards" markdown>
-
--   
-    --8<-- "snippets/alliances/pok/titans-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
@@ -155,6 +107,69 @@ toc_depth: 3
 
 -   
     --8<-- "snippets/alliances/base/yssaril-alliance.md"
+
+</div>
+</div>
+
+## Prophecy of Kings (PoK)
+
+<div class="grid cards" markdown>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/alliances/pok/argent-alliance.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/alliances/pok/cabal-alliance.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/alliances/pok/empyrean-alliance.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/alliances/pok/mahact-alliance.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/alliances/pok/naaz-alliance.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/alliances/pok/nomad-alliance.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/alliances/pok/titans-alliance.md"
+
+</div>
+</div>
+
+## Codices
+
+<div class="grid cards" markdown>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/alliances/codex/keleres-alliance.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
 
 </div>
 </div>

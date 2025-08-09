@@ -2,8 +2,8 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-muaat: Embers of Muaat
-=== "Base Game"
+# :ti4-faction-base-muaat: Embers of Muaat
+=== "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
 
@@ -39,7 +39,7 @@ toc_depth: 2
 -   ## __Starting Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/red/plasma-scoring.md"
 
     === "Absol's Mod :ti4-absol:"  
@@ -82,7 +82,7 @@ toc_depth: 2
 -   ## __Faction Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/unit/muaat-prototype-war-sun-ii.md"
 
         --8<-- "snippets/techs/pok/red/muaat-magmus-reactor.md"
@@ -109,6 +109,6 @@ toc_depth: 2
 -   ## __Faction Promissory Note__
 
     ---
-    --8<-- "snippets/promissory-notes/pok/faction/muaat-fires-of-the-gashlai.md"
+    --8<-- "snippets/promissory-notes/base/faction/muaat-fires-of-the-gashlai.md"
 
 </div>

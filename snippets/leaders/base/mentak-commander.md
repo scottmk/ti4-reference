@@ -1,4 +1,4 @@
-### :ti4-faction-mentak: **Commander**: S'ula Mentarion - _Everyone's "Best Friend"_
+### :ti4-faction-base-mentak: **Commander**: S'ula Mentarion - _Everyone's "Best Friend"_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 4 cruisers on the game board.
 

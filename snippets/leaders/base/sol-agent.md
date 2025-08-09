@@ -1,4 +1,4 @@
-### :ti4-faction-sol: **Agent**: Evelyn DeLouis - _Master Tactician_
+### :ti4-faction-base-sol: **Agent**: Evelyn DeLouis - _Master Tactician_
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

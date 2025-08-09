@@ -1,4 +1,4 @@
-### :ti4-faction-muaat: **Muaat Alliance**
+### :ti4-faction-base-muaat: **Muaat Alliance**
 
 ####  Magmus - _Gashlai Tribune_
 

@@ -1,4 +1,4 @@
-### :ti4-faction-l1z1x: **L1Z1X Alliance**
+### :ti4-faction-base-l1z1x: **L1Z1X Alliance**
 
 ####  2RAM - _Integrated Systems Engineer_
 

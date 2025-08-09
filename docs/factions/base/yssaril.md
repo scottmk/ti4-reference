@@ -2,8 +2,8 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-yssaril: Yssaril Tribes
-=== "Base Game"
+# :ti4-faction-base-yssaril: Yssaril Tribes
+=== "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
 
@@ -42,7 +42,7 @@ toc_depth: 2
 -   ## __Starting Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/green/neural-motivator.md"
 
     === "Absol's Mod :ti4-absol:"  
@@ -71,7 +71,7 @@ toc_depth: 2
 -   ## __Mech__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/units/faction/pok/yssaril-mech.md"
 
     === "Absol's Mod :ti4-absol:"
@@ -80,7 +80,7 @@ toc_depth: 2
 -   ## __Faction Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/green/yssaril-transparasteel-plating.md"
 
         --8<-- "snippets/techs/pok/green/yssaril-mageon-implants.md"
@@ -107,6 +107,6 @@ toc_depth: 2
 -   ## __Faction Promissory Note__
 
     ---
-    --8<-- "snippets/promissory-notes/pok/faction/yssaril-spy-net.md"
+    --8<-- "snippets/promissory-notes/base/faction/yssaril-spy-net.md"
 
 </div>

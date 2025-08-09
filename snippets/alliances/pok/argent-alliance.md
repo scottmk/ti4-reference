@@ -1,4 +1,4 @@
-### :ti4-faction-argent: **Argent Alliance**
+### :ti4-faction-pok-argent: **Argent Alliance**
 
 ####  Trrakan Aun Zulok - _Strike Wing Commander_
 

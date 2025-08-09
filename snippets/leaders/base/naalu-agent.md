@@ -1,4 +1,4 @@
-### :ti4-faction-naalu: **Agent**: Z'eu - _Agent of the Nefishh_
+### :ti4-faction-base-naalu: **Agent**: Z'eu - _Agent of the Nefishh_
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

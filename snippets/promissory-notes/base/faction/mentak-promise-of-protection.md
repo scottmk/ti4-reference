@@ -1,4 +1,4 @@
-### :ti4-faction-mentak: __Mentak Coalition - Promise of Protection__
+### :ti4-faction-base-mentak: __Mentak Coalition - Promise of Protection__
 
 ---
 <span style="font-variant:small-caps;">Action</span>: Place this card face-up in your play area.

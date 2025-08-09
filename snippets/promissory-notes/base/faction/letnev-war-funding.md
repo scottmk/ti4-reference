@@ -1,4 +1,4 @@
-### :ti4-faction-letnev: __Barony of Letnev - War Funding Ω__
+### :ti4-faction-base-letnev: __Barony of Letnev - War Funding Ω__
 
 ---
 After you and your opponent roll dice during space combat: 

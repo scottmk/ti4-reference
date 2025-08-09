@@ -1,4 +1,4 @@
-### :ti4-faction-nomad: __Nomad - The Cavalry__
+### :ti4-faction-pok-nomad: __Nomad - The Cavalry__
 
 ---
 At the start of a space combat against a player other than the Nomad: 

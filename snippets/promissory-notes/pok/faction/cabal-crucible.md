@@ -1,4 +1,4 @@
-### :ti4-faction-cabal: __Vuil'raith Cabal - Crucible__
+### :ti4-faction-pok-cabal: __Vuil'raith Cabal - Crucible__
 
 ---
 After you activate a system:

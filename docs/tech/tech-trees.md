@@ -7,7 +7,7 @@ hide:
 
 # Tech Trees
 
-=== "Base Game"
+=== "Unmodded"
     <div markdown class="grid-container">
       <div markdown class="blue-tech grid-item">
     --8<-- "snippets/techs/pok/blue/antimass-deflectors.md"

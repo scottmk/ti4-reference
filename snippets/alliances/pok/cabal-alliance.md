@@ -1,4 +1,4 @@
-### :ti4-faction-cabal: **Cabal Alliance**
+### :ti4-faction-pok-cabal: **Cabal Alliance**
 
 ####  That Which Molds Flesh - _Grisly Abomination_
 

@@ -1,4 +1,4 @@
-### :ti4-faction-yin: **Agent**: Brother Milor - _Purifed by Fire_
+### :ti4-faction-base-yin: **Agent**: Brother Milor - _Purifed by Fire_
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

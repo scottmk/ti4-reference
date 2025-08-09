@@ -1,4 +1,4 @@
-### :ti4-faction-empyrean: **Hero**: Conservator Procyon - _One with the Void_
+### :ti4-faction-pok-empyrean: **Hero**: Conservator Procyon - _One with the Void_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

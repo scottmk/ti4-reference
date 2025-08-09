@@ -1,4 +1,4 @@
-### :ti4-faction-yin: **Yin Alliance**
+### :ti4-faction-base-yin: **Yin Alliance**
 
 ####  Brother Omar - _Spinner Devotee_
 

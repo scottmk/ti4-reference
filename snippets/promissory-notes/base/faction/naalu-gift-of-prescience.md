@@ -1,4 +1,4 @@
-### :ti4-faction-naalu: __Naalu Collective - Gift of Prescience__
+### :ti4-faction-base-naalu: __Naalu Collective - Gift of Prescience__
 
 ---
 At the end of the Strategy Phase: 

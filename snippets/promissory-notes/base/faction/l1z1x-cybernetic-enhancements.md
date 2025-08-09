@@ -1,4 +1,4 @@
-### :ti4-faction-l1z1x: __L1Z1X Mindnet - Cybernetic Enhancements Ω__
+### :ti4-faction-base-l1z1x: __L1Z1X Mindnet - Cybernetic Enhancements Ω__
 
 ---
 When you gain command tokens during the status phase:

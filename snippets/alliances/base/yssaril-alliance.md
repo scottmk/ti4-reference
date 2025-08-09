@@ -1,4 +1,4 @@
-### :ti4-faction-yssaril: **Yssaril Alliance**
+### :ti4-faction-base-yssaril: **Yssaril Alliance**
 
 ####  So Ata - _Loyal Only to a Point_
 

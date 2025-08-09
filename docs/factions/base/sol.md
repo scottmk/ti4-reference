@@ -2,8 +2,8 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-sol: Federation of Sol
-=== "Base Game"
+# :ti4-faction-base-sol: Federation of Sol
+=== "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
 
@@ -40,7 +40,7 @@ toc_depth: 2
 -   ## __Starting Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/green/neural-motivator.md"
         --8<-- "snippets/techs/pok/blue/antimass-deflectors.md"
 
@@ -91,7 +91,7 @@ toc_depth: 2
 -   ## __Faction Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/unit/sol-spec-ops-ii.md"
 
         --8<-- "snippets/techs/pok/unit/sol-advanced-carrier-ii.md"
@@ -118,6 +118,6 @@ toc_depth: 2
 -   ## __Faction Promissory Note__
 
     ---
-    --8<-- "snippets/promissory-notes/pok/faction/sol-military-support.md"
+    --8<-- "snippets/promissory-notes/base/faction/sol-military-support.md"
 
 </div>

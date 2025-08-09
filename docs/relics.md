@@ -4,9 +4,9 @@ toc_depth: 2
 
 # Relics
 
-## Prophecy of Kings
+## Prophecy of Kings (PoK)
 
-=== "Base Game"
+=== "Unmodded"
     <div class="grid cards" markdown>
 
     -   

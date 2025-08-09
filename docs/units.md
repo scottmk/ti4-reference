@@ -3,7 +3,7 @@ toc_depth: 2
 ---
 
 # Units
-=== "Base Game"
+=== "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
 
@@ -45,7 +45,7 @@ toc_depth: 2
 
     -   
 
-        === "Base Game"
+        === "Unmodded"
             --8<-- "snippets/techs/pok/unit/fighter-ii.md"
 
         === "Absol's Mod :ti4-absol:"  
@@ -53,7 +53,7 @@ toc_depth: 2
 
     -   
 
-        === "Base Game"
+        === "Unmodded"
             --8<-- "snippets/techs/pok/unit/destroyer-ii.md"
 
         === "Absol's Mod :ti4-absol:"
@@ -61,7 +61,7 @@ toc_depth: 2
 
     -   
 
-        === "Base Game"
+        === "Unmodded"
             --8<-- "snippets/techs/pok/unit/cruiser-ii.md"
 
         === "Absol's Mod :ti4-absol:"
@@ -69,7 +69,7 @@ toc_depth: 2
 
     -   
 
-        === "Base Game"
+        === "Unmodded"
             --8<-- "snippets/techs/pok/unit/carrier-ii.md"
 
         === "Absol's Mod :ti4-absol:"
@@ -77,7 +77,7 @@ toc_depth: 2
 
     -   
 
-        === "Base Game"
+        === "Unmodded"
             --8<-- "snippets/techs/pok/unit/dreadnought-ii.md"
 
         === "Absol's Mod :ti4-absol:"
@@ -85,7 +85,7 @@ toc_depth: 2
     
     -   
 
-        === "Base Game"
+        === "Unmodded"
             --8<-- "snippets/techs/pok/unit/war-sun.md"
 
         === "Absol's Mod :ti4-absol:"
@@ -110,7 +110,7 @@ toc_depth: 2
     
     -   
 
-        === "Base Game"
+        === "Unmodded"
             --8<-- "snippets/techs/pok/unit/infantry-ii.md"
 
         === "Absol's Mod :ti4-absol:"
@@ -138,7 +138,7 @@ toc_depth: 2
     
     -   
 
-        === "Base Game"
+        === "Unmodded"
             --8<-- "snippets/techs/pok/unit/pds-ii.md"
 
         === "Absol's Mod :ti4-absol:"
@@ -146,7 +146,7 @@ toc_depth: 2
 
     -   
 
-        === "Base Game"
+        === "Unmodded"
             --8<-- "snippets/techs/pok/unit/space-dock-ii.md"
 
         === "Absol's Mod :ti4-absol:"
@@ -156,7 +156,7 @@ toc_depth: 2
 
 ## Special Units
 
-=== "Base Game"
+=== "Unmodded"
     <div class="grid cards" markdown>
 
     None

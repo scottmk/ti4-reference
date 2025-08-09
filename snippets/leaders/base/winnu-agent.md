@@ -1,4 +1,4 @@
-### :ti4-faction-winnu: **Agent**: Berekar Berekon - _Arbiter of Divine Right_
+### :ti4-faction-base-winnu: **Agent**: Berekar Berekon - _Arbiter of Divine Right_
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

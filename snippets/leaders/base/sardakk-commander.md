@@ -1,4 +1,4 @@
-### :ti4-faction-sardakk: **Commander**: G'hom Sek'kus - _Valkyrie Elite_
+### :ti4-faction-base-sardakk: **Commander**: G'hom Sek'kus - _Valkyrie Elite_
 
 <span style="font-variant:small-caps;">Unlock</span>: Control 5 planets in non-home systems.
 

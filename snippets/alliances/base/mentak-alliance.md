@@ -1,4 +1,4 @@
-### :ti4-faction-mentak: **Mentak Alliance**
+### :ti4-faction-base-mentak: **Mentak Alliance**
 
 ####  S'ula Mentarion - _Everyone's "Best Friend"_
 

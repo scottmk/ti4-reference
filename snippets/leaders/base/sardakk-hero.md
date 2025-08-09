@@ -1,4 +1,4 @@
-### :ti4-faction-sardakk: **Hero**: Sh'val, Harbinger - _Master of the First_
+### :ti4-faction-base-sardakk: **Hero**: Sh'val, Harbinger - _Master of the First_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

@@ -1,4 +1,4 @@
-### :ti4-faction-nekro: __Nekro Virus__
+### :ti4-faction-base-nekro: __Nekro Virus__
 
 ---
 At the start of a combat: 

@@ -1,4 +1,4 @@
-### :ti4-faction-naaz: **Hero**: Hesh and Prit - _Architect Savants_
+### :ti4-faction-pok-naaz: **Hero**: Hesh and Prit - _Architect Savants_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

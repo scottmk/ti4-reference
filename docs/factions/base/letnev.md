@@ -2,8 +2,8 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-letnev: Barony of Letnev
-=== "Base Game"
+# :ti4-faction-base-letnev: Barony of Letnev
+=== "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
 
@@ -42,7 +42,7 @@ toc_depth: 2
 -   ## __Starting Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/blue/antimass-deflectors.md"
 
         --8<-- "snippets/techs/pok/red/plasma-scoring.md"
@@ -80,7 +80,7 @@ toc_depth: 2
 -   ## __Faction Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/yellow/letnev-l4-disruptors.md"
 
         --8<-- "snippets/techs/pok/red/letnev-non-euclidean-shielding.md"
@@ -107,6 +107,6 @@ toc_depth: 2
 -   ## __Faction Promissory Note__
 
     ---
-    --8<-- "snippets/promissory-notes/pok/faction/letnev-war-funding.md"
+    --8<-- "snippets/promissory-notes/base/faction/letnev-war-funding.md"
 
 </div>

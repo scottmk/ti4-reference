@@ -1,4 +1,4 @@
-### :ti4-faction-keleres: **Keleres Alliance**
+### :ti4-faction-codex-keleres: **Keleres Alliance**
 
 ####  Suffi An - _Working Multiple Angles_
 

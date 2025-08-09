@@ -2,8 +2,8 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-naaz: Naaz-Rokha Alliance
-=== "Base Game"
+# :ti4-faction-pok-naaz: Naaz-Rokha Alliance
+=== "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
 
@@ -42,7 +42,7 @@ toc_depth: 2
 -   ## __Starting Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/green/psychoarchaeology.md"
 
         --8<-- "snippets/techs/pok/red/ai-development-algorithm.md"
@@ -80,7 +80,7 @@ toc_depth: 2
 -   ## __Faction Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/red/naaz-supercharge.md"
 
         --8<-- "snippets/techs/pok/green/naaz-pre-fab-arcologies.md"

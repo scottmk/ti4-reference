@@ -1,4 +1,4 @@
-### :ti4-faction-naaz: **Naaz Alliance**
+### :ti4-faction-pok-naaz: **Naaz Alliance**
 
 ####  Dart and Tai - _Adrenaline Junkies_
 

@@ -1,4 +1,4 @@
-### :ti4-faction-arborec: **Arborec Alliance**
+### :ti4-faction-base-arborec: **Arborec Alliance**
 
 ####  Dirzuga Rophal - _Peace Through Strength_
 

@@ -1,4 +1,4 @@
-### :ti4-faction-mahact: **Mahact Alliance**
+### :ti4-faction-pok-mahact: **Mahact Alliance**
 
 ####  Il Na Viroset - _Archon of Virtue_
 

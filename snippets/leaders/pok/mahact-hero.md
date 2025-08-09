@@ -1,4 +1,4 @@
-### :ti4-faction-mahact: **Hero**: Airo Shir Aur - _Archon of Command_
+### :ti4-faction-pok-mahact: **Hero**: Airo Shir Aur - _Archon of Command_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

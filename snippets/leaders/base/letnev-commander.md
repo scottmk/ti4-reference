@@ -1,4 +1,4 @@
-### :ti4-faction-letnev: **Commander**: Rear Admiral Farran - _Sector XVIII Viceroy_
+### :ti4-faction-base-letnev: **Commander**: Rear Admiral Farran - _Sector XVIII Viceroy_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 5 non-fighter ships in 1 system.
 

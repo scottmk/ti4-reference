@@ -1,4 +1,4 @@
-### :ti4-faction-nekro: **Valefar Assimilator X**:ti4-absol:
+### :ti4-faction-base-nekro: **Valefar Assimilator X**:ti4-absol:
 
 Requirements: None
 

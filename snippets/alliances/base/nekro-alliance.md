@@ -1,4 +1,4 @@
-### :ti4-faction-nekro: **Nekro Alliance**
+### :ti4-faction-base-nekro: **Nekro Alliance**
 
 ####  Nekro Acidos - _Obsidian Reaper_
 

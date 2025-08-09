@@ -1,4 +1,4 @@
-### :ti4-faction-xxcha: **Agent**: Ggrocuto Rinn - _The King's Shield_
+### :ti4-faction-base-xxcha: **Agent**: Ggrocuto Rinn - _The King's Shield_
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

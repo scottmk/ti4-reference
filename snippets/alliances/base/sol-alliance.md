@@ -1,4 +1,4 @@
-### :ti4-faction-sol: **Sol Alliance**
+### :ti4-faction-base-sol: **Sol Alliance**
 
 ####  Claire Gibson - _Voice of the People_
 

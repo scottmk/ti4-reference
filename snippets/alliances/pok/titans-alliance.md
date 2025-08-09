@@ -1,4 +1,4 @@
-### :ti4-faction-titans: **Titans Alliance**
+### :ti4-faction-pok-titans: **Titans Alliance**
 
 ####  Tungstantus - _The Gardener_
 

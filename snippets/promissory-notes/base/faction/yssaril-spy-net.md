@@ -1,4 +1,4 @@
-### :ti4-faction-yssaril: __Yssaril Tribes - Spy Net__
+### :ti4-faction-base-yssaril: __Yssaril Tribes - Spy Net__
 
 ---
 At the start of your turn: 

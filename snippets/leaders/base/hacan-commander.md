@@ -1,4 +1,4 @@
-### :ti4-faction-hacan: **Commander**: Gila the Silvertongue - _Kenaran Ambassador_
+### :ti4-faction-base-hacan: **Commander**: Gila the Silvertongue - _Kenaran Ambassador_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 10 trade goods.
 

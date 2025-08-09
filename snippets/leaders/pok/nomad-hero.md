@@ -1,4 +1,4 @@
-### :ti4-faction-nomad: **Hero**: Ahk-Syl Siven - _Sole Survivor_
+### :ti4-faction-pok-nomad: **Hero**: Ahk-Syl Siven - _Sole Survivor_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

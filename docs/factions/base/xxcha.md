@@ -2,8 +2,8 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-xxcha: Xxcha Kingdom
-=== "Base Game"
+# :ti4-faction-base-xxcha: Xxcha Kingdom
+=== "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
 
@@ -42,7 +42,7 @@ toc_depth: 2
 -   ## __Starting Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/yellow/graviton-laser-system.md"
 
     === "Absol's Mod :ti4-absol:"  
@@ -67,7 +67,7 @@ toc_depth: 2
 -   ## __Mech__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/units/faction/pok/xxcha-mech.md"
 
     === "Absol's Mod :ti4-absol:"
@@ -76,7 +76,7 @@ toc_depth: 2
 -   ## __Faction Technologies__
 
     ---
-    === "Base Game"
+    === "Unmodded"
         --8<-- "snippets/techs/pok/green/xxcha-instinct-training.md"
 
         --8<-- "snippets/techs/pok/yellow/xxcha-nullification-field.md"
@@ -103,6 +103,6 @@ toc_depth: 2
 -   ## __Faction Promissory Note__
 
     ---
-    --8<-- "snippets/promissory-notes/pok/faction/xxcha-political-favor.md"
+    --8<-- "snippets/promissory-notes/base/faction/xxcha-political-favor.md"
 
 </div>

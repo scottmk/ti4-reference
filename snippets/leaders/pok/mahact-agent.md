@@ -1,4 +1,4 @@
-### :ti4-faction-mahact: **Agent**: Jae Mir Kan - _Archon of Prosperity_
+### :ti4-faction-pok-mahact: **Agent**: Jae Mir Kan - _Archon of Prosperity_
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

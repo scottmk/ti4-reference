@@ -1,4 +1,4 @@
-### :ti4-faction-jolnar: **Hero**: Rin, the Master's Legacy - _Perfected Being_
+### :ti4-faction-base-jolnar: **Hero**: Rin, the Master's Legacy - _Perfected Being_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

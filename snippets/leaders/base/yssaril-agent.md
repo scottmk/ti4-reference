@@ -1,4 +1,4 @@
-### :ti4-faction-yssaril: **Agent**: Ssruu - _Clever, Clever Ssruu_
+### :ti4-faction-base-yssaril: **Agent**: Ssruu - _Clever, Clever Ssruu_
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

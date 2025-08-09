@@ -19,9 +19,23 @@
 
 ## Codices <sup><sub>:ti4-codex:</sub></sup>
 
-|                                                                                                    |                                                                                                                  |                                                                                                           |                                                                                |
-| :------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
-| [<font size="72">:ti4-faction-codex-keleres:</font><br>Council Keleres](factions/codex/keleres.md) | [<font size="72">:ti4-faction-base-creuss:</font><br>Crimson Legionnaires<br>(Coming Soon)](factions.md#codices) | [<font size="72">:ti4-faction-base-nekro:</font><br>Ordinian Nekro<br>(Coming Soon)](factions.md#codices) | [<font size="72"></font><br>Salient Sun<br>(Coming Soon)](factions.md#codices) |
+|                                                                                                    |
+| :------------------------------------------------------------------------------------------------: |
+| [<font size="72">:ti4-faction-codex-keleres:</font><br>Council Keleres](factions/codex/keleres.md) |
+
+### Liberation of Ordinian
+
+|                                                                                                                                                                                                                                                                                                                                 |                                                                                                           |                                                                                                                               |     |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :-: |
+| [<font size="72">:ti4-faction-codex-redcreuss:</font><br>Crimson Rebellion](factions/codex/redcreuss.md)<br>:material-information-outline: <sup><sub>Icon created by @cpt.somno for [Async TI4](https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/factions/pok/RedCreuss.png)</sub></sup> | [<font size="72">:ti4-faction-base-nekro:</font><br>Ordinian Nekro<br>(Coming Soon)](factions.md#codices) | [<font size="72">:ti4-faction-base-sol:/:ti4-faction-base-xxcha:</font><br>Salient Sun<br>(Coming Soon)](factions.md#codices) |     |
+
+## Thunder's Edge :ti4-te:
+
+|                                                                                                    |                                                                                               |                                                                                                     |                                                                                          |
+| :------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
+| [<font size="72">:ti4-faction-codex-keleres:</font><br>Council Keleres](factions/codex/keleres.md) | [<font size="72">:ti4-te:</font><br>Last Bastion<br>(Coming Soon)](factions.md#thunders-edge) | [<font size="72">:ti4-te:</font><br>Ral Nel Consortium<br>(Coming Soon)](factions.md#thunders-edge) | [<font size="72">:ti4-te:</font><br>Unknown<br>(Coming Soon)](factions.md#thunders-edge) |
+|      [<font size="72">:ti4-te:</font><br>Unknown<br>(Coming Soon)](factions.md#thunders-edge)      |    [<font size="72">:ti4-te:</font><br>Unknown<br>(Coming Soon)](factions.md#thundersedge)    |                                                                                                     |                                                                                          |
+
 
 ## Discordant Stars :ti4-ds:
 

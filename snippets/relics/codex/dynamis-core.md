@@ -1,4 +1,4 @@
-### **Dynamis Core**
+### **Dynamis Core** :ti4-codex:
 
 While this card is in your play area, your commodity value is increased by 2.
 

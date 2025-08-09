@@ -1,4 +1,4 @@
-### **Maw of Worlds**
+### **Maw of Worlds** :ti4-pok:
 
 At the start of the agenda phase, you may purge this card and exhaust all of your planets to gain any 1 technology.
 

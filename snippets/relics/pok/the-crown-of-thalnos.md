@@ -1,4 +1,4 @@
-### **The Crown of Thalnos**
+### **The Crown of Thalnos** :ti4-pok:
 
 During each combat round, this card's owner may reroll any number of their dice, applying +1 to the results, any units that reroll dice but do not produce at least 1 hit are destroyed.
 

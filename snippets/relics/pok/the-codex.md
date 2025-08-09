@@ -1,4 +1,4 @@
-### **The Codex**
+### **The Codex** :ti4-pok:
 
 <span style="font-variant:small-caps;">Action</span>: Purge this card to take up to 3 action cards of your choice from the action card discard pile.
 

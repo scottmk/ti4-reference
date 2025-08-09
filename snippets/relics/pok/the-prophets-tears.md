@@ -1,4 +1,4 @@
-### **The Prophet's Tears**
+### **The Prophet's Tears** :ti4-pok:
 
 When you research a technology, you may exhaust this card to ignore 1 prerequisite or draw 1 action card.
 

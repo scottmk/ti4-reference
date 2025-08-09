@@ -135,15 +135,15 @@ toc_depth: 2
 
     -   
 
-        --8<-- "snippets/relics/pok/dynamis-core.md"
+        --8<-- "snippets/relics/codex/dynamis-core.md"
 
     -   
 
-        --8<-- "snippets/relics/pok/jr-xs455-0.md"
+        --8<-- "snippets/relics/codex/jr-xs455-0.md"
 
     -   
 
-        --8<-- "snippets/relics/pok/nanoforge.md"
+        --8<-- "snippets/relics/codex/nanoforge.md"
 
     </div>
 
@@ -172,15 +172,15 @@ toc_depth: 2
 
 -   
 
-    Coming soon
+    --8<-- "snippets/relics/codex/book-of-latvinia.md"
 
 -   
 
-    Coming soon
+    --8<-- "snippets/relics/codex/circlet-of-the-void.md"
 
 -   
 
-    Coming soon
+    --8<-- "snippets/relics/codex/neuraloop.md"
 </div>
 
 ## Discordant Stars :ti4-ds:

@@ -1,4 +1,4 @@
-### **Scepter of Emelpar**
+### **Scepter of Emelpar** :ti4-pok:
 
 When you would spend a token from your strategy pool, you may exhaust this card to spend a token from your reinforcements instead.
 

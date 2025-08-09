@@ -1,4 +1,4 @@
-### **The Obsidian**
+### **The Obsidian** :ti4-pok:
 
 When you gain this card, draw 1 secret objective.
 

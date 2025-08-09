@@ -1,4 +1,4 @@
-### **Dominus Orb**
+### **Dominus Orb** :ti4-pok:
 
 Before you move units during a tactical action, you may purge this card to move and transport units that are in systems that contain 1 of your command tokens.
 

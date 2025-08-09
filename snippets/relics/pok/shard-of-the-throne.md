@@ -1,4 +1,4 @@
-### **Shard of the Throne**
+### **Shard of the Throne** :ti4-pok:
 
 When you gain this card, gain 1 victory point, when you lose this card, lose 1 victory point.
 

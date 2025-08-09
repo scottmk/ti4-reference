@@ -1,4 +1,4 @@
-### **The Crown of Emphidia**
+### **The Crown of Emphidia** :ti4-pok:
 
 After you perform a tactical action, you may exhaust this card to explore 1 planet you control.
 

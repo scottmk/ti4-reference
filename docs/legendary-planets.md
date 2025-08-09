@@ -26,6 +26,19 @@ toc_depth: 2
 
 </div>
 
+## Codices <sup><sub>:ti4-codex:</sub></sup>
+
+<div class="grid cards" markdown>
+
+-   
+
+    --8<-- "snippets/planets/codex/ordinian.md"
+
+-   
+    
+
+</div>
+
 ## Discordant Stars :ti4-ds:
 
 <div class="grid cards" markdown>

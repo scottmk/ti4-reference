@@ -11,11 +11,15 @@ This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight
 
 ## Changelog
 
+### **09 Aug 25**
+
+* Added missing source icons
+
 ### **08 Aug 25**
 
 * Restructured all the files to separate base game from PoK and Codex materials, in preparation for Thunder's Edge expansion
 * Changed tabs from "Base Game" to "Unmodded" to eliminate confusion, because "Base Game" refers to pre-expansion content. Each faction page will include all materials for all expansions, using the latest omega variants available.
-* Added Red Creuss variant for Liberation of Ordinian scenario from [Codex 4]()
+* Added Red Creuss variant for Liberation of Ordinian scenario from [Codex IV](https://images-cdn.fantasyflightgames.com/filer_public/f6/be/f6be8343-a4fc-47e4-a722-efe3e01fc5d9/ti_codex_4_rules.pdf)
 * Added Thunder's Edge :ti4-te: icon and placeholders
 
 ### **15 Jul 25**
@@ -44,7 +48,7 @@ This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight
 * Added [Ghemina Raiders](factions/ds/ghemina.md)
 * Added [Glimmer of Mortheus](factions/ds/mortheus.md)
 * Added [Myko-Mentori](factions/ds/mykomentori.md)
-* Added [Zealots of Rhodun](factions/ds/zealots.md)
+* Added [Zealots of Rhodun](factions/ds/rhodun.md)
 * Added [alliances](alliances.md) reference page
 
 ### **15 May 25**

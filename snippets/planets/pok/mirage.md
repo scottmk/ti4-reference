@@ -1,4 +1,4 @@
-### Mirage
+### Mirage :ti4-pok:
 
 :ti4-planets-resources-1: :ti4-planets-influence-2: :ti4-planets-cultural:
 

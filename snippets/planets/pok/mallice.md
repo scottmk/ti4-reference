@@ -1,4 +1,4 @@
-### Mallice
+### Mallice :ti4-pok:
 
 :ti4-planets-resources-0: :ti4-planets-influence-3: :ti4-planets-cultural:
 

@@ -1,4 +1,4 @@
-### :ti4-tech-cybernetic: **Temporal Command Suite**:ti4-absol:
+### :ti4-faction-pok-nomad: :ti4-tech-cybernetic: **Temporal Command Suite**:ti4-absol:
 
 Requirements: :ti4-tech-cybernetic:
 

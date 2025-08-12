@@ -1,4 +1,4 @@
-### :ti4-tech-unit-upgrade: **Spec Ops II**:ti4-absol:
+### :ti4-faction-base-sol: :ti4-tech-unit-upgrade: **Spec Ops II**:ti4-absol:
 
 Requirements: :ti4-tech-biotic: :ti4-tech-biotic:
 

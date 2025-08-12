@@ -1,4 +1,4 @@
-### :ti4-tech-unit-upgrade: **Hel-Titan II**:ti4-absol:
+### :ti4-faction-pok-titans: :ti4-tech-unit-upgrade: **Hel-Titan II**:ti4-absol:
 
 Requirements: :ti4-tech-cybernetic: :ti4-tech-warfare:
 

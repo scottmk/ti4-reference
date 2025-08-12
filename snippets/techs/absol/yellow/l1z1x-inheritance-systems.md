@@ -1,4 +1,4 @@
-### :ti4-tech-cybernetic: **Inheritance Systems**:ti4-absol:
+### :ti4-faction-base-l1z1x: :ti4-tech-cybernetic: **Inheritance Systems**:ti4-absol:
 
 Requirements: :ti4-tech-cybernetic: :ti4-tech-cybernetic:
 

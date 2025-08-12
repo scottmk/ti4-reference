@@ -1,4 +1,4 @@
-### :ti4-tech-unit-upgrade: **Hybrid Crystal Fighter II**:ti4-absol:
+### :ti4-faction-base-naalu: :ti4-tech-unit-upgrade: **Hybrid Crystal Fighter II**:ti4-absol:
 
 Requirements: :ti4-tech-biotic: :ti4-tech-propulsion:
 

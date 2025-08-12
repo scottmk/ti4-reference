@@ -1,4 +1,4 @@
-### :ti4-tech-unit-upgrade: **Crimson Legionnaire II**:ti4-absol:
+### :ti4-faction-pok-mahact: :ti4-tech-unit-upgrade: **Crimson Legionnaire II**:ti4-absol:
 
 Requirements: :ti4-tech-biotic: :ti4-tech-biotic:
 

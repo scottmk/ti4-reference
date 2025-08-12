@@ -1,4 +1,4 @@
-### :ti4-tech-unit-upgrade: **Letani Warrior II**:ti4-absol:
+### :ti4-faction-base-arborec: :ti4-tech-unit-upgrade: **Letani Warrior II**:ti4-absol:
 
 Requirements: :ti4-tech-biotic: :ti4-tech-biotic:
 

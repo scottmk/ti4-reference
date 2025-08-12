@@ -1,4 +1,4 @@
-### :ti4-tech-biotic: **Transparasteel Plating**:ti4-absol:
+### :ti4-faction-base-yssaril: :ti4-tech-biotic: **Transparasteel Plating**:ti4-absol:
 
 Requirements: :ti4-tech-biotic:
 

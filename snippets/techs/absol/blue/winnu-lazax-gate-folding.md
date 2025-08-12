@@ -1,4 +1,4 @@
-### :ti4-tech-propulsion: **Lazax Gate Folding**:ti4-absol:
+### :ti4-faction-base-winnu: :ti4-tech-propulsion: **Lazax Gate Folding**:ti4-absol:
 
 Requirements: :ti4-tech-propulsion: :ti4-tech-propulsion:
 

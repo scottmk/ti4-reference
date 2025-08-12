@@ -1,4 +1,4 @@
-### :ti4-tech-cybernetic: **Salvage Operations**:ti4-absol:
+### :ti4-faction-base-mentak: :ti4-tech-cybernetic: **Salvage Operations**:ti4-absol:
 
 Requirements: :ti4-tech-cybernetic: :ti4-tech-cybernetic:
 

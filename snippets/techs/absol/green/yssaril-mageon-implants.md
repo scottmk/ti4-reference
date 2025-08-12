@@ -1,4 +1,4 @@
-### :ti4-tech-biotic: **Mageon Implants**:ti4-absol:
+### :ti4-faction-base-yssaril: :ti4-tech-biotic: **Mageon Implants**:ti4-absol:
 
 Requirements: :ti4-tech-biotic: :ti4-tech-biotic: :ti4-tech-biotic:
 

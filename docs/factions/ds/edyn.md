@@ -3,11 +3,6 @@ toc_depth: 2
 ---
 
 # :ti4-faction-ds-edyn: Edyn Mandate :ti4-ds:
-=== "Unmodded"
-=== "Absol's Mod :ti4-absol:" 
-    ???+ info
-
-        --8<-- "snippets/disclaimers/absol.md"
 
 <div class="grid cards" markdown>
 

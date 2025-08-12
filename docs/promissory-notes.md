@@ -263,6 +263,12 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
+    --8<-- "snippets/promissory-notes/ds/faction/edyn-edyn-rider.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
     --8<-- "snippets/promissory-notes/ds/faction/florzen-underworld-market.md"
 
 </div>

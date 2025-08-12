@@ -11,6 +11,10 @@ This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight
 
 ## Changelog
 
+### **11 Aug 25**
+
+* Added [Bentor Conglomerate](factions/ds/bentor.md)
+
 ### **09 Aug 25**
 
 * Added missing source icons

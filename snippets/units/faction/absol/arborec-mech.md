@@ -1,4 +1,4 @@
-### **Letani Behemoth**:ti4-absol:
+### :ti4-faction-base-arborec: **Letani Behemoth**:ti4-absol:
 
 Unit Type: Mech 
 

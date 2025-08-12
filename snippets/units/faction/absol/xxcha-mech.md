@@ -1,4 +1,4 @@
-### **Indomitus**:ti4-absol:
+### :ti4-faction-base-xxcha: **Indomitus**:ti4-absol:
 
 Unit Type: Mech 
 

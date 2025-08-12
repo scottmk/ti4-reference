@@ -1,6 +1,7 @@
 # Home
 
-This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight Imperium - 4th Edition, and includes summaries of most major components both for the Prophecy of Kings version (with all three Codex changes) as well as the components for Absol's Mod.
+This is a comprehensive quick-reference guide for Fantasy Flight Game's _Twilight Imperium - 4th Edition_, and includes summaries of most major components both for all official expansions and Codex updates, as well as the components for [Absol's Mod](https://drive.google.com/drive/folders/1rQxO5XmJUavliq1VAAtDaeAyObqYy64a).
+It also includes references for the [_Discordant Stars_ fan expansion](https://twilight-imperium.fandom.com/wiki/Discordant_Stars_Expansion_(UNOFFICIAL)).
 
 ## Useful Links
 
@@ -8,6 +9,8 @@ This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight
 * [_Twilight Imperium Rules_](https://www.tirules.com/): an indexed, unofficial summary of the _Living Rules Reference_ and other semi-official rulings
 * [TI4 Calculator](https://ti4battle.com/): a battle calculator for all TI4: PoK factions :material-information-outline:{ title="NB: This calculator does not include Absol's tech & mechs mods" }
 * [Twilight Imperium Fandom Wiki](https://twilight-imperium.fandom.com/wiki/Twilight_Imperium_Wiki)
+* [_Discordant Stars_ fan expansion wiki page](https://twilight-imperium.fandom.com/wiki/Discordant_Stars_Expansion_(UNOFFICIAL))
+* [Absol's Mod v4 print and play](https://drive.google.com/drive/folders/1rQxO5XmJUavliq1VAAtDaeAyObqYy64a)
 
 ## Changelog
 

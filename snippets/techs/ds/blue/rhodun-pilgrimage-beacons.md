@@ -1,4 +1,4 @@
-### :ti4-tech-propulsion: **Pilgrimage Beacons** :ti4-ds:
+### :ti4-faction-ds-rhodun: :ti4-tech-propulsion: **Pilgrimage Beacons** :ti4-ds:
 
 Requirements: :ti4-tech-propulsion: :ti4-tech-propulsion:
 

@@ -1,4 +1,4 @@
-### :ti4-tech-unit-upgrade: **Gauss Cannon II** :ti4-ds:
+### :ti4-faction-ds-mirveda: :ti4-tech-unit-upgrade: **Gauss Cannon II** :ti4-ds:
 
 Requirements: :ti4-tech-cybernetic: :ti4-tech-warfare:
 

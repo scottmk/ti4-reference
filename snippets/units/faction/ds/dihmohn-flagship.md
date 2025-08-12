@@ -1,4 +1,4 @@
-### **Maximus** :ti4-ds:
+### :ti4-faction-ds-dihmohn: **Maximus** :ti4-ds:
 
 Unit Type: Flagship 
 

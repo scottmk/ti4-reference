@@ -1,4 +1,4 @@
-### **Trade Port I** :ti4-ds:
+### :ti4-faction-ds-celdauri: **Trade Port I** :ti4-ds:
 
 Unit Type: Spacedock 
 

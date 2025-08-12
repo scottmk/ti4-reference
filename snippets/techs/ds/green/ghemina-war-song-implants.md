@@ -1,4 +1,4 @@
-### :ti4-tech-biotic: **War Song Implants** :ti4-ds:
+### :ti4-faction-ds-ghemina: :ti4-tech-biotic: **War Song Implants** :ti4-ds:
 
 Requirements: :ti4-tech-biotic: :ti4-tech-biotic: :ti4-tech-biotic:
 

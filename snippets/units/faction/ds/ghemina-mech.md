@@ -1,4 +1,4 @@
-### **Jotun** :ti4-ds:
+### :ti4-faction-ds-ghemina: **Jotun** :ti4-ds:
 
 Unit Type: Mech 
 

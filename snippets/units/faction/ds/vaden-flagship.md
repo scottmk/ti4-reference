@@ -1,4 +1,4 @@
-### **Aurum Vadra** :ti4-ds:
+### :ti4-faction-ds-vaden: **Aurum Vadra** :ti4-ds:
 
 Unit Type: Flagship 
 

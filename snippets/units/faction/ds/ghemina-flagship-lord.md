@@ -1,4 +1,4 @@
-### **The Lord** :ti4-ds:
+### :ti4-faction-ds-ghemina: **The Lord** :ti4-ds:
 
 Unit Type: Flagship 
 

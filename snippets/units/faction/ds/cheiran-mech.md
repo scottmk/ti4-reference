@@ -1,4 +1,4 @@
-### **Nauplius** :ti4-ds:
+### :ti4-faction-ds-cheiran: **Nauplius** :ti4-ds:
 
 Unit Type: Mech 
 

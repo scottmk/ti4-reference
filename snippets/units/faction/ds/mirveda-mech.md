@@ -1,4 +1,4 @@
-### **Javelin** :ti4-ds:
+### :ti4-faction-ds-mirveda: **Javelin** :ti4-ds:
 
 Unit Type: Mech 
 

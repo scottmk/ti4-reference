@@ -1,4 +1,4 @@
-### **Nightshade Vanguard**
+### :ti4-faction-ds-kollecc: **Nightshade Vanguard**
 
 Unit Type: Mech 
 

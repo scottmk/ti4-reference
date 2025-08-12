@@ -1,4 +1,4 @@
-### :ti4-tech-unit-upgrade: **Aegis II** :ti4-ds:
+### :ti4-faction-ds-dihmohn: :ti4-tech-unit-upgrade: **Aegis II** :ti4-ds:
 
 Requirements: :ti4-tech-propulsion: :ti4-tech-propulsion: :ti4-tech-cybernetic:
 

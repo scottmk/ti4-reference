@@ -1,4 +1,4 @@
-### **Exemplar** :ti4-ds:
+### :ti4-faction-ds-olradin: **Exemplar** :ti4-ds:
 
 Unit Type: Mech 
 

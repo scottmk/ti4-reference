@@ -1,4 +1,4 @@
-### **Vox** :ti4-ds:
+### :ti4-faction-ds-freesystems: **Vox** :ti4-ds:
 
 Unit Type: Flagship 
 

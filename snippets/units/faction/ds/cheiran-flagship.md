@@ -1,4 +1,4 @@
-### **Lithodax** :ti4-ds:
+### :ti4-faction-ds-cheiran: **Lithodax** :ti4-ds:
 
 Unit Type: Flagship 
 

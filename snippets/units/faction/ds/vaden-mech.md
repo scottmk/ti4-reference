@@ -1,4 +1,4 @@
-### **Collector** :ti4-ds:
+### :ti4-faction-ds-vaden: **Collector** :ti4-ds:
 
 Unit Type: Mech 
 

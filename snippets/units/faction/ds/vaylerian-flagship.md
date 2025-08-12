@@ -1,4 +1,4 @@
-### **Lost Cause** :ti4-ds:
+### :ti4-faction-ds-vaylerian: **Lost Cause** :ti4-ds:
 
 Unit Type: Flagship 
 

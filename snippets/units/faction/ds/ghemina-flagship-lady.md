@@ -1,4 +1,4 @@
-### **The Lady** :ti4-ds:
+### :ti4-faction-ds-ghemina: **The Lady** :ti4-ds:
 
 Unit Type: Lady 
 

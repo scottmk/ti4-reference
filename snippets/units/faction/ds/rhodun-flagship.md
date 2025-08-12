@@ -1,4 +1,4 @@
-### **Reckoning** :ti4-ds:
+### :ti4-faction-ds-rhodun: **Reckoning** :ti4-ds:
 
 Unit Type: Flagship 
 

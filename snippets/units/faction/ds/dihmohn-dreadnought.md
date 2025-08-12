@@ -1,4 +1,4 @@
-### **Aegis I** :ti4-ds:
+### :ti4-faction-ds-dihmohn: **Aegis I** :ti4-ds:
 
 Unit Type: Dreadnought 
 

@@ -1,4 +1,4 @@
-### **Freelance Outfit** :ti4-ds:
+### :ti4-faction-ds-nokar: **Freelance Outfit** :ti4-ds:
 
 Unit Type: Mech 
 

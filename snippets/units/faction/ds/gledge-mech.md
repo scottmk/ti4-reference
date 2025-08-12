@@ -1,4 +1,4 @@
-### **Exodriller** :ti4-ds:
+### :ti4-faction-ds-gledge: **Exodriller** :ti4-ds:
 
 Unit Type: Mech 
 

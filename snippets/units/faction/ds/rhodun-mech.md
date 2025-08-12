@@ -1,4 +1,4 @@
-### **Templar** :ti4-ds:
+### :ti4-faction-ds-rhodun: **Templar** :ti4-ds:
 
 Unit Type: Mech 
 

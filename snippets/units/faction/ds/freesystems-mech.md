@@ -1,4 +1,4 @@
-### **Liberator** :ti4-ds:
+### :ti4-faction-ds-freesystems: **Liberator** :ti4-ds:
 
 Unit Type: Mech 
 

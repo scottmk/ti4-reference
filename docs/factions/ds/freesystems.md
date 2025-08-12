@@ -81,15 +81,6 @@ toc_depth: 2
 
 <div class="grid cards" markdown>
 
--   ## __Special Units__
-
-    ---
-    --8<-- "snippets/units/faction/ds/freesystems-TODO.md"
-
-</div>
-
-<div class="grid cards" markdown>
-
 -   ## __Faction Technologies__
 
     ---

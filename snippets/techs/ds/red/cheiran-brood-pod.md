@@ -1,4 +1,4 @@
-### :ti4-tech-warfare: **Brood Pod** :ti4-ds:
+### :ti4-faction-ds-cheiran: :ti4-tech-warfare: **Brood Pod** :ti4-ds:
 
 Requirements: :ti4-tech-warfare: :ti4-tech-warfare:
 

@@ -14,6 +14,7 @@ This is a comprehensive quick-reference guide for Fantasy Flight Game's Twilight
 ### **11 Aug 25**
 
 * Added [Bentor Conglomerate](factions/ds/bentor.md)
+* Updated all DS faction techs and units to have faction icons, for parity with main factions
 
 ### **09 Aug 25**
 

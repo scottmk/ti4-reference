@@ -1,4 +1,4 @@
-### **Sabre I** :ti4-ds:
+### :ti4-faction-ds-nokar: **Sabre I** :ti4-ds:
 
 Unit Type: Destroyer 
 

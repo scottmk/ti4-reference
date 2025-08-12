@@ -1,4 +1,4 @@
-### **Combat Transport I** :ti4-ds:
+### :ti4-faction-ds-ghemina: **Combat Transport I** :ti4-ds:
 
 Unit Type: Carrier 
 

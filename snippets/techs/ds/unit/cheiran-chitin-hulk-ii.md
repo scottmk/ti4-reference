@@ -1,4 +1,4 @@
-### :ti4-tech-unit-upgrade: **Chitin Hulk II** :ti4-ds:
+### :ti4-faction-ds-cheiran: :ti4-tech-unit-upgrade: **Chitin Hulk II** :ti4-ds:
 
 Requirements: :ti4-tech-propulsion: :ti4-tech-propulsion: :ti4-tech-cybernetic:
 

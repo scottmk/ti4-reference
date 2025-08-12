@@ -1,4 +1,4 @@
-### **Psyclobea Qarnyx** :ti4-ds:
+### :ti4-faction-ds-mykomentori: **Psyclobea Qarnyx** :ti4-ds:
 
 Unit Type: Flagship 
 

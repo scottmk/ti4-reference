@@ -1,4 +1,4 @@
-### **Beg Bersha** :ti4-ds:
+### :ti4-faction-ds-gledge: **Beg Bersha** :ti4-ds:
 
 Unit Type: Flagship 
 

@@ -1,4 +1,4 @@
-### :ti4-tech-unit-upgrade: **Combat Transport II** :ti4-ds:
+### :ti4-faction-ds-ghemina: :ti4-tech-unit-upgrade: **Combat Transport II** :ti4-ds:
 
 Requirements: :ti4-tech-propulsion: :ti4-tech-propulsion:
 

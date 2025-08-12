@@ -1,4 +1,4 @@
-### **Raider I** :ti4-ds:
+### :ti4-faction-ds-vaylerian: **Raider I** :ti4-ds:
 
 Unit Type: Cruiser 
 

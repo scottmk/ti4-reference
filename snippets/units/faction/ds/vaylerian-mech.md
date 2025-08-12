@@ -1,4 +1,4 @@
-### **Eclipse** :ti4-ds:
+### :ti4-faction-ds-vaylerian: **Eclipse** :ti4-ds:
 
 Unit Type: Mech 
 

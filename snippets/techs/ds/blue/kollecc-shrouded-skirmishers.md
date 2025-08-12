@@ -1,4 +1,4 @@
-### :ti4-tech-propulsion: **Shrouded Skirmishers** :ti4-ds:
+### :ti4-faction-ds-kollecc: :ti4-tech-propulsion: **Shrouded Skirmishers** :ti4-ds:
 
 Requirements: :ti4-tech-propulsion:
 

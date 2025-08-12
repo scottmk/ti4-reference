@@ -1,4 +1,4 @@
-### :ti4-faction-ds-bentor: **Auctioneer** :ti4-ds:
+### :ti4-faction-ds-bentor: :ti4-faction-ds-bentor: **Auctioneer** :ti4-ds:
 
 Unit Type: Mech 
 

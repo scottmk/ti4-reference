@@ -1,4 +1,4 @@
-### **Exemplar Bonum :material-plus:**
+### :ti4-faction-ds-olradin: **Exemplar Bonum :material-plus:**
 
 Unit Type: Mech 
 

@@ -1,4 +1,4 @@
-### :ti4-tech-propulsion: **Lightning Drives** :ti4-ds:
+### :ti4-faction-ds-gledge: :ti4-tech-propulsion: **Lightning Drives** :ti4-ds:
 
 Requirements: :ti4-tech-propulsion: :ti4-tech-propulsion: :ti4-tech-propulsion:
 

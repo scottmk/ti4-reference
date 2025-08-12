@@ -1,4 +1,4 @@
-### :ti4-tech-unit-upgrade: **Raider II** :ti4-ds:
+### :ti4-faction-ds-vaylerian: :ti4-tech-unit-upgrade: **Raider II** :ti4-ds:
 
 Requirements: :ti4-tech-biotic: :ti4-tech-cybernetic: :ti4-tech-warfare:
 

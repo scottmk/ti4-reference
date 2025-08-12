@@ -1,4 +1,4 @@
-### :ti4-tech-biotic: **Psychoactive Armaments** :ti4-ds:
+### :ti4-faction-ds-mykomentori: :ti4-tech-biotic: **Psychoactive Armaments** :ti4-ds:
 
 Requirements: :ti4-tech-biotic: :ti4-tech-biotic:
 

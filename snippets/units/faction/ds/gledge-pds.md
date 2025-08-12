@@ -1,4 +1,4 @@
-### **Orion Platform I** :ti4-ds:
+### :ti4-faction-ds-gledge: **Orion Platform I** :ti4-ds:
 
 Unit Type: PDS 
 

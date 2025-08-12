@@ -1,4 +1,4 @@
-### :ti4-faction-ds-cymiae: **Revenant**
+### :ti4-faction-ds-cymiae: **Revenant** :ti4-ds:
 
 Unit Type: Mech 
 

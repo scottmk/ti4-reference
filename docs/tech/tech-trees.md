@@ -59,7 +59,7 @@ hide:
     --8<-- "snippets/techs/pok/green/hyper-metabolism.md"
       </div>
       <div markdown class="green-tech grid-item">
-    --8<-- "snippets/techs/codex/green/x-89-bacterial-weapon.md"
+    --8<-- "snippets/techs/pok/green/x-89-bacterial-weapon.md"
       </div>
       <div markdown class="grid-item"></div>
       <div markdown class="unit-tech grid-item">
@@ -101,7 +101,7 @@ hide:
     --8<-- "snippets/techs/pok/red/plasma-scoring.md"
       </div>
       <div markdown class="red-tech grid-item">
-    --8<-- "snippets/techs/codex/red/magen-defense-grid.md"
+    --8<-- "snippets/techs/pok/red/magen-defense-grid.md"
       </div>
       <div markdown class="unit-tech grid-item">
     --8<-- "snippets/techs/pok/unit/destroyer-ii.md"

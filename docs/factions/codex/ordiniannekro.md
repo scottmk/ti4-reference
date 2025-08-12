@@ -109,9 +109,9 @@ toc_depth: 2
 -   ## __Faction Technologies__
 
     ---
-    --8<-- "snippets/techs/codex/other/nekro-null-reference.md"
+    --8<-- "snippets/techs/codex/liberation-of-ordinian/nekro-null-reference.md"
 
-    --8<-- "snippets/techs/codex/other/nekro-error-error.md"
+    --8<-- "snippets/techs/codex/liberation-of-ordinian/nekro-error-error.md"
 
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 

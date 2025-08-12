@@ -1,5 +1,7 @@
-### :ti4-tech-biotic: **X-89 Bacterial Weapon Ω** :ti4-codex:
+### :ti4-tech-biotic: **X-89 Bacterial Weapon ΩΩ**:ti4-codex:
 
 Requirements: :ti4-tech-biotic: :ti4-tech-biotic: :ti4-tech-biotic:
 
-After 1 or more of your units use <span style="font-variant:small-caps;">Bombardment</span> against a planet, if at least 1 of your opponent's infantry was destroyed, you may destroy all of your opponent's infantry on that planet.
+Double the hits produced by your units' <span style="font-variant:small-caps;">Bombardment</span> and ground combat rolls.
+
+Exhaust each planet you use <span style="font-variant:small-caps;">Bombardment</span> against.

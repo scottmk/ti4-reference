@@ -1,5 +1,5 @@
 ---
-toc_depth: 2
+toc_depth: 3
 ---
 
 # Legendary Planets
@@ -54,6 +54,10 @@ toc_depth: 2
 -   
 
     --8<-- "snippets/planets/te/thunders-edge.md"
+
+-   
+
+    --8<-- "snippets/planets/te/styx.md"
 
 </div>
 

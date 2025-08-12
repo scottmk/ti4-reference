@@ -1,4 +1,4 @@
-### :ti4-faction-pok-empyrean: __Empyrean - Blood Pact__
+### :ti4-faction-pok-empyrean: __Empyrean - Blood Pact__ :ti4-pok:
 
 ---
 <span style="font-variant:small-caps;">Action</span>: Place this card face up in your play area.

@@ -2,7 +2,7 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-base-sol:/:ti4-faction-base-xxcha: Salient Sun - Alliance (Liberation of Ordinian) <sup><sub>:ti4-codex:</sub></sup>
+# :ti4-faction-codex-salientsun: Salient Sun - Alliance (Liberation of Ordinian) <sup><sub>:ti4-codex:</sub></sup>
 
 <div class="grid cards" markdown>
 

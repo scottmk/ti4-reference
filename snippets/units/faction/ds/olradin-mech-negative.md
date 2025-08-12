@@ -1,4 +1,4 @@
-### :ti4-faction-ds-olradin: **Exemplar Malus :material-minus:**
+### :ti4-faction-ds-olradin: **Exemplar Malus :material-minus:** :ti4-ds:
 
 Unit Type: Mech 
 

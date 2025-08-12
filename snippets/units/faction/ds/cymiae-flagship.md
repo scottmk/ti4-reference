@@ -1,4 +1,4 @@
-### :ti4-faction-ds-cymiae: **Reprocessor Alpha**
+### :ti4-faction-ds-cymiae: **Reprocessor Alpha** :ti4-ds:
 
 Unit Type: Flagship 
 

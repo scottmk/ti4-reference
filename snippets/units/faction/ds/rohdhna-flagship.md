@@ -1,4 +1,4 @@
-### :ti4-faction-ds-rohdhna: **Ky'vir The Replicator**
+### :ti4-faction-ds-rohdhna: **Ky'vir The Replicator** :ti4-ds:
 
 Unit Type: Flagship 
 

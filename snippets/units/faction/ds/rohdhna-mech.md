@@ -1,4 +1,4 @@
-### :ti4-faction-ds-rohdhna: **Autofabricator**
+### :ti4-faction-ds-rohdhna: **Autofabricator** :ti4-ds:
 
 Unit Type: Mech 
 

@@ -1,4 +1,4 @@
-### :ti4-faction-ds-cymiae: **Unholy Abomination I**
+### :ti4-faction-ds-cymiae: **Unholy Abomination I** :ti4-ds:
 
 Unit Type: Infantry 
 

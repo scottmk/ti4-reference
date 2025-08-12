@@ -42,7 +42,7 @@ toc_depth: 2
 
     ---
     === "Unmodded"
-        --8<-- "snippets/techs/pok/green/daxcive-animators.md"
+        --8<-- "snippets/techs/base/green/daxcive-animators.md"
         
         ---
 
@@ -83,9 +83,9 @@ toc_depth: 2
 -   ## __Faction Technologies__
 
     ---
-    --8<-- "snippets/techs/pok/other/nekro-valefar-assimilator-x.md"
+    --8<-- "snippets/techs/base/other/nekro-valefar-assimilator-x.md"
 
-    --8<-- "snippets/techs/pok/other/nekro-valefar-assimilator-y.md"
+    --8<-- "snippets/techs/base/other/nekro-valefar-assimilator-y.md"
 
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 

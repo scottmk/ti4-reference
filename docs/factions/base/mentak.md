@@ -42,9 +42,9 @@ toc_depth: 2
 
     ---
     === "Unmodded"
-        --8<-- "snippets/techs/pok/yellow/sarween-tools.md"
+        --8<-- "snippets/techs/base/yellow/sarween-tools.md"
 
-        --8<-- "snippets/techs/pok/red/plasma-scoring.md"
+        --8<-- "snippets/techs/base/red/plasma-scoring.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/yellow/sarween-tools.md"
@@ -77,9 +77,9 @@ toc_depth: 2
 
     ---
     === "Unmodded"
-        --8<-- "snippets/techs/pok/yellow/mentak-salvage-operations.md"
+        --8<-- "snippets/techs/base/yellow/mentak-salvage-operations.md"
 
-        --8<-- "snippets/techs/pok/yellow/mentak-mirror-computing.md"
+        --8<-- "snippets/techs/base/yellow/mentak-mirror-computing.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/yellow/mentak-salvage-operations.md"

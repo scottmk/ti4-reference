@@ -50,7 +50,7 @@ toc_depth: 2
 
     ---
     === "Unmodded"
-        --8<-- "snippets/techs/pok/blue/gravity-drive.md"
+        --8<-- "snippets/techs/base/blue/gravity-drive.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/blue/gravity-drive.md"
@@ -89,9 +89,9 @@ toc_depth: 2
 
     ---
     === "Unmodded"
-        --8<-- "snippets/techs/pok/blue/creuss-wormhole-generator.md"
+        --8<-- "snippets/techs/base/blue/creuss-wormhole-generator.md"
 
-        --8<-- "snippets/techs/pok/red/creuss-dimensional-splicer.md"
+        --8<-- "snippets/techs/base/red/creuss-dimensional-splicer.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/blue/creuss-wormhole-generator.md"

@@ -42,7 +42,7 @@ toc_depth: 2
 
     ---
     === "Unmodded"
-        --8<-- "snippets/techs/pok/blue/antimass-deflectors.md"
+        --8<-- "snippets/techs/base/blue/antimass-deflectors.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/blue/antimass-deflectors.md"
@@ -89,9 +89,9 @@ toc_depth: 2
 
     ---
     === "Unmodded"
-        --8<-- "snippets/techs/pok/unit/saar-floating-factory-ii.md"
+        --8<-- "snippets/techs/base/unit/saar-floating-factory-ii.md"
 
-        --8<-- "snippets/techs/pok/blue/saar-chaos-mapping.md"
+        --8<-- "snippets/techs/base/blue/saar-chaos-mapping.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/unit/saar-floating-factory-ii.md"

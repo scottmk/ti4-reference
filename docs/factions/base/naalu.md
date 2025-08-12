@@ -44,9 +44,9 @@ toc_depth: 2
 
     ---
     === "Unmodded"
-        --8<-- "snippets/techs/pok/green/neural-motivator.md"
+        --8<-- "snippets/techs/base/green/neural-motivator.md"
 
-        --8<-- "snippets/techs/pok/yellow/sarween-tools.md"
+        --8<-- "snippets/techs/base/yellow/sarween-tools.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/green/neural-motivator.md"
@@ -91,9 +91,9 @@ toc_depth: 2
 
     ---
     === "Unmodded"
-        --8<-- "snippets/techs/pok/unit/naalu-hybrid-crystal-fighter-ii.md"
+        --8<-- "snippets/techs/base/unit/naalu-hybrid-crystal-fighter-ii.md"
 
-        --8<-- "snippets/techs/pok/green/naalu-neuroglaive.md"
+        --8<-- "snippets/techs/base/green/naalu-neuroglaive.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/unit/naalu-hybrid-crystal-fighter-ii.md"

@@ -77,9 +77,9 @@ toc_depth: 2
 
     ---
     === "Unmodded"
-        --8<-- "snippets/techs/pok/unit/sardakk-exotrireme-ii.md"
+        --8<-- "snippets/techs/base/unit/sardakk-exotrireme-ii.md"
 
-        --8<-- "snippets/techs/pok/red/sardakk-valkyrie-particle-weave.md"
+        --8<-- "snippets/techs/base/red/sardakk-valkyrie-particle-weave.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/unit/sardakk-exotrireme-ii.md"

@@ -45,7 +45,7 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/pok/blue/dark-energy-tap.md"
 
-        --8<-- "snippets/techs/pok/green/neural-motivator.md"
+        --8<-- "snippets/techs/base/green/neural-motivator.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/blue/dark-energy-tap.md"

@@ -68,7 +68,7 @@ toc_depth: 2
 
     ---
     === "Unmodded"
-        --8<-- "snippets/techs/pok/green/daxcive-animators.md"
+        --8<-- "snippets/techs/base/green/daxcive-animators.md"
         
         ---
 

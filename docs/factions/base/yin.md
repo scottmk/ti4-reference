@@ -41,7 +41,7 @@ toc_depth: 2
 
     ---
     === "Unmodded"
-        --8<-- "snippets/techs/pok/yellow/sarween-tools.md"
+        --8<-- "snippets/techs/base/yellow/sarween-tools.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/yellow/sarween-tools.md"
@@ -75,9 +75,9 @@ toc_depth: 2
 
     ---
     === "Unmodded"
-        --8<-- "snippets/techs/pok/yellow/yin-impulse-core.md"
+        --8<-- "snippets/techs/base/yellow/yin-impulse-core.md"
 
-        --8<-- "snippets/techs/pok/green/yin-yin-spinner.md"
+        --8<-- "snippets/techs/base/green/yin-yin-spinner.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/yellow/yin-impulse-core.md"

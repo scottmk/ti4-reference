@@ -45,11 +45,11 @@ toc_depth: 2
     === "Unmodded"
         ### **Choose two of the following**:
 
-        --8<-- "snippets/techs/pok/blue/antimass-deflectors.md"
+        --8<-- "snippets/techs/base/blue/antimass-deflectors.md"
 
-        --8<-- "snippets/techs/pok/yellow/sarween-tools.md"
+        --8<-- "snippets/techs/base/yellow/sarween-tools.md"
 
-        --8<-- "snippets/techs/pok/red/plasma-scoring.md"
+        --8<-- "snippets/techs/base/red/plasma-scoring.md"
 
     === "Absol's Mod :ti4-absol:"  
         ### **Choose two of the following**:

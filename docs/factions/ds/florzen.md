@@ -43,7 +43,7 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/pok/yellow/scanlink-drone-network.md"
 
-        --8<-- "snippets/techs/pok/green/neural-motivator.md"
+        --8<-- "snippets/techs/base/green/neural-motivator.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/yellow/scanlink-drone-network.md"

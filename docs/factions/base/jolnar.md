@@ -43,13 +43,13 @@ toc_depth: 2
 
     ---
     === "Unmodded"
-        --8<-- "snippets/techs/pok/green/neural-motivator.md"
+        --8<-- "snippets/techs/base/green/neural-motivator.md"
 
-        --8<-- "snippets/techs/pok/blue/antimass-deflectors.md"
+        --8<-- "snippets/techs/base/blue/antimass-deflectors.md"
 
-        --8<-- "snippets/techs/pok/yellow/sarween-tools.md"
+        --8<-- "snippets/techs/base/yellow/sarween-tools.md"
 
-        --8<-- "snippets/techs/pok/red/plasma-scoring.md"
+        --8<-- "snippets/techs/base/red/plasma-scoring.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/green/neural-motivator.md"
@@ -93,9 +93,9 @@ toc_depth: 2
 
     ---
     === "Unmodded"
-        --8<-- "snippets/techs/pok/blue/jolnar-spatial-conduit-cylinder.md"
+        --8<-- "snippets/techs/base/blue/jolnar-spatial-conduit-cylinder.md"
 
-        --8<-- "snippets/techs/pok/yellow/jolnar-e-res-siphons.md"
+        --8<-- "snippets/techs/base/yellow/jolnar-e-res-siphons.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/blue/jolnar-spatial-conduit-cylinder.md"

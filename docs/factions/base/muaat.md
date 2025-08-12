@@ -40,7 +40,7 @@ toc_depth: 2
 
     ---
     === "Unmodded"
-        --8<-- "snippets/techs/pok/red/plasma-scoring.md"
+        --8<-- "snippets/techs/base/red/plasma-scoring.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/red/plasma-scoring.md"
@@ -83,9 +83,9 @@ toc_depth: 2
 
     ---
     === "Unmodded"
-        --8<-- "snippets/techs/pok/unit/muaat-prototype-war-sun-ii.md"
+        --8<-- "snippets/techs/base/unit/muaat-prototype-war-sun-ii.md"
 
-        --8<-- "snippets/techs/pok/red/muaat-magmus-reactor.md"
+        --8<-- "snippets/techs/base/red/muaat-magmus-reactor.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/unit/muaat-prototype-war-sun-ii.md"

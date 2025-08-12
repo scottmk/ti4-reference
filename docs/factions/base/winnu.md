@@ -68,9 +68,9 @@ toc_depth: 2
 
     ---
     === "Unmodded"
-        --8<-- "snippets/techs/pok/blue/winnu-lazax-gate-folding.md"
+        --8<-- "snippets/techs/base/blue/winnu-lazax-gate-folding.md"
 
-        --8<-- "snippets/techs/pok/yellow/winnu-hegemonic-trade-policy.md"
+        --8<-- "snippets/techs/base/yellow/winnu-hegemonic-trade-policy.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/blue/winnu-lazax-gate-folding.md"

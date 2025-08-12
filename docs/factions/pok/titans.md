@@ -41,7 +41,7 @@ toc_depth: 2
 
     ---
     === "Unmodded"
-        --8<-- "snippets/techs/pok/blue/antimass-deflectors.md"
+        --8<-- "snippets/techs/base/blue/antimass-deflectors.md"
 
         --8<-- "snippets/techs/pok/yellow/scanlink-drone-network.md"
     === "Absol's Mod :ti4-absol:"  

@@ -42,7 +42,7 @@ toc_depth: 2
 
     ---
     === "Unmodded"
-        --8<-- "snippets/techs/pok/yellow/sarween-tools.md"
+        --8<-- "snippets/techs/base/yellow/sarween-tools.md"
 
         --8<-- "snippets/techs/pok/red/ai-development-algorithm.md"
 

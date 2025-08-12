@@ -43,7 +43,7 @@ toc_depth: 2
 
     ---
     === "Unmodded"
-        --8<-- "snippets/techs/pok/green/neural-motivator.md"
+        --8<-- "snippets/techs/base/green/neural-motivator.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/green/neural-motivator.md"
@@ -81,9 +81,9 @@ toc_depth: 2
 
     ---
     === "Unmodded"
-        --8<-- "snippets/techs/pok/green/yssaril-transparasteel-plating.md"
+        --8<-- "snippets/techs/base/green/yssaril-transparasteel-plating.md"
 
-        --8<-- "snippets/techs/pok/green/yssaril-mageon-implants.md"
+        --8<-- "snippets/techs/base/green/yssaril-mageon-implants.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/green/yssaril-transparasteel-plating.md"

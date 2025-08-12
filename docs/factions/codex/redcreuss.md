@@ -74,12 +74,12 @@ toc_depth: 2
 -   ## __Flagship__
 
     ---
-    --8<-- "snippets/units/faction/pok/creuss-flagship.md"
+    --8<-- "snippets/units/faction/base/creuss-flagship.md"
 
 -   ## __Mech__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
-    --8<-- "snippets/units/faction/pok/creuss-mech.md"
+    --8<-- "snippets/units/faction/base/creuss-mech.md"
 
 </div>
 

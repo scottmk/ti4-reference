@@ -70,13 +70,13 @@ toc_depth: 2
 -   ## __Flagship__
 
     ---
-    --8<-- "snippets/units/faction/pok/keleres-flagship.md"
+    --8<-- "snippets/units/faction/codex/keleres-flagship.md"
 
 -   ## __Mech__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
     === "Unmodded"
-        --8<-- "snippets/units/faction/pok/keleres-mech.md"
+        --8<-- "snippets/units/faction/codex/keleres-mech.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/units/faction/absol/keleres-mech.md"

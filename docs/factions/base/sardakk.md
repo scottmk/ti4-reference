@@ -53,12 +53,12 @@ toc_depth: 2
 -   ## __Flagship__
 
     ---
-    --8<-- "snippets/units/faction/pok/sardakk-flagship.md"
+    --8<-- "snippets/units/faction/base/sardakk-flagship.md"
 
 -   ## __Mech__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
-    --8<-- "snippets/units/faction/pok/sardakk-mech.md"
+    --8<-- "snippets/units/faction/base/sardakk-mech.md"
 
 </div>
 
@@ -67,7 +67,7 @@ toc_depth: 2
 -   ## __Special Units__
 
     ---
-    --8<-- "snippets/units/faction/pok/sardakk-dreadnought.md"
+    --8<-- "snippets/units/faction/base/sardakk-dreadnought.md"
 
 </div>
 

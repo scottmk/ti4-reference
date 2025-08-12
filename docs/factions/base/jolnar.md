@@ -78,12 +78,12 @@ toc_depth: 2
 -   ## __Flagship__
 
     ---
-    --8<-- "snippets/units/faction/pok/jolnar-flagship.md"
+    --8<-- "snippets/units/faction/base/jolnar-flagship.md"
 
 -   ## __Mech__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
-    --8<-- "snippets/units/faction/pok/jolnar-mech.md"
+    --8<-- "snippets/units/faction/base/jolnar-mech.md"
 
 </div>
 

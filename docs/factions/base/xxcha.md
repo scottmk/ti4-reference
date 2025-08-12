@@ -62,13 +62,13 @@ toc_depth: 2
 -   ## __Flagship__
 
     ---
-    --8<-- "snippets/units/faction/pok/xxcha-flagship.md"
+    --8<-- "snippets/units/faction/base/xxcha-flagship.md"
 
 -   ## __Mech__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
     === "Unmodded"
-        --8<-- "snippets/units/faction/pok/xxcha-mech.md"
+        --8<-- "snippets/units/faction/base/xxcha-mech.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/units/faction/absol/xxcha-mech.md"

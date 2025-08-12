@@ -66,12 +66,12 @@ toc_depth: 2
 -   ## __Flagship__
 
     ---
-    --8<-- "snippets/units/faction/pok/mentak-flagship.md"
+    --8<-- "snippets/units/faction/base/mentak-flagship.md"
 
 -   ## __Mech__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
-    --8<-- "snippets/units/faction/pok/mentak-mech.md"
+    --8<-- "snippets/units/faction/base/mentak-mech.md"
 
 -   ## __Faction Technologies__
 

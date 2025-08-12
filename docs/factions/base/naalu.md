@@ -67,12 +67,12 @@ toc_depth: 2
 -   ## __Flagship__
 
     ---
-    --8<-- "snippets/units/faction/pok/naalu-flagship.md"
+    --8<-- "snippets/units/faction/base/naalu-flagship.md"
 
 -   ## __Mech__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
-    --8<-- "snippets/units/faction/pok/naalu-mech.md"
+    --8<-- "snippets/units/faction/base/naalu-mech.md"
 
 </div>
 
@@ -81,7 +81,7 @@ toc_depth: 2
 -   ## __Special Units__
 
     ---
-    --8<-- "snippets/units/faction/pok/naalu-fighter.md"
+    --8<-- "snippets/units/faction/base/naalu-fighter.md"
 
 </div>
 

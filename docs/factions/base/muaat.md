@@ -59,12 +59,12 @@ toc_depth: 2
 -   ## __Flagship__
 
     ---
-    --8<-- "snippets/units/faction/pok/muaat-flagship.md"
+    --8<-- "snippets/units/faction/base/muaat-flagship.md"
 
 -   ## __Mech__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
-    --8<-- "snippets/units/faction/pok/muaat-mech.md"
+    --8<-- "snippets/units/faction/base/muaat-mech.md"
 
 </div>
 
@@ -73,7 +73,7 @@ toc_depth: 2
 -   ## __Special Units__
 
     ---
-    --8<-- "snippets/units/faction/pok/muaat-war-sun.md"
+    --8<-- "snippets/units/faction/base/muaat-war-sun.md"
 
 </div>
 

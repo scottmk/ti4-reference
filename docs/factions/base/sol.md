@@ -62,12 +62,12 @@ toc_depth: 2
 -   ## __Flagship__
 
     ---
-    --8<-- "snippets/units/faction/pok/sol-flagship.md"
+    --8<-- "snippets/units/faction/base/sol-flagship.md"
 
 -   ## __Mech__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
-    --8<-- "snippets/units/faction/pok/sol-mech.md"
+    --8<-- "snippets/units/faction/base/sol-mech.md"
 
 </div>
 
@@ -77,12 +77,12 @@ toc_depth: 2
 
 -   
 
-    --8<-- "snippets/units/faction/pok/sol-infantry.md"
+    --8<-- "snippets/units/faction/base/sol-infantry.md"
 
 
 -   
 
-    --8<-- "snippets/units/faction/pok/sol-carrier.md"
+    --8<-- "snippets/units/faction/base/sol-carrier.md"
 
 </div>
 

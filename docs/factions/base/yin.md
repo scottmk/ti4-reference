@@ -60,13 +60,13 @@ toc_depth: 2
 -   ## __Flagship__
 
     ---
-    --8<-- "snippets/units/faction/pok/yin-flagship.md"
+    --8<-- "snippets/units/faction/base/yin-flagship.md"
 
 -   ## __Mech__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
     === "Unmodded"
-        --8<-- "snippets/units/faction/pok/yin-mech.md"
+        --8<-- "snippets/units/faction/base/yin-mech.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/units/faction/absol/yin-mech.md"

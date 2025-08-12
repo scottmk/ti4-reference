@@ -61,13 +61,13 @@ toc_depth: 2
 -   ## __Flagship__
 
     ---
-    --8<-- "snippets/units/faction/pok/saar-flagship.md"
+    --8<-- "snippets/units/faction/base/saar-flagship.md"
 
 -   ## __Mech__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
     === "Unmodded"
-        --8<-- "snippets/units/faction/pok/saar-mech.md"
+        --8<-- "snippets/units/faction/base/saar-mech.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/units/faction/absol/saar-mech.md"
@@ -79,7 +79,7 @@ toc_depth: 2
 -   ## __Special Units__
 
     ---
-    --8<-- "snippets/units/faction/pok/saar-spacedock.md"
+    --8<-- "snippets/units/faction/base/saar-spacedock.md"
 
 </div>
 

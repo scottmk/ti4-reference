@@ -66,12 +66,12 @@ toc_depth: 2
 -   ## __Flagship__
 
     ---
-    --8<-- "snippets/units/faction/pok/letnev-flagship.md"
+    --8<-- "snippets/units/faction/base/letnev-flagship.md"
 
 -   ## __Mech__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
-    --8<-- "snippets/units/faction/pok/letnev-mech.md"
+    --8<-- "snippets/units/faction/base/letnev-mech.md"
 
 </div>
 

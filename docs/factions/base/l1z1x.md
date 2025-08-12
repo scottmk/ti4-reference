@@ -65,12 +65,12 @@ toc_depth: 2
 -   ## __Flagship__
 
     ---
-    --8<-- "snippets/units/faction/pok/l1z1x-flagship.md"
+    --8<-- "snippets/units/faction/base/l1z1x-flagship.md"
 
 -   ## __Mech__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
-    --8<-- "snippets/units/faction/pok/l1z1x-mech.md"
+    --8<-- "snippets/units/faction/base/l1z1x-mech.md"
 
 </div>
 
@@ -79,7 +79,7 @@ toc_depth: 2
 -   ## __Special Units__
 
     ---
-    --8<-- "snippets/units/faction/pok/l1z1x-dreadnought.md"
+    --8<-- "snippets/units/faction/base/l1z1x-dreadnought.md"
 
 </div>
 

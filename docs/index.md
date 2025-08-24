@@ -14,6 +14,10 @@ It also includes references for the [_Discordant Stars_ fan expansion](https://t
 
 ## Changelog
 
+### **23 Aug 25**
+
+* Added Barony of Letnev's breakthrough, revealed on [_Space Cats Peace Turtles_ episode 417](https://spacecatspeaceturtles.podbean.com/e/417-what-is-twilights-fall-theories-and-guesses/).
+
 ### **11 Aug 25**
 
 * Added [Bentor Conglomerate](factions/ds/bentor.md)

@@ -71,7 +71,7 @@
     | hurripain               | :ti4-faction-pok-cabal: Vuil'Raith Cabal   | 9 VP      |
     | mscott                  | :ti4-faction-base-creuss: Ghosts of Creuss | 9 VP      |
     | LAPDConvict             | :ti4-faction-base-letnev: Barony of Letnev | 9 VP      |
-    | scruffy                 | :ti4-faction-base-yin: Brotherhood of Yin  | 8 VP      |
+    | scruffy                 | :ti4-faction-base-yin: Yin Brotherhood     | 8 VP      |
 
 -   ### **Game 4:** 2024.07.14 - 2024.08.08
 
@@ -290,9 +290,9 @@
 
     _Trade someone their own promissory note_
 
-    | Player | Faction                                    | Game                                                   |
-    | ------ | ------------------------------------------ | ------------------------------------------------------ |
-    | mscott | :ti4-faction-base-creuss: Ghosts of Creuss | [Game 10](bounce-house.md#game-10-20250426---20250627) |
+    | Player | Faction                                    | Game                                                 |
+    | ------ | ------------------------------------------ | ---------------------------------------------------- |
+    | mscott | :ti4-faction-base-creuss: Ghosts of Creuss | [Game 10](bounce-house.md#game-10-20250426-20250627) |
 
 -   ### Interdimensional Highway
 

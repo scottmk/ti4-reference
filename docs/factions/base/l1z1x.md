@@ -112,6 +112,11 @@ toc_depth: 2
 
     --8<-- "snippets/leaders/base/l1z1x-hero.md"
 
+- ## __Breakthrough__ :ti4-te:
+
+    ---
+    --8<-- "snippets/breakthroughs/base/l1z1x-fealty-uplink.md"
+
 -   ## __Faction Promissory Note__
 
     ---

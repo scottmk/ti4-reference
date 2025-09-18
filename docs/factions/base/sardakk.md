@@ -100,6 +100,11 @@ toc_depth: 2
 
     --8<-- "snippets/leaders/base/sardakk-hero.md"
 
+- ## __Breakthrough__ :ti4-te:
+
+    ---
+    --8<-- "snippets/breakthroughs/base/sardakk-norr-supremacy.md"
+
 -   ## __Faction Promissory Note__
 
     ---

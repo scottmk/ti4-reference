@@ -14,6 +14,14 @@ It also includes references for the [_Discordant Stars_ fan expansion](https://t
 
 ## Changelog
 
+### **17 Sep 25**
+* Added _Thunder's Edge_ reveals from [_Space Cats Peace Turtles_ episode 421](https://spacecatspeaceturtles.podbean.com/e/421-blood-on-the-clock-tower-appreciation-podcast-also-thunders-edge-teasers-are-back-also-also-ti-digital-announced-wow/):
+    * Emelpar legendary planet ability
+    * Vuil'raith Cabal breakthrough
+    * Sardakk N'orr breakthrough
+    * Federation of Sol breakthrough
+    * L1Z1X Mindnet breakthrough
+
 ### **23 Aug 25**
 
 * Added Barony of Letnev's breakthrough, revealed on [_Space Cats Peace Turtles_ episode 417](https://spacecatspeaceturtles.podbean.com/e/417-what-is-twilights-fall-theories-and-guesses/).

@@ -113,6 +113,11 @@ toc_depth: 2
 
     --8<-- "snippets/leaders/pok/cabal-hero.md"
 
+- ## __Breakthrough__ :ti4-te:
+
+    ---
+    --8<-- "snippets/breakthroughs/pok/cabal-alraith-ix-ianovar.md"
+
 -   ## __Faction Promissory Note__
 
     ---

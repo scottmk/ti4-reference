@@ -38,6 +38,8 @@ nav:
         - Crimson Rebellion: factions/codex/redcreuss.md
         - Nekro Virus: factions/codex/ordiniannekro.md
         - Salient Sun (alliance): factions/codex/salientsun.md
+    - Thunder's Edge:
+      - Last Bastion: factions/te/bastion.md
     - Discordant Stars:
       - Shipwrights of Axis: factions/ds/axis.md
       - Bentor Conglomerate: factions/ds/bentor.md
@@ -67,9 +69,12 @@ nav:
   - Alliances: alliances.md
   - Relics: relics.md
   - Legendary Planets: legendary-planets.md
+  - Franken Draft Planner: franken.md
   - Bounce House Trophy Wall: bounce-house.md
 extra_css:
   - stylesheets/extra.css
+extra_javascript:
+  - javascripts/extra.js
 theme:
   name: material
   palette: 
@@ -118,3 +123,6 @@ markdown_extensions:
   - tables
   - toc:
       permalink: "¶"
+plugins:
+  - macros:
+      include_dir:  snippets

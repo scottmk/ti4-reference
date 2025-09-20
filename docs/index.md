@@ -14,6 +14,9 @@ It also includes references for the [_Discordant Stars_ fan expansion](https://t
 
 ## Changelog
 
+### **20 Sep 25**
+* Added _Thunder's Edge_ faction [Last Bastion](factions/te/bastion.md) (everything known so far)
+
 ### **17 Sep 25**
 * Added _Thunder's Edge_ reveals from [_Space Cats Peace Turtles_ episode 421](https://spacecatspeaceturtles.podbean.com/e/421-blood-on-the-clock-tower-appreciation-podcast-also-thunders-edge-teasers-are-back-also-also-ti-digital-announced-wow/):
     * Emelpar legendary planet ability

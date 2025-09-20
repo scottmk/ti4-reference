@@ -66,7 +66,7 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/te/bastion-flagship.md"
 
--   ## __Mech__
+-   ## __Mech__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
     --8<-- "snippets/units/faction/te/bastion-mech.md"
@@ -91,7 +91,7 @@ toc_depth: 2
 
     --8<-- "snippets/techs/te/TODO/bastion-TODO.md"
 
--   ## __Leaders__
+-   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
     

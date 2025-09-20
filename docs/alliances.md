@@ -184,6 +184,12 @@ toc_depth: 3
     --8<-- "snippets/alliances/te/bastion-TODO.md"
 
 </div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/alliances/te/crimson-TODO.md"
+
+</div>
 </div>
 
 ## Discordant Stars :ti4-ds:

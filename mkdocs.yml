@@ -69,12 +69,9 @@ nav:
   - Alliances: alliances.md
   - Relics: relics.md
   - Legendary Planets: legendary-planets.md
-  - Franken Draft Planner: franken.md
   - Bounce House Trophy Wall: bounce-house.md
 extra_css:
   - stylesheets/extra.css
-extra_javascript:
-  - javascripts/extra.js
 theme:
   name: material
   palette: 
@@ -123,6 +120,3 @@ markdown_extensions:
   - tables
   - toc:
       permalink: "¶"
-plugins:
-  - macros:
-      include_dir:  snippets

@@ -221,6 +221,22 @@ toc_depth: 3
 </div>
 </div>
 
+## Faction-specific: Thunder's Edge :ti4-te:
+
+<div class="grid cards" markdown>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/promissory-notes/te/faction/bastion-TODO.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+
+</div>
+</div>
+
 ## Faction-specific: Discordant Stars :ti4-ds:
 
 <div class="grid cards" markdown>

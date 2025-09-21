@@ -236,6 +236,12 @@ toc_depth: 3
     --8<-- "snippets/promissory-notes/te/faction/crimson-TODO.md"
 
 </div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/promissory-notes/te/faction/ralnel-TODO.md"
+
+</div>
 </div>
 
 ## Faction-specific: Discordant Stars :ti4-ds:

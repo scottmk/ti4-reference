@@ -53,6 +53,10 @@ toc_depth: 3
 
 -   
 
+    --8<-- "snippets/planets/te/mecatol-rex.md"
+
+-   
+
     --8<-- "snippets/planets/te/ordinian.md"
 
 -   

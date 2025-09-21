@@ -1,4 +1,4 @@
-### :ti4-faction-te-bastion: **4X41C "Helios" V1** :ti4-te:
+### :ti4-faction-te-bastion: **4X4IC "Helios" VI** :ti4-te:
 
 Unit Type: Space Dock 
 

@@ -87,7 +87,7 @@ toc_depth: 2
 -   ## __Faction Technologies__
 
     ---
-    --8<-- "snippets/techs/te/unit/bastion-4x41c-helios-v2.md"
+    --8<-- "snippets/techs/te/unit/bastion-4x4ic-helios-vi-ii.md"
 
     --8<-- "snippets/techs/te/TODO/bastion-TODO.md"
 

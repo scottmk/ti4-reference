@@ -14,6 +14,9 @@ It also includes references for the [_Discordant Stars_ fan expansion](https://t
 
 ## Changelog
 
+### **21 Sep 25**
+* Added Last Bastion commander, revealed by Dane on SCPT Discord
+
 ### **20 Sep 25**
 * Added _Thunder's Edge_ faction [Last Bastion](factions/te/bastion.md) (everything known so far)
 * Added _Thunder's Edge_ faction [Crimson Rebellion](factions/te/crimson.md) (everything known so far)

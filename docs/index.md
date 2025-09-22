@@ -69,7 +69,7 @@ It also includes references for the [_Discordant Stars_ fan expansion](https://t
 
 * Reorganized Prophecy of Kings factions to be alphabetical by common name
 * Reorganized Discordant Stars factions to be alphabetical by common name
-* Added placeholders for Codex 4 "factions"
+* Added placeholders for Codex IV "factions"
 * Fixed [alliances page](alliances.md) to be easier to read
 
 ### **03 Jun 25**

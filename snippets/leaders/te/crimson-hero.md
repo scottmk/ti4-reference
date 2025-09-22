@@ -14,4 +14,4 @@ At the start of a space combat, you may purge this card to place all ships from 
 
 *"We're picking up heat signatures from over thirty C- and B-class vessels! I think they are Creuss. We—" The transmission ended abruptly, cut off at the source.*
 
-<sup><sub>Note: This is the hero from Codex 4, which is assumed to be the Crimson hero</sub></sup>
+<sup><sub>Note: This is the hero from Codex IV, which is assumed to be the Crimson hero</sub></sup>

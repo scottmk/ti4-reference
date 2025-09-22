@@ -1,5 +1,10 @@
 # Home
 
+!!! note ""
+
+    Please support _Fantasy Flight Games_ and _Twilight Imperium_ by [purchasing the game](https://store.asmodee.com/collections/twilight-imperium).<br>
+    You can pre-order the latest expansion, _Thunder's Edge_ [on Asmodee's store](https://store.asmodee.com/products/twilight-imperium-thunders-edge) now!
+
 This is a comprehensive quick-reference guide for Fantasy Flight Game's _Twilight Imperium - 4th Edition_, and includes summaries of most major components both for all official expansions and Codex updates, as well as the components for [Absol's Mod](https://drive.google.com/drive/folders/1rQxO5XmJUavliq1VAAtDaeAyObqYy64a).
 It also includes references for the [_Discordant Stars_ fan expansion](https://twilight-imperium.fandom.com/wiki/Discordant_Stars_Expansion_(UNOFFICIAL)).
 

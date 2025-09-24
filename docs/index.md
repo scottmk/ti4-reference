@@ -21,6 +21,7 @@ It also includes references for the [_Discordant Stars_ fan expansion](https://t
 
 ### **24 Sep 25**
 * Added [Augurs of Ilyxum](factions/ds/ilyxum.md)
+* Updated trophy wall
 
 ### **21 Sep 25**
 * Added Last Bastion commander, revealed by Dane on SCPT Discord

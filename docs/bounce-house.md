@@ -207,14 +207,14 @@
 
 | Player             | Number of Games Won | Number of Games Played | Win Ratio |
 | ------------------ | :-----------------: | :--------------------: | :-------: |
-| :crown:LAPDConvict |          1          |           1            |   100%    |
-| :crown:mscott      |          1          |           1            |   1000%   |
+| :crown:LAPDConvict |          1          |           2            |    50%    |
+| :crown:mscott      |          1          |           2            |    50%    |
+| jtexp              |          1          |           1            |   100%    |
+| Water              |          1          |           1            |   100%    |
+| hurripain          |          0          |           1            |    0%     |
+| ben                |          0          |           1            |    0%     |
 | scruffy            |          0          |           2            |    0%     |
-| theMikeNIke76      |          0          |           0            |    0%     |
-| hurripain          |          0          |           0            |    0%     |
-| ben                |          0          |           0            |    0%     |
-| jtexp              |          0          |           0            |    0%     |
-| Water              |          0          |           0            |    0%     |
+| theMikeNIke76      |          0          |           1            |    0%     |
 
 <div markdown class="grid cards">
 
@@ -226,7 +226,7 @@
     * **Game Modes**: PoK, Discordant Stars, Absol's agendas/relics/techs, 4/4/4, 12+10 victory points
     * **Winning Path**: 
         * LAPDConvict - 2 stage 1s, 2 stage 2s, 3 secrets, 1 Custodians (10 VP)
-        * mscott - 1 stage 1, 3 stage 2s, 4 secrets, 1 Imperial (12 VP)
+        * mscott - 1 stage 1s, 3 stage 2s, 4 secrets, 1 Imperial (12 VP)
 
     Round 6 Status Phase Win
 
@@ -235,22 +235,24 @@
     | :crown:LAPDConvict<br>:crown:mscott | :ti4-faction-ds-ghemina: Ghemina Raiders<br>:ti4-faction-pok-nomad: Nomad              | 10<br>12  |
     | scruffy<br>scruffy                  | :ti4-faction-ds-mykomentori: Myko-Mentori<br>:ti4-faction-ds-rhodun: Zealots of Rhodun | 6<br>6    |
 
--   ### **Alliance Game 2:** TBD - 
+-   ### **Alliance Game 2:** 2025.07.16 - 2025.09.23
 
     ---
 
-    * Async TI4 ([pbd10515](https://ti4.westaddisonheavyindustries.com/game/pbd10515){:target="_blank"})
+    * Async TI4 ([pbd10515](https://ti4.westaddisonheavyindustries.com/game/pbd11756){:target="_blank"})
     * **Game Modes**: PoK, Discordant Stars, Alliance Mode, Total War, Absol's agendas/relics/techs, 4/4/4, 14+12 victory points
-    * **Winning Path**: TBD
+    * **Winning Path**: 
+        * jtexp - 3 stage 1s, 2 stage 2s, 2 secrets, 1 Imperial, 4 Total War
+        * Water - 3 stage 1s, 1 stage 2, 1 secret, 1 Support (scruffy), 5 Total War
 
-    TBD
+    Round 6 Action Phase Win
 
-    | Player                   | Faction                                                                                          | Total VPs |
-    | ------------------------ | ------------------------------------------------------------------------------------------------ | --------- |
-    | scruffy<br>theMikeNIke76 | :ti4-faction-ds-kollecc: Kollecc Society<br>:ti4-faction-codex-keleres: Council Keleres (Mentak) |           |
-    | LAPDConvict<br>ben       | :ti4-faction-ds-zelian: Zelian Purifier<br>:ti4-faction-ds-cheiran: Cheiran Hordes               |           |
-    | hurripain<br>mscott      | :ti4-faction-ds-rohdhna: Roh'Dhna Mechatronics<br>:ti4-faction-base-l1z1x: L1Z1X Mindnet         |           |
-    | jtexp<br>Water           | :ti4-faction-pok-naaz: Naaz-Rokha Alliance<br>:ti4-faction-ds-cymiae: Savages of Cymiae          |           |
+    | Player                       | Faction                                                                                          | Total VPs |
+    | ---------------------------- | ------------------------------------------------------------------------------------------------ | --------- |
+    | :crown:jtexp<br>:crown:Water | :ti4-faction-pok-naaz: Naaz-Rokha Alliance<br>:ti4-faction-ds-cymiae: Savages of Cymiae          | 14<br>12  |
+    | hurripain<br>mscott          | :ti4-faction-ds-rohdhna: Roh'Dhna Mechatronics<br>:ti4-faction-base-l1z1x: L1Z1X Mindnet         | 12<br>12  |
+    | LAPDConvict<br>ben           | :ti4-faction-ds-zelian: Zelian Purifier<br>:ti4-faction-ds-cheiran: Cheiran Hordes               | 8<br>11   |
+    | scruffy<br>theMikeNIke76     | :ti4-faction-ds-kollecc: Kollecc Society<br>:ti4-faction-codex-keleres: Council Keleres (Mentak) | 3<br>4    |
 
 </div>
 
@@ -306,7 +308,7 @@
 
     ---
 
-    _Score your 10th victory point from Become a Martyr_
+    _Score your 10th (or last) victory point from Become a Martyr_
 
     None
 
@@ -328,9 +330,11 @@
 
     _Score 6 VP in one game round_
 
-    | Player  | Faction                                   | Game                                               |
-    | ------- | ----------------------------------------- | -------------------------------------------------- |
-    | scruffy | :ti4-faction-base-yssaril: Yssaril Tribes | [Game 7](bounce-house.md#game-7-20241119-20250215) |
+    | Player  | Faction                                    | Game                                                                   |
+    | ------- | ------------------------------------------ | ---------------------------------------------------------------------- |
+    | scruffy | :ti4-faction-base-yssaril: Yssaril Tribes  | [Game 7](bounce-house.md#game-7-20241119-20250215)                     |
+    | jtexp   | :ti4-faction-pok-naaz: Naaz-Rokha Alliance | [Alliance Game 2](bounce-house.md#alliance-game-2-20250716---20250923) |
+    | Water   | :ti4-faction-ds-cymiae: Savages of Cymiae  | [Alliance Game 2](bounce-house.md#alliance-game-2-20250716---20250923) |
 
 -   ### Not-Very-Secret Objective
 
@@ -384,7 +388,10 @@
 
     _Lose 35 resources worth of units in one combat_
 
-    None
+    | Player    | Faction                                                       | Game                                                                   |
+    | --------- | ------------------------------------------------------------- | ---------------------------------------------------------------------- |
+    | jtexp     | :ti4-faction-pok-naaz: Naaz-Rokha Alliance<br>(45 resources)     | [Alliance Game 2](bounce-house.md#alliance-game-2-20250716---20250923) |
+    | hurripain | :ti4-faction-ds-rohdhna: Roh'Dhna Mechatronics<br>(43 resources) | [Alliance Game 2](bounce-house.md#alliance-game-2-20250716---20250923) |
 
 -   ### Rinfinity
 

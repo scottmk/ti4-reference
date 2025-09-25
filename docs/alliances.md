@@ -193,7 +193,13 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/alliances/te/crimson-TODO.md"
+    --8<-- "snippets/alliances/te/firmament-alliance.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/alliances/te/obsidian-alliance.md"
 
 </div>
 <div class="grid cards" markdown>

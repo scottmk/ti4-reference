@@ -1,4 +1,4 @@
-### :ti4-faction-te-bastion: **4X4IC "Helios" VI** :ti4-te:
+### :ti4-faction-te-bastion: **4X41C "Helios" V1** :ti4-te:
 
 Unit Type: Space Dock 
 
@@ -11,4 +11,3 @@ Up to 3 fighters in this system do not count against your ships' capacity.
 <span style="font-variant:small-caps;">Production</span> X+2
 
 <span style="font-variant:small-caps;">Upgrade</span>: :ti4-tech-cybernetic: :ti4-tech-cybernetic:
-

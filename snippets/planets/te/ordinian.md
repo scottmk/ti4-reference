@@ -4,7 +4,7 @@
 
 Last Bastion Home System Planet
 
-#### 4X4ID "Hyperion" VI
+#### 4X41D "Hyperion" VI
 
 You may exhaust this card when you pass to draw 1 action card and gain 1 command token.
 

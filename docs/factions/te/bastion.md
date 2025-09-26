@@ -87,9 +87,9 @@ toc_depth: 2
 -   ## __Faction Technologies__
 
     ---
-    --8<-- "snippets/techs/te/unit/bastion-4x4ic-helios-vi-ii.md"
+    --8<-- "snippets/techs/te/unit/bastion-4x41c-helios-v2.md"
 
-    --8<-- "snippets/techs/te/TODO/bastion-TODO.md"
+    --8<-- "snippets/techs/te/red/bastion-proxima-targeting-vi.md"
 
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 
@@ -108,11 +108,11 @@ toc_depth: 2
 - ## __Breakthrough__ :ti4-te:
 
     ---
-    --8<-- "snippets/breakthroughs/te/bastion-TODO.md"
+    --8<-- "snippets/breakthroughs/te/bastion-the-icon.md"
 
 -   ## __Faction Promissory Note__
 
     ---
-    --8<-- "snippets/promissory-notes/te/faction/bastion-TODO.md"
+    --8<-- "snippets/promissory-notes/te/faction/bastion-raise-the-standard.md"
 
 </div>

@@ -1,6 +1,6 @@
-*[Asteroid field]: A ship cannot move through or into an asteroid field.
+*[Asteroid Field]: A ship cannot move through or into an asteroid field.
 *[asteroid field]: A ship cannot move through or into an asteroid field.
-*[Asteroid fields]: A ship cannot move through or into an asteroid field.
+*[Asteroid Fields]: A ship cannot move through or into an asteroid field.
 *[asteroid fields]: A ship cannot move through or into an asteroid field.
 *[Breach]: A breach can be active or inactive. Systems that contain active breaches are considered to be adjacent.
 *[breach]: A breach can be active or inactive. Systems that contain active breaches are considered to be adjacent.

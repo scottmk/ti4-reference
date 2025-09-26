@@ -227,7 +227,7 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/te/faction/bastion-TODO.md"
+    --8<-- "snippets/promissory-notes/te/faction/bastion-raise-the-standard.md"
 
 </div>
 <div class="grid cards" markdown>

@@ -233,7 +233,7 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/te/faction/crimson-TODO.md"
+    --8<-- "snippets/promissory-notes/te/faction/rebellion-sever.md"
 
 </div>
 <div class="grid cards" markdown>

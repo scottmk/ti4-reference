@@ -1,4 +1,4 @@
-### :ti4-faction-te-crimson: **Agent**: TBA - _Forlorn Shadow_ :ti4-te:
+### :ti4-faction-te-rebellion: **Agent**: Ahk Ravin - _Forlorn Shadow_ :ti4-te:
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 
@@ -13,5 +13,3 @@ But it was all so far away.
 Disconnected, almost unreal.
 Like a copied copy whose authenticity had degraded with each successive replica.
 Freedom had not come paired with hope.*
-
-<sup><sub>Note: This is the agent from Codex IV, which is assumed to be the Crimson agent</sub></sup>

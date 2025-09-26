@@ -19,17 +19,20 @@ It also includes references for the [_Discordant Stars_ fan expansion](https://t
 
 ## Changelog
 
+### **25 Sep 25**
+* Added (almost) all remaining information for [Crimson Rebellion](factions/te/rebellion.md) from the [FFG article "Newcomers to the Galactic Stage."](https://www.fantasyflightgames.com/en/news/2025/9/25/newcomers-to-the-galactic-stage/)
+
 ### **24 Sep 25**
 * Added [Augurs of Ilyxum](factions/ds/ilyxum.md)
 * Updated trophy wall
-* Added _Thunder's Edge_ faction [The Firmament/The Obsidian](factions/te/firmament.md)
+* Added _Thunder's Edge_ faction [The Firmament/The Obsidian](factions/te/firmament.md) from the interview with Dane Beltrami in [_Space Cats Peace Turtles_ episode 422](https://spacecatspeaceturtles.podbean.com/e/422-the-firmamentthe-obsidian-faction-reveal-with-dane/)
 
 ### **21 Sep 25**
 * Added Last Bastion commander, revealed by Dane on SCPT Discord
 
 ### **20 Sep 25**
 * Added _Thunder's Edge_ faction [Last Bastion](factions/te/bastion.md) (everything known so far)
-* Added _Thunder's Edge_ faction [Crimson Rebellion](factions/te/crimson.md) (everything known so far)
+* Added _Thunder's Edge_ faction [Crimson Rebellion](factions/te/rebellion.md) (everything known so far)
 * Added _Thunder's Edge_ faction [Ral Nel Consortium](factions/te/ralnel.md) (everything known so far)
 
 ### **17 Sep 25**

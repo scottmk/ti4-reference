@@ -2,7 +2,7 @@
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 
-**Eternity's End**
+**The Blade Revealed: Eternity's End**
 
 <span style="font-variant:small-caps;">Action</span>: Ready all of your planets
 

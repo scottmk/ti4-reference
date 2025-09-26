@@ -55,11 +55,11 @@ toc_depth: 2
 
     ### **Galvanize**
     
-    When a game effect instructs a player to <span style="font-variant:small-caps;">galvanize</span> a unit, they place a galvanize token beneath it if it does not have one. <span style="font-variant:small-caps;">Galvanized</span> units roll 1 additional die for combat rolls and unit abilities.
+    When a game effect instructs a player to galvanize a unit, they place a galvanize token beneath it if it does not have one. Galvanized units roll 1 additional die for combat rolls and unit abilities.
 
     ### **Phoenix Standard**
     
-    At the end of combat, you may <span style="font-variant:small-caps;">galvanize</span> 1 of your units that participated.
+    At the end of combat, you may galvanize 1 of your units that participated.
 
 -   ## __Flagship__
 

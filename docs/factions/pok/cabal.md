@@ -52,7 +52,7 @@ toc_depth: 2
     ---
     ### **Devour**
     
-    <span style="font-variant:small-caps;">Capture</span> your opponent's non-structure units that are destroyed during combat.
+    Capture your opponent's non-structure units that are destroyed during combat.
 
     ### **Amalgamation**
     

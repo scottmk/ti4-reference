@@ -75,6 +75,8 @@ nav:
   - Relics: relics.md
   - Legendary Planets: legendary-planets.md
   - Bounce House Trophy Wall: bounce-house.md
+watch:
+  - snippets
 extra_css:
   - stylesheets/extra.css
 theme:
@@ -118,7 +120,9 @@ markdown_extensions:
       options:
         custom_icons:
           - overrides/.icons
-  - pymdownx.snippets
+  - pymdownx.snippets:
+      auto_append:
+          - snippets/glossary.md
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true

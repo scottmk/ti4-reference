@@ -49,7 +49,7 @@ toc_depth: 2
 
     ### **The Sorrow**
     
-    When you create the game board, place The Sorrow (tile 94) where your home system would be placed, and place an inactive <span style="font-variant:small-caps;">breach</span> in it. 
+    When you create the game board, place The Sorrow (tile 94) where your home system would be placed, and place an inactive breach in it. 
     The Sorrow is not a home system. 
     Then, place your home system (tile 118) in your play area.
 

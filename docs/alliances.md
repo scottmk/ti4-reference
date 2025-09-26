@@ -187,7 +187,7 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/alliances/te/rebellion-alliance.md"
+    --8<-- "snippets/alliances/te/deepwrought-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
@@ -206,6 +206,12 @@ toc_depth: 3
 
 -   
     --8<-- "snippets/alliances/te/ralnel-alliance.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/alliances/te/rebellion-alliance.md"
 
 </div>
 </div>

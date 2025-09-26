@@ -19,6 +19,9 @@ It also includes references for the [_Discordant Stars_ fan expansion](https://t
 
 ## Changelog
 
+### **26 Sep 25**
+* Added _Thunder's Edge_ faction [Deepwrought Scholarate](factions/te/deepwrought.md) from the interview with Dane Beltrami in [_Cardboard Crash Course_ episode "Twilight Imperium Thunder's Edge Interview + REVEALS!"](https://www.youtube.com/watch?v=ae8SD6XilMU)
+
 ### **25 Sep 25**
 * Added (almost) all remaining information for [Crimson Rebellion](factions/te/rebellion.md) from the [FFG article "Newcomers to the Galactic Stage."](https://www.fantasyflightgames.com/en/news/2025/9/25/newcomers-to-the-galactic-stage/)
 

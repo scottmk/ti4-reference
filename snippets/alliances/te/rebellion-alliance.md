@@ -1,5 +1,7 @@
-### :ti4-faction-te-rebellion: **Crimson Alliance**
+### :ti4-faction-te-rebellion: **Rebellion Alliance**
 
-#### TBA :ti4-te:
+#### Ahk Siever :ti4-te:
 
-_Coming soon._
+At the end of a combat between any players:
+
+Gain 1 commodity or convert 1 of your commodities to a trade good.

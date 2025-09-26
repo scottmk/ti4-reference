@@ -6,4 +6,4 @@ Unit Type: Mech
 
 <span style="font-variant:small-caps;">Sustain Damage</span>
 
-When this unit is destroyed, if it was <span style="font-variant:small-caps;">galvanized</span>, <span style="font-variant:small-caps;">galvanize</span> up to 3 of your infantry in its system.
+When this unit is destroyed, if it was galvanized, galvanize up to 3 of your infantry in its system.

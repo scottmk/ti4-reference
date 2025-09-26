@@ -1,3 +1,7 @@
+*[Asteroid field]: A ship cannot move through or into an asteroid field.
+*[asteroid field]: A ship cannot move through or into an asteroid field.
+*[Asteroid fields]: A ship cannot move through or into an asteroid field.
+*[asteroid fields]: A ship cannot move through or into an asteroid field.
 *[Breach]: A breach can be active or inactive. Systems that contain active breaches are considered to be adjacent.
 *[breach]: A breach can be active or inactive. Systems that contain active breaches are considered to be adjacent.
 *[Breaches]: A breach can be active or inactive. Systems that contain active breaches are considered to be adjacent.
@@ -12,9 +16,29 @@
 *[coexisting]: Units that coexist on a planet do not initiate ground combat with other units. You do not control a planet on which you coexist.
 *[Coexistance]: Units that coexist on a planet do not initiate ground combat with other units. You do not control a planet on which you coexist.
 *[coexistance]: Units that coexist on a planet do not initiate ground combat with other units. You do not control a planet on which you coexist.
+*[Entropic scar]: All unit abilities cannot be used by or against units inside of an entropic scar. Text abilities are unaffected. Wormholes that would be placed inside of an entropic scar are discarded instead. At the start of the status phase, a player that has ships in an entropic scar can spend a token from their strategy pool to gain one of their faction-specific technologies.
+*[entropic scar]: All unit abilities cannot be used by or against units inside of an entropic scar. Text abilities are unaffected. Wormholes that would be placed inside of an entropic scar are discarded instead. At the start of the status phase, a player that has ships in an entropic scar can spend a token from their strategy pool to gain one of their faction-specific technologies.
+*[Entropic scars]: All unit abilities cannot be used by or against units inside of an entropic scar. Text abilities are unaffected. Wormholes that would be placed inside of an entropic scar are discarded instead. At the start of the status phase, a player that has ships in an entropic scar can spend a token from their strategy pool to gain one of their faction-specific technologies.
+*[entropic scars]: All unit abilities cannot be used by or against units inside of an entropic scar. Text abilities are unaffected. Wormholes that would be placed inside of an entropic scar are discarded instead. At the start of the status phase, a player that has ships in an entropic scar can spend a token from their strategy pool to gain one of their faction-specific technologies.
 *[Galvanize]: Galvanized units roll an extra die for both combat rolls and unit abilities.
 *[galvanize]: Galvanized units roll an extra die for both combat rolls and unit abilities.
 *[Galvanized]: Galvanized units roll an extra die for both combat rolls and unit abilities.
 *[galvanized]: Galvanized units roll an extra die for both combat rolls and unit abilities.
+*[Gravity rift]: A ship that will move out of or through a gravity rift at any time during its movement, applies +1 to its move value. For each ship that would move out of or through a gravity rift, one die is rolled immediately before it exits the gravity rift system; on a result of 1–3, that ship is removed from the board.
+*[gravity rift]: A ship that will move out of or through a gravity rift at any time during its movement, applies +1 to its move value. For each ship that would move out of or through a gravity rift, one die is rolled immediately before it exits the gravity rift system; on a result of 1–3, that ship is removed from the board.
+*[Gravity rifts]: A ship that will move out of or through a gravity rift at any time during its movement, applies +1 to its move value. For each ship that would move out of or through a gravity rift, one die is rolled immediately before it exits the gravity rift system; on a result of 1–3, that ship is removed from the board.
+*[gravity rift]: A ship that will move out of or through a gravity rift at any time during its movement, applies +1 to its move value. For each ship that would move out of or through a gravity rift, one die is rolled immediately before it exits the gravity rift system; on a result of 1–3, that ship is removed from the board.
+*[Nebula]: A ship can only move into a nebula if it is the active system. A ship cannot move through (into and out of) a nebula during the same movement. A ship that begins the "Movement" step of a tactical action in a nebula treats its move value as "1" for the duration of that step. If a space combat occurs in a nebula, the defender applies +1 to each combat roll of their ships during that combat.
+*[nebula]: A ship can only move into a nebula if it is the active system. A ship cannot move through (into and out of) a nebula during the same movement. A ship that begins the "Movement" step of a tactical action in a nebula treats its move value as "1" for the duration of that step. If a space combat occurs in a nebula, the defender applies +1 to each combat roll of their ships during that combat.
+*[Nebulae]: A ship can only move into a nebula if it is the active system. A ship cannot move through (into and out of) a nebula during the same movement. A ship that begins the "Movement" step of a tactical action in a nebula treats its move value as "1" for the duration of that step. If a space combat occurs in a nebula, the defender applies +1 to each combat roll of their ships during that combat.
+*[nebulae]: A ship can only move into a nebula if it is the active system. A ship cannot move through (into and out of) a nebula during the same movement. A ship that begins the "Movement" step of a tactical action in a nebula treats its move value as "1" for the duration of that step. If a space combat occurs in a nebula, the defender applies +1 to each combat roll of their ships during that combat.
 *[Sever token]: Turns off all wormholes in a system for one round.
 *[sever token]: Turns off all wormholes in a system for one round.
+*[Supernova]: A ship cannot move through or into a supernova.
+*[supernova]: A ship cannot move through or into a supernova.
+*[Supernovae]: A ship cannot move through or into a supernova.
+*[supernovae]: A ship cannot move through or into a supernova.
+*[Trade Station]: TBA
+*[trade station]: TBA
+*[Trade Stations]: TBA
+*[trade stations]: TBA

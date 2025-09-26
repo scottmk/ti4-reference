@@ -6,4 +6,4 @@ Unit Type: Decayed Mech
 
 <span style="font-variant:small-caps;">Sustain Damage</span>
 
-If this unit was <span style="font-variant:small-caps;">coexisting</span> when this card flipped to this side, gain control of its planet; the other player's units are now <span style="font-variant:small-caps;">coexisting</span>.
+If this unit was coexisting when this card flipped to this side, gain control of its planet; the other player's units are now coexisting.

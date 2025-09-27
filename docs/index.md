@@ -30,7 +30,7 @@ It also includes references for the [_Discordant Stars_ fan expansion](https://t
 * Added (almost) all remaining information for [Crimson Rebellion](factions/te/rebellion.md) from the [FFG article "Newcomers to the Galactic Stage."](https://www.fantasyflightgames.com/en/news/2025/9/25/newcomers-to-the-galactic-stage/)
 
 ### **24 Sep 25**
-* Added [Augurs of Ilyxum](factions/ds/ilyxum.md)
+* Added _Discordant Stars_ faction [Augurs of Ilyxum](factions/ds/ilyxum.md)
 * Updated trophy wall
 * Added _Thunder's Edge_ faction [The Firmament/The Obsidian](factions/te/firmament.md) from the interview with Dane Beltrami in [_Space Cats Peace Turtles_ episode 422](https://spacecatspeaceturtles.podbean.com/e/422-the-firmamentthe-obsidian-faction-reveal-with-dane/)
 
@@ -56,9 +56,9 @@ It also includes references for the [_Discordant Stars_ fan expansion](https://t
 
 ### **11 Aug 25**
 
-* Added [Bentor Conglomerate](factions/ds/bentor.md)
+* Added _Discordant Stars_ faction [Bentor Conglomerate](factions/ds/bentor.md)
 * Updated all DS faction techs and units to have faction icons, for parity with main factions
-* Added [Edyn Mandate](factions/ds/edyn.md)
+* Added _Discordant Stars_ faction [Edyn Mandate](factions/ds/edyn.md)
 
 ### **09 Aug 25**
 
@@ -76,15 +76,15 @@ It also includes references for the [_Discordant Stars_ fan expansion](https://t
 
 ### **15 Jul 25**
 
-* Added [Savages of Cymiae](factions/ds/cymiae.md)
+* Added _Discordant Stars_ faction [Savages of Cymiae](factions/ds/cymiae.md)
 * Updated trophy wall
-* Added [Kollecc Society](factions/ds/kollecc.md)
-* Added [Roh'Dhna Mechatronics](factions/ds/rohdhna.md)
-* Added [Zelian Purifier](factions/ds/zelian.md)
+* Added _Discordant Stars_ faction [Kollecc Society](factions/ds/kollecc.md)
+* Added _Discordant Stars_ faction [Roh'Dhna Mechatronics](factions/ds/rohdhna.md)
+* Added _Discordant Stars_ faction [Zelian Purifier](factions/ds/zelian.md)
 
 ### **10 Jul 25**
 
-* Added [Cheiran Hordes](factions/ds/cheiran.md)
+* Added _Discordant Stars_ faction [Cheiran Hordes](factions/ds/cheiran.md)
 * Updated all planet references to use resources and influences icons
 * Updated all faction starting unit reference to use unit icons
 
@@ -97,10 +97,10 @@ It also includes references for the [_Discordant Stars_ fan expansion](https://t
 
 ### **03 Jun 25**
 
-* Added [Ghemina Raiders](factions/ds/ghemina.md)
-* Added [Glimmer of Mortheus](factions/ds/mortheus.md)
-* Added [Myko-Mentori](factions/ds/mykomentori.md)
-* Added [Zealots of Rhodun](factions/ds/rhodun.md)
+* Added _Discordant Stars_ faction [Ghemina Raiders](factions/ds/ghemina.md)
+* Added _Discordant Stars_ faction [Glimmer of Mortheus](factions/ds/mortheus.md)
+* Added _Discordant Stars_ faction [Myko-Mentori](factions/ds/mykomentori.md)
+* Added _Discordant Stars_ faction [Zealots of Rhodun](factions/ds/rhodun.md)
 * Added [alliances](alliances.md) reference page
 
 ### **15 May 25**
@@ -109,40 +109,40 @@ It also includes references for the [_Discordant Stars_ fan expansion](https://t
 
 ### **27 Apr 25**
 
-* Added [Nokar Sellships](factions/ds/nokar.md)
+* Added _Discordant Stars_ faction [Nokar Sellships](factions/ds/nokar.md)
 * Added [legendary planets](legendary-planets.md) reference page
 
 ### **18 Apr 25**
 
-* Added [Florzen Profiteers](factions/ds/florzen.md)
+* Added _Discordant Stars_ faction [Florzen Profiteers](factions/ds/florzen.md)
 * Fixed formatting on Celdauri Trade Port I unit reference
-* Added [Free Systems Compact](factions/ds/freesystems.md)
-* Added [Olradin League](factions/ds/olradin.md)
+* Added _Discordant Stars_ faction [Free Systems Compact](factions/ds/freesystems.md)
+* Added _Discordant Stars_ faction [Olradin League](factions/ds/olradin.md)
 * Added Bounce House Leaderboard
 
 ### **17 Apr 25**
 
 * Updated trophy wall
-* Added [Mirveda Protectorate](factions/ds/mirveda.md)
+* Added _Discordant Stars_ faction [Mirveda Protectorate](factions/ds/mirveda.md)
 * Fixed formatting on base AI Development Algorithm technology
-* Added [Celdauri Trade Federation](factions/ds/celdauri.md)
+* Added _Discordant Stars_ faction [Celdauri Trade Federation](factions/ds/celdauri.md)
 * Fixed formatting on Space Dock unit and tech references
-* Added [Vaden Banking Clans](factions/ds/vaden.md)
+* Added _Discordant Stars_ faction [Vaden Banking Clans](factions/ds/vaden.md)
 
 ### **17 Feb 25**
 
 * Added [Discordant Stars relics](relics.md#discordant-stars)
 * Added [Factions overview page](factions.md)
-* Added [Dih-Mohn Flotilla](factions/ds/dihmohn.md)
-* Added [Nivyn Star Kings](factions/ds/nivyn.md)
-* Added [Vaylerian Scourge](factions/ds/vaylerian.md)
-* Added [GLEdge Union](factions/ds/gledge.md)
+* Added _Discordant Stars_ faction [Dih-Mohn Flotilla](factions/ds/dihmohn.md)
+* Added _Discordant Stars_ faction [Nivyn Star Kings](factions/ds/nivyn.md)
+* Added _Discordant Stars_ faction [Vaylerian Scourge](factions/ds/vaylerian.md)
+* Added _Discordant Stars_ faction [GLEdge Union](factions/ds/gledge.md)
 
 ### **16 Feb 25**
 
 * Updated Absol mod references to be accurate to v4 as of 16 Feb 25.
 * Restructured factions by expansion
-* Added [Shipwrights of Axis](factions/ds/axis.md)
+* Added _Discordant Stars_ faction [Shipwrights of Axis](factions/ds/axis.md)
 
 ### **02 Jan 25** 
 

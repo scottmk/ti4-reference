@@ -25,6 +25,7 @@ It also includes references for the [_Discordant Stars_ fan expansion](https://t
 * Added (almost) all remaining information for [Ral Nel Consortium](factions/te/ralnel.md) from the [FFG article "Newcomers to the Galactic Stage."](https://www.fantasyflightgames.com/en/news/2025/9/25/newcomers-to-the-galactic-stage/)
 * Added breakthroughs for [Naaz-Rokha Alliance](factions/pok/naaz.md#breakthrough-ti4-te), [Naalu Collective](factions/base/naalu.md#breakthrough-ti4-te), and [Clan of Saar](factions/base/saar.md#breakthrough-ti4-te) from SCPT leaks
 * Added _Discordant Stars_ faction [Ghoti Wayfarers](factions/ds/ghoti.md)
+* Added _Discordant Stars_ faction [Veldyr Sovreignty](factions/ds/veldyr.md)
 
 ### **25 Sep 25**
 * Added (almost) all remaining information for [Crimson Rebellion](factions/te/rebellion.md) from the [FFG article "Newcomers to the Galactic Stage."](https://www.fantasyflightgames.com/en/news/2025/9/25/newcomers-to-the-galactic-stage/)

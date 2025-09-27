@@ -412,6 +412,30 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
+    --8<-- "snippets/promissory-notes/ds/faction/veldyr-branch-office-tax-haven.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/promissory-notes/ds/faction/veldyr-branch-office-broadcast-hub.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/promissory-notes/ds/faction/veldyr-branch-office-reserve-bank.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/promissory-notes/ds/faction/veldyr-branch-office-orbital-shipyard.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
     --8<-- "snippets/promissory-notes/ds/faction/zelian-hyperkinetic-ordnance.md"
 
 </div>

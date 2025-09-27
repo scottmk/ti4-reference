@@ -23,6 +23,7 @@ It also includes references for the [_Discordant Stars_ fan expansion](https://t
 * Added _Thunder's Edge_ faction [Deepwrought Scholarate](factions/te/deepwrought.md) from the interview with Dane Beltrami in [_Cardboard Crash Course_ episode "Twilight Imperium Thunder's Edge Interview + REVEALS!"](https://www.youtube.com/watch?v=ae8SD6XilMU)
 * Added (almost) all remaining information for [Last Bastion](factions/te/bastion.md) from the [FFG article "Newcomers to the Galactic Stage."](https://www.fantasyflightgames.com/en/news/2025/9/25/newcomers-to-the-galactic-stage/)
 * Added (almost) all remaining information for [Ral Nel Consortium](factions/te/ralnel.md) from the [FFG article "Newcomers to the Galactic Stage."](https://www.fantasyflightgames.com/en/news/2025/9/25/newcomers-to-the-galactic-stage/)
+* Added breakthroughs for [Naaz-Rokha Alliance](factions/pok/naaz.md#breakthrough-ti4-te), [Naalu Collective](factions/base/naalu.md#breakthrough-ti4-te), and [Clan of Saar](factions/base/saar.md#breakthrough-ti4-te) from SCPT leaks
 
 ### **25 Sep 25**
 * Added (almost) all remaining information for [Crimson Rebellion](factions/te/rebellion.md) from the [FFG article "Newcomers to the Galactic Stage."](https://www.fantasyflightgames.com/en/news/2025/9/25/newcomers-to-the-galactic-stage/)

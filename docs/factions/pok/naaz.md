@@ -104,6 +104,11 @@ toc_depth: 2
 
     --8<-- "snippets/leaders/pok/naaz-hero.md"
 
+- ## __Breakthrough__ :ti4-te:
+
+    ---
+    --8<-- "snippets/breakthroughs/pok/naaz-absolute-synergy.md"
+
 -   ## __Faction Promissory Note__
 
     ---

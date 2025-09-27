@@ -37,13 +37,15 @@ toc_depth: 2
 -   ## __Faction Abilities__
 
     ---
-    ### **TBA**
+    ### **Survival Instinct**
     
-    _Coming soon._
+    After another player activates a system that contains your ships, you may move up to 2 of your ships into the active system from adjacent systems that do not contain your command tokens.
 
-    ### **TBA**
+    ### **Miniaturization**
     
-    _Coming soon._
+    Your structures can be transported by any ship; this does not require or count against capacity.
+    While your structures are in the space area, they cannot use their unit abilities.
+    At the end of your tactical actions, you may place your structures that are in space areas onto planets you control in their respective systems.
 
 -   ## __Flagship__
 
@@ -71,9 +73,9 @@ toc_depth: 2
 -   ## __Faction Technologies__
 
     ---
-    --8<-- "snippets/techs/te/unit/ralnel-TBA-ii.md"
+    --8<-- "snippets/techs/te/unit/ralnel-linkship-ii.md"
 
-    --8<-- "snippets/techs/te/TODO/ralnel-TODO.md"
+    --8<-- "snippets/techs/te/red/ralnel-nanomachines.md"
 
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 
@@ -97,6 +99,6 @@ toc_depth: 2
 -   ## __Faction Promissory Note__
 
     ---
-    --8<-- "snippets/promissory-notes/te/faction/ralnel-TODO.md"
+    --8<-- "snippets/promissory-notes/te/faction/ralnel-nano-link-permit.md"
 
 </div>

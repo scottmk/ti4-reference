@@ -1,9 +1,9 @@
-### :ti4-faction-te-ralnel: **TBA I** :ti4-pok:
+### :ti4-faction-te-ralnel: **Linkship I** :ti4-pok:
 
 Unit Type: Destroyer 
 
-<span style="font-variant:small-caps;">Cost</span> 1 __|__ <span style="font-variant:small-caps;">Combat</span> 9 __|__ <span style="font-variant:small-caps;">Move</span> 3
+<span style="font-variant:small-caps;">Cost</span> 1 __|__ <span style="font-variant:small-caps;">Combat</span> 9↑ __|__ <span style="font-variant:small-caps;">Move</span> 3↑
 
-<span style="font-variant:small-caps;">Anti-Fighter Barrage</span> ?(x?)
+<span style="font-variant:small-caps;">Anti-Fighter Barrage</span> 9(x2)
 
-_Coming soon._
+This unit can use the <span style="font-variant:small-caps;">Space Cannon</span> ability of one of your structures in its space area; each structure can only be triggered once.

@@ -6,4 +6,4 @@ Unit Type: Flagship
 
 <span style="font-variant:small-caps;">Sustain Damage</span>
 
-_Coming soon._
+When this unit retreats, you may destroy 1 ship in the active system that does not have <span style="font-variant:small-caps;">Sustain Damage</span>.

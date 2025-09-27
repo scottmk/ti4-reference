@@ -1,4 +1,4 @@
-### :ti4-faction-ds-ilyxum: **Augurs Alliance**
+### :ti4-faction-ds-ilyxum: **Ilyxum Alliance**
 
 ####  Lachis - _Reader_ :ti4-ds:
 

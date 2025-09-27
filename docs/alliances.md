@@ -300,7 +300,49 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
+    --8<-- "snippets/alliances/ds/kjalengard-alliance.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
     --8<-- "snippets/alliances/ds/kollecc-alliance.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/alliances/ds/kolume-alliance.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/alliances/ds/kortali-alliance.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/alliances/ds/kyro-alliance.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/alliances/ds/lanefir-alliance.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/alliances/ds/lizho-alliance.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/alliances/ds/ltokkkhrask-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
@@ -349,6 +391,12 @@ toc_depth: 3
 
 -   
     --8<-- "snippets/alliances/ds/rhodun-alliance.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/alliances/ds/tnelis-alliance.md"
 
 </div>
 <div class="grid cards" markdown>

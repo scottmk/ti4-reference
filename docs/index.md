@@ -21,6 +21,7 @@ It also includes references for the [_Discordant Stars_ fan expansion](https://t
 
 ### **27 Sep 25**
 * Correction to Ghemina Raiders' commander
+* Added remaining DS icons and alliances for minor factions reference
 
 ### **26 Sep 25**
 * Added _Thunder's Edge_ faction [Deepwrought Scholarate](factions/te/deepwrought.md) from the interview with Dane Beltrami in [_Cardboard Crash Course_ episode "Twilight Imperium Thunder's Edge Interview + REVEALS!"](https://www.youtube.com/watch?v=ae8SD6XilMU)

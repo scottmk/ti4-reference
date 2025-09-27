@@ -276,13 +276,13 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/alliances/ds/kollecc-alliance.md"
+    --8<-- "snippets/alliances/ds/ghemina-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/alliances/ds/ghemina-alliance.md"
+    --8<-- "snippets/alliances/ds/ghoti-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
@@ -295,6 +295,12 @@ toc_depth: 3
 
 -   
     --8<-- "snippets/alliances/ds/ilyxum-alliance.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/alliances/ds/kollecc-alliance.md"
 
 </div>
 <div class="grid cards" markdown>

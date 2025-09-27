@@ -322,13 +322,13 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/ds/faction/kollecc-ai-survey.md"
+    --8<-- "snippets/promissory-notes/ds/faction/ghemina-raid-leaders.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/ds/faction/ghemina-raid-leaders.md"
+    --8<-- "snippets/promissory-notes/ds/faction/ghoti-ghoti-relay.md"
 
 </div>
 <div class="grid cards" markdown>
@@ -341,6 +341,12 @@ toc_depth: 3
 
 -   
     --8<-- "snippets/promissory-notes/ds/faction/ilyxum-read-the-fates.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/promissory-notes/ds/faction/kollecc-ai-survey.md"
 
 </div>
 <div class="grid cards" markdown>

@@ -7,3 +7,7 @@
 After the last player passes:
 
 You may choose to no longer be passed; if you do, gain 2 command tokens, draw 1 action card, and purge this card.
+
+---
+
+_Coming soon._

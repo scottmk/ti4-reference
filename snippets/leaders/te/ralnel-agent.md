@@ -3,3 +3,7 @@
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 
 <span style="font-variant:small-caps;">Action</span>: Exhaust this card to draw 2 action cards; give 1 of those cards to another player.
+
+---
+
+_Coming soon._

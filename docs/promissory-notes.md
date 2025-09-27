@@ -251,7 +251,7 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/te/faction/ralnel-nano-link-permits.md"
+    --8<-- "snippets/promissory-notes/te/faction/ralnel-nano-link-permit.md"
 
 </div>
 <div class="grid cards" markdown>

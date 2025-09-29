@@ -1,4 +1,4 @@
-### :ti4-faction-base-winnu: **Hero**: Mathis Mathinus - _Reclamation Executor_
+### :ti4-faction-base-winnu: **Hero**: Mathis Mathinus – _Reclamation Executor_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

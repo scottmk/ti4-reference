@@ -1,4 +1,4 @@
-### :ti4-faction-codex-redcreuss: **Commander**: Unknown - _Wistful Soul_
+### :ti4-faction-codex-redcreuss: **Commander**: Unknown – _Wistful Soul_
 
 <span style="font-variant:small-caps;">Unlock</span>: Resolve a combat with another player.
 

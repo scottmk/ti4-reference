@@ -1,4 +1,4 @@
-### :ti4-faction-ds-dihmohn: **Hero**: Verrisus Ypru - _Former Admiral of the Unrelenting Battlegroup_ :ti4-ds:
+### :ti4-faction-ds-dihmohn: **Hero**: Verrisus Ypru – _Former Admiral of the Unrelenting Battlegroup_ :ti4-ds:
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

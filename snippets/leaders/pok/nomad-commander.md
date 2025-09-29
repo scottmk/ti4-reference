@@ -1,4 +1,4 @@
-### :ti4-faction-pok-nomad: **Commander**: Navarch Feng - _Company Shipmaster_
+### :ti4-faction-pok-nomad: **Commander**: Navarch Feng – _Company Shipmaster_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 1 scored secret objective.
 

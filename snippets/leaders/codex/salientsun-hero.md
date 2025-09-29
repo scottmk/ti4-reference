@@ -1,4 +1,4 @@
-### :ti4-faction-codex-salientsun: **Hero**: F.S.S. Orlando - _Apollo Protocol_
+### :ti4-faction-codex-salientsun: **Hero**: F.S.S. Orlando – _Apollo Protocol_
 
 <span style="font-variant:small-caps;">Unlock</span>: The Nekro Virus has 5 victory points.
 

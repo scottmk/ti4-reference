@@ -1,4 +1,4 @@
-### :ti4-faction-ds-rohdhna: **Hero**: Roh'Vhin Dhna mk4 - _Ruthless Executive_ :ti4-ds:
+### :ti4-faction-ds-rohdhna: **Hero**: Roh'Vhin Dhna mk4 – _Ruthless Executive_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 
 **Primespace Actualization - Subversive Automation**

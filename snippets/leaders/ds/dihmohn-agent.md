@@ -1,4 +1,4 @@
-### :ti4-faction-ds-dihmohn: **Agent**: Jgin Faru - _Chancellor of Immigration_ :ti4-ds:
+### :ti4-faction-ds-dihmohn: **Agent**: Jgin Faru – _Chancellor of Immigration_ :ti4-ds:
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

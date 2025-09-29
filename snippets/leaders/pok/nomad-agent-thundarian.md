@@ -1,4 +1,4 @@
-### :ti4-faction-pok-nomad: **Agent**: The Thundarian - _Temporal Engima_
+### :ti4-faction-pok-nomad: **Agent**: The Thundarian – _Temporal Engima_
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

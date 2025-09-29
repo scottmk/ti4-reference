@@ -1,4 +1,4 @@
-### :ti4-faction-pok-argent: **Hero**: Mirik Aun Sissiri - _Flightmaster_
+### :ti4-faction-pok-argent: **Hero**: Mirik Aun Sissiri – _Flightmaster_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

@@ -1,4 +1,4 @@
-### :ti4-faction-base-arborec: **Agent**: Letani Ospha - _Unity Through Peace_
+### :ti4-faction-base-arborec: **Agent**: Letani Ospha – _Unity Through Peace_
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

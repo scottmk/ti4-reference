@@ -1,4 +1,4 @@
-### :ti4-faction-ds-nivyn: **Commander**: Thussad Krath - _High Inquisitor_ :ti4-ds:
+### :ti4-faction-ds-nivyn: **Commander**: Thussad Krath – _High Inquisitor_ :ti4-ds:
 
 <span style="font-variant:small-caps;">Unlock</span>: Have units in 2 different non-home anomalies. 
 

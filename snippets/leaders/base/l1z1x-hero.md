@@ -1,4 +1,4 @@
-### :ti4-faction-base-l1z1x: **Hero**: The Helmsman - _The Last Record_
+### :ti4-faction-base-l1z1x: **Hero**: The Helmsman – _The Last Record_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

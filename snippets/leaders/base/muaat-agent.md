@@ -1,4 +1,4 @@
-### :ti4-faction-base-muaat: **Agent**: Umbat - _Forgemaster_
+### :ti4-faction-base-muaat: **Agent**: Umbat – _Forgemaster_
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

@@ -1,4 +1,4 @@
-### :ti4-faction-ds-gledge: **Agent**: Durran - _Ember of the Union_ :ti4-ds:
+### :ti4-faction-ds-gledge: **Agent**: Durran – _Ember of the Union_ :ti4-ds:
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

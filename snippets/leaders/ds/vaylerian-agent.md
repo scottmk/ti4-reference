@@ -1,4 +1,4 @@
-### :ti4-faction-ds-vaylerian: **Agent**: Yvin Korduul - _Political Gambler_ :ti4-ds:
+### :ti4-faction-ds-vaylerian: **Agent**: Yvin Korduul – _Political Gambler_ :ti4-ds:
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

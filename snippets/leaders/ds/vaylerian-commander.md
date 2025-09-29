@@ -1,4 +1,4 @@
-### :ti4-faction-ds-vaylerian: **Commander**: Pyndil Gonsuul - _Strike Team Coordinator_ :ti4-ds:
+### :ti4-faction-ds-vaylerian: **Commander**: Pyndil Gonsuul – _Strike Team Coordinator_ :ti4-ds:
 
 <span style="font-variant:small-caps;">Unlock</span>: Control 3 planets that each have the same trait.
 

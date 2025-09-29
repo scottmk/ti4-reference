@@ -1,4 +1,4 @@
-### :ti4-faction-pok-cabal: **Agent**: The Stillness of Stars - _Oppressive Silence_
+### :ti4-faction-pok-cabal: **Agent**: The Stillness of Stars – _Oppressive Silence_
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

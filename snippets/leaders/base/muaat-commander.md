@@ -1,4 +1,4 @@
-### :ti4-faction-base-muaat: **Commander**: Magmus - _Gashlai Tribune_
+### :ti4-faction-base-muaat: **Commander**: Magmus – _Gashlai Tribune_
 
 <span style="font-variant:small-caps;">Unlock</span>: Produce a war sun.
 

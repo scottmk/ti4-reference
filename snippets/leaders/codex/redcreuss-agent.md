@@ -1,4 +1,4 @@
-### :ti4-faction-codex-redcreuss: **Agent**: Unknown - _Forlorn Shadow_
+### :ti4-faction-codex-redcreuss: **Agent**: Unknown – _Forlorn Shadow_
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

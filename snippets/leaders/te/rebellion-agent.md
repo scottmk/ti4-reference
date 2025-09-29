@@ -1,4 +1,4 @@
-### :ti4-faction-te-rebellion: **Agent**: Ahk Ravin - _Forlorn Shadow_ :ti4-te:
+### :ti4-faction-te-rebellion: **Agent**: Ahk Ravin – _Forlorn Shadow_ :ti4-te:
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

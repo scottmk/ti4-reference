@@ -1,4 +1,4 @@
-### :ti4-faction-base-yin: **Hero**: Dannel of the Tenth - _High Priest of Yin_ :ti4-codex:
+### :ti4-faction-base-yin: **Hero**: Dannel of the Tenth – _High Priest of Yin_ :ti4-codex:
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

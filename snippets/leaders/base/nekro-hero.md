@@ -1,4 +1,4 @@
-### :ti4-faction-base-nekro: **Hero**: UNIT.DSGN.FLAYESH - _Recursive Tyrant_
+### :ti4-faction-base-nekro: **Hero**: UNIT.DSGN.FLAYESH – _Recursive Tyrant_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

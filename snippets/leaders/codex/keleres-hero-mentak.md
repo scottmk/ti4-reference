@@ -1,4 +1,4 @@
-### :ti4-faction-codex-keleres: **Hero**: Harka Leeds - _Keleres Tribunii_
+### :ti4-faction-codex-keleres: **Hero**: Harka Leeds – _Keleres Tribunii_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

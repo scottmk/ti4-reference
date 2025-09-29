@@ -1,4 +1,4 @@
-### :ti4-faction-ds-bentor: **Hero**: C.E.O. Ken Tucc - _Visionary Explorer_ :ti4-ds:
+### :ti4-faction-ds-bentor: **Hero**: C.E.O. Ken Tucc – _Visionary Explorer_ :ti4-ds:
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

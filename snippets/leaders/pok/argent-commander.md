@@ -1,4 +1,4 @@
-### :ti4-faction-pok-argent: **Commander**: Trrakan Aun Zulok - _Strike Wing Commander_
+### :ti4-faction-pok-argent: **Commander**: Trrakan Aun Zulok – _Strike Wing Commander_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 6 units that have <span style="font-variant:small-caps;">Anti-Fighter Barrage</span>, <span style="font-variant:small-caps;">Space Cannon</span>, or <span style="font-variant:small-caps;">Bombardment</span> on the game board.
 

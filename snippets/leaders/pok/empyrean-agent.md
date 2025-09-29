@@ -1,4 +1,4 @@
-### :ti4-faction-pok-empyrean: **Agent**: Acamar - _The Gift of Night_
+### :ti4-faction-pok-empyrean: **Agent**: Acamar – _The Gift of Night_
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

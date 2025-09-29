@@ -1,4 +1,4 @@
-### :ti4-faction-base-winnu: **Commander**: Rickar Rickani - _The Hand of the Emperor_
+### :ti4-faction-base-winnu: **Commander**: Rickar Rickani – _The Hand of the Emperor_
 
 <span style="font-variant:small-caps;">Unlock</span>: Control Mecatol Rex or enter into a combat in the Mecatol Rex system.
 

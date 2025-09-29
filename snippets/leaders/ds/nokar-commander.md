@@ -1,4 +1,4 @@
-### :ti4-faction-ds-nokar: **Commander**: Jack Hallard - _The Commodore_ :ti4-ds:
+### :ti4-faction-ds-nokar: **Commander**: Jack Hallard – _The Commodore_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Another player moves 1 of your ships.
 
 Before you assign hits to your ships during a space combat:

@@ -1,4 +1,4 @@
-### :ti4-faction-ds-mortheus: **Agent**: Walik - _Dull Green_ :ti4-ds:
+### :ti4-faction-ds-mortheus: **Agent**: Walik – _Dull Green_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 
 When a player produces 1 or more units in a system:

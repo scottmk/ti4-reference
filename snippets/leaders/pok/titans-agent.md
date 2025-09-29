@@ -1,4 +1,4 @@
-### :ti4-faction-pok-titans: **Agent**: Tellurian - _The Protector_
+### :ti4-faction-pok-titans: **Agent**: Tellurian – _The Protector_
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

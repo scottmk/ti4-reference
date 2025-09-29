@@ -1,4 +1,4 @@
-### :ti4-faction-ds-edyn: **Agent**: Allant - _Elder Voice_ :ti4-ds:
+### :ti4-faction-ds-edyn: **Agent**: Allant – _Elder Voice_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 
 After a player passes:

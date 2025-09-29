@@ -1,4 +1,4 @@
-### :ti4-faction-ds-nokar: **Hero**: Starsails - _Mercenary King_ :ti4-ds:
+### :ti4-faction-ds-nokar: **Hero**: Starsails – _Mercenary King_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 
 **Irrefutable Offer - Galactic Press Gang**

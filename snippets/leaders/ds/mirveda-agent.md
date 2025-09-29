@@ -1,4 +1,4 @@
-### :ti4-faction-ds-mirveda: **Agent**: Logic Machina - _Weapons Development_ :ti4-ds:
+### :ti4-faction-ds-mirveda: **Agent**: Logic Machina – _Weapons Development_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 
 After a player gains a unit upgrade technology:

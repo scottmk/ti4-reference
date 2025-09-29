@@ -1,4 +1,4 @@
-### :ti4-faction-base-hacan: **Hero**: Harrugh Gefhara - _The Nascent Twilight_
+### :ti4-faction-base-hacan: **Hero**: Harrugh Gefhara – _The Nascent Twilight_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

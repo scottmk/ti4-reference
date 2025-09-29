@@ -1,4 +1,4 @@
-### :ti4-faction-ds-dihmohn: **Commander**: Clona Bathru - _Founder of Bathru Robotics_ :ti4-ds:
+### :ti4-faction-ds-dihmohn: **Commander**: Clona Bathru – _Founder of Bathru Robotics_ :ti4-ds:
 
 <span style="font-variant:small-caps;">Unlock</span>: Research a ship unit upgrade technology.
 

@@ -1,4 +1,4 @@
-### :ti4-faction-te-rebellion: **Hero**: TBA - _Wayward Riftwalker_ :ti4-te:
+### :ti4-faction-te-rebellion: **Hero**: TBA – _Wayward Riftwalker_ :ti4-te:
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

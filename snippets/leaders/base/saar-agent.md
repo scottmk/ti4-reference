@@ -1,4 +1,4 @@
-### :ti4-faction-base-saar: **Agent**: Captain Mendosa - _Captain of the Fifth Fleet_
+### :ti4-faction-base-saar: **Agent**: Captain Mendosa – _Captain of the Fifth Fleet_
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

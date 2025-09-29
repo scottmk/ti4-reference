@@ -1,4 +1,4 @@
-### :ti4-faction-ds-ghemina: **Hero**: Kantrus - _The Lord_ :ti4-ds:
+### :ti4-faction-ds-ghemina: **Hero**: Kantrus – _The Lord_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 
 **Destiny Drive - Alleged Birthright**

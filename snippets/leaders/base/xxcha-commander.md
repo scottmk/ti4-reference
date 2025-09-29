@@ -1,4 +1,4 @@
-### :ti4-faction-base-xxcha: **Commander**: Elder Qanoj - _The Doom from Kklaj_
+### :ti4-faction-base-xxcha: **Commander**: Elder Qanoj – _The Doom from Kklaj_
 
 <span style="font-variant:small-caps;">Unlock</span>: Control planets that have a combined total of at least 12 influence.
 

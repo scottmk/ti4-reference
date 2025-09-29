@@ -1,4 +1,4 @@
-### :ti4-faction-ds-bentor: **Agent**: C.O.O. Mgur - _Deft Tradesman_ :ti4-ds:
+### :ti4-faction-ds-bentor: **Agent**: C.O.O. Mgur – _Deft Tradesman_ :ti4-ds:
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

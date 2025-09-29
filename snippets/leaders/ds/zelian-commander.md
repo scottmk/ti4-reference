@@ -1,4 +1,4 @@
-### :ti4-faction-ds-zelian: **Commander**: Zelian B - _The Hunter_ :ti4-ds:
+### :ti4-faction-ds-zelian: **Commander**: Zelian B – _The Hunter_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Have 1 or more ships in 2 systems that contain an asteroid field.
 
 Ongoing

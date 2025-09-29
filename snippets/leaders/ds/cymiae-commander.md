@@ -1,4 +1,4 @@
-### :ti4-faction-ds-cymiae: **Commander**: Koryl Ferax - _The Third Voice_ :ti4-ds:
+### :ti4-faction-ds-cymiae: **Commander**: Koryl Ferax – _The Third Voice_ :ti4-ds:
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 10 or more infantry on the board.
 

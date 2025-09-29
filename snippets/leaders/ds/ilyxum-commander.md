@@ -1,4 +1,4 @@
-### :ti4-faction-ds-ilyxum: **Commander**: Lachis - _Reader_ :ti4-ds:
+### :ti4-faction-ds-ilyxum: **Commander**: Lachis – _Reader_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Win a combat in a system that contains a legendary planet or a planet that has a technology specialty.
 
 Ongoing

@@ -1,4 +1,4 @@
-### :ti4-faction-ds-celdauri: **Agent**: George Nobin - _Esteemed Merchantman_ :ti4-ds:
+### :ti4-faction-ds-celdauri: **Agent**: George Nobin – _Esteemed Merchantman_ :ti4-ds:
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

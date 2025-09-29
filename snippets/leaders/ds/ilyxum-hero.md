@@ -1,4 +1,4 @@
-### :ti4-faction-ds-ilyxum: **Hero**: Atropha - _Weaver_ :ti4-ds:
+### :ti4-faction-ds-ilyxum: **Hero**: Atropha – _Weaver_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 
 **Synchronicity Algorithm - Woven Fate**

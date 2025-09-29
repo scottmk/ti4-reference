@@ -1,4 +1,4 @@
-### :ti4-faction-base-letnev: **Hero**: Darktalon Treilla - _Void Revenant_
+### :ti4-faction-base-letnev: **Hero**: Darktalon Treilla – _Void Revenant_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

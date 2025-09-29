@@ -1,4 +1,4 @@
-### :ti4-faction-pok-argent: **Agent**: Trilossa Aun Mirik - _Scorn of Ylir_
+### :ti4-faction-pok-argent: **Agent**: Trilossa Aun Mirik – _Scorn of Ylir_
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

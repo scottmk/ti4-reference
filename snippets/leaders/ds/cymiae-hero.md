@@ -1,4 +1,4 @@
-### :ti4-faction-ds-cymiae: **Hero**: The Voice United - _Psionic Maelstrom_ :ti4-ds:
+### :ti4-faction-ds-cymiae: **Hero**: The Voice United – _Psionic Maelstrom_ :ti4-ds:
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

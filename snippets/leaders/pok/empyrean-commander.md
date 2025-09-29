@@ -1,4 +1,4 @@
-### :ti4-faction-pok-empyrean: **Commander**: Xuange - _The Archivist_
+### :ti4-faction-pok-empyrean: **Commander**: Xuange – _The Archivist_
 
 <span style="font-variant:small-caps;">Unlock</span>: Be neighbors with all other players.
 

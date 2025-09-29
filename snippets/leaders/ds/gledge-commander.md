@@ -1,4 +1,4 @@
-### :ti4-faction-ds-gledge: **Commander**: Voldun - _Forge Lord_ :ti4-ds:
+### :ti4-faction-ds-gledge: **Commander**: Voldun – _Forge Lord_ :ti4-ds:
 
 <span style="font-variant:small-caps;">Unlock</span>: Control non-fighter ships with a total combined cost value of at least 10 in 1 system.
 

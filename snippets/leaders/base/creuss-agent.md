@@ -1,4 +1,4 @@
-### :ti4-faction-base-creuss: **Agent**: Emissary Taivra - _The Azure Whisper_
+### :ti4-faction-base-creuss: **Agent**: Emissary Taivra – _The Azure Whisper_
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

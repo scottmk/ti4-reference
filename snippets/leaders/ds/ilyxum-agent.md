@@ -1,4 +1,4 @@
-### :ti4-faction-ds-ilyxum: **Agent**: Clodho - _Speaker_ :ti4-ds:
+### :ti4-faction-ds-ilyxum: **Agent**: Clodho – _Speaker_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 
 After a player explores a legendary planet or a planet that has a technology specialty:

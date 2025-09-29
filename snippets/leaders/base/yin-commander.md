@@ -1,4 +1,4 @@
-### :ti4-faction-base-yin: **Commander**: Brother Omar Ω - _Spinner Devotee_ :ti4-codex:
+### :ti4-faction-base-yin: $1: $2 – $3 :ti4-codex:
 
 <span style="font-variant:small-caps;">Unlock</span>: Use one of your faction abilities.
 

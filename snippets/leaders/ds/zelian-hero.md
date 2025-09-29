@@ -1,4 +1,4 @@
-### :ti4-faction-ds-zelian: **Hero**: Zelian R - _The Destroyer_ :ti4-ds:
+### :ti4-faction-ds-zelian: **Hero**: Zelian R – _The Destroyer_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 
 **Cataclysm - Celestial Impact**

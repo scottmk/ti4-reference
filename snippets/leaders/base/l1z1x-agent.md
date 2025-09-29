@@ -1,4 +1,4 @@
-### :ti4-faction-base-l1z1x: **Agent**: I48S - _Enhancer Prodigy_
+### :ti4-faction-base-l1z1x: **Agent**: I48S – _Enhancer Prodigy_
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

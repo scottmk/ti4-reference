@@ -1,4 +1,4 @@
-### :ti4-faction-base-sol: **Commander**: Claire Gibson - _Voice of the People_
+### :ti4-faction-base-sol: **Commander**: Claire Gibson – _Voice of the People_
 
 <span style="font-variant:small-caps;">Unlock</span>: Control planets that have a combined total of at least 12 resources.
 

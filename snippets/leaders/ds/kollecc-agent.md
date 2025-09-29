@@ -1,4 +1,4 @@
-### :ti4-faction-ds-kollecc: **Agent**: Captain Dust - _Artifact Broker_ :ti4-ds:
+### :ti4-faction-ds-kollecc: **Agent**: Captain Dust – _Artifact Broker_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 
 At the start of a player's turn:

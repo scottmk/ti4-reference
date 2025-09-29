@@ -1,4 +1,4 @@
-### :ti4-faction-ds-vaden: **Hero**: Putriv Sirvonsk - _Clanmaster Prime_ :ti4-ds:
+### :ti4-faction-ds-vaden: **Hero**: Putriv Sirvonsk – _Clanmaster Prime_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 
 **Acula Network - Debts Come Due**

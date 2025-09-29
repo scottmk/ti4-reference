@@ -1,4 +1,4 @@
-### :ti4-faction-ds-cheiran: **Commander**: Spc. Phquaiset - _Alloyed Carapace_ :ti4-ds:
+### :ti4-faction-ds-cheiran: **Commander**: Spc. Phquaiset – _Alloyed Carapace_ :ti4-ds:
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 4 structures on non-home planets.
 

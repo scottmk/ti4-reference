@@ -1,4 +1,4 @@
-### :ti4-faction-ds-nokar: **Agent**: Sal Sparrow - _The Privateer_ :ti4-ds:
+### :ti4-faction-ds-nokar: **Agent**: Sal Sparrow – _The Privateer_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 
 After movement:

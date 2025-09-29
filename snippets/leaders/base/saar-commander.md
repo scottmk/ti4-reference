@@ -1,4 +1,4 @@
-### :ti4-faction-base-saar: **Commander**: Rowl Sarring - _Relay Engineer_
+### :ti4-faction-base-saar: **Commander**: Rowl Sarring – _Relay Engineer_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 space docks on the game board.
 

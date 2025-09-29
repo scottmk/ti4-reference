@@ -58,7 +58,7 @@ toc_depth: 2
     ---
     ### **Cunning**
     
-    After you perform a tactical action in a system, you may attach 1 “Trap” card from your reinforcements to a planet in that system that contains 1 or more of your infantry units.
+    After you perform a tactical action in a system, you may attach 1 "Trap" card from your reinforcements to a planet in that system that contains 1 or more of your infantry units.
 
     ### **Subterfuge**
     

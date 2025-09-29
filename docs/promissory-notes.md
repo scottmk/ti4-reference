@@ -346,7 +346,49 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
+    --8<-- "snippets/promissory-notes/ds/faction/kjalengard-vassalage.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
     --8<-- "snippets/promissory-notes/ds/faction/kollecc-ai-survey.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/promissory-notes/ds/faction/kolume-combinatorial-bypass.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/promissory-notes/ds/faction/kortali-blessing-of-the-queen.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/promissory-notes/ds/faction/kyro-kyro-rider.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/promissory-notes/ds/faction/lanefir-spoils-of-war.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/promissory-notes/ds/faction/lizho-trusted-counselor.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
+    --8<-- "snippets/promissory-notes/ds/faction/ltokkkhrask-stone-speakers.md"
 
 </div>
 <div class="grid cards" markdown>

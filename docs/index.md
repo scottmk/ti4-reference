@@ -26,6 +26,7 @@ It also includes references for the [_Discordant Stars_ fan expansion](https://t
 * Added _Discordant Stars_ faction [Kortali Tribunal](factions/ds/kortali.md)
 * Added _Discordant Stars_ faction [Kyro Sodality](factions/ds/kyro.md)
 * Added _Discordant Stars_ faction [Lanefir Remnants](factions/ds/lanefir.md)
+* Added _Discordant Stars_ faction [Li-Zho Dynasty](factions/ds/lizho.md)
 
 ### **27 Sep 25**
 * Correction to Ghemina Raiders' commander

@@ -2,7 +2,7 @@
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 
-**Galactic Field Test - Aggressive Marketing**
+**Galactic Field Test: Aggressive Marketing**
 
 <span style="font-variant:small-caps;">Action</span>:
 

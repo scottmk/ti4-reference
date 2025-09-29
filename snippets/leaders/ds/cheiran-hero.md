@@ -2,7 +2,7 @@
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 
-**Contingency Plan - Biomass Event**
+**Contingency Plan: Biomass Event**
 
 <span style="font-variant:small-caps;">Action:</span>
 

@@ -2,7 +2,7 @@
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 
-**Magnum Opus - World Shapers**
+**Magnum Opus: World Shapers**
 
 <span style="font-variant:small-caps;">Action</span>:
 

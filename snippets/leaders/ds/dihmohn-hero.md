@@ -2,7 +2,7 @@
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 
-**Defense Matrix Overload - Volatile EMP Burst**
+**Defense Matrix Overload: Volatile EMP Burst**
 
 After the "Roll Dice" step of space combat:
 

@@ -2,7 +2,7 @@
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 
-**Singularity Cradle - Eye of the Abyss**
+**Singularity Cradle: Eye of the Abyss**
 
 <span style="font-variant:small-caps;">Action</span>:
 

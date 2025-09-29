@@ -2,7 +2,7 @@
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 
-**Primordial Data Core - Grand Reveal**
+**Primordial Data Core: Grand Reveal**
 
 <span style="font-variant:small-caps;">Action</span>:
 

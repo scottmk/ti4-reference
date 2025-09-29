@@ -1,7 +1,7 @@
 ### :ti4-faction-ds-zelian: **Hero**: Zelian R – _The Destroyer_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 
-**Cataclysm - Celestial Impact**
+**Cataclysm: Celestial Impact**
 
 After you move a unit with <span style="font-variant:small-caps;">Bombardment</span> into a non-home system other than Mecatol Rex:
 

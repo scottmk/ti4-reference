@@ -2,7 +2,7 @@
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 
-**Trader Mobilization Act - Merchant Rearmament**
+**Trader Mobilization Act: Merchant Rearmament**
 
 After a player activates a system other than Mecatol Rex:
 

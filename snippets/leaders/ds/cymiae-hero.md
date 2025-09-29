@@ -2,7 +2,7 @@
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 
-**The Scream - Symphony of Agony**
+**The Scream: Symphony of Agony**
 
 <span style="font-variant:small-caps;">Action:</span>
 

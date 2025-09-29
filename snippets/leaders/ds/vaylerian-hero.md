@@ -2,7 +2,7 @@
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 
-**Spear of Vaylar - Hidden Vanguard**
+**Spear of Vaylar: Hidden Vanguard**
 
 After you activate a system:
 

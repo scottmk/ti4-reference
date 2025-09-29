@@ -1,7 +1,7 @@
 ### :ti4-faction-ds-veldyr: **Hero**: Auberon Elyrin – _Chairman_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 
-**Twilight Protocol - A New Dawn**
+**Twilight Protocol: A New Dawn**
 
 <span style="font-variant:small-caps;">Action:</span>
 

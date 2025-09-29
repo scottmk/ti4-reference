@@ -1,7 +1,7 @@
 ### :ti4-faction-ds-kollecc: **Hero**: Dorrahn Griphyn – _The Collector_ :ti4-ds:
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 
-**Shadowcaster - Stealth Expedition**
+**Shadowcaster: Stealth Expedition**
 
 <span style="font-variant:small-caps;">Action:</span>
 

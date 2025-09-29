@@ -21,6 +21,7 @@ It also includes references for the [_Discordant Stars_ fan expansion](https://t
 
 ### **29 Sep 25**
 * Added remaining DS promissory notes for quick reference
+* Added _Discordant Stars_ faction [Berserkers of Kjalengard](factions/ds/kjalengard.md)
 
 ### **27 Sep 25**
 * Correction to Ghemina Raiders' commander

@@ -1,4 +1,4 @@
-### :ti4-faction-ds-cymiae: __Savages of Cymiae - Algorithmic Replication__ :ti4-ds:
+### :ti4-faction-ds-cymiae: __Savages of Cymiae – Algorithmic Replication__ :ti4-ds:
 
 ---
 

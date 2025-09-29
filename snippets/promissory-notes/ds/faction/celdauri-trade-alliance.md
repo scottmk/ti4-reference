@@ -1,4 +1,4 @@
-### :ti4-faction-ds-celdauri: __Celdauri Trade Federation - Trade Alliance__ :ti4-ds:
+### :ti4-faction-ds-celdauri: __Celdauri Trade Federation – Trade Alliance__ :ti4-ds:
 
 ---
 When you receive this card, if you are not the Celdauri player, you must place it face up in your play area.

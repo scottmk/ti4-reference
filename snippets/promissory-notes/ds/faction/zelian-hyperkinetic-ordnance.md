@@ -1,4 +1,4 @@
-### :ti4-faction-ds-zelian: __Zelian Purifier - Hyperkinetic Ordnance__ :ti4-ds:
+### :ti4-faction-ds-zelian: __Zelian Purifier – Hyperkinetic Ordnance__ :ti4-ds:
 
 ---
 

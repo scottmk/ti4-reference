@@ -1,4 +1,4 @@
-### :ti4-faction-ds-vaden: __Vaden Banking Clans - Vaden Handshake__ :ti4-ds:
+### :ti4-faction-ds-vaden: __Vaden Banking Clans – Vaden Handshake__ :ti4-ds:
 
 ---
 After you activate a system:

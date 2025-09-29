@@ -1,4 +1,4 @@
-### :ti4-faction-ds-ghemina: __Ghemina Raiders - Raid Leaders__ :ti4-ds:
+### :ti4-faction-ds-ghemina: __Ghemina Raiders – Raid Leaders__ :ti4-ds:
 
 ---
 

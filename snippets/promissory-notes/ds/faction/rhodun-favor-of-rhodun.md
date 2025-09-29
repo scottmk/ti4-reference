@@ -1,4 +1,4 @@
-### :ti4-faction-ds-rhodun: __Zealots of Rhodun - Favor of Rhodun__ :ti4-ds:
+### :ti4-faction-ds-rhodun: __Zealots of Rhodun – Favor of Rhodun__ :ti4-ds:
 
 ---
 <span style="font-variant:small-caps;">Action</span>:

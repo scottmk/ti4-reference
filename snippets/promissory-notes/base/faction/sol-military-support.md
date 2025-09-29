@@ -1,4 +1,4 @@
-### :ti4-faction-base-sol: __Federation of Sol - Military Support__
+### :ti4-faction-base-sol: __Federation of Sol – Military Support__
 
 ---
 At the start of the Sol player's turn:

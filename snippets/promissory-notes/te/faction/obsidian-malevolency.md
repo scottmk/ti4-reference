@@ -1,4 +1,4 @@
-### :ti4-faction-te-obsidian: __The Obsidian - Malevolency__ :ti4-te:
+### :ti4-faction-te-obsidian: __The Obsidian – Malevolency__ :ti4-te:
 
 ---
 

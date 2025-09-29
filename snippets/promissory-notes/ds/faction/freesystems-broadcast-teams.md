@@ -1,4 +1,4 @@
-### :ti4-faction-ds-freesystems: __Free Systems Compact - Broadcast Teams__ :ti4-ds:
+### :ti4-faction-ds-freesystems: __Free Systems Compact – Broadcast Teams__ :ti4-ds:
 
 ---
 When you gain control of a planet during a tactical action:

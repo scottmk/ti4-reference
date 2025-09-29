@@ -1,4 +1,4 @@
-### :ti4-faction-ds-cheiran: __Cheiran Hordes - Carcinisation__ :ti4-ds:
+### :ti4-faction-ds-cheiran: __Cheiran Hordes – Carcinisation__ :ti4-ds:
 
 ---
 When 1 of your non-fighter ships is destroyed during combat in a system:

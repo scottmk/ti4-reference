@@ -1,4 +1,4 @@
-### :ti4-faction-ds-rohdhna: __Rho'Dhna Mechantronics - Automatons__ :ti4-ds:
+### :ti4-faction-ds-rohdhna: __Rho'Dhna Mechantronics – Automatons__ :ti4-ds:
 
 ---
 

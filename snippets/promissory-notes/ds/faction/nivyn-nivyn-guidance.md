@@ -1,4 +1,4 @@
-### :ti4-faction-ds-nivyn: __Nivyn Star Kings - Nivyn Guidance__ :ti4-ds:
+### :ti4-faction-ds-nivyn: __Nivyn Star Kings – Nivyn Guidance__ :ti4-ds:
 
 ---
 After you activate a system:

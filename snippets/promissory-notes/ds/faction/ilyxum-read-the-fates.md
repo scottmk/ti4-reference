@@ -1,4 +1,4 @@
-### :ti4-faction-ds-ilyxum: __Augurs of Ilyxum - Read the Fates__ :ti4-ds:
+### :ti4-faction-ds-ilyxum: __Augurs of Ilyxum – Read the Fates__ :ti4-ds:
 
 ---
 <span style="font-variant:small-caps;">Action</span>: Place this face up in your play area.

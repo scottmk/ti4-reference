@@ -1,4 +1,4 @@
-### :ti4-faction-ds-florzen: __Florzen Profiteers - Underworld Market__ :ti4-ds:
+### :ti4-faction-ds-florzen: __Florzen Profiteers – Underworld Market__ :ti4-ds:
 
 ---
 When you would gain a relic:

@@ -1,4 +1,4 @@
-### :ti4-faction-base-xxcha: __Xxcha Kingdom - Political Favor__
+### :ti4-faction-base-xxcha: __Xxcha Kingdom – Political Favor__
 
 ---
 When an agenda is revealed: 

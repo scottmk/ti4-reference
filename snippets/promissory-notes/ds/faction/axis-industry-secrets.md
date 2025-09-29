@@ -1,4 +1,4 @@
-### :ti4-faction-ds-axis: __Shipwrights of Axis - Industry Secrets__ :ti4-ds:
+### :ti4-faction-ds-axis: __Shipwrights of Axis – Industry Secrets__ :ti4-ds:
 
 ---
 When 1 or more of your units use <span style="font-variant:small-caps;">Production</span>:

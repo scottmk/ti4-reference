@@ -1,4 +1,4 @@
-### :ti4-faction-ds-edyn: __Edyn Mandate - Edyn Rider__ :ti4-ds:
+### :ti4-faction-ds-edyn: __Edyn Mandate – Edyn Rider__ :ti4-ds:
 
 ---
 After an agenda is revealed:

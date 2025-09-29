@@ -1,4 +1,4 @@
-### :ti4-faction-ds-mortheus: __Glimmer of Mortheus - Secrets of the Weave__ :ti4-ds:
+### :ti4-faction-ds-mortheus: __Glimmer of Mortheus – Secrets of the Weave__ :ti4-ds:
 
 ---
 At the start of a space combat while you are the defender:

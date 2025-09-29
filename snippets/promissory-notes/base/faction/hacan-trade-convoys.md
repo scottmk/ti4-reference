@@ -1,4 +1,4 @@
-### :ti4-faction-base-hacan: __Emirates of Hacan - Trade Convoys__
+### :ti4-faction-base-hacan: __Emirates of Hacan – Trade Convoys__
 
 ---
 <span style="font-variant:small-caps;">Action</span>: Place this card faceup in your play area. 

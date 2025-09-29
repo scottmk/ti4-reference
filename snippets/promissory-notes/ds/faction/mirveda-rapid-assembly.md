@@ -1,4 +1,4 @@
-### :ti4-faction-ds-mirveda: __Mirveda Protectorate - Rapid Assembly__ :ti4-ds:
+### :ti4-faction-ds-mirveda: __Mirveda Protectorate – Rapid Assembly__ :ti4-ds:
 
 ---
 At the start of your turn:

@@ -1,4 +1,4 @@
-### :ti4-faction-ds-nokar: __Nokar Sellships - Nokar Navigator__ :ti4-ds:
+### :ti4-faction-ds-nokar: __Nokar Sellships – Nokar Navigator__ :ti4-ds:
 
 ---
 At the start of a space combat:

@@ -1,4 +1,4 @@
-### :ti4-faction-te-firmament: __The Firmament - Black Ops__ :ti4-te:
+### :ti4-faction-te-firmament: __The Firmament – Black Ops__ :ti4-te:
 
 ---
 

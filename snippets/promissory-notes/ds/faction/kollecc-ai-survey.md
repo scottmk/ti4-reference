@@ -1,4 +1,4 @@
-### :ti4-faction-ds-kollecc: __Kollecc Society - AI Survey__ :ti4-ds:
+### :ti4-faction-ds-kollecc: __Kollecc Society – AI Survey__ :ti4-ds:
 
 ---
 At the start of your turn:

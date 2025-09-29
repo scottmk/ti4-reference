@@ -1,4 +1,4 @@
-### :ti4-faction-ds-vaylerian: __Vaylerian Scourge - Clan's Favor__ :ti4-ds:
+### :ti4-faction-ds-vaylerian: __Vaylerian Scourge – Clan's Favor__ :ti4-ds:
 
 ---
 At the start of a round of space combat:

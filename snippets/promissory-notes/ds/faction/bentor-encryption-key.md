@@ -1,4 +1,4 @@
-### :ti4-faction-ds-bentor: __Bentor Conglomerate - Encryption Key__ :ti4-ds:
+### :ti4-faction-ds-bentor: __Bentor Conglomerate – Encryption Key__ :ti4-ds:
 
 ---
 

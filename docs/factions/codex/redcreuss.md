@@ -3,7 +3,7 @@ toc_depth: 2
 ---
 
 # :ti4-faction-codex-redcreuss: Crimson Rebellion (Liberation of Ordinian) <sup><sub>:ti4-codex:</sub></sup>
-:material-information-outline: <sup><sub>Icon created by @cpt.somno for [Async TI4](https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/factions/pok/RedCreuss.png)</sub></sup>
+:material-information-outline: <sup><sub>Icon created by @bradleysigma for [Async TI4](https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/factions/pok/RedCreuss.png)</sub></sup>
 
 === "Unmodded"
 === "Absol's Mod :ti4-absol:" 

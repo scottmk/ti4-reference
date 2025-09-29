@@ -1,4 +1,4 @@
-### :ti4-faction-base-sol: **Hero**: Jace X, 4th Air Legion - _Federation Hero_
+### :ti4-faction-base-sol: **Hero**: Jace X, 4th Air Legion – _Federation Hero_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

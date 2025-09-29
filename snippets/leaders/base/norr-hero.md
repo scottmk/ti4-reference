@@ -1,4 +1,4 @@
-### :ti4-faction-base-norr: **Hero**: Sh'val, Harbinger - _Master of the First_
+### :ti4-faction-base-norr: **Hero**: Sh'val, Harbinger – _Master of the First_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

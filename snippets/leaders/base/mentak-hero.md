@@ -1,4 +1,4 @@
-### :ti4-faction-base-mentak: **Hero**: Ipswitch, Loose Cannon - _Mercenary Raider_
+### :ti4-faction-base-mentak: **Hero**: Ipswitch, Loose Cannon – _Mercenary Raider_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

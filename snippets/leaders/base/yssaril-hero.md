@@ -1,4 +1,4 @@
-### :ti4-faction-base-yssaril: **Hero**: Kyver, Blade and Key - _Guild Assassin_
+### :ti4-faction-base-yssaril: **Hero**: Kyver, Blade and Key – _Guild Assassin_
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

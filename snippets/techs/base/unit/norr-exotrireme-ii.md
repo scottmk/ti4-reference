@@ -1,4 +1,4 @@
-### :ti4-faction-base-sardakk: :ti4-tech-unit-upgrade: **Exotrireme II**
+### :ti4-faction-base-norr: :ti4-tech-unit-upgrade: **Exotrireme II**
 
 Requirements: :ti4-tech-propulsion: :ti4-tech-propulsion: :ti4-tech-cybernetic:
 

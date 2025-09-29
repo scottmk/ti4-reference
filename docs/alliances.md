@@ -70,13 +70,13 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/alliances/base/saar-alliance.md"
+    --8<-- "snippets/alliances/base/norr-alliance.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/alliances/base/sardakk-alliance.md"
+    --8<-- "snippets/alliances/base/saar-alliance.md"
 
 </div>
 <div class="grid cards" markdown>

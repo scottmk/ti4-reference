@@ -2,7 +2,7 @@
 toc_depth: 2
 ---
 
-# :ti4-faction-base-sardakk: Sardakk N'orr
+# :ti4-faction-base-norr: Sardakk N'orr
 === "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info
@@ -53,12 +53,12 @@ toc_depth: 2
 -   ## __Flagship__
 
     ---
-    --8<-- "snippets/units/faction/base/sardakk-flagship.md"
+    --8<-- "snippets/units/faction/base/norr-flagship.md"
 
 -   ## __Mech__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
-    --8<-- "snippets/units/faction/base/sardakk-mech.md"
+    --8<-- "snippets/units/faction/base/norr-mech.md"
 
 </div>
 
@@ -67,7 +67,7 @@ toc_depth: 2
 -   ## __Special Units__
 
     ---
-    --8<-- "snippets/units/faction/base/sardakk-dreadnought.md"
+    --8<-- "snippets/units/faction/base/norr-dreadnought.md"
 
 </div>
 
@@ -77,37 +77,37 @@ toc_depth: 2
 
     ---
     === "Unmodded"
-        --8<-- "snippets/techs/base/unit/sardakk-exotrireme-ii.md"
+        --8<-- "snippets/techs/base/unit/norr-exotrireme-ii.md"
 
-        --8<-- "snippets/techs/base/red/sardakk-valkyrie-particle-weave.md"
+        --8<-- "snippets/techs/base/red/norr-valkyrie-particle-weave.md"
 
     === "Absol's Mod :ti4-absol:"
-        --8<-- "snippets/techs/absol/unit/sardakk-exotrireme-ii.md"
+        --8<-- "snippets/techs/absol/unit/norr-exotrireme-ii.md"
 
-        --8<-- "snippets/techs/absol/red/sardakk-valkyrie-particle-weave.md"
+        --8<-- "snippets/techs/absol/red/norr-valkyrie-particle-weave.md"
 
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
     
-    --8<-- "snippets/leaders/base/sardakk-agent.md"
+    --8<-- "snippets/leaders/base/norr-agent.md"
 
     ---
 
-    --8<-- "snippets/leaders/base/sardakk-commander.md"
+    --8<-- "snippets/leaders/base/norr-commander.md"
 
     ---
 
-    --8<-- "snippets/leaders/base/sardakk-hero.md"
+    --8<-- "snippets/leaders/base/norr-hero.md"
 
 - ## __Breakthrough__ :ti4-te:
 
     ---
-    --8<-- "snippets/breakthroughs/base/sardakk-norr-supremacy.md"
+    --8<-- "snippets/breakthroughs/base/norr-norr-supremacy.md"
 
 -   ## __Faction Promissory Note__
 
     ---
-    --8<-- "snippets/promissory-notes/base/faction/sardakk-tekklar-legion.md"
+    --8<-- "snippets/promissory-notes/base/faction/norr-tekklar-legion.md"
 
 </div>

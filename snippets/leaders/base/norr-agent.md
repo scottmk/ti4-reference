@@ -1,4 +1,4 @@
-### :ti4-faction-base-sardakk: **Agent**: T'ro – _Tekklar Legionnaire_
+### :ti4-faction-base-norr: **Agent**: T'ro – _Tekklar Legionnaire_
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

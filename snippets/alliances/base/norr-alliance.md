@@ -1,4 +1,4 @@
-### :ti4-faction-base-sardakk: **Sardakk N'Orr Alliance**
+### :ti4-faction-base-norr: **N'orr Alliance**
 
 #### G'hom Sek'kus – _Valkyrie Elite_
 

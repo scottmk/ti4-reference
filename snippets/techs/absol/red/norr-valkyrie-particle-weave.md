@@ -1,4 +1,4 @@
-### :ti4-faction-base-sardakk: :ti4-tech-warfare: **Valkyrie Particle Weave**:ti4-absol:
+### :ti4-faction-base-norr: :ti4-tech-warfare: **Valkyrie Particle Weave**:ti4-absol:
 
 Requirements: :ti4-tech-warfare: :ti4-tech-warfare:
 

@@ -1,4 +1,4 @@
-### :ti4-faction-base-sardakk: **Valkyrie Exoskeleton** :ti4-pok:
+### :ti4-faction-base-norr: **Valkyrie Exoskeleton** :ti4-pok:
 
 Unit Type: Mech 
 

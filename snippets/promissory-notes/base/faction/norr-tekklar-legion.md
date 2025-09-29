@@ -1,4 +1,4 @@
-### :ti4-faction-base-sardakk: __Sardakk N'orr - Tekklar Legion__
+### :ti4-faction-base-norr: __Sardakk N'orr - Tekklar Legion__
 
 ---
 At the start of an invasion combat:

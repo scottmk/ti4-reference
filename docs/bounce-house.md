@@ -142,7 +142,7 @@
     | theMikeNIke76   | :ti4-faction-base-nekro: Nekro Virus              | 11        |
     | LAPDConvict     | :ti4-faction-base-jolnar: Universities of Jol-Nar | 11        |
     | hurripain       | :ti4-faction-pok-naaz: Naaz-Rokha Alliance        | 10        |
-    | mscott          | :ti4-faction-base-sardakk: Sardakk N'orr          | 7         |
+    | mscott          | :ti4-faction-base-norr: Sardakk N'orr          | 7         |
     | patthepineapple | :ti4-faction-pok-cabal: Vuil'Raith Cabal          | 5         |
     
 -   ### **Game 8:** 2025.02.19 - 2025.04.17

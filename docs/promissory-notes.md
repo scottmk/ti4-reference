@@ -111,13 +111,13 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/base/faction/saar-raghs-call.md"
+    --8<-- "snippets/promissory-notes/base/faction/norr-tekklar-legion.md"
 
 </div>
 <div class="grid cards" markdown>
 
 -   
-    --8<-- "snippets/promissory-notes/base/faction/sardakk-tekklar-legion.md"
+    --8<-- "snippets/promissory-notes/base/faction/saar-raghs-call.md"
 
 </div>
 <div class="grid cards" markdown>

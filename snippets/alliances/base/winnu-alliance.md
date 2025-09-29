@@ -1,6 +1,6 @@
 ### :ti4-faction-base-winnu: **Winnu Alliance**
 
-####  Rickar Rickani - _The Hand of the Emperor_
+#### Rickar Rickani – _The Hand of the Emperor_
 
 During combat:
 

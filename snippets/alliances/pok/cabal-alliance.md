@@ -1,6 +1,6 @@
 ### :ti4-faction-pok-cabal: **Cabal Alliance**
 
-####  That Which Molds Flesh - _Grisly Abomination_
+#### That Which Molds Flesh – _Grisly Abomination_
 
 When you produce fighter or infantry units:
 

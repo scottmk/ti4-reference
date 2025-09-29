@@ -1,6 +1,6 @@
 ### :ti4-faction-ds-cheiran: **Cheiran Alliance**
 
-####  Spc. Phquaiset - _Alloyed Carapace_ :ti4-ds:
+#### Spc. Phquaiset – _Alloyed Carapace_ :ti4-ds:
 
 While you are the defender:
 

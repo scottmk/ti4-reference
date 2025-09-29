@@ -1,6 +1,6 @@
 ### :ti4-faction-ds-nivyn: **Nivyn Alliance**
 
-####  Thussad Krath - _High Inquisitor_ :ti4-ds:
+#### Thussad Krath – _High Inquisitor_ :ti4-ds:
 
 <sup><sub>Note: different means different types of anomaly, i.e. cannot be unlocked via 2 asteroid fields</sub></sup>
 

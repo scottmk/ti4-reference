@@ -1,6 +1,6 @@
 ### :ti4-faction-ds-freesystems: **Free Systems Alliance**
 
-####  President Cyhn - _Crisis Leader_ :ti4-ds:
+#### President Cyhn – _Crisis Leader_ :ti4-ds:
 
 After you gain control of a non-home planet during a tactical action:
 

@@ -1,6 +1,6 @@
 ### :ti4-faction-pok-argent: **Argent Alliance**
 
-####  Trrakan Aun Zulok - _Strike Wing Commander_
+#### Trrakan Aun Zulok – _Strike Wing Commander_
 
 When 1 or more of your units make a roll for a unit ability:
 

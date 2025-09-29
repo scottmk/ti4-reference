@@ -1,6 +1,6 @@
 ### :ti4-faction-base-yssaril: **Yssaril Alliance**
 
-####  So Ata - _Loyal Only to a Point_
+#### So Ata – _Loyal Only to a Point_
 
 After another player activates a system that contains your units:
 

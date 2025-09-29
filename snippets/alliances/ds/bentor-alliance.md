@@ -1,6 +1,6 @@
 ### :ti4-faction-ds-bentor: **Bentor Alliance**
 
-####  C.M.O. Ranc - _Marketing Guru_ :ti4-ds:
+#### C.M.O. Ranc – _Marketing Guru_ :ti4-ds:
 
 Ongoing
 

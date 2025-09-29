@@ -1,6 +1,6 @@
 ### :ti4-faction-ds-mortheus: **Mortheus Alliance**
 
-####  Komat - _Vibrant Blue_ :ti4-ds:
+#### Komat – _Vibrant Blue_ :ti4-ds:
 
 At the start of a space combat while you are not the active player:
 

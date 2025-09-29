@@ -1,6 +1,6 @@
 ### :ti4-faction-ds-gledge: **GLEdge Alliance**
 
-####  Voldun - _Forge Lord_ :ti4-ds:
+#### Voldun – _Forge Lord_ :ti4-ds:
 
 When you use the <span style="font-variant:small-caps;">Production</span> of 1 or more of your units
 

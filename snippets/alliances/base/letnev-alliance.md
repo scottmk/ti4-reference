@@ -1,6 +1,6 @@
 ### :ti4-faction-base-letnev: **Letnev Alliance**
 
-####  Rear Admiral Farran - _Sector XVIII Viceroy_
+#### Rear Admiral Farran – _Sector XVIII Viceroy_
 
 After 1 of your units uses <span style="font-variant:small-caps;">Sustain Damage</span>:
 

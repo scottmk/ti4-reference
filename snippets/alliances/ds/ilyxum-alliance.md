@@ -1,6 +1,6 @@
 ### :ti4-faction-ds-ilyxum: **Ilyxum Alliance**
 
-####  Lachis - _Reader_ :ti4-ds:
+#### Lachis – _Reader_ :ti4-ds:
 
 Ongoing
 

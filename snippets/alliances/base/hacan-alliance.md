@@ -1,6 +1,6 @@
 ### :ti4-faction-base-hacan: **Hacan Alliance**
 
-####  Gila the Silvertongue - _Kenaran Ambassador_
+#### Gila the Silvertongue – _Kenaran Ambassador_
 
 When you cast votes:
 

@@ -1,6 +1,6 @@
 ### :ti4-faction-ds-cymiae: **Cymiae Alliance**
 
-####  Koryl Ferax - _The Third Voice_ :ti4-ds:
+#### Koryl Ferax – _The Third Voice_ :ti4-ds:
 
 After you gain control of a planet during a tactical action:
 

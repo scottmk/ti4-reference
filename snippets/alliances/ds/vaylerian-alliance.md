@@ -1,6 +1,6 @@
 ### :ti4-faction-ds-vaylerian: **Vaylerian Alliance**
 
-####  Pyndil Gonsuul - _Strike Team Coordinator_ :ti4-ds:
+#### Pyndil Gonsuul – _Strike Team Coordinator_ :ti4-ds:
 
 After you activate a system:
 

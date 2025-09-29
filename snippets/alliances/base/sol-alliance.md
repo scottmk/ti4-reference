@@ -1,6 +1,6 @@
 ### :ti4-faction-base-sol: **Sol Alliance**
 
-####  Claire Gibson - _Voice of the People_
+#### Claire Gibson – _Voice of the People_
 
 At the start of a ground combat on a planet you control:
 

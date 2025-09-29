@@ -1,6 +1,6 @@
 ### :ti4-faction-ds-zelian: **Zelian Alliance**
 
-####  Zelian B - _The Hunter_ :ti4-ds:
+#### Zelian B – _The Hunter_ :ti4-ds:
 
 Ongoing
 

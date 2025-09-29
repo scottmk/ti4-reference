@@ -1,6 +1,6 @@
 ### :ti4-faction-base-xxcha: **Xxcha Alliance**
 
-####  Elder Qanoj - _The Doom from Kklaj_
+#### Elder Qanoj – _The Doom from Kklaj_
 
 When you vote:
 

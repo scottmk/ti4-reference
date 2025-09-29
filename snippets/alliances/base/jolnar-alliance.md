@@ -1,6 +1,6 @@
 ### :ti4-faction-base-jolnar: **Jol-Nar Alliance**
 
-####  Ta Zern - _Deepwrought Visionary_
+#### Ta Zern – _Deepwrought Visionary_
 
 After you roll dice for a unit ability:
 

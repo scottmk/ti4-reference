@@ -1,6 +1,6 @@
 ### :ti4-faction-base-creuss: **Creuss Alliance**
 
-####  Sai Seravus - _Gatewarden_
+#### Sai Seravus – _Gatewarden_
 
 After your ships move:
 

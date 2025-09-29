@@ -1,6 +1,6 @@
 ### :ti4-faction-ds-mirveda: **Mirveda Alliance**
 
-####  Assault Machina - _Delta Shield_ :ti4-ds:
+#### Assault Machina – _Delta Shield_ :ti4-ds:
 
 During Movement:
 

@@ -1,6 +1,6 @@
 ### :ti4-faction-base-sardakk: **Sardakk N'Orr Alliance**
 
-####  G'hom Sek'kus - _Valkyrie Elite_
+#### G'hom Sek'kus – _Valkyrie Elite_
 
 During the "Commit Ground Forces" step:
 

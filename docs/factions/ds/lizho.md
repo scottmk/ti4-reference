@@ -65,6 +65,58 @@ toc_depth: 2
     Trap attachments are attached face-down and remain hidden until revealed; you may look at Trap attachments at any time. 
     You do not count trap attachments toward fulfilling objectives.
 
+</div>
+
+<div class="grid cards" markdown>
+
+-   ## __Traps__
+
+    ---
+    #### Trap – Interference Grid
+
+    While this card is attached, you may reveal this card at the start of a space combat in this system.
+    Choose 1 player, apply -1 to each of that player's combat rolls during this space combat.
+
+    At the end of this tactical action, return this card to your reinforcements.
+
+    #### Trap – Minefields
+
+    While this card is attached, you may reveal this card after a player commits 1 or more infantry to this planet.
+    Destroy up to 2 of that player's infantry on this planet.
+
+    At the end of this tactical action, return this card to your reinforcements.
+
+    #### Trap – Account Siphon
+
+    While this card is attached, you may reveal this card after a player gains control of this planet.
+    Take up to 2 trade goods or 3 commodities from that player.
+
+    At the end of this tactical action, return this card to your reinforcements.
+
+    #### Trap – Gravitic Inhibitor
+
+    While this card is attached, you may reveal this card after a player activates this system.
+    Until the end of this tactical action, that player cannot move more ships than 1 fewer than their fleet supply limit into this system.
+
+    At the end of this tactical action, return this card to your reinforcements.
+
+    #### Trap – Feint
+
+    While this card is attached, you may reveal this card at any time.
+    Then, return this card to your reinforcements.
+
+    #### Trap – Saboteurs
+
+    While this card is attached, you may reveal this card at any time.
+    Choose 1 non-carrier unit in this system. If it is not damaged, and has the <span style="font-variant:small-caps;">Sustain Damage</span> ability, that unit becomes damaged; otherwise, destroy that unit.
+
+    Then, return this card to your reinforcements.
+
+    <sup><sub>NB: _Trap – Saboteurs_ is an optional component, for groups that prefer to have stronger Traps</sub></sup>
+
+</div>
+<div class="grid cards" markdown>
+
 -   ## __Flagship__
 
     ---

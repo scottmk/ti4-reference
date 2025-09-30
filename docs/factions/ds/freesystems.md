@@ -60,6 +60,8 @@ toc_depth: 2
     
     Once per action, you may exhaust 1 uncontrolled planet's planet card that is on the game board to spend its resources or influence.
 
+    <sup><sub>NB: This can be used during other players' actions as well as your own</sub></sup>
+
     ### **Free People**
     
     During setup, for each non-home planet other than Mecatol Rex on the game board, place that planet's planet card face up on the game board.

@@ -21,18 +21,24 @@ toc_depth: 2
 
     ---
 
-    * TBA
+    * :ti4-unit-carrier:
+    * :ti4-unit-destroyer::ti4-unit-destroyer:
+    * :ti4-unit-fighter::ti4-unit-fighter::ti4-unit-fighter:
 
 -   ## __Starting Ground Units__
 
     ---
 
-    * TBA
+    * :ti4-unit-infantry::ti4-unit-infantry::ti4-unit-infantry::ti4-unit-infantry:
+    * :ti4-unit-spacedock:
+    * :ti4-unit-pds:
 
--   ## __Starting Technologies__
+-   ## __Starting Technologies/Components__
 
     ---
-    TBA
+    Choose 1 :ti4-tech-propulsion: <span style="color:DeepSkyBlue">**blue**</span> or 1 :ti4-tech-warfare: <span style="color:red">**red**</span> technology with no prerequisites
+
+    You also start with your breakthrough, [Resonance Generator](rebellion.md#breakthrough)
 
 -   ## __Faction Abilities__
 

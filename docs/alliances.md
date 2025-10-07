@@ -205,6 +205,12 @@ toc_depth: 3
 <div class="grid cards" markdown>
 
 -   
+    --8<-- "snippets/alliances/te/keleres-alliance.md"
+
+</div>
+<div class="grid cards" markdown>
+
+-   
     --8<-- "snippets/alliances/te/ralnel-alliance.md"
 
 </div>

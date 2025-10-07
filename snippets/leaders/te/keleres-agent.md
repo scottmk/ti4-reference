@@ -1,4 +1,4 @@
-### :ti4-faction-codex-keleres: **Agent**: Xander Alexin Victori III – _Miracle Worker_ <sup><sub>:ti4-codex:</sub></sup>
+### :ti4-faction-te-keleres: **Agent**: Xander Alexin Victori III – _Miracle Worker_ :ti4-te:
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

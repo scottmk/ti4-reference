@@ -1,4 +1,4 @@
-### :ti4-faction-codex-keleres: **Commander**: Suffi An – _Working Multiple Angles_ <sup><sub>:ti4-codex:</sub></sup>
+### :ti4-faction-te-keleres: **Commander**: Suffi An – _Working Multiple Angles_ :ti4-te:
 
 <span style="font-variant:small-caps;">Unlock</span>: Spend 1 trade good after you play an action card that has a component action
 

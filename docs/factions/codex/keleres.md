@@ -3,6 +3,16 @@ toc_depth: 2
 ---
 
 # :ti4-faction-codex-keleres: Council Keleres <sup><sub>:ti4-codex:</sub></sup>
+!!! warning
+
+    This is the old version of the Council Keleres faction as presented in [Codex III](https://images-cdn.fantasyflightgames.com/filer_public/35/e1/35e10f37-4b6d-4479-a117-4e2c571ddfa7/ti_codex_volume_3_vigil_v2_1-compressed.pdf), and has been kept here for legacy purposes only.
+    
+    If you are looking for the latest version of this faction, please see the [_Thunder's Edge_ Council Keleres page](../te/keleres.md).
+
+*"Our duty is to protect the billions of people in our galaxy, not the few hundred in these Council Chambers."*
+
+*–Tribunii Harka Leeds*
+
 === "Unmodded"
 === "Absol's Mod :ti4-absol:" 
     ???+ info

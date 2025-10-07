@@ -1,4 +1,4 @@
-### :ti4-faction-codex-keleres: **Hero**: Odlynn Myrr – _Keleres Tribunii_ <sup><sub>:ti4-codex:</sub></sup>
+### :ti4-faction-te-keleres: **Hero**: Odlynn Myrr – _Keleres Tribunii_ :ti4-te:
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 

@@ -22,6 +22,7 @@ It also includes references for the [_Discordant Stars_ fan expansion](https://t
 ### **06 Oct 25**
 * Added all remaining breakthroughs
 * Added Xxcha's new hero from _Thunder's Edge_
+* Added _Thunder's Edge_ version of [Council Keleres](factions/te/keleres.md)
 
 ### **29 Sep 25**
 * Added remaining DS promissory notes for quick reference

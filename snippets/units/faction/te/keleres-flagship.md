@@ -1,4 +1,4 @@
-### :ti4-faction-codex-keleres: **Artemiris** :ti4-codex:
+### :ti4-faction-te-keleres: **Artemiris** :ti4-te:
 
 Unit Type: Flagship 
 
@@ -6,4 +6,4 @@ Unit Type: Flagship
 
 <span style="font-variant:small-caps;">Sustain Damage</span>
 
-Other players must spend 2 influence to activate the system that contains this ship.
+Other players must spend 2 influence to activate this system.

@@ -21,8 +21,9 @@
 
     ---
 
-    * Twilight Wars [(65e553f31df5390015547650)](https://www.twilightwars.com/games/65e553f31df5390015547650)
-    * **Game Modes**: Base Game with Frontier Tokens + DET, 10 victory points
+    * Twilight Wars ([65e553f31df5390015547650](https://www.twilightwars.com/games/65e553f31df5390015547650))
+    * **Expansion Content**: Base Game with Explores and DET
+    * **Game Modes**: 10 victory points
     * **Winning Path**: 5 stage 1s, 1 stage 2, 3 secrets
 
     Round 7 Status Phase Win
@@ -41,8 +42,9 @@
 
     ---
 
-    * Async TI4 ([pbd3220](https://ti4.westaddisonheavyindustries.com/game/pbd3220){:target="_blank"})
-    * **Game Modes**: PoK Normal, 10 victory points
+    * Async TI4 ([pbd3220](https://asyncti4.com/game/pbd3220){:target="_blank"})
+    * **Expansion Content**: :ti4-pok:
+    * **Game Modes**: 0 victory points
     * **Winning Path**: 4 stage 1s, 0 stage 2s, 3 secrets, 1 support, 1 shard, 1 custodian/imperial 
 
     Round 5 Action Phase Win
@@ -58,8 +60,9 @@
 
     ---
 
-    * Async TI4 ([pbd4190](https://ti4.westaddisonheavyindustries.com/game/pbd4190){:target="_blank"})
-    * **Game Modes**: PoK Normal, 10 victory points
+    * Async TI4 ([pbd4190](https://asyncti4.com/game/pbd4190){:target="_blank"})
+    * **Expansion Content**: :ti4-pok:
+    * **Game Modes**: 10 victory points
     * **Winning Path**: 4 stage 1s, 1 stage 2, 3 secrets, 1 support
 
     Round 7 Status Phase Win
@@ -77,8 +80,9 @@
 
     ---
 
-    * Async TI4 ([pbd4249](https://ti4.westaddisonheavyindustries.com/game/pbd4249){:target="_blank"})
-    * **Game Modes**: PoK Normal, 10 victory points
+    * Async TI4 ([pbd4249](https://asyncti4.com/game/pbd4249){:target="_blank"})
+    * **Expansion Content**: :ti4-pok:
+    * **Game Modes**: 10 victory points
     * **Winning Path**: 4 stage 1s, 1 stage 2, 3 secrets, 0 supports, 1 custodian/imperial
 
     Round 5 Action Phase Win
@@ -94,8 +98,9 @@
 
     ---
 
-    * Async TI4 ([pbd4741](https://ti4.westaddisonheavyindustries.com/game/pbd4741){:target="_blank"})
-    * **Game Modes**: PoK Normal, 14 victory points
+    * Async TI4 ([pbd4741](https://asyncti4.com/game/pbd4741){:target="_blank"})
+    * **Expansion Content**: :ti4-pok:
+    * **Game Modes**: 14 victory points, no support swaps
     * **Winning Path**: 5 stage 1s, 1 stage 2, 3 secrets, 0 supports, 1 mutiny, 3 custodian/imperial
 
     Round 7 Action Phase Win
@@ -112,8 +117,10 @@
 
     ---
 
-    * Async TI4 ([pbd5408](https://ti4.westaddisonheavyindustries.com/game/pbd5408){:target="_blank"})
-    * **Game Modes**: PoK, Absol's agendas/relics/techs, 4 stage 1s/4 stage 2s/4 secret objectives (4/4/4), 12 victory points
+    * Async TI4 ([pbd5408](https://asyncti4.com/game/pbd5408){:target="_blank"})
+    * **Expansion Content**: :ti4-pok:
+    * **Mod Content**: Absol's agendas/relics/techs :ti4-absol:
+    * **Game Modes**: 4/4/4, 12 victory points, no support swaps
     * **Winning Path**: 2 stage 1s, 2 stage 2s, 4 secrets, 1 support, 1 crown of Emphidia
 
     Round 5 Agenda Phase Win
@@ -130,8 +137,10 @@
 
     ---
 
-    * Async TI4 ([pbd6200](https://ti4.westaddisonheavyindustries.com/game/pbd6200){:target="_blank"})
-    * **Game Modes**: PoK, Absol's agendas/relics/techs, 4/4/4, 12 victory points
+    * Async TI4 ([pbd6200](https://asyncti4.com/game/pbd6200){:target="_blank"})
+    * **Expansion Content**: :ti4-pok:
+    * **Mod Content**: Absol's agendas/relics/techs :ti4-absol:
+    * **Game Modes**: 4/4/4, 12 victory points, no support swaps
     * **Winning Path**: 4 stage 1s, 1 stage 2, 4 secrets, 1 support, 1 shard
 
     Round 5 Agenda Phase Win
@@ -149,8 +158,10 @@
 
     ---
 
-    * Async TI4 ([pbd8023](https://ti4.westaddisonheavyindustries.com/game/pbd8023){:target="_blank"})
-    * **Game Modes**: PoK, Discordant Stars, Absol's agendas/relics/techs, 4/4/4, 12 victory points
+    * Async TI4 ([pbd8023](https://asyncti4.com/game/pbd8023){:target="_blank"})
+    * **Expansion Content**: :ti4-pok:, :ti4-ds:
+    * **Mod Content**: Absol's agendas/relics/techs :ti4-absol:
+    * **Game Modes**: 4/4/4, 12 victory points, no support swaps
     * **Winning Path**: 5 stage 1s, 3 secrets, 1 public secret, 2 supports, 1 Ixthian Rex point
 
     Round 5 Action Phase Win (Turn 1)
@@ -167,8 +178,10 @@
 
     ---
 
-    * Async TI4 ([pbd8391](https://ti4.westaddisonheavyindustries.com/game/pbd8391){:target="_blank"})
-    * **Game Modes**: PoK, Discordant Stars, Absol's agendas/relics/techs, 4/4/4, 12 victory points
+    * Async TI4 ([pbd8391](https://asyncti4.com/game/pbd8391){:target="_blank"})
+    * **Expansion Content**: :ti4-pok:, :ti4-ds:
+    * **Mod Content**: Absol's agendas/relics/techs :ti4-absol:
+    * **Game Modes**: 4/4/4, 12 victory points, no support swaps
     * **Winning Path**: 3 stage 1s, 1 stage 2, 4 secrets, 1 public secret, 1 Custodian point, 2 Imperial points
 
     Round 5 Status Phase Win
@@ -184,8 +197,10 @@
 
     ---
 
-    * Async TI4 ([pbd9515](https://ti4.westaddisonheavyindustries.com/game/pbd9515){:target="_blank"})
-    * **Game Modes**: PoK, Discordant Stars, Absol's agendas/relics/techs, 4/4/4, 12 victory points
+    * Async TI4 ([pbd9515](https://asyncti4.com/game/pbd9515){:target="_blank"})
+    * **Expansion Content**: :ti4-pok:, :ti4-ds:
+    * **Mod Content**: Absol's agendas/relics/techs :ti4-absol:
+    * **Game Modes**: 4/4/4, 12 victory points, no support swaps
     * **Winning Path**: 3 stage 1s, 1 stage 2, 4 secrets, 3 supports
 
     Round 4 Status Phase Win
@@ -199,6 +214,28 @@
     | mscott              | :ti4-faction-base-creuss: Ghosts of Creuss     | 5         |
     | ben                 | :ti4-faction-ds-florzen: Florzen Profiteers    | 0         |
 
+-   ### **Game 11:** 2025.09.27 - TBD
+
+    ---
+
+    * Async TI4 ([pbd14059](https://asyncti4.com/game/pbd14059){:target="_blank"})
+    * **Expansion Content**: :ti4-pok:, :ti4-ds:
+    * **Mod Content**: Absol's agendas/relics
+    * **Galactic Events**: Hidden Agenda, Minor Factions
+    * **Game Modes**: 4/4/4, 12 victory points, no support swaps
+    * **Winning Path**: TBD
+
+    TBD
+
+    | Player        | Faction                                           | Total VPs |
+    | ------------- | ------------------------------------------------- | --------- |
+    | LAPDConvict   | :ti4-faction-ds-veldyr: Veldyr Sovreignty         |           |
+    | ben           | :ti4-faction-ds-freesystems: Free Systems Compact |           |
+    | hurripain     | :ti4-faction-base-arborec: Arborec                |           |
+    | Water         | :ti4-faction-base-saar: Clan of Saar              |           |
+    | mscott        | :ti4-faction-ds-ilyxum: Augurs of Ilyxum          |           |
+    | jtexp         | :ti4-faction-base-sol: Federation of Sol          |           |
+    | theMikeNIke76 | :ti4-faction-ds-ghoti: Ghoti Wayfarers            |           |
 </div>
 
 ## Alliance Games
@@ -222,8 +259,10 @@
 
     ---
 
-    * Async TI4 ([pbd10515](https://ti4.westaddisonheavyindustries.com/game/pbd10515){:target="_blank"})
-    * **Game Modes**: PoK, Discordant Stars, Absol's agendas/relics/techs, 4/4/4, 12+10 victory points
+    * Async TI4 ([pbd10515](https://asyncti4.com/game/pbd10515){:target="_blank"})
+    * **Expansion Content**: :ti4-pok:, :ti4-ds:
+    * **Mod Content**: Absol's agendas/relics/techs :ti4-absol:
+    * **Game Modes**: 4/4/4, 12+10 victory points
     * **Winning Path**: 
         * LAPDConvict - 2 stage 1s, 2 stage 2s, 3 secrets, 1 Custodians (10 VP)
         * mscott - 1 stage 1s, 3 stage 2s, 4 secrets, 1 Imperial (12 VP)
@@ -239,8 +278,11 @@
 
     ---
 
-    * Async TI4 ([pbd10515](https://ti4.westaddisonheavyindustries.com/game/pbd11756){:target="_blank"})
-    * **Game Modes**: PoK, Discordant Stars, Alliance Mode, Total War, Absol's agendas/relics/techs, 4/4/4, 14+12 victory points
+    * Async TI4 ([pbd10515](https://asyncti4.com/game/pbd11756){:target="_blank"})
+    * **Expansion Content**: :ti4-pok:, :ti4-ds:
+    * **Mod Content**: Absol's agendas/relics/techs :ti4-absol:
+    * **Game Modes**: 4/4/4, 14+12 victory points
+    * **Galactic Events**: Total War
     * **Winning Path**: 
         * jtexp - 3 stage 1s, 2 stage 2s, 2 secrets, 1 Imperial, 4 Total War
         * Water - 3 stage 1s, 1 stage 2, 1 secret, 1 Support (scruffy), 5 Total War

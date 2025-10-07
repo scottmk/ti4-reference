@@ -1,3 +1,4 @@
+*[4/4/4]: Game mode with 4 Stage I objectives, 4 Stage II objectives, and a Secret Objective maximum of 4 for all players
 *[Asteroid Field]: A ship cannot move through or into an asteroid field.
 *[asteroid field]: A ship cannot move through or into an asteroid field.
 *[Asteroid Fields]: A ship cannot move through or into an asteroid field.

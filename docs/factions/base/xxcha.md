@@ -98,7 +98,11 @@ toc_depth: 2
 
     ---
 
-    --8<-- "snippets/leaders/base/xxcha-hero.md"
+    === "Codex :ti4-codex: Ω"
+        --8<-- "snippets/leaders/base/xxcha-hero.md"
+
+    === "_Thunder's Edge_ :ti4-te: ΩΩ"
+        --8<-- "snippets/leaders/base/xxcha-hero-te.md"
 
 - ## __Breakthrough__ :ti4-te:
 

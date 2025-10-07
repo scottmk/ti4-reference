@@ -6,4 +6,4 @@ Requirements: :ti4-tech-warfare: :ti4-tech-warfare:
 
 <span style="font-variant:small-caps;">Anti-Fighter Barrage</span> ?(x?)
 
-_Coming soon._
+At the end of any player's combat in this unit's system or up to 2 systems away, you may place 1 inactive breach in that system.

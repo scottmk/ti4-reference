@@ -1,6 +1,6 @@
 ### Domna :ti4-ds:
 
-:ti4-planets-resources-2: :ti4-planets-influence-1: :ti4-planets-hazardous: __|__ Nebula
+:ti4-planets-resources-2: :ti4-planets-influence-1: __|__ :ti4-planets-hazardous: __|__ Nebula
 
 *Buried deep in the heart of a stellar nursery, many vessels lost in the surrounding space have been found across the galaxy without explanation.*
 

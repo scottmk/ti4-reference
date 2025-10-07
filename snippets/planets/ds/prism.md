@@ -1,6 +1,6 @@
 ### Prism :ti4-ds:
 
-:ti4-planets-resources-0: :ti4-planets-influence-3: :ti4-planets-industrial:
+:ti4-planets-resources-0: :ti4-planets-influence-3: __|__ :ti4-planets-industrial:
 
 *Harboring the Library of an ancient emperor, the local population tell cryptic stories of a malevolent trickster spirit.*
 

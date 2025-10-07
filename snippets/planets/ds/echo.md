@@ -1,6 +1,6 @@
 ### Echo :ti4-ds:
 
-:ti4-planets-resources-1: :ti4-planets-influence-2: :ti4-planets-hazardous:
+:ti4-planets-resources-1: :ti4-planets-influence-2: __|__ :ti4-planets-hazardous:
 
 *The local population of this obscure world, alone, retain the skill and knowledge to safely operate the ancient, sorcerous installations dotting its surface.*
 

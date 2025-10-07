@@ -1,6 +1,6 @@
 ### Emelpar :ti4-te:
 
-? / ? ?
+:ti4-planets-resources-0: :ti4-planets-influence-2: __|__ :ti4-planets-cultural:
 
 _Coming soon_
 
@@ -10,4 +10,4 @@ You may exhaust this card at the end of your turn to ready another component tha
 
 ---
 
-*Grandeur unrivaled, yet nothing but grandeur remains.*
+_Grandeur unrivaled, yet nothing but grandeur remains._

@@ -1,6 +1,6 @@
 ### Tarrock :ti4-ds:
 
-:ti4-planets-resources-3: :ti4-planets-influence-0: :ti4-planets-industrial:
+:ti4-planets-resources-3: :ti4-planets-influence-0: __|__ :ti4-planets-industrial:
 
 *An unusually geothermally active surface makes this planet the ideal destination for anything the council would prefer disappeared.*
 

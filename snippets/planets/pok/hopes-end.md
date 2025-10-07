@@ -1,6 +1,6 @@
 ### Hope's End :ti4-pok:
 
-:ti4-planets-resources-3: :ti4-planets-influence-0: :ti4-planets-hazardous:
+:ti4-planets-resources-3: :ti4-planets-influence-0: __|__ :ti4-planets-hazardous:
 
 *Buried in the Ichal Nebula.
 The Lazax used the toxic wildlife and fierce aurora storms to train their troops.

@@ -1,6 +1,6 @@
 ### Avernus :ti4-te:
 
-:ti4-planets-resources-2: :ti4-planets-influence-0: :ti4-planets-hazardous:
+:ti4-planets-resources-2: :ti4-planets-influence-0: __|__ :ti4-planets-hazardous: __|__ :ti4-faction-base-muaat:
 
 _Coming soon._
 
@@ -10,4 +10,4 @@ _Coming soon._
 
 ---
 
-*Gashlai energy/matter conversion has many uses.*
+_Gashlai energy/matter conversion has many uses._

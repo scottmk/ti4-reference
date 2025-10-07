@@ -1,6 +1,6 @@
 ### Silence :ti4-ds:
 
-:ti4-planets-resources-2: :ti4-planets-influence-2: :ti4-planets-industrial:
+:ti4-planets-resources-2: :ti4-planets-influence-2: __|__ :ti4-planets-industrial:
 
 *A barren rock distantly orbitting a small red star and home to a forgotten boneyard where countless rows of decommissioned ships rest forlorn and forgotten.*
 

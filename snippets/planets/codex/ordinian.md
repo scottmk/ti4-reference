@@ -1,6 +1,6 @@
 ### Ordinian (Liberation of Ordinian) :ti4-codex:
 
-:ti4-planets-resources-0: :ti4-planets-influence-0:  __|__ Nebula
+:ti4-planets-resources-0: :ti4-planets-influence-0: __|__ :ti4-faction-codex-salientsun: __|__ Nebula
 
 *The Nekro Virus consumed this former Naaz-Rokha colony virtually down to its bedrock. Restoration efforts have only begun to restore its ravaged biosphere.*
 

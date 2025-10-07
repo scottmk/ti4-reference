@@ -2,10 +2,10 @@
 
 :ti4-planets-resources-2: :ti4-planets-influence-3:
 
-*Custodia Vigilia. 
+_Custodia Vigilia. 
 The fully realized seat of the Keleres.
 A veritable fortress in the heart of Mecatol City.
-Ten thousand people come and go daily, and the Keleres see them all.*
+Ten thousand people come and go daily, and the Keleres see them all._
 
 #### Legendary Text
 

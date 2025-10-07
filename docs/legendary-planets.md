@@ -49,7 +49,23 @@ toc_depth: 3
 
 -   
 
+    --8<-- "snippets/planets/te/custodia-vigilia.md"
+
+-   
+
     --8<-- "snippets/planets/te/emelpar.md"
+
+-   
+
+    --8<-- "snippets/planets/te/faunus.md"
+
+-   
+
+    --8<-- "snippets/planets/te/garbozia.md"
+
+-   
+
+    --8<-- "snippets/planets/te/industrex.md"
 
 -   
 
@@ -58,6 +74,10 @@ toc_depth: 3
 -   
 
     --8<-- "snippets/planets/te/ordinian.md"
+
+-   
+
+    --8<-- "snippets/planets/te/tempesta.md"
 
 -   
 

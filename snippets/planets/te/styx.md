@@ -1,6 +1,6 @@
 ### Styx :ti4-te:
 
-:ti4-planets-resources-4: :ti4-planets-influence-0: (Gain Relic)
+:ti4-planets-resources-4: :ti4-planets-influence-0: __|__ Gain Relic
 
 #### A Song Like Marrow
 

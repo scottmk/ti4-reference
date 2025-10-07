@@ -1,6 +1,6 @@
 ### Ghoti :ti4-ds:
 
-:ti4-planets-resources-3: :ti4-planets-influence-3: :ti4-faction-ds-ghoti:
+:ti4-planets-resources-3: :ti4-planets-influence-3: __|__ :ti4-faction-ds-ghoti:
 
 *The Wayfarer's [sic] is not known, though some who meet all the All-Mother later describe visions of swirling lights in an impossibly deep sea.*
 

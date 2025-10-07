@@ -1,6 +1,6 @@
 ### :ti4-faction-codex-redcreuss: **Crimson Rebellion (Liberation of Ordinian) Alliance** 
 
-#### Unknown - _Wistful Soul_
+#### Unknown - _Wistful Soul_ <sup><sub>:ti4-codex:</sub></sup>
 
 At the end of a combat between any players:
 

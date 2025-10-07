@@ -1,4 +1,4 @@
-### :ti4-faction-base-naalu: $1: $2 – $3 :ti4-codex:
+### :ti4-faction-base-naalu: **Agent**: Z'eu Ω – _Agent of the Nefishh_ :ti4-codex:
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 

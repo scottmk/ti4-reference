@@ -15,16 +15,16 @@ toc_depth: 2
     ---
 
     === "Mentak Tribunii"
-        * Moll Primus :ti4-planets-resources-4: :ti4-planets-influence-1:
+        * Moll Primus :ti4-planets-resources-4: :ti4-planets-influence-1: __|__ :ti4-faction-base-mentak:
 
     === "Xxcha Tribunii"
-        * Archon Ren :ti4-planets-resources-2: :ti4-planets-influence-3:
-        * Archon Tau :ti4-planets-resources-1: :ti4-planets-influence-1:
+        * Archon Ren :ti4-planets-resources-2: :ti4-planets-influence-3: __|__ :ti4-faction-base-xxcha:
+        * Archon Tau :ti4-planets-resources-1: :ti4-planets-influence-1: __|__ :ti4-faction-base-xxcha:
 
     === "Argent Tribunii"
-        * Valk :ti4-planets-resources-2: :ti4-planets-influence-0:
-        * Avar :ti4-planets-resources-1: :ti4-planets-influence-1:
-        * Ylir :ti4-planets-resources-0: :ti4-planets-influence-2:
+        * Valk :ti4-planets-resources-2: :ti4-planets-influence-0: __|__ :ti4-faction-pok-argent:
+        * Avar :ti4-planets-resources-1: :ti4-planets-influence-1: __|__ :ti4-faction-pok-argent:
+        * Ylir :ti4-planets-resources-0: :ti4-planets-influence-2: __|__ :ti4-faction-pok-argent:
     * Commodities: 2
 
 </div>

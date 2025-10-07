@@ -142,7 +142,7 @@
     | theMikeNIke76   | :ti4-faction-base-nekro: Nekro Virus              | 11        |
     | LAPDConvict     | :ti4-faction-base-jolnar: Universities of Jol-Nar | 11        |
     | hurripain       | :ti4-faction-pok-naaz: Naaz-Rokha Alliance        | 10        |
-    | mscott          | :ti4-faction-base-norr: Sardakk N'orr          | 7         |
+    | mscott          | :ti4-faction-base-norr: Sardakk N'orr             | 7         |
     | patthepineapple | :ti4-faction-pok-cabal: Vuil'Raith Cabal          | 5         |
     
 -   ### **Game 8:** 2025.02.19 - 2025.04.17
@@ -330,11 +330,11 @@
 
     _Score 6 VP in one game round_
 
-    | Player  | Faction                                    | Game                                                                   |
-    | ------- | ------------------------------------------ | ---------------------------------------------------------------------- |
-    | scruffy | :ti4-faction-base-yssaril: Yssaril Tribes  | [Game 7](bounce-house.md#game-7-20241119-20250215)                     |
-    | jtexp   | :ti4-faction-pok-naaz: Naaz-Rokha Alliance | [Alliance Game 2](bounce-house.md#alliance-game-2-20250716---20250923) |
-    | Water   | :ti4-faction-ds-cymiae: Savages of Cymiae  | [Alliance Game 2](bounce-house.md#alliance-game-2-20250716---20250923) |
+    | Player  | Faction                                    | Game                                                                 |
+    | ------- | ------------------------------------------ | -------------------------------------------------------------------- |
+    | scruffy | :ti4-faction-base-yssaril: Yssaril Tribes  | [Game 7](bounce-house.md#game-7-20241119-20250215)                   |
+    | jtexp   | :ti4-faction-pok-naaz: Naaz-Rokha Alliance | [Alliance Game 2](bounce-house.md#alliance-game-2-20250716-20250923) |
+    | Water   | :ti4-faction-ds-cymiae: Savages of Cymiae  | [Alliance Game 2](bounce-house.md#alliance-game-2-20250716-20250923) |
 
 -   ### Not-Very-Secret Objective
 
@@ -388,8 +388,8 @@
 
     _Lose 35 resources worth of units in one combat_
 
-    | Player    | Faction                                                       | Game                                                                   |
-    | --------- | ------------------------------------------------------------- | ---------------------------------------------------------------------- |
+    | Player    | Faction                                                          | Game                                                                   |
+    | --------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- |
     | jtexp     | :ti4-faction-pok-naaz: Naaz-Rokha Alliance<br>(45 resources)     | [Alliance Game 2](bounce-house.md#alliance-game-2-20250716---20250923) |
     | hurripain | :ti4-faction-ds-rohdhna: Roh'Dhna Mechatronics<br>(43 resources) | [Alliance Game 2](bounce-house.md#alliance-game-2-20250716---20250923) |
 

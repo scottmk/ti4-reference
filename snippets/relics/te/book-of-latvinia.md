@@ -1,4 +1,4 @@
-### **Book of Latvinia** :ti4-codex:
+### **Book of Latvinia** :ti4-codex: :ti4-te:
 
 When you gain this card, research up to 2 technologies that have no prerequisites.
 
@@ -7,4 +7,4 @@ Otherwise, gain the speaker token.
 
 ---
 
-*A collector's item of incalculable value, none have been able to unlock its secrets - assuming its contents aren't just the ravings of a madwoman.*
+_A collector's item of incalculable value, none have been able to unlock its secrets—assuming its contents aren't just the ravings of a madwoman._

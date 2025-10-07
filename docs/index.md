@@ -24,6 +24,7 @@ It also includes references for the [_Discordant Stars_ fan expansion](https://t
 * Added Xxcha's new hero from _Thunder's Edge_
 * Added _Thunder's Edge_ version of [Council Keleres](factions/te/keleres.md)
 * Added remaining _Thunder's Edge_ legendary planets
+* Added remaining _Thunder's Edge_ relics
 
 ### **29 Sep 25**
 * Added remaining DS promissory notes for quick reference

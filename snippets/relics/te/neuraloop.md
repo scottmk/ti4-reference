@@ -1,4 +1,4 @@
-### **Neuraloop** :ti4-codex:
+### **Neuraloop** :ti4-codex: :ti4-te:
 
 When a public objective is revealed, you may purge one of your relics to discard that objective and replace it with a random objective from any objective deck; that objective is a public objective, even if it is a secret objective.
 

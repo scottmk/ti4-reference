@@ -168,19 +168,50 @@ toc_depth: 2
 
     </div>
 
+## Thunder's Edge :ti4-te:
+
 <div class="grid cards" markdown>
 
 -   
 
-    --8<-- "snippets/relics/codex/book-of-latvinia.md"
+    --8<-- "snippets/relics/te/book-of-latvinia.md"
 
 -   
 
-    --8<-- "snippets/relics/codex/circlet-of-the-void.md"
+    --8<-- "snippets/relics/te/circlet-of-the-void.md"
 
 -   
 
-    --8<-- "snippets/relics/codex/neuraloop.md"
+    --8<-- "snippets/relics/te/heart-of-ixth.md"
+
+-   
+
+    --8<-- "snippets/relics/te/lightrail-ordnance.md"
+
+-   
+
+    --8<-- "snippets/relics/te/metali-void-armaments.md"
+
+-   
+
+    --8<-- "snippets/relics/te/metali-void-shielding.md"
+
+-   
+
+    --8<-- "snippets/relics/te/neuraloop.md"
+
+-   
+
+    --8<-- "snippets/relics/te/the-quantumcore.md"
+
+-   
+
+    --8<-- "snippets/relics/te/the-silver-flame.md"
+
+-   
+
+    --8<-- "snippets/relics/te/the-triad.md"
+
 </div>
 
 ## Discordant Stars :ti4-ds:

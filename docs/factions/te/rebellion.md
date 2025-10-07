@@ -4,6 +4,13 @@ toc_depth: 2
 
 # :ti4-faction-te-rebellion: Crimson Rebellion :ti4-te:
 
+_"Whatever afflicts them, it is beyond my experience.
+Pain unending.
+Rage consuming.
+Hope unknowing."_
+
+_—Ahk-Syl Siven_
+
 <div class="grid cards" markdown>
 
 -   ## __Home System__

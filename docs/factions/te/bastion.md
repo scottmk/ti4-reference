@@ -4,6 +4,13 @@ toc_depth: 2
 
 # :ti4-faction-te-bastion: Last Bastion :ti4-te:
 
+_"There is no sacrifice I would not make to see this through.
+No choice but forward, no option but victory.
+Go.
+We will handle this."_
+
+_—Lyra Keen, Shield of the Reef_
+
 <div class="grid cards" markdown>
 
 -   ## __Home System__

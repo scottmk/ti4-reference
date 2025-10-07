@@ -9,9 +9,9 @@ toc_depth: 2
     
     If you are looking for the latest version of this faction, please see the [_Thunder's Edge_ Council Keleres page](../te/keleres.md).
 
-*"Our duty is to protect the billions of people in our galaxy, not the few hundred in these Council Chambers."*
+_"Our duty is to protect the billions of people in our galaxy, not the few hundred in these Council Chambers."_
 
-*–Tribunii Harka Leeds*
+_—Tribunii Harka Leeds_
 
 === "Unmodded"
 === "Absol's Mod :ti4-absol:" 

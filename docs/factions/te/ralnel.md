@@ -4,6 +4,11 @@ toc_depth: 2
 
 # :ti4-faction-te-ralnel: Ral Nel Consortium :ti4-te:
 
+_"The great web of obligation binds us all as surely as gravity.
+Those who would cheat us would cheat the galaxy of its right to exist."_
+
+_—Actuary General "Watchful" Ojz_
+
 <div class="grid cards" markdown>
 
 -   ## __Home System__

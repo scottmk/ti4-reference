@@ -4,6 +4,14 @@ toc_depth: 2
 
 # :ti4-faction-te-deepwrought: Deepwrought Scholarate :ti4-te:
 
+_~Together~sing~one~together~_
+
+_~sing~deep~together~ends~suffering~_
+
+_~life~triumphs~death~_
+
+_—Aello, Kieros_
+
 <div class="grid cards" markdown>
 
 -   ## __Home System__

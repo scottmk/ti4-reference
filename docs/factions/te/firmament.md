@@ -5,8 +5,18 @@ toc_depth: 2
 === "Firmament"
     # :ti4-faction-te-firmament: The Firmament :ti4-te:
 
+    _"Asking 'who should rule us?' is overlooking a more important question: 'why have rulers at all?'"_
+
+    _—Sharsiss of Druaa_
+
 === "Obsidian"
     # :ti4-faction-te-obsidian: The Obsidian :ti4-te:
+
+    _"This is the nightmare scenario.
+    Case midnight omega.
+    Mayday mayday mayday."_
+
+    _—Keleres Agent Niall, final report_
 
 <div class="grid cards" markdown>
 

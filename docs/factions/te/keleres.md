@@ -4,9 +4,9 @@ toc_depth: 2
 
 # :ti4-faction-te-keleres: Council Keleres :ti4-te:
 
-*"Our duty is to protect the billions of people in our galaxy, not the few hundred in these Council Chambers."*
+_"Our duty is to protect the billions of people in our galaxy, not the few hundred in these Council Chambers."_
 
-*–Tribunii Harka Leeds*
+_—Tribunii Harka Leeds_
 
 <div class="grid cards" markdown>
 

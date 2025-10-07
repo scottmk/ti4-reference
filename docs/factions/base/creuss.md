@@ -106,7 +106,7 @@ toc_depth: 2
 - ## __Breakthrough__ :ti4-te:
 
     ---
-    --8<-- "snippets/breakthroughs/base/creuss-.md"
+    --8<-- "snippets/breakthroughs/base/creuss-particle-synthesis.md"
 
 
 -   ## __Faction Promissory Note__

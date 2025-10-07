@@ -102,6 +102,11 @@ toc_depth: 2
 
     --8<-- "snippets/leaders/pok/empyrean-hero.md"
 
+- ## __Breakthrough__ :ti4-te:
+
+    ---
+    --8<-- "snippets/breakthroughs/pok/empyrean-void-tether.md"
+
 </div>
 
 ## __Faction Promissory Notes__

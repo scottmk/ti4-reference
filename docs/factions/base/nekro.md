@@ -101,6 +101,11 @@ toc_depth: 2
 
     --8<-- "snippets/leaders/base/nekro-hero.md"
 
+- ## __Breakthrough__ :ti4-te:
+
+    ---
+    --8<-- "snippets/breakthroughs/base/nekro-valefar-assimilator-z.md"
+
 -   ## __Faction Promissory Note__
 
     ---

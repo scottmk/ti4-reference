@@ -119,6 +119,11 @@ toc_depth: 2
 
     --8<-- "snippets/leaders/pok/titans-hero.md"
 
+- ## __Breakthrough__ :ti4-te:
+
+    ---
+    --8<-- "snippets/breakthroughs/pok/titans-slumberstate-computing.md"
+
 -   ## __Faction Promissory Note__
 
     ---

@@ -116,6 +116,11 @@ toc_depth: 2
 
     --8<-- "snippets/leaders/base/jolnar-hero.md"
 
+- ## __Breakthrough__ :ti4-te:
+
+    ---
+    --8<-- "snippets/breakthroughs/base/jolnar-specialized-compounds.md"
+
 -   ## __Faction Promissory Note__
 
     ---

@@ -126,6 +126,11 @@ toc_depth: 2
 
     --8<-- "snippets/leaders/pok/argent-hero.md"
 
+- ## __Breakthrough__ :ti4-te:
+
+    ---
+    --8<-- "snippets/breakthroughs/pok/argent-wing-transfer.md"
+
 -   ## __Faction Promissory Note__
 
     ---

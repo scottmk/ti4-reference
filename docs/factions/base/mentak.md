@@ -100,6 +100,11 @@ toc_depth: 2
 
     --8<-- "snippets/leaders/base/mentak-hero.md"
 
+- ## __Breakthrough__ :ti4-te:
+
+    ---
+    --8<-- "snippets/breakthroughs/base/mentak-the-tables-grace.md"
+
 -   ## __Faction Promissory Note__
 
     ---

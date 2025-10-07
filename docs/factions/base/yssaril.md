@@ -104,6 +104,11 @@ toc_depth: 2
 
     --8<-- "snippets/leaders/base/yssaril-hero.md"
 
+- ## __Breakthrough__ :ti4-te:
+
+    ---
+    --8<-- "snippets/breakthroughs/base/yssaril-deepgloom-executable.md"
+
 -   ## __Faction Promissory Note__
 
     ---

@@ -103,6 +103,11 @@ toc_depth: 2
 
     --8<-- "snippets/leaders/pok/nomad-hero.md"
 
+- ## __Breakthrough__ :ti4-te:
+
+    ---
+    --8<-- "snippets/breakthroughs/pok/nomad-thunders-paradox.md"
+
 -   ## __Faction Promissory Note__
 
     ---

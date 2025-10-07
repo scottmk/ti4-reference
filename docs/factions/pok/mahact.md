@@ -116,6 +116,11 @@ toc_depth: 2
 
     --8<-- "snippets/leaders/pok/mahact-hero.md"
 
+- ## __Breakthrough__ :ti4-te:
+
+    ---
+    --8<-- "snippets/breakthroughs/pok/mahact-vaults-of-the-heir.md"
+
 -   ## __Faction Promissory Note__
 
     ---

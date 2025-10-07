@@ -3,10 +3,112 @@ hide:
   - toc
 ---
 
-Taken from [TI4 Adjutant by Alexandre Coderre-Chabot](https://acodcha.github.io/ti4-adjutant/):
+## Game Setup
 
-![](https://acodcha.github.io/ti4-adjutant/files/rules_summary_light.svg#only-light)
-![](https://acodcha.github.io/ti4-adjutant/files/rules_summary_dark.svg#only-dark)
+[See LRR "Complete Setup"](https://images-cdn.fantasyflightgames.com/filer_public/51/55/51552c7f-c05c-445b-84bf-4b073456d008/ti10_pok_living_rules_reference_20_web.pdf).
+
+1. Decide how to 
+    * setup the galaxy, 
+    * choose factions, and
+    * pick the Speaker
+1. Set up public objectives according to the rules of your game (typically, 5 Stage Is and 5 Stage IIs)
+1. Gain starting units, technologies, and other faction components
+1. Gain 3 tactics tokens, 3 fleet tokens, and 2 strategy tokens
+1. Everyone draws 2 secret objectives and discards 1
+1. The Speaker reveals 2 Stage I public objectives
+
+## Game Round
+
+### Strategy Phase
+
+[See LRR 82](https://images-cdn.fantasyflightgames.com/filer_public/51/55/51552c7f-c05c-445b-84bf-4b073456d008/ti10_pok_living_rules_reference_20_web.pdf).
+
+1. Starting with the speaker and proceeding clockwise, each player chooses one strategy card from the common play area and places it faceup in their play area.
+    1. Repeat this process if playing with 4 or fewer players.
+1. The speaker places one trade good token from the supply on each strategy card that was not chosen.
+
+
+### Action Phase
+
+[See LRR 3](https://images-cdn.fantasyflightgames.com/filer_public/51/55/51552c7f-c05c-445b-84bf-4b073456d008/ti10_pok_living_rules_reference_20_web.pdf).
+
+Each player takes a turn in initiative order, determined by your chosen strategy card.
+During a player's turn, they perform a single action. 
+After each player has taken a turn, player turns begin again in initiative order.
+This process continues until all players have passed.
+
+There are three types of actions: tactical actions, strategic actions, and component actions.
+
+#### Tactical Action
+
+[See LRR 89](https://images-cdn.fantasyflightgames.com/filer_public/51/55/51552c7f-c05c-445b-84bf-4b073456d008/ti10_pok_living_rules_reference_20_web.pdf).
+
+1. Activate a system on the board using a command token from your tactics pool
+2. Movement
+    1. Move ships
+    1. <span style="font-variant:small-caps;">Space Cannon<span style="font-variant:small-caps;"> Offense
+3. Space Combat 
+    1. (First round only) <span style="font-variant:small-caps;">Anti-Fighter Barrage</span>
+    1. Announce retreats
+    1. Roll dice
+    1. Assign hits
+    1. Retreat
+    1. Repeat until at least one player has no ships remaining in the active system
+4. Invasion
+    1. <span style="font-variant:small-caps;">Bombardment</span>
+    1. Commit ground forces
+    1. <span style="font-variant:small-caps;">Space Cannon</span> Defense
+    1. Ground Combat with the player who controls the planet
+        1. Roll dice
+        1. Assign hits
+        1. Repeat until the controlling player has no more ground forces
+    1. Remove all units from the controlling player and establish control
+        1. Decide if you would like to engage coexisting players in ground combat
+    1. Explore if unexplored
+5. <span style="font-variant:small-caps;">Production</span>
+
+#### Strategic Action
+
+[See LRR 82](https://images-cdn.fantasyflightgames.com/filer_public/51/55/51552c7f-c05c-445b-84bf-4b073456d008/ti10_pok_living_rules_reference_20_web.pdf).
+
+1. Resolve the primary ability on your strategy card
+1. Each other player, beginning with the player to the left of the active player and proceeding clockwise, may resolve that strategy card's secondary ability
+1. Exhaust your strategy card; you may now pass on future turns
+
+#### Component Action
+
+[See LRR 22](https://images-cdn.fantasyflightgames.com/filer_public/51/55/51552c7f-c05c-445b-84bf-4b073456d008/ti10_pok_living_rules_reference_20_web.pdf).
+
+Component actions can be found on various game components, including action cards, technology cards, leaders, exploration cards, relics, promissory notes, and faction sheets.
+Each component action is indicated by an <span style="font-variant:small-caps;">Action</span> header.
+
+To perform a component action, a player reads the action's text and follows the instructions as described.
+
+### Status Phase
+
+[See LRR 22](https://images-cdn.fantasyflightgames.com/filer_public/51/55/51552c7f-c05c-445b-84bf-4b073456d008/ti10_pok_living_rules_reference_20_web.pdf).
+
+1. Score up to 1 public objective and up to 1 status phase secret objective
+    1. The game ends immediately when someone has reached the target Victory Point score, no matter what phase
+    1. Ties are broken by initiative
+1. The Speaker reveals the next public objective
+    1. Reveal only Stage I public objectives until you have revealed them all; then, reveal Stage II public objectives
+1. Draw 1 action card
+1. Remove all command tokens from the board
+1. Gain 2 command tokens and redistribute your command tokens
+1. Ready all cards
+1. Repair all units
+1. Return your strategy card
+
+### Agenda Phase
+
+[See LRR 8](https://images-cdn.fantasyflightgames.com/filer_public/51/55/51552c7f-c05c-445b-84bf-4b073456d008/ti10_pok_living_rules_reference_20_web.pdf).
+
+1. Draw an agenda
+    1. Starting with the player left of the Speaker, each player exhausts planets to spend influence as votes
+    1. Resolve the outcome for the agenda
+    1. Repeat this process until two agenda have been resolved
+1. Ready all planet cards
 
 ## Strategy Cards
 
@@ -56,17 +158,30 @@ Taken from [TI4 Adjutant by Alexandre Coderre-Chabot](https://acodcha.github.io/
 
 -   :fontawesome-solid-4: __Construction__
     { .construction-card}
+    
+    === "Base/PoK :ti4-pok:"
+        ---
+        **Primary**: 
 
-    ---
-    **Primary**: 
+        * Place 1 PDS or 1 Space Dock on a planet you control.
+        * Place 1 PDS on a planet you control.
 
-    * Place 1 PDS or 1 Space Dock on a planet you control.
-    * Place 1 PDS on a planet you control.
+        ---
+        **Secondary**:
 
-    ---
-    **Secondary**:
+        * Spend 1 token from your strategy pool and place it in any system; you may place either 1 space dock or 1 PDS on a planet you control in that system.
 
-    * Spend 1 token from your strategy pool and place it in any system; you may place either 1 space dock or 1 PDS on a planet you control in that system.
+    === "Thunder's Edge :ti4-te:"
+        ---
+        **Primary**: 
+
+        * Either place 1 structure on a planet you control, or use the <span style="font-variant:small-caps;">Production</span> ability of 1 of your space docks.
+        * Place 1 structure on a planet you control.
+
+        ---
+        **Secondary**:
+
+        * Spend 1 token from your strategy pool to place 1 structure on a planet you control.
 
 -   :fontawesome-solid-5: __Trade__
     { .trade-card}
@@ -86,17 +201,31 @@ Taken from [TI4 Adjutant by Alexandre Coderre-Chabot](https://acodcha.github.io/
 -   :fontawesome-solid-6: __Warfare__
     { .warfare-card}
 
-    ---
-    **Primary**: 
+    === "Base/PoK :ti4-pok:"
+        ---
+        **Primary**: 
 
-    * Remove 1 of your command tokens from the game board; then, gain 1 command token.
-    * Redistribute any number of the command tokens on your command sheet.
+        * Remove 1 of your command tokens from the game board; then, gain 1 command token.
+        * Redistribute any number of the command tokens on your command sheet.
 
-    ---
-    **Secondary**:
+        ---
+        **Secondary**:
 
-    * Spend 1 token from your strategy pool to use the <span style="font-variant:small-caps;">Production</span> ability of 1 of your space docks in your home system.
+        * Spend 1 token from your strategy pool to use the <span style="font-variant:small-caps;">Production</span> ability of 1 of your space docks in your home system.
 
+    === "Thunder's Edge :ti4-te:"
+        ---
+        **Primary**: 
+
+        * Perform a tactical action in any system without placing a command token, even if the system already has your command token in it; that system still counts as being activated. You may redistribute your command tokens before and after this action.
+
+        ---
+        **Secondary**:
+
+        * Spend 1 token from your strategy pool to use the <span style="font-variant:small-caps;">Production</span> abilities of the units in your home system.
+
+</div>
+<div markdown class="grid cards">
 -   :fontawesome-solid-7: __Technology__
     { .technology-card}
 

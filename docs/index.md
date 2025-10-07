@@ -25,6 +25,7 @@ It also includes references for the [_Discordant Stars_ fan expansion](https://t
 * Added _Thunder's Edge_ version of [Council Keleres](factions/te/keleres.md)
 * Added remaining _Thunder's Edge_ legendary planets
 * Added remaining _Thunder's Edge_ relics
+* Added remaining Ral Nel Consortium info
 
 ### **29 Sep 25**
 * Added remaining DS promissory notes for quick reference

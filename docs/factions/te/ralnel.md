@@ -10,7 +10,8 @@ toc_depth: 2
 
     ---
 
-    * TBA :material-help:
+    * Mez Lo Orz Pei Zsha: :ti4-planets-resources-2: :ti4-planets-influence-1:
+    * Rep Lo Orz Oet: :ti4-planets-resources-1: :ti4-planets-influence-3:
     * Commodities: 4
 
 </div>
@@ -21,18 +22,23 @@ toc_depth: 2
 
     ---
 
-    * TBA
+    * :ti4-unit-dreadnought:
+    * :ti4-unit-carrier:
+    * :ti4-unit-destroyer:
+    * :ti4-unit-fighter::ti4-unit-fighter:
 
 -   ## __Starting Ground Units__
 
     ---
 
-    * TBA
+    * :ti4-unit-infantry::ti4-unit-infantry::ti4-unit-infantry::ti4-unit-infantry:
+    * :ti4-unit-spacedock:
+    * :ti4-unit-pds::ti4-unit-pds:
 
 -   ## __Starting Technologies__
 
     ---
-    TBA
+    Choose 1 :ti4-tech-warfare: <span style="color:red">**red**</span> or 1 :ti4-tech-biotic: <span style="color:green">**green**</span> technology with no prerequisites
 
 -   ## __Faction Abilities__
 

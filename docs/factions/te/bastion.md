@@ -15,7 +15,7 @@ toc_depth: 2
     ---
 
     ### Revelation 
-    :ti4-planets-resources-1: :ti4-planets-influence-2: __|__ Trade Station
+    :ti4-planets-resources-1: :ti4-planets-influence-2: __|__ Space Station
 
     --- 
 

@@ -38,7 +38,11 @@
 *[supernova]: A ship cannot move through or into a supernova.
 *[Supernovae]: A ship cannot move through or into a supernova.
 *[supernovae]: A ship cannot move through or into a supernova.
-*[Trade Station]: TBA
-*[trade station]: TBA
-*[Trade Stations]: TBA
-*[trade stations]: TBA
+*[Synergy]: Whenever you are researching technology or scoring technology-related objectives, you can treat the technology colors on your breakthrough as either of the two for the purpose of fulfilling requirements (but not both)
+*[synergy]: Whenever you are researching technology or scoring technology-related objectives, you can treat the technology colors on your breakthrough as either of the two for the purpose of fulfilling requirements (but not both)
+*[Synergies]: Whenever you are researching technology or scoring technology-related objectives, you can treat the technology colors on your breakthrough as either of the two for the purpose of fulfilling requirements (but not both)
+*[synergies]: Whenever you are researching technology or scoring technology-related objectives, you can treat the technology colors on your breakthrough as either of the two for the purpose of fulfilling requirements (but not both)
+*[Space Station]: Space Stations appear on system tiles like planets, but they are not planets. They have planet cards with resources and influence that can be spent like planets, but they can not be exhausted for votes on agendas. Space stations cannot have units, and they are controlled by having ships in the space area of their system. Space stations grant +1 max commodities to the controlling player, and can also be exhausted to convert commodities into trade goods.
+*[space station]: Space Stations appear on system tiles like planets, but they are not planets. They have planet cards with resources and influence that can be spent like planets, but they can not be exhausted for votes on agendas. Space stations cannot have units, and they are controlled by having ships in the space area of their system. Space stations grant +1 max commodities to the controlling player, and can also be exhausted to convert commodities into trade goods.
+*[Space Stations]: Space Stations appear on system tiles like planets, but they are not planets. They have planet cards with resources and influence that can be spent like planets, but they can not be exhausted for votes on agendas. Space stations cannot have units, and they are controlled by having ships in the space area of their system. Space stations grant +1 max commodities to the controlling player, and can also be exhausted to convert commodities into trade goods.
+*[space stations]: Space Stations appear on system tiles like planets, but they are not planets. They have planet cards with resources and influence that can be spent like planets, but they can not be exhausted for votes on agendas. Space stations cannot have units, and they are controlled by having ships in the space area of their system. Space stations grant +1 max commodities to the controlling player, and can also be exhausted to convert commodities into trade goods.

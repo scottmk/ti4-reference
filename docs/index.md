@@ -19,6 +19,12 @@ It also includes references for the [_Discordant Stars_ fan expansion](https://t
 
 ## Changelog
 
+### **16 Oct 25**
+* Added _Twilight's Fall_ section
+    * Added all the [Mad Mahact Kings](twilights-fall/mad-mahact-kings.md)
+    * Added some of the known [ability](twilights-fall/splices/abilities.md), [unit upgrade](twilights-fall/splices/unit-upgrades.md), and [genome](twilights-fall/splices/genomes.md) splices
+    * Added some of the known [paradigms](twilights-fall/paradigms.md)
+
 ### **06 Oct 25**
 * Added all remaining breakthroughs
 * Added Xxcha's new hero from _Thunder's Edge_

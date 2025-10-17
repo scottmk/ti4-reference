@@ -85,6 +85,14 @@ nav:
   - Alliances: alliances.md
   - Relics: relics.md
   - Legendary Planets: legendary-planets.md
+  - Twilight's Fall: 
+    - Rules: twilights-fall/rules.md
+    - Mad Mahact Kings: twilights-fall/mad-mahact-kings.md
+    - Splices: 
+      - Abilities: twilights-fall/splices/abilities.md
+      - Unit Upgrades: twilights-fall/splices/unit-upgrades.md
+      - Genomes: twilights-fall/splices/genomes.md
+    - Paradigms: twilights-fall/paradigms.md
   - Bounce House Trophy Wall: bounce-house.md
 watch:
   - snippets

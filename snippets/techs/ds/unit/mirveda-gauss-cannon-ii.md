@@ -2,6 +2,8 @@
 
 Requirements: :ti4-tech-cybernetic: :ti4-tech-warfare:
 
+Unit Type: PDS :ti4-unit-pds:
+
 <span style="font-variant:small-caps;">Move 2</span> __|__ <span style="font-variant:small-caps;">Capacity 1</span>
 
 <span style="font-variant:small-caps;">Space Cannon</span> 4 __|__ <span style="font-variant:small-caps;">Bombardment</span> 4

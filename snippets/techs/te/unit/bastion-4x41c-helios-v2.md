@@ -2,5 +2,7 @@
 
 Requirements: :ti4-tech-cybernetic: :ti4-tech-cybernetic:
 
+Unit Type: Space Dock :ti4-unit-spacedock:
+
 _Coming soon._
 

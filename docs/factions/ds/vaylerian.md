@@ -94,10 +94,9 @@ toc_depth: 2
 
     ---
 
-    --8<-- "snippets/techs/ds/red/vaylerian-scavenger-exos.md"
-
     --8<-- "snippets/techs/ds/unit/vaylerian-raider-ii.md"
 
+    --8<-- "snippets/techs/ds/red/vaylerian-scavenger-exos.md"
 
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 

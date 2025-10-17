@@ -2,6 +2,8 @@
 
 Requirements: :ti4-tech-cybernetic: :ti4-tech-cybernetic:
 
+Unit Type: Space Dock :ti4-unit-spacedock:
+
 <span style="font-variant:small-caps;">Move 2</span> __|__ <span style="font-variant:small-caps;">Capacity 5</span>
 
 <span style="font-variant:small-caps;">Production</span> 7

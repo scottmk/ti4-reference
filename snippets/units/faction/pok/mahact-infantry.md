@@ -1,6 +1,6 @@
 ### :ti4-faction-pok-mahact: **Crimson Legionnaire I** :ti4-pok:
 
-Unit Type: Infantry 
+Unit Type: Infantry :ti4-unit-infantry:
 
 <span style="font-variant:small-caps;">Cost</span> 1(x2) __|__ <span style="font-variant:small-caps;">Combat</span> 8
 

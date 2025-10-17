@@ -1,6 +1,6 @@
 ### :ti4-faction-ds-gledge: **Orion Platform I** :ti4-ds:
 
-Unit Type: PDS 
+Unit Type: PDS :ti4-unit-pds:
 
 <span style="font-variant:small-caps;">Planetary Shield</span> __|__ <span style="font-variant:small-caps;">Space Cannon</span> 6
 

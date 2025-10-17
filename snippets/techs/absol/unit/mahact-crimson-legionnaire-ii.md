@@ -2,6 +2,8 @@
 
 Requirements: :ti4-tech-biotic: :ti4-tech-biotic:
 
+Unit Type: Infantry :ti4-unit-infantry:
+
 <span style="font-variant:small-caps;">Cost 1(x2)</span> __|__ <span style="font-variant:small-caps;">Combat 7</span>
 
 After this unit is destroyed, gain 2 commodities or convert 1 of your commodities to a trade good.

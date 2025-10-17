@@ -1,6 +1,6 @@
 ### :ti4-faction-base-mentak: **Corsair** :ti4-pok:
 
-Unit Type: Cruiser 
+Unit Type: Cruiser :ti4-unit-cruiser:
 
 <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6 __|__ <span style="font-variant:small-caps;">Move</span> 3 __|__ <span style="font-variant:small-caps;">Capacity</span> 2
 

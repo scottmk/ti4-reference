@@ -1,6 +1,6 @@
 ### :ti4-faction-te-obsidian: **Viper Hollow** :ti4-te:
 
-Unit Type: Decayed Mech 
+Unit Type: Decayed Mech :ti4-unit-mech: 
 
 <span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 6
 

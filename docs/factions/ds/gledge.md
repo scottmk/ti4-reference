@@ -105,10 +105,9 @@ toc_depth: 2
 
     ---
 
-    --8<-- "snippets/techs/ds/blue/gledge-lightning-drives.md"
-
     --8<-- "snippets/techs/ds/unit/gledge-orion-platform-ii.md"
 
+    --8<-- "snippets/techs/ds/blue/gledge-lightning-drives.md"
 
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 

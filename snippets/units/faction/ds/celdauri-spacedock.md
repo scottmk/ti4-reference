@@ -1,6 +1,6 @@
 ### :ti4-faction-ds-celdauri: **Trade Port I** :ti4-ds:
 
-Unit Type: Spacedock 
+Unit Type: Spacedock :ti4-unit-spacedock:
 
 This unit's <span style="font-variant:small-caps;">Production</span> value is equal to 2 more than the resource or influence value of this planet.
 

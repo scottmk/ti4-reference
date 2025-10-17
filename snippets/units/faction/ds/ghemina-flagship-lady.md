@@ -1,6 +1,6 @@
 ### :ti4-faction-ds-ghemina: **The Lady** :ti4-ds:
 
-Unit Type: Lady 
+Unit Type: Flagship :ti4-unit-flagship:
 
 <span style="font-variant:small-caps;">Cost</span> 6 __|__ <span style="font-variant:small-caps;">Combat</span> 7(x2) __|__ <span style="font-variant:small-caps;">Move</span> 2 __|__ <span style="font-variant:small-caps;">Capacity</span> 3
 

@@ -1,6 +1,6 @@
-### :ti4-tech-unit-upgrade: **War Sun**
+### :ti4-unit-warsun: **War Sun**
 
-<span style="font-variant:small-caps;">Cost -</span> __|__ <span style="font-variant:small-caps;">Combat -</span> __|__ <span style="font-variant:small-caps;">Move -</span> __|__ <span style="font-variant:small-caps;">Capacity -</span>
+<span style="font-variant:small-caps;">Cost</span> –↑ __|__ <span style="font-variant:small-caps;">Combat</span> –↑ __|__ <span style="font-variant:small-caps;">Move</span> –↑ __|__ <span style="font-variant:small-caps;">Capacity</span> –↑
 
 You cannot produce this unit unless you own its unit upgrade technology.
 

@@ -1,6 +1,6 @@
 ### :ti4-faction-ds-mirveda: **Gauss Cannon I** :ti4-ds:
 
-Unit Type: PDS 
+Unit Type: PDS :ti4-unit-pds:
 
 <span style="font-variant:small-caps;">Move</span> 1
 

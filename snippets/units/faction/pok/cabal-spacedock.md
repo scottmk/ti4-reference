@@ -1,6 +1,6 @@
 ### :ti4-faction-pok-cabal: **Dimensional Tear I** :ti4-pok:
 
-Unit Type: Space Dock 
+Unit Type: Space Dock :ti4-unit-spacedock: 
 
 <span style="font-variant:small-caps;">Production</span> 5
 

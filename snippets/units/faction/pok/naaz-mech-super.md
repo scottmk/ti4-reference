@@ -1,6 +1,6 @@
 ### :ti4-faction-pok-naaz: **Eidolon Maximum** :ti4-te:
 
-Unit Type: Mech 
+Unit Type: Mech :ti4-unit-mech:
 
 <span style="font-variant:small-caps;">Combat</span> 4(x4) __|__ <span style="font-variant:small-caps;">Move</span> 3
 

@@ -1,6 +1,6 @@
 ### :ti4-faction-te-bastion: **4X41C "Helios" V1** :ti4-te:
 
-Unit Type: Space Dock 
+Unit Type: Space Dock :ti4-unit-spacedock: 
 
 This unit's <span style="font-variant:small-caps;">Production</span> value is equal to 2 more than the resource value of this planet.
 

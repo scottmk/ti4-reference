@@ -1,6 +1,6 @@
 ### :ti4-faction-pok-argent: **Strike Wing Alpha I** :ti4-pok:
 
-Unit Type: Destroyer 
+Unit Type: Destroyer :ti4-unit-destroyer:
 
 <span style="font-variant:small-caps;">Cost</span> 1 __|__ <span style="font-variant:small-caps;">Combat</span> 8 __|__ <span style="font-variant:small-caps;">Move</span> 2 __|__ <span style="font-variant:small-caps;">Capacity</span> 1
 

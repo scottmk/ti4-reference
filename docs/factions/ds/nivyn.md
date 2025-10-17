@@ -87,10 +87,9 @@ toc_depth: 2
 
     ---
 
-    --8<-- "snippets/techs/ds/yellow/nivyn-voidwake-missiles.md"
-
     --8<-- "snippets/techs/ds/unit/nivyn-voidflare-warden-ii.md"
 
+    --8<-- "snippets/techs/ds/yellow/nivyn-voidwake-missiles.md"
 
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 

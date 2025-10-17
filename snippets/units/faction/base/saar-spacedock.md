@@ -1,6 +1,6 @@
 ### :ti4-faction-base-saar: **Floating Factory I**
 
-Unit Type: Space Dock 
+Unit Type: Space Dock :ti4-unit-spacedock: 
 
 <span style="font-variant:small-caps;">Move</span> 1 __|__ <span style="font-variant:small-caps;">Capacity</span> 4
 

@@ -1,6 +1,6 @@
 ### :ti4-faction-pok-titans: **Hel-Titan I** :ti4-pok:
 
-Unit Type: PDS 
+Unit Type: PDS :ti4-unit-pds:
 
 <span style="font-variant:small-caps;">Combat</span> 7
 

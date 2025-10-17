@@ -2,6 +2,8 @@
 
 Requirements: :ti4-tech-cybernetic: :ti4-tech-cybernetic:
 
+Unit Type: Space Dock :ti4-unit-spacedock:
+
 <span style="font-variant:small-caps;">Production</span> 7
 
 This system is a gravity rift; your ships do not roll for this gravity rift.

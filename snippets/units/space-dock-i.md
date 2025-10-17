@@ -1,4 +1,4 @@
-### **Space Dock I**
+### :ti4-unit-spacedock: **Space Dock I**
 
 This unit's <span style="font-variant:small-caps;">Production</span> value is equal to 2 more than the resource value of this planet.
 

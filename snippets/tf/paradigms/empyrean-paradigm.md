@@ -1,5 +1,5 @@
 ### **TBA**
-:ti4-faction-base-empyrean:
+:ti4-faction-pok-empyrean:
 { .splice-faction }
 
 **Empyrean Paradigm**

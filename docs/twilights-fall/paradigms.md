@@ -120,7 +120,7 @@
 
 -   
 
-    --8<-- "snippets/tf/paradigms/yssrail-paradigm.md"
+    --8<-- "snippets/tf/paradigms/yssaril-paradigm.md"
 
 -   
 

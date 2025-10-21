@@ -9,7 +9,7 @@ Ten thousand people come and go daily, and the Keleres see them all._
 
 #### Legendary Text
 
-While you control Mecatol Rex, it gains <span style="font-variant:small-caps;">Space Cannon 5</span> and <span style="font-variant:small-caps;">Production 3</span>.
+While you control Mecatol Rex, it gains <span style="font-variant:small-caps;">Space Cannon</span> 5 and <span style="font-variant:small-caps;">Production</span> 3.
 
 Gain 2 command tokens when another player scores Custodians VP using Imperial.
 

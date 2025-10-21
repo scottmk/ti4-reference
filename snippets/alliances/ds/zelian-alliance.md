@@ -4,4 +4,4 @@
 
 Ongoing
 
-Each of your Dreadnoughts and War Suns without <span style="font-variant:small-caps;">Anti-Fighter Barrage</span> gains <span style="font-variant:small-caps;">Anti-Fighter Barrage 5</span>.
+Each of your Dreadnoughts and War Suns without <span style="font-variant:small-caps;">Anti-Fighter Barrage</span> gains <span style="font-variant:small-caps;">Anti-Fighter Barrage</span> 5.

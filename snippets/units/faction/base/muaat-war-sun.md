@@ -2,7 +2,7 @@
 
 Unit Type: War Sun :ti4-unit-warsun: 
 
-<span style="font-variant:small-caps;">Cost</span> 12 __|__ <span style="font-variant:small-caps;">Combat</span> 3(x3) __|__ <span style="font-variant:small-caps;">Move</span> 1 __|__ <span style="font-variant:small-caps;">Capacity</span> 6
+<span style="font-variant:small-caps;">Cost 1</span>2 __|__ <span style="font-variant:small-caps;">Combat 3(x3)</span> __|__ <span style="font-variant:small-caps;">Move 1</span> __|__ <span style="font-variant:small-caps;">Capacity 6</span>
 
 <span style="font-variant:small-caps;">Sustain Damage</span> __|__ <span style="font-variant:small-caps;">Bombardment</span> 3(x3)
 

@@ -4,7 +4,7 @@ Requirements: :ti4-tech-biotic: :ti4-tech-biotic:
 
 Unit Type: Infantry :ti4-unit-infantry:
 
-<span style="font-variant:small-caps;">Cost</span> 1 __|__ <span style="font-variant:small-caps;">Combat</span> 4 
+<span style="font-variant:small-caps;">Cost 1</span> __|__ <span style="font-variant:small-caps;">Combat 4</span> 
 
 After this unit is destroyed, roll 1 die.
 If the result is 6 or greater, place the unit on this card.

@@ -4,7 +4,7 @@ Requirements: :ti4-tech-propulsion: :ti4-tech-warfare: :ti4-tech-cybernetic:
 
 Unit Type: Mech :ti4-unit-mech:
 
-<span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 4
+<span style="font-variant:small-caps;">Cost 2</span> __|__ <span style="font-variant:small-caps;">Combat 4</span>
 
 <span style="font-variant:small-caps;">Sustain Damage</span>
 

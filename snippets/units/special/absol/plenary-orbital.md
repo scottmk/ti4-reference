@@ -2,7 +2,7 @@
 
 Unit Type: Space Dock :ti4-unit-spacedock: 
 
-<span style="font-variant:small-caps;">Capacity</span> 8
+<span style="font-variant:small-caps;">Capacity 8</span>
 
 <span style="font-variant:small-caps;">Planetary Shield</span> __|__ <span style="font-variant:small-caps;">Production</span> 10
 

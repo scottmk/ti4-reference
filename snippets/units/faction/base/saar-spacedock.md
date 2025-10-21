@@ -2,7 +2,7 @@
 
 Unit Type: Space Dock :ti4-unit-spacedock: 
 
-<span style="font-variant:small-caps;">Move</span> 1 __|__ <span style="font-variant:small-caps;">Capacity</span> 4
+<span style="font-variant:small-caps;">Move 1</span> __|__ <span style="font-variant:small-caps;">Capacity 4</span>
 
 <span style="font-variant:small-caps;">Production</span> 5
 

@@ -2,6 +2,6 @@
 
 Unit Type: Decayed Flagship :ti4-unit-flagship: 
 
-<span style="font-variant:small-caps;">Cost</span> 8 __|__ <span style="font-variant:small-caps;">Combat</span> 5(x3) __|__ <span style="font-variant:small-caps;">Move</span> 1 __|__ <span style="font-variant:small-caps;">Capacity</span> 3
+<span style="font-variant:small-caps;">Cost 8</span> __|__ <span style="font-variant:small-caps;">Combat 5(x3)</span> __|__ <span style="font-variant:small-caps;">Move 1</span> __|__ <span style="font-variant:small-caps;">Capacity 3</span>
 
 <span style="font-variant:small-caps;">Sustain Damage</span>

@@ -2,7 +2,7 @@
 
 Unit Type: Warsun :ti4-unit-warsun:
 
-<span style="font-variant:small-caps;">Combat</span> 5(x2) __|__ <span style="font-variant:small-caps;">Capacity</span> 4
+<span style="font-variant:small-caps;">Combat 5(x2)</span> __|__ <span style="font-variant:small-caps;">Capacity 4</span>
 
 <span style="font-variant:small-caps;">Production</span> 5
 

@@ -2,7 +2,7 @@
 
 Unit Type: PDS :ti4-unit-pds:
 
-<span style="font-variant:small-caps;">Move</span> 1
+<span style="font-variant:small-caps;">Move 1</span>
 
 <span style="font-variant:small-caps;">Bombardment</span> 6 __|__ <span style="font-variant:small-caps;">Space Cannon</span> 6
 

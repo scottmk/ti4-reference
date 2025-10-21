@@ -2,7 +2,7 @@
 
 Unit Type: Mech :ti4-unit-mech:
 
-<span style="font-variant:small-caps;">Combat</span> 4(x4) __|__ <span style="font-variant:small-caps;">Move</span> 3
+<span style="font-variant:small-caps;">Combat 4(x4)</span> __|__ <span style="font-variant:small-caps;">Move 3</span>
 
 <span style="font-variant:small-caps;">Sustain Damage</span>
 

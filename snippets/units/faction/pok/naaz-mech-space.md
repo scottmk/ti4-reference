@@ -2,7 +2,7 @@
 
 Unit Type: Mech :ti4-unit-mech:
 
-<span style="font-variant:small-caps;">Cost</span> 2 __|__ <span style="font-variant:small-caps;">Combat</span> 8(x2)
+<span style="font-variant:small-caps;">Cost 2</span> __|__ <span style="font-variant:small-caps;">Combat 8(x2)</span>
 
 If this unit is in the space area of the active system, it is also a ship. 
 

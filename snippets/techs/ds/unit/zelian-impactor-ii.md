@@ -4,7 +4,7 @@ Requirements: :ti4-tech-biotic: :ti4-tech-biotic:
 
 Unit Type: Infantry :ti4-unit-infantry:
 
-<span style="font-variant:small-caps;">Cost</span> 1(x2) __|__ <span style="font-variant:small-caps;">Combat</span> 7
+<span style="font-variant:small-caps;">Cost 1(x2)</span> __|__ <span style="font-variant:small-caps;">Combat 7</span>
 
 <span style="font-variant:small-caps;">Bombardment</span> 8
 

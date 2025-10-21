@@ -6,6 +6,6 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 <span style="font-variant:small-caps;">Cost 8</span> __|__ <span style="font-variant:small-caps;">Combat 5(x2)</span> __|__ <span style="font-variant:small-caps;">Move 2</span> __|__ <span style="font-variant:small-caps;">Capacity 6</span>
 
-<span style="font-variant:small-caps;">Sustain Damage</span> __|__ <span style="font-variant:small-caps;">Anti-Fighter Barrage</span> 5(x3)
+<span style="font-variant:small-caps;">Sustain Damage</span> __|__ <span style="font-variant:small-caps;">Anti-Fighter Barrage 5</span>
 
 You may treat this unit as if it were adjacent to systems that contain one or more of your mechs.

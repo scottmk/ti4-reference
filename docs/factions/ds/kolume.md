@@ -61,7 +61,7 @@ toc_depth: 2
     ### **Starfall Gunnery**
     
     During movement, while you are not the active player, you may only use 1 of your unit's <span style="font-variant:small-caps;">Space Cannon</span>. 
-    During each of your actions, up to 3 of your non-fighter ships gain <span style="font-variant:small-caps;">Space Cannon</span> 8.
+    During each of your actions, up to 3 of your non-fighter ships gain <span style="font-variant:small-caps;">Space Cannon 8</span>.
 
     ### **Deliberate Action**
     

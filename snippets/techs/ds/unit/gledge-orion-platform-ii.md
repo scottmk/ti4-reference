@@ -4,7 +4,7 @@ Requirements: :ti4-tech-cybernetic: :ti4-tech-warfare:
 
 Unit Type: PDS :ti4-unit-pds:
 
-<span style="font-variant:small-caps;">Planetary Shield</span>, <span style="font-variant:small-caps;">Space Cannon</span> 5
+<span style="font-variant:small-caps;">Planetary Shield</span>, <span style="font-variant:small-caps;">Space Cannon 5</span>
 
 When this unit produces 1 or more hits against another player's units, explore this planet.
 

@@ -6,7 +6,7 @@ Unit Type: Fighter :ti4-unit-fighter:
 
 <span style="font-variant:small-caps;">Cost 1(x2)</span> __|__ <span style="font-variant:small-caps;">Combat 8</span> __|__ <span style="font-variant:small-caps;">Move 2</span>
 
-<span style="font-variant:small-caps;">Bombardment</span> 8
+<span style="font-variant:small-caps;">Bombardment 8</span>
 
 This unit may move without being transported.
 

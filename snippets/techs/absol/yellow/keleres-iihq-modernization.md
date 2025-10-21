@@ -11,6 +11,6 @@ You cannot lose these cards, and this card cannot have an X or Y assimilator tok
 
 Custodia Vigilia :ti4-planets-resources-2: :ti4-planets-influence-3:
 
-LEGENDARY TEXT: While you control Mecatol Rex, it gains <span style="font-variant:small-caps;">Space Cannon</span> 5 and <span style="font-variant:small-caps;">Production</span> 3.
+LEGENDARY TEXT: While you control Mecatol Rex, it gains <span style="font-variant:small-caps;">Space Cannon 5</span> and <span style="font-variant:small-caps;">Production 3</span>.
 
 Gain 2 command tokens when another player scores Custodians VP using Imperial Primary.]

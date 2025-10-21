@@ -6,7 +6,7 @@ Unit Type: PDS :ti4-unit-pds:
 
 <span style="font-variant:small-caps;">Combat 6</span>
 
-<span style="font-variant:small-caps;">Planetary Shield</span> __|__ <span style="font-variant:small-caps;">Deep Space Cannon</span> 5 __|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__ <span style="font-variant:small-caps;">Production</span> 1
+<span style="font-variant:small-caps;">Planetary Shield</span> __|__ <span style="font-variant:small-caps;">Deep Space Cannon 5</span> __|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__ <span style="font-variant:small-caps;">Production 1</span>
 
 This unit is treated as both a structure and a ground force.
 It cannot be transported.

@@ -65,7 +65,7 @@ toc_depth: 2
     ---
     ### **Projection of Power**
     
-    At the start of any space combat in a system that is adjacent to or contains 1 or more of your space docks, choose up to 1 ship in that system to gain <span style="font-variant:small-caps;">Anti-Fighter Barrage</span> 6 during that combat.
+    At the start of any space combat in a system that is adjacent to or contains 1 or more of your space docks, choose up to 1 ship in that system to gain <span style="font-variant:small-caps;">Anti-Fighter Barrage 6</span> during that combat.
 
     ### **Industrialists**
     

@@ -2,8 +2,13 @@
 
 Unit Type: Mech :ti4-unit-mech:
 
-<span style="font-variant:small-caps;">Cost 2</span> __|__ <span style="font-variant:small-caps;">Combat 6</span>
-
-<span style="font-variant:small-caps;">Sustain Damage</span>
+---
 
 This unit does not count against capacity if it is being transported or if it is in a space area with 1 or more of your ships that have capacity values
+
+__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+
+---
+
+__|__ <span style="font-variant:small-caps;">Cost 2</span> __|__ <span style="font-variant:small-caps;">Combat 6</span> __|__
+{ .unit-stats }

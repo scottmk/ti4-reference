@@ -46,6 +46,8 @@ toc_depth: 2
 
         --8<-- "snippets/techs/base/red/plasma-scoring.md"
 
+        ---
+
         --8<-- "snippets/techs/base/blue/antimass-deflectors.md"
 
         --8<-- "snippets/techs/base/green/neural-motivator.md"
@@ -54,6 +56,8 @@ toc_depth: 2
         ### **Choose two of the following**:
 
         --8<-- "snippets/techs/absol/red/plasma-scoring.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/blue/antimass-deflectors.md"
 
@@ -103,6 +107,8 @@ toc_depth: 2
     ---
 
     --8<-- "snippets/techs/ds/unit/tnelis-blockade-runner-ii.md"
+
+    ---
 
     --8<-- "snippets/techs/ds/yellow/tnelis-daedalon-flight-system.md"
 

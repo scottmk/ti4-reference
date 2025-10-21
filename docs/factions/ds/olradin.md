@@ -43,10 +43,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/pok/yellow/scanlink-drone-network.md"
 
+        ---
+
         --8<-- "snippets/techs/pok/green/psychoarchaeology.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/yellow/scanlink-drone-network.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/green/psychoarchaeology.md"
 
@@ -120,6 +124,8 @@ toc_depth: 2
     ---
 
     --8<-- "snippets/techs/ds/red/olradin-false-flag-operations.md"
+
+    ---
 
     --8<-- "snippets/techs/ds/blue/olradin-geosympathic-impeller.md"
 

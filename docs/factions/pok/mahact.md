@@ -44,10 +44,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/pok/green/bio-stims.md"
 
+        ---
+
         --8<-- "snippets/techs/pok/yellow/predictive-intelligence.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/green/bio-stims.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/yellow/predictive-intelligence.md"
 
@@ -76,10 +80,6 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/pok/mahact-mech.md"
 
-</div>
-
-<div class="grid cards" markdown>
-
 -   ## __Special Units__
 
     ---
@@ -95,10 +95,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/pok/unit/mahact-crimson-legionnaire-ii.md"
 
+        ---
+
         --8<-- "snippets/techs/pok/green/mahact-genetic-recombination.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/unit/mahact-crimson-legionnaire-ii.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/green/mahact-genetic-recombination.md"
 

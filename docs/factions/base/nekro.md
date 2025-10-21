@@ -85,6 +85,8 @@ toc_depth: 2
     ---
     --8<-- "snippets/techs/base/other/nekro-valefar-assimilator-x.md"
 
+    ---
+
     --8<-- "snippets/techs/base/other/nekro-valefar-assimilator-y.md"
 
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>

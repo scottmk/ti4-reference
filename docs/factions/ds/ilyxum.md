@@ -45,10 +45,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/pok/yellow/scanlink-drone-network.md"
 
+        ---
+
         --8<-- "snippets/techs/pok/red/ai-development-algorithm.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/yellow/scanlink-drone-network.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/red/ai-development-algorithm.md"
 
@@ -88,6 +92,8 @@ toc_depth: 2
     ---
 
     --8<-- "snippets/techs/ds/green/ilyxum-psychographics.md"
+
+    ---
 
     --8<-- "snippets/techs/ds/yellow/ilyxum-sentient-datapool.md"
 

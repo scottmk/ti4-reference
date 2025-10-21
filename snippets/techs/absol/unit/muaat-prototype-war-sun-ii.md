@@ -4,11 +4,16 @@ Requirements: :ti4-tech-cybernetic: :ti4-tech-warfare: :ti4-tech-warfare: :ti4-t
 
 Unit Type: War Sun :ti4-unit-warsun:
 
-<span style="font-variant:small-caps;">Cost 8</span> __|__ <span style="font-variant:small-caps;">Combat 3(x3)</span> __|__ <span style="font-variant:small-caps;">Move 3</span> __|__ <span style="font-variant:small-caps;">Capacity 6</span>
-
-<span style="font-variant:small-caps;">Sustain Damage</span> __|__ <span style="font-variant:small-caps;">Bombardment 3(x3)</span>
+---
 
 Other player's units in this system lose <span style="font-variant:small-caps;">Planetary Shield</span>.
 
 This unit cannot be destroyed by "Direct Hit" action cards.
 
+
+__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__ <span style="font-variant:small-caps;">Bombardment 3(x3)</span> __|__
+
+---
+
+__|__ <span style="font-variant:small-caps;">Cost 8</span> __|__ <span style="font-variant:small-caps;">Combat 3 :ti4-unit-dice-x3:</span> __|__ <span style="font-variant:small-caps;">Move 3</span> __|__ <span style="font-variant:small-caps;">Capacity 6</span> __|__
+{ .unit-stats }

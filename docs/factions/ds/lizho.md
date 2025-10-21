@@ -46,10 +46,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/pok/green/psychoarchaeology.md"
 
+        ---
+
         --8<-- "snippets/techs/base/blue/antimass-deflectors.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/green/psychoarchaeology.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/blue/antimass-deflectors.md"
 
@@ -127,10 +131,6 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/ds/lizho-mech.md"
 
-</div>
-
-<div class="grid cards" markdown>
-
 -   ## __Special Units__
 
     ---
@@ -145,6 +145,8 @@ toc_depth: 2
     ---
 
     --8<-- "snippets/techs/ds/unit/lizho-heavy-bomber-ii.md"
+
+    ---
 
     --8<-- "snippets/techs/ds/blue/lizho-wraith-engine.md"
 

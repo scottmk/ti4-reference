@@ -44,10 +44,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/pok/blue/dark-energy-tap.md"
 
+        ---
+
         --8<-- "snippets/techs/pok/yellow/scanlink-drone-network.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/blue/dark-energy-tap.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/yellow/scanlink-drone-network.md"
 
@@ -76,10 +80,6 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/ds/dihmohn-mech.md"
 
-</div>
-
-<div class="grid cards" markdown>
-
 -   ## __Special Units__
 
     ---
@@ -94,6 +94,8 @@ toc_depth: 2
     ---
 
     --8<-- "snippets/techs/ds/unit/dihmohn-aegis-ii.md"
+
+    ---
 
     --8<-- "snippets/techs/ds/yellow/dihmohn-impressment-programs.md"
 

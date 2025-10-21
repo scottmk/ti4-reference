@@ -47,6 +47,8 @@ toc_depth: 2
 
         --8<-- "snippets/techs/base/blue/antimass-deflectors.md"
 
+        ---
+
         --8<-- "snippets/techs/base/yellow/sarween-tools.md"
 
         --8<-- "snippets/techs/base/red/plasma-scoring.md"
@@ -55,6 +57,8 @@ toc_depth: 2
         ### **Choose two of the following**:
 
         --8<-- "snippets/techs/absol/blue/antimass-deflectors.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/yellow/sarween-tools.md"
 
@@ -81,10 +85,6 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/ds/celdauri-mech.md"
 
-</div>
-
-<div class="grid cards" markdown>
-
 -   ## __Special Units__
 
     ---
@@ -99,6 +99,8 @@ toc_depth: 2
     ---
 
     --8<-- "snippets/techs/ds/unit/celdauri-trade-port-ii.md"
+
+    ---
 
     --8<-- "snippets/techs/ds/red/celdauri-emergency-mobilization.md"
 

@@ -89,10 +89,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/base/unit/arborec-letani-warrior-ii.md"
 
+        ---
+
         --8<-- "snippets/techs/base/green/arborec-bioplasmosis.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/unit/arborec-letani-warrior-ii.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/green/arborec-bioplasmosis.md"
 

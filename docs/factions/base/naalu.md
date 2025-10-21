@@ -46,10 +46,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/base/green/neural-motivator.md"
 
+        ---
+
         --8<-- "snippets/techs/base/yellow/sarween-tools.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/green/neural-motivator.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/yellow/sarween-tools.md"
 
@@ -78,10 +82,6 @@ toc_depth: 2
     === "_Thunder's Edge_ :ti4-te: ΩΩ"
         --8<-- "snippets/units/faction/base/naalu-mech-te.md"
 
-</div>
-
-<div class="grid cards" markdown>
-
 -   ## __Special Units__
 
     ---
@@ -97,10 +97,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/base/unit/naalu-hybrid-crystal-fighter-ii.md"
 
+        ---
+
         --8<-- "snippets/techs/base/green/naalu-neuroglaive.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/unit/naalu-hybrid-crystal-fighter-ii.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/green/naalu-neuroglaive.md"
 

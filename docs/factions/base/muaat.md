@@ -66,10 +66,6 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/base/muaat-mech.md"
 
-</div>
-
-<div class="grid cards" markdown>
-
 -   ## __Special Units__
 
     ---
@@ -85,10 +81,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/base/unit/muaat-prototype-war-sun-ii.md"
 
+        ---
+
         --8<-- "snippets/techs/base/red/muaat-magmus-reactor.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/unit/muaat-prototype-war-sun-ii.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/red/muaat-magmus-reactor.md"
 

@@ -83,10 +83,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/base/green/yssaril-transparasteel-plating.md"
 
+        ---
+
         --8<-- "snippets/techs/base/green/yssaril-mageon-implants.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/green/yssaril-transparasteel-plating.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/green/yssaril-mageon-implants.md"
 

@@ -60,10 +60,6 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/base/norr-mech.md"
 
-</div>
-
-<div class="grid cards" markdown>
-
 -   ## __Special Units__
 
     ---
@@ -79,10 +75,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/base/unit/norr-exotrireme-ii.md"
 
+        ---
+
         --8<-- "snippets/techs/base/red/norr-valkyrie-particle-weave.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/unit/norr-exotrireme-ii.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/red/norr-valkyrie-particle-weave.md"
 

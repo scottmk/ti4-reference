@@ -47,6 +47,8 @@ toc_depth: 2
 
         --8<-- "snippets/techs/pok/red/ai-development-algorithm.md"
 
+        ---
+
         --8<-- "snippets/techs/pok/yellow/scanlink-drone-network.md"
 
         --8<-- "snippets/techs/pok/green/psychoarchaeology.md"
@@ -55,6 +57,8 @@ toc_depth: 2
         ### **Choose two of the following**:
 
         --8<-- "snippets/techs/absol/red/ai-development-algorithm.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/yellow/scanlink-drone-network.md"
 
@@ -88,10 +92,6 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/ds/gledge-mech.md"
 
-</div>
-
-<div class="grid cards" markdown>
-
 -   ## __Special Units__
 
     ---
@@ -106,6 +106,8 @@ toc_depth: 2
     ---
 
     --8<-- "snippets/techs/ds/unit/gledge-orion-platform-ii.md"
+
+    ---
 
     --8<-- "snippets/techs/ds/blue/gledge-lightning-drives.md"
 

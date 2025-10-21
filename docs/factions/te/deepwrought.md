@@ -103,6 +103,8 @@ _—Aello, Kieros_
     ---
     --8<-- "snippets/techs/te/green/deepwrought-hydrothermal-mining.md"
 
+    ---
+
     --8<-- "snippets/techs/te/green/deepwrought-radical-advancement.md"
 
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>

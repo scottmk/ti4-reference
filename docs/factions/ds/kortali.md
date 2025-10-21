@@ -45,10 +45,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/base/red/plasma-scoring.md"
 
+        ---
+
         --8<-- "snippets/techs/pok/green/psychoarchaeology.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/red/plasma-scoring.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/green/psychoarchaeology.md"
 
@@ -82,6 +86,8 @@ toc_depth: 2
     ---
 
     --8<-- "snippets/techs/ds/green/kortali-tempest-drive.md"
+
+    ---
 
     --8<-- "snippets/techs/ds/red/kortali-deliverance-engine.md"
 

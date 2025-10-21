@@ -43,9 +43,13 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/base/blue/antimass-deflectors.md"
 
+        ---
+
         --8<-- "snippets/techs/pok/yellow/scanlink-drone-network.md"
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/blue/antimass-deflectors.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/yellow/scanlink-drone-network.md"
 
@@ -98,10 +102,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/pok/unit/titans-saturn-engine-ii.md"
 
+        ---
+
         --8<-- "snippets/techs/pok/unit/titans-hel-titan-ii.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/unit/titans-saturn-engine-ii.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/unit/titans-hel-titan-ii.md"
 

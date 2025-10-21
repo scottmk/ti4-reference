@@ -45,10 +45,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/pok/green/psychoarchaeology.md"
 
+        ---
+
         --8<-- "snippets/techs/pok/red/ai-development-algorithm.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/green/psychoarchaeology.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/red/ai-development-algorithm.md"
 
@@ -75,6 +79,8 @@ toc_depth: 2
 
     ---
 
+    ---
+
     --8<-- "snippets/units/faction/pok/naaz-mech-space.md"
 
 -   ## __Faction Technologies__
@@ -83,10 +89,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/pok/red/naaz-supercharge.md"
 
+        ---
+
         --8<-- "snippets/techs/pok/green/naaz-pre-fab-arcologies.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/red/naaz-supercharge.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/green/naaz-pre-fab-arcologies.md"
 

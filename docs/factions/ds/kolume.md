@@ -46,12 +46,16 @@ toc_depth: 2
 
         --8<-- "snippets/techs/base/yellow/graviton-laser-system.md"
 
+        ---
+
         --8<-- "snippets/techs/pok/yellow/predictive-intelligence.md"
 
     === "Absol's Mod :ti4-absol:"  
         ### **Choose one of the following**:
         
         --8<-- "snippets/techs/absol/yellow/graviton-laser-system.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/yellow/predictive-intelligence.md"
 
@@ -91,6 +95,8 @@ toc_depth: 2
     ---
 
     --8<-- "snippets/techs/ds/green/kolume-applied-biothermics.md"
+
+    ---
 
     --8<-- "snippets/techs/ds/red/kolume-omniscience-field.md"
 

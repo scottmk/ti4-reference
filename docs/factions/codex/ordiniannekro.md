@@ -111,6 +111,8 @@ toc_depth: 2
     ---
     --8<-- "snippets/techs/codex/liberation-of-ordinian/nekro-null-reference.md"
 
+    ---
+
     --8<-- "snippets/techs/codex/liberation-of-ordinian/nekro-error-error.md"
 
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>

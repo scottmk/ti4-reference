@@ -47,6 +47,8 @@ toc_depth: 2
 
         --8<-- "snippets/techs/pok/blue/dark-energy-tap.md"
 
+        ---
+
         --8<-- "snippets/techs/pok/yellow/scanlink-drone-network.md"
 
         --8<-- "snippets/techs/pok/red/ai-development-algorithm.md"
@@ -55,6 +57,8 @@ toc_depth: 2
         ### **Choose two of the following**:
 
         --8<-- "snippets/techs/absol/blue/dark-energy-tap.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/yellow/scanlink-drone-network.md"
 
@@ -95,6 +99,8 @@ toc_depth: 2
     ---
 
     --8<-- "snippets/techs/ds/blue/lanefir-spark-thrusters.md"
+
+    ---
 
     --8<-- "snippets/techs/ds/red/lanefir-ats-armaments.md"
 

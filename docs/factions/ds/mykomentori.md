@@ -74,10 +74,6 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/ds/mykomentori-mech.md"
 
-</div>
-
-<div class="grid cards" markdown>
-
 -   ## __Special Units__
 
     ---
@@ -92,6 +88,8 @@ toc_depth: 2
     ---
 
     --8<-- "snippets/techs/ds/unit/mykomentori-mycelium-ring-ii.md"
+
+    ---
 
     --8<-- "snippets/techs/ds/green/mykomentori-psychoactive-armaments.md"
 

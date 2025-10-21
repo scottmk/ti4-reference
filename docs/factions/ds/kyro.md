@@ -45,12 +45,16 @@ toc_depth: 2
 
         --8<-- "snippets/techs/base/green/daxcive-animators.md"
 
+        ---
+
         --8<-- "snippets/techs/pok/green/bio-stims.md"
 
     === "Absol's Mod :ti4-absol:"  
         ### **Choose one of the following**:
         
         --8<-- "snippets/techs/absol/green/daxcive-animators.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/green/bio-stims.md"
 
@@ -88,6 +92,8 @@ toc_depth: 2
     ---
 
     --8<-- "snippets/techs/ds/green/kyro-indoctrination-teams.md"
+
+    ---
 
     --8<-- "snippets/techs/ds/yellow/kyro-vector-programs.md"
 

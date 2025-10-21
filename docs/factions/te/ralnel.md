@@ -68,10 +68,6 @@ _—Actuary General "Watchful" Ojz_
     ---
     --8<-- "snippets/units/faction/te/ralnel-mech.md"
 
-</div>
-
-<div class="grid cards" markdown>
-
 -   ## __Special Units__
 
     ---
@@ -85,6 +81,8 @@ _—Actuary General "Watchful" Ojz_
 
     ---
     --8<-- "snippets/techs/te/unit/ralnel-linkship-ii.md"
+
+    ---
 
     --8<-- "snippets/techs/te/red/ralnel-nanomachines.md"
 

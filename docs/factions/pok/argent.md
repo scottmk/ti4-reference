@@ -48,6 +48,8 @@ toc_depth: 2
 
         --8<-- "snippets/techs/base/yellow/sarween-tools.md"
 
+        ---
+
         --8<-- "snippets/techs/base/red/plasma-scoring.md"
 
         --8<-- "snippets/techs/base/green/neural-motivator.md"
@@ -56,6 +58,8 @@ toc_depth: 2
         ### **Choose two of the following**:
 
         --8<-- "snippets/techs/absol/yellow/sarween-tools.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/red/plasma-scoring.md"
 
@@ -86,10 +90,6 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/pok/argent-mech.md"
 
-</div>
-
-<div class="grid cards" markdown>
-
 -   ## __Special Units__
 
     ---
@@ -105,10 +105,16 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/pok/unit/argent-strike-wing-alpha-ii.md"
 
+        ---
+
         --8<-- "snippets/techs/pok/yellow/argent-aerie-hololattice.md"
+
+    ---
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/unit/argent-strike-wing-alpha-ii.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/yellow/argent-aerie-hololattice.md"
 

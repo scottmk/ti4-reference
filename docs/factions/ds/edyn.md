@@ -76,6 +76,8 @@ toc_depth: 2
 
     --8<-- "snippets/techs/ds/green/edyn-unity-algorithm.md"
 
+    ---
+
     --8<-- "snippets/techs/ds/yellow/edyn-encrypted-trade-hub.md"
 
 

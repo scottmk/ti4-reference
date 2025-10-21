@@ -45,10 +45,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/base/blue/antimass-deflectors.md"
 
+        ---
+
         --8<-- "snippets/techs/base/yellow/sarween-tools.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/blue/antimass-deflectors.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/yellow/sarween-tools.md"
 
@@ -87,10 +91,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/base/green/hacan-production-biomes.md"
 
+        ---
+
         --8<-- "snippets/techs/base/yellow/hacan-quantum-datahub-node.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/green/hacan-production-biomes.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/yellow/hacan-quantum-datahub-node.md"
 

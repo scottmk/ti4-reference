@@ -74,10 +74,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/pok/unit/nomad-memoria-ii.md"
 
+        ---
+
         --8<-- "snippets/techs/pok/yellow/nomad-temporal-command-suite.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/unit/nomad-memoria-ii.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/yellow/nomad-temporal-command-suite.md"
 

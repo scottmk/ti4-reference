@@ -89,6 +89,8 @@ toc_depth: 2
 
     --8<-- "snippets/techs/ds/green/freesystems-envoy-network.md"
 
+    ---
+
     --8<-- "snippets/techs/ds/yellow/freesystems-covert-strike-teams.md"
 
 

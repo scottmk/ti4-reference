@@ -48,12 +48,16 @@ toc_depth: 2
 
         --8<-- "snippets/techs/base/red/magen-defense-grid.md"
 
+        ---
+
         --8<-- "snippets/techs/pok/red/self-assembly-routines.md"
 
     === "Absol's Mod :ti4-absol:"  
         ### **Choose one of the following**:
         
         --8<-- "snippets/techs/absol/red/magen-defense-grid.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/red/self-assembly-routines.md"
 
@@ -82,10 +86,6 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/ds/cheiran-mech.md"
 
-</div>
-
-<div class="grid cards" markdown>
-
 -   ## __Special Units__
 
     ---
@@ -100,6 +100,8 @@ toc_depth: 2
     ---
 
     --8<-- "snippets/techs/ds/unit/cheiran-chitin-hulk-ii.md"
+
+    ---
 
     --8<-- "snippets/techs/ds/red/cheiran-brood-pod.md"
 

@@ -76,10 +76,6 @@ _—Ahk-Syl Siven_
     ---
     --8<-- "snippets/units/faction/te/rebellion-mech.md"
 
-</div>
-
-<div class="grid cards" markdown>
-
 -   ## __Special Units__
 
     ---
@@ -94,6 +90,8 @@ _—Ahk-Syl Siven_
     ---
 
     --8<-- "snippets/techs/te/unit/rebellion-exile-ii.md"
+
+    ---
 
     --8<-- "snippets/techs/te/yellow/rebellion-subatomic-splicer.md"
 

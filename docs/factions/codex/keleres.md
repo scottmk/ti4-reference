@@ -101,10 +101,14 @@ _—Tribunii Harka Leeds_
     === "Unmodded"
         --8<-- "snippets/techs/codex/yellow/keleres-iihq-modernization.md"
 
+        ---
+
         --8<-- "snippets/techs/codex/yellow/keleres-agency-supply-network.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/yellow/keleres-iihq-modernization.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/yellow/keleres-agency-supply-network.md"
 

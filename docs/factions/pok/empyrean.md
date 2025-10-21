@@ -81,10 +81,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/pok/blue/empyrean-aetherstream.md"
 
+        ---
+
         --8<-- "snippets/techs/pok/green/empyrean-voidwatch.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/blue/empyrean-aetherstream.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/green/empyrean-voidwatch.md"
 

@@ -72,10 +72,6 @@ toc_depth: 2
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/units/faction/absol/saar-mech.md"
 
-</div>
-
-<div class="grid cards" markdown>
-
 -   ## __Special Units__
 
     ---
@@ -91,10 +87,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/base/unit/saar-floating-factory-ii.md"
 
+        ---
+
         --8<-- "snippets/techs/base/blue/saar-chaos-mapping.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/unit/saar-floating-factory-ii.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/blue/saar-chaos-mapping.md"
 

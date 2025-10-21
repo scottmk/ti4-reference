@@ -81,6 +81,8 @@ toc_depth: 2
 
     --8<-- "snippets/techs/ds/yellow/rhodun-sanctification-field.md"
 
+    ---
+
     --8<-- "snippets/techs/ds/blue/rhodun-pilgrimage-beacons.md"
 
 

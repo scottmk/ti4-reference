@@ -151,10 +151,14 @@ toc_depth: 2
     === "Firmament"
         --8<-- "snippets/techs/te/yellow/firmament-planesplitter.md"
 
+        ---
+
         --8<-- "snippets/techs/te/green/firmament-neural-parasite.md"
 
     === "Obsidian"
         --8<-- "snippets/techs/te/yellow/obsidian-planesplitter.md"
+
+        ---
 
         --8<-- "snippets/techs/te/green/obsidian-neural-parasite.md"
 

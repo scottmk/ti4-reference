@@ -45,10 +45,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/base/blue/antimass-deflectors.md"
 
+        ---
+
         --8<-- "snippets/techs/base/red/plasma-scoring.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/blue/antimass-deflectors.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/red/plasma-scoring.md"
 
@@ -83,10 +87,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/base/yellow/letnev-l4-disruptors.md"
 
+        ---
+
         --8<-- "snippets/techs/base/red/letnev-non-euclidean-shielding.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/yellow/letnev-l4-disruptors.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/red/letnev-non-euclidean-shielding.md"
 

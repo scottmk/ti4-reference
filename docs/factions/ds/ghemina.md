@@ -44,10 +44,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/pok/blue/dark-energy-tap.md"
 
+        ---
+
         --8<-- "snippets/techs/pok/green/psychoarchaeology.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/blue/dark-energy-tap.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/green/psychoarchaeology.md"
 
@@ -78,10 +82,6 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/ds/ghemina-mech.md"
 
-</div>
-
-<div class="grid cards" markdown>
-
 -   ## __Special Units__
 
     ---
@@ -96,6 +96,8 @@ toc_depth: 2
     ---
 
     --8<-- "snippets/techs/ds/unit/ghemina-combat-transport-ii.md"
+
+    ---
 
     --8<-- "snippets/techs/ds/green/ghemina-war-song-implants.md"
 

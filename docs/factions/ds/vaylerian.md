@@ -45,10 +45,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/pok/blue/dark-energy-tap.md"
 
+        ---
+
         --8<-- "snippets/techs/base/green/neural-motivator.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/blue/dark-energy-tap.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/green/neural-motivator.md"
 
@@ -77,10 +81,6 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/ds/vaylerian-mech.md"
 
-</div>
-
-<div class="grid cards" markdown>
-
 -   ## __Special Units__
 
     ---
@@ -95,6 +95,8 @@ toc_depth: 2
     ---
 
     --8<-- "snippets/techs/ds/unit/vaylerian-raider-ii.md"
+
+    ---
 
     --8<-- "snippets/techs/ds/red/vaylerian-scavenger-exos.md"
 

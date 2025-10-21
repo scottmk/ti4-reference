@@ -7,4 +7,6 @@ If you have the Cruiser II unit upgrade technology, flip this card and place it 
 
 ---
 
+---
+
 --8<-- "snippets/units/faction/base/mentak-corsair.md"

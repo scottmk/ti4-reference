@@ -44,10 +44,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/base/yellow/sarween-tools.md"
 
+        ---
+
         --8<-- "snippets/techs/pok/red/ai-development-algorithm.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/yellow/sarween-tools.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/red/ai-development-algorithm.md"
 
@@ -120,6 +124,8 @@ toc_depth: 2
     ---
 
     --8<-- "snippets/techs/ds/blue/axis-rift-engines.md"
+
+    ---
 
     --8<-- "snippets/techs/ds/yellow/axis-emergency-deployment.md"
 

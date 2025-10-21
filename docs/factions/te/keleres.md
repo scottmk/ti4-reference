@@ -86,6 +86,8 @@ _—Tribunii Harka Leeds_
     ---
     --8<-- "snippets/techs/te/yellow/keleres-executive-order.md"
 
+    ---
+
     --8<-- "snippets/techs/te/yellow/keleres-agency-supply-network.md"
 
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>

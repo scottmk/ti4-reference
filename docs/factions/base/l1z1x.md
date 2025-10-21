@@ -44,10 +44,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/base/green/neural-motivator.md"
 
+        ---
+
         --8<-- "snippets/techs/base/red/plasma-scoring.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/green/neural-motivator.md"
+
+        ---
 
         --8<-- "snippets/techs/base/red/plasma-scoring.md"
 
@@ -72,10 +76,6 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/base/l1z1x-mech.md"
 
-</div>
-
-<div class="grid cards" markdown>
-
 -   ## __Special Units__
 
     ---
@@ -91,10 +91,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/base/unit/l1z1x-super-dreadnought-ii.md"
 
+        ---
+
         --8<-- "snippets/techs/base/yellow/l1z1x-inheritance-systems.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/unit/l1z1x-super-dreadnought-ii.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/yellow/l1z1x-inheritance-systems.md"
 

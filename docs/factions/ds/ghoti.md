@@ -48,12 +48,16 @@ toc_depth: 2
 
         --8<-- "snippets/techs/base/blue/gravity-drive.md"
 
+        ---
+
         --8<-- "snippets/techs/pok/blue/sling-relay.md"
 
     === "Absol's Mod :ti4-absol:"  
         ### **Choose one of the following**:
         
         --8<-- "snippets/techs/absol/blue/gravity-drive.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/blue/sling-relay.md"
 
@@ -93,6 +97,8 @@ toc_depth: 2
     ---
 
     --8<-- "snippets/techs/ds/green/ghoti-networked-command.md"
+
+    ---
 
     --8<-- "snippets/techs/ds/yellow/ghoti-parallel-production.md"
 

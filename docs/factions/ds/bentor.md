@@ -47,6 +47,8 @@ toc_depth: 2
 
         --8<-- "snippets/techs/pok/blue/dark-energy-tap.md"
 
+        ---
+
         --8<-- "snippets/techs/pok/yellow/scanlink-drone-network.md"
 
         --8<-- "snippets/techs/pok/green/psychoarchaeology.md"
@@ -55,6 +57,8 @@ toc_depth: 2
         ### **Choose two of the following**:
 
         --8<-- "snippets/techs/absol/blue/dark-energy-tap.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/yellow/scanlink-drone-network.md"
 
@@ -94,6 +98,8 @@ toc_depth: 2
     ---
 
     --8<-- "snippets/techs/ds/green/bentor-broker-network.md"
+
+    ---
 
     --8<-- "snippets/techs/ds/yellow/bentor-merged-replicators.md"
 

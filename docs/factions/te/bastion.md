@@ -78,10 +78,6 @@ _—Lyra Keen, Shield of the Reef_
     ---
     --8<-- "snippets/units/faction/te/bastion-mech.md"
 
-</div>
-
-<div class="grid cards" markdown>
-
 -   ## __Special Units__
 
     ---
@@ -95,6 +91,8 @@ _—Lyra Keen, Shield of the Reef_
 
     ---
     --8<-- "snippets/techs/te/unit/bastion-4x41c-helios-v2.md"
+
+    ---
 
     --8<-- "snippets/techs/te/red/bastion-proxima-targeting-vi.md"
 

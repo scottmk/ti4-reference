@@ -102,6 +102,9 @@ toc_depth: 2
 
         --8<-- "snippets/units/infantry-i.md"
 
+    -   
+        
+
 
     </div>
 
@@ -115,6 +118,9 @@ toc_depth: 2
 
         === "Absol's Mod :ti4-absol:"
             --8<-- "snippets/techs/absol/unit/infantry-ii.md"
+    
+    -   
+        
 
     </div>
 

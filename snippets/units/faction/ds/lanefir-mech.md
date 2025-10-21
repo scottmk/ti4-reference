@@ -2,8 +2,13 @@
 
 Unit Type: Mech :ti4-unit-mech:
 
-<span style="font-variant:small-caps;">Cost 2</span> __|__ <span style="font-variant:small-caps;">Combat 6</span>
-
-<span style="font-variant:small-caps;">Sustain Damage</span>
+---
 
 <span style="font-variant:small-caps;">Deploy</span>: At the start of your turn, purge 1 of your relic fragments to place 1 mech on a planet you control, if you do, you may end your turn. 
+
+__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+
+---
+
+__|__ <span style="font-variant:small-caps;">Cost 2</span> __|__ <span style="font-variant:small-caps;">Combat 6</span> __|__
+{ .unit-stats }

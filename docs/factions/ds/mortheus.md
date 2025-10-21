@@ -46,10 +46,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/pok/blue/dark-energy-tap.md"
 
+        ---
+
         --8<-- "snippets/techs/base/yellow/sarween-tools.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/blue/dark-energy-tap.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/yellow/sarween-tools.md"
 
@@ -83,6 +87,8 @@ toc_depth: 2
     ---
 
     --8<-- "snippets/techs/ds/red/mortheus-fractal-plating.md"
+
+    ---
 
     --8<-- "snippets/techs/ds/yellow/mortheus-fabrication-grid.md"
 

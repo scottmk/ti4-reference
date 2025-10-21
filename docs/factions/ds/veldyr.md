@@ -45,10 +45,14 @@ toc_depth: 2
     === "Unmodded"
         --8<-- "snippets/techs/pok/blue/dark-energy-tap.md"
 
+        ---
+
         --8<-- "snippets/techs/pok/red/ai-development-algorithm.md"
 
     === "Absol's Mod :ti4-absol:"  
         --8<-- "snippets/techs/absol/blue/dark-energy-tap.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/red/ai-development-algorithm.md"
 
@@ -78,10 +82,6 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/ds/veldyr-mech.md"
 
-</div>
-
-<div class="grid cards" markdown>
-
 -   ## __Special Units__
 
     ---
@@ -96,6 +96,8 @@ toc_depth: 2
     ---
 
     --8<-- "snippets/techs/ds/unit/veldyr-lancer-dreadnought-ii.md"
+
+    ---
 
     --8<-- "snippets/techs/ds/red/veldyr-seidr-project.md"
 

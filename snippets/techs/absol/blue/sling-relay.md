@@ -2,6 +2,6 @@
 
 Requirements: :ti4-tech-propulsion:
 
-During your tactical actions, your non-blockaded space docks in adjacent systems may use the <span style="font-variant:small-caps;">Production</span> 1 ability in the active system if it does not contain other players' ships.
-If you have a space dock unit upgrade technology, they instead may use <span style="font-variant:small-caps;">Production</span> 2.
+During your tactical actions, your non-blockaded space docks in adjacent systems may use the <span style="font-variant:small-caps;">Production 1</span> ability in the active system if it does not contain other players' ships.
+If you have a space dock unit upgrade technology, they instead may use <span style="font-variant:small-caps;">Production 2</span>.
 All units produced are placed in the space area.

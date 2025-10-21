@@ -4,7 +4,7 @@ Unit Type: Space Dock :ti4-unit-spacedock:
 
 <span style="font-variant:small-caps;">Capacity 8</span>
 
-<span style="font-variant:small-caps;">Planetary Shield</span> __|__ <span style="font-variant:small-caps;">Production</span> 10
+<span style="font-variant:small-caps;">Planetary Shield</span> __|__ <span style="font-variant:small-caps;">Production 1</span>0
 
 <span style="font-variant:small-caps;">Deploy</span>: After you activate a system, attach this card to a non-home planet other than Mecatol Rex you control in that system that does not contain a space dock. The planet this card is attached to contains this unit. 
 

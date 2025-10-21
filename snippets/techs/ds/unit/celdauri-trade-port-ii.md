@@ -10,4 +10,4 @@ Up to 3 fighters in this system do not count against your ships' capacity.
 
 This unit may use its <span style="font-variant:small-caps;">Anti-Fighter Barrage</span> during each round of space combat.
 
-<span style="font-variant:small-caps;">Production</span> X+4 __|__ <span style="font-variant:small-caps;">Anti-Fighter Barrage</span> 6(x2)
+<span style="font-variant:small-caps;">Production</span> X+4 __|__ <span style="font-variant:small-caps;">Anti-Fighter Barrage 6(x2)</span>

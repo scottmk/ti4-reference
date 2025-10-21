@@ -2,7 +2,7 @@
 
 [_Plenary Orbital_ is a special space dock unit you may add to your faction playmat.]
 
-<span style="font-variant:small-caps;">Production</span> 10 __|__ <span style="font-variant:small-caps;">Planetary Shield</span>
+<span style="font-variant:small-caps;">Production 1</span>0 __|__ <span style="font-variant:small-caps;">Planetary Shield</span>
 
 <span style="font-variant:small-caps;">Deploy</span>: After you activate a system, you may place this space dock on a non-home planet you control in that system other than Mecatol Rex and which does not contain a space dock.
 

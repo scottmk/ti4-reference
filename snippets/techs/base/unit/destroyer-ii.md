@@ -6,4 +6,4 @@ Unit Type: Destroyer :ti4-unit-destroyer:
 
 <span style="font-variant:small-caps;">Cost 1</span> __|__ <span style="font-variant:small-caps;">Combat 8</span> __|__ <span style="font-variant:small-caps;">Move 2</span>
 
-<span style="font-variant:small-caps;">Anti-Fighter Barrage</span> 6(x3)
+<span style="font-variant:small-caps;">Anti-Fighter Barrage 6(x3)</span>

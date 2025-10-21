@@ -4,7 +4,7 @@ Unit Type: Space Dock :ti4-unit-spacedock:
 
 <span style="font-variant:small-caps;">Move 1</span> __|__ <span style="font-variant:small-caps;">Capacity 4</span>
 
-<span style="font-variant:small-caps;">Production</span> 5
+<span style="font-variant:small-caps;">Production 5</span>
 
 This unit is placed in the space area instead of on a planet. 
 

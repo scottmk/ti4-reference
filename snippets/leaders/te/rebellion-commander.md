@@ -1,6 +1,6 @@
 ### :ti4-faction-te-rebellion: **Commander**: Ahk Siever – _Wistful Soul_ :ti4-te:
 
-<span style="font-variant:small-caps;">Unlock</span>: Resolve a combat with another player.
+<span style="font-variant:small-caps;">Unlock</span>: Place a breach token in a system that contains another player's unit.
 
 At the end of a combat between any players:
 

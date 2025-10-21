@@ -1,4 +1,4 @@
-### :ti4-faction-base-naalu: **Iconoclast Ω** :ti4-codex:
+### :ti4-faction-base-naalu: **Iconoclast ΩΩ** :ti4-codex:
 
 Unit Type: Mech :ti4-unit-mech:
 
@@ -6,4 +6,4 @@ Unit Type: Mech :ti4-unit-mech:
 
 <span style="font-variant:small-caps;">Sustain Damage</span>
 
-Other players cannot use <span style="font-variant:small-caps;">Anti-Fighter Barrage</span> against your units in this system.
+<span style="font-variant:small-caps;">Deploy</span>: When another player gains a relic, place 1 mech on any planet you control.

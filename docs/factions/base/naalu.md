@@ -72,7 +72,11 @@ toc_depth: 2
 -   ## __Mech__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
-    --8<-- "snippets/units/faction/base/naalu-mech.md"
+    === "Codex :ti4-codex: Ω"
+        --8<-- "snippets/units/faction/base/naalu-mech.md"
+
+    === "_Thunder's Edge_ :ti4-te: ΩΩ"
+        --8<-- "snippets/units/faction/base/naalu-mech-te.md"
 
 </div>
 
@@ -103,8 +107,12 @@ toc_depth: 2
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
-    
-    --8<-- "snippets/leaders/base/naalu-agent.md"
+
+    === "Codex :ti4-codex: Ω"
+        --8<-- "snippets/leaders/base/naalu-agent.md"
+
+    === "_Thunder's Edge_ :ti4-te: ΩΩ"
+        --8<-- "snippets/leaders/base/naalu-agent-te.md"
 
     ---
 

@@ -40,7 +40,15 @@
 
 -   
 
-    --8<-- "snippets/tf/paradigms/keleres-paradigm.md"
+    --8<-- "snippets/tf/paradigms/keleres-argent-paradigm.md"
+
+-   
+
+    --8<-- "snippets/tf/paradigms/keleres-mentak-paradigm.md"
+
+-   
+
+    --8<-- "snippets/tf/paradigms/keleres-xxcha-paradigm.md"
 
 -   
 
@@ -49,10 +57,6 @@
 -   
 
     --8<-- "snippets/tf/paradigms/letnev-paradigm.md"
-
--   
-
-    --8<-- "snippets/tf/paradigms/mahact-paradigm.md"
 
 -   
 
@@ -121,9 +125,5 @@
 -   
 
     --8<-- "snippets/tf/paradigms/yssaril-paradigm.md"
-
--   
-
-    --8<-- "snippets/tf/paradigms/TBA-paradigm.md"
 
 </div>

@@ -56,10 +56,6 @@ toc_depth: 2
 
 -   
 
-    --8<-- "snippets/tf/unit-upgrades/mahact-TBA.md"
-
--   
-
     --8<-- "snippets/tf/unit-upgrades/mentak-TBA.md"
 
 -   
@@ -125,5 +121,13 @@ toc_depth: 2
 -   
 
     --8<-- "snippets/tf/unit-upgrades/yssaril-TBA.md"
+
+-   
+
+    --8<-- "snippets/tf/unit-upgrades/TBA.md"
+
+-   
+
+    --8<-- "snippets/tf/unit-upgrades/TBA.md"
 
 </div>

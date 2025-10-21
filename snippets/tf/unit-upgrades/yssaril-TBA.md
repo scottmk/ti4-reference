@@ -1,8 +1,8 @@
 ### :ti4-tech-unit-upgrade: **TBA**
-:ti4-faction-pok-mahact:
+:ti4-faction-base-yssaril:
 { .splice-faction }
 
-**Mahact TBA** :fontawesome-solid-question:
+**Yssaril TBA** :fontawesome-solid-question:
 
 ---
 

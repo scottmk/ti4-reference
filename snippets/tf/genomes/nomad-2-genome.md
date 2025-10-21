@@ -1,5 +1,5 @@
 ### **TBA Genome**
-:ti4-faction-base-yssrail:
+:ti4-faction-pok-nomad:
 { .splice-faction }
 
 **TBA**

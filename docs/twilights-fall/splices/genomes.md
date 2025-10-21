@@ -56,10 +56,6 @@ toc_depth: 2
 
 -   
 
-    --8<-- "snippets/tf/genomes/mahact-genome.md"
-
--   
-
     --8<-- "snippets/tf/genomes/mentak-genome.md"
 
 -   
@@ -80,7 +76,11 @@ toc_depth: 2
 
 -   
 
-    --8<-- "snippets/tf/genomes/nomad-genome.md"
+    --8<-- "snippets/tf/genomes/nomad-1-genome.md"
+
+-   
+
+    --8<-- "snippets/tf/genomes/nomad-2-genome.md"
 
 -   
 
@@ -125,5 +125,9 @@ toc_depth: 2
 -   
 
     --8<-- "snippets/tf/genomes/yssaril-genome.md"
+
+-   
+
+    --8<-- "snippets/tf/genomes/TBA-genome.md"
 
 </div>

@@ -50,70 +50,90 @@
   background-color: #f5f5f5;
 }
 
+/* Strategy Cards */
+
 .leadership-card {
   border: 5px solid #ad1d1c !important;
-  color: #ad1d1c;
+  background-color: #f6c5b1;
+  color: black;
 }
 .diplomacy-card {
   border: 5px solid #bb5920 !important;
-  color: #bb5920;
+  background-color: #fae7a7;
+  color: black;
 }
 .politics-card {
   border: 5px solid #c5a500 !important;
-  color: #c5a500;
+  background-color: #f6f6a2;
+  color: black;
 }
 .construction-card {
   border: 5px solid #467543 !important;
-  color: #467543;
+  background-color: #b8d98b;
+  color: black;
 }
 .trade-card {
   border: 5px solid #0e6376 !important;
-  color: #0e6376;
+  background-color: #b3e1dd;
+  color: black;
 }
 .warfare-card {
   border: 5px solid #1356a3 !important;
-  color: #1356a3;
+  background-color: #b9eafb;
+  color: black;
 }
 .technology-card {
   border: 5px solid #2b3e9f !important;
-  color: #2b3e9f;
+  background-color: #aacce7;
+  color: black;
 }
 .imperial-card {
   border: 5px solid #54296a !important;
-  color: #54296a;
+  background-color: #c3a2c6;
+  color: black;
 }
+
+/* TF Strategy Cards */
 
 .lux-card {
   border: 5px solid #ec1f25 !important;
-  color: #fac4b7;
+  background-color: #fac4b7;
+  color: black;
 }
 .noctis-card {
   border: 5px solid #f57a20 !important;
-  color: #fdcc9d;
+  background-color: #fdcc9d;
+  color: black;
 }
 .tyrannus-card {
   border: 5px solid #fee446 !important;
-  color: #ffeba8;
+  background-color: #ffeba8;
+  color: black;
 }
 .civitas-card {
   border: 5px solid #02ad4e !important;
-  color: #add8aa;
+  background-color: #add8aa;
+  color: black;
 }
 .amicus-card {
   border: 5px solid #009d86 !important;
-  color: #9fd3cc;
+  background-color: #9fd3cc;
+  color: black;
 }
 .calamitas-card {
   border: 5px solid #008fd2 !important;
-  color: #b4dbf3;
+  background-color: #b4dbf3;
+  color: black;
 }
 .magus-card {
   border: 5px solid #662d91 !important;
-  color: #c1afd5;
+  background-color: #c1afd5;
+  color: black;
 }
 .aeterna-card {
   border: 5px solid #cf118c !important;
-  color: #eeb8d5;
+  background-color: #eeb8d5;
+  color: black;
 }
 
 .breakthrough-synergy {

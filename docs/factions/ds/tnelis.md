@@ -50,6 +50,8 @@ toc_depth: 2
 
         --8<-- "snippets/techs/base/blue/antimass-deflectors.md"
 
+        ---
+
         --8<-- "snippets/techs/base/green/neural-motivator.md"
 
     === "Absol's Mod :ti4-absol:"  
@@ -60,6 +62,8 @@ toc_depth: 2
         ---
 
         --8<-- "snippets/techs/absol/blue/antimass-deflectors.md"
+
+        ---
 
         --8<-- "snippets/techs/absol/green/neural-motivator.md"
 
@@ -88,10 +92,6 @@ toc_depth: 2
 
     ---
     --8<-- "snippets/units/faction/ds/tnelis-mech.md"
-
-</div>
-
-<div class="grid cards" markdown>
 
 -   ## __Special Units__
 

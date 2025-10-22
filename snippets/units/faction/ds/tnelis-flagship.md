@@ -6,8 +6,7 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 At the start of a round of combat, choose 1 ship in this system, during this combat round, that ship rolls 1 less combat die.
 
-* <span style="font-variant:small-caps;">Sustain Damage</span> 
-
+* <span style="font-variant:small-caps;">Sustain Damage</span>
 
 ---
 

@@ -6,7 +6,8 @@ Unit Type: Mech :ti4-unit-mech:
 
 While this unit is in a space area during combat, you may use it's <span style="font-variant:small-caps;">Sustain Damage</span> ability to cancel a hit that is produced against your ships in this system
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

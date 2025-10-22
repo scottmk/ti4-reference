@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 During a space combat, hits produced by this ship and by your dreadnaughts in this system must be assigned to non-fighter ships if able.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

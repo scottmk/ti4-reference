@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 When this unit makes a combat roll, it rolls a number of dice equal to the number of your opponent's non-fighter ships in this system
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

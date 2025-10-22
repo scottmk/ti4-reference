@@ -6,7 +6,8 @@ Unit Type: Mech :ti4-unit-mech:
 
 If this unit is in the space area of the active system at the start of a space combat, flip this card.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

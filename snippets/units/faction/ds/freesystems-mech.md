@@ -6,7 +6,8 @@ Unit Type: Mech :ti4-unit-mech:
 
 <span style="font-variant:small-caps;">Deploy</span>: After you use your <span style="font-variant:small-caps;">Rally to the Cause</span> faction ability in a system, you may spend 1 trade good to place 1 mech on a planet you control adjacent to that system.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

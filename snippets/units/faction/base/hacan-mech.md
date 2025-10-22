@@ -6,7 +6,8 @@ Unit Type: Mech :ti4-unit-mech:
 
 This planet's card may be traded as part of a transaction; if you do, move all of your units from this planet to another planet you control.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

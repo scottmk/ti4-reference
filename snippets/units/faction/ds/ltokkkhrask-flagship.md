@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 At the start of a space combat in this system, choose up to 2 non-fighter ships to gain <span style="font-variant:small-caps;">Sustain Damage</span> until the end of combat.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

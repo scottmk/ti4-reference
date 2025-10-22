@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 After this ship produces 1 or more hits during a round of space combat, you may repair 1 ship you control in this system.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

@@ -8,7 +8,9 @@ Unit Type: War Sun :ti4-unit-warsun:
 
 Other players' units in this system lose their <span style="font-variant:small-caps;">Planetary Shield</span> Ability.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__ <span style="font-variant:small-caps;">Bombardment 3(x3)</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+* <span style="font-variant:small-caps;">Bombardment 3(x3)</span> 
+
 
 ---
 

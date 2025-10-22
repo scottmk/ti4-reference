@@ -10,7 +10,9 @@ This unit cannot be destroyed by "Direct Hit" action cards.
 
 When this unit is destroyed, you may place 1 fighter or 1 destroyer from your reinforcements in this system's space area.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__ <span style="font-variant:small-caps;">Bombardment 5</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+* <span style="font-variant:small-caps;">Bombardment 5</span> 
+
 
 ---
 

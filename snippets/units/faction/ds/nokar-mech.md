@@ -6,7 +6,8 @@ Unit Type: Mech :ti4-unit-mech:
 
 You may treat this system as adjacent to the active system for the purposes of declaring and resolving retreats.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

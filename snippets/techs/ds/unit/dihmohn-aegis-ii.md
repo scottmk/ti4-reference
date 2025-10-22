@@ -8,7 +8,9 @@ Unit Type: Dreadnought :ti4-unit-dreadnought:
 
 When another ship in this system would be destroyed by a game effect, you may have this ship become damaged instead.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__ <span style="font-variant:small-caps;">Bombardment 5</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+* <span style="font-variant:small-caps;">Bombardment 5</span> 
+
 
 ---
 

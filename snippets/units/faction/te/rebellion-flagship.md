@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 While this unit is in a system that contains an active breach, other players' units in systems with active breaches lose all of their unit abilities.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

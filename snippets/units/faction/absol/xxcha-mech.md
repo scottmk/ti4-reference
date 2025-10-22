@@ -6,7 +6,9 @@ Unit Type: Mech :ti4-unit-mech:
 
 When this unit uses <span style="font-variant:small-caps;">Sustain Damage</span>, cancel 2 hits instead of 1.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__ <span style="font-variant:small-caps;">Space Cannon 8</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+* <span style="font-variant:small-caps;">Space Cannon 8</span> 
+
 
 ---
 

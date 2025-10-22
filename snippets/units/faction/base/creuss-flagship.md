@@ -8,7 +8,8 @@ This ship's system contains a delta wormhole.
 
 During movement, this ship may move before or after your other ships.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

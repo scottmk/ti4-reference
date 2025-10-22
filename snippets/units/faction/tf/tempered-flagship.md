@@ -6,7 +6,8 @@ Unit Type: Tempered Flagship :ti4-unit-flagship:
 
 Apply +1 to the <span style="font-variant:small-caps;">Move</span> value of this ship if it would transport 4 units.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

@@ -8,7 +8,8 @@ Unit Type: Mech :ti4-unit-mech:
 
 <sup><sub>NB: can <span style="font-variant:small-caps;">Deploy</span> 1 mech for each destroyer that moves</sup></sub>
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

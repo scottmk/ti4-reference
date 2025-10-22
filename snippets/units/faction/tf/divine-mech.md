@@ -6,7 +6,9 @@ Unit Type: Divine Mech :ti4-unit-mech:
 
 At the start of each round of ground combat, you may spend 1 token from your strategy pool to repair all of your mechs.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__ <span style="font-variant:small-caps;">Planetary Shield</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+* <span style="font-variant:small-caps;">Planetary Shield</span> 
+
 
 ---
 

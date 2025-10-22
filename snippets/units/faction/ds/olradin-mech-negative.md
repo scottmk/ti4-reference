@@ -6,7 +6,8 @@ Unit Type: Mech :ti4-unit-mech:
 
 If this planet contains no more than 1 of your mechs, apply +1 to its resource value.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

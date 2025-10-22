@@ -10,7 +10,8 @@ This unit may move without being transported.
 
 Fighters in excess of your ships' capacity count against your fleet pool.
 
-__|__ <span style="font-variant:small-caps;">Bombardment 8</span> __|__
+* <span style="font-variant:small-caps;">Bombardment 8</span> 
+
 
 ---
 

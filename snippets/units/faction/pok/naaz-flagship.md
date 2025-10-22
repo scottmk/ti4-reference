@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 Your mechs in this system roll 1 additional die during combat.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

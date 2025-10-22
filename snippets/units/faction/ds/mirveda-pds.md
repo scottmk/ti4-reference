@@ -10,7 +10,9 @@ This unit can move and retreat as if it were a ship.
 
 This unit can be blockaded, if it is blockaded, it is destroyed.
 
-__|__ <span style="font-variant:small-caps;">Bombardment 6</span> __|__ <span style="font-variant:small-caps;">Space Cannon 6</span> __|__
+* <span style="font-variant:small-caps;">Bombardment 6</span> 
+* <span style="font-variant:small-caps;">Space Cannon 6</span> 
+
 
 ---
 

@@ -6,7 +6,9 @@ Unit Type: Raithborn Flagship :ti4-unit-flagship:
 
 This ship can transport any number of infantry and fighters, and they do not count against this ship's capacity.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__ <span style="font-variant:small-caps;">Bombardment 7</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+* <span style="font-variant:small-caps;">Bombardment 7</span> 
+
 
 ---
 

@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 During an invasion in this system, you may commit fighters to planets as if they were ground forces. After combat, return those units to the space area.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

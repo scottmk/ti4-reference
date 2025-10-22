@@ -6,7 +6,8 @@ Unit Type: Mech :ti4-unit-mech:
 
 After any player activates a system, you may remove this unit from the game board to place or move a Creuss wormhole token into this system.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

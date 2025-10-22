@@ -96,10 +96,14 @@ toc_depth: 2
 
         ---
 
+        ---
+
         --8<-- "snippets/techs/base/unit/sol-advanced-carrier-ii.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/unit/sol-spec-ops-ii.md"
+
+        ---
 
         ---
 

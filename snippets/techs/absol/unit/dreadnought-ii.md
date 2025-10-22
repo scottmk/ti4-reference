@@ -8,7 +8,9 @@ Unit Type: Dreadnought :ti4-unit-dreadnought:
 
 This unit cannot be destroyed by "Direct Hit" action cards.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__ <span style="font-variant:small-caps;">Bombardment 5</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+* <span style="font-variant:small-caps;">Bombardment 5</span> 
+
 
 ---
 

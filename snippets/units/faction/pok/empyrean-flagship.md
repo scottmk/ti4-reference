@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 After any player's unit in this system or an adjacent system uses <span style="font-variant:small-caps;">Sustain Damage</span>, you may spend 2 influence to repair that unit.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

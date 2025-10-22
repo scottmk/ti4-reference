@@ -104,10 +104,14 @@ toc_depth: 2
 
         ---
 
+        ---
+
         --8<-- "snippets/techs/pok/unit/titans-hel-titan-ii.md"
 
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/unit/titans-saturn-engine-ii.md"
+
+        ---
 
         ---
 

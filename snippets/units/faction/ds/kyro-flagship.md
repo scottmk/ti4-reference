@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 When you commit units to a planet in this system, commit 1 infantry from your reinforcements to that planet.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

@@ -8,4 +8,5 @@ This system is a gravity rift; your ships do not roll for this gravity rift. Pla
 
 Up to 6 fighters in this system do not count against your ships' capacity.
 
-__|__ <span style="font-variant:small-caps;">Production 5</span> __|__
+* <span style="font-variant:small-caps;">Production 5</span> 
+

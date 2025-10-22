@@ -6,7 +6,8 @@ Unit Type: Mech :ti4-unit-mech:
 
 Apply +1 to this unit's combat rolls for each faction technology your opponent owns.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

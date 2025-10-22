@@ -6,7 +6,8 @@ Unit Type: Mech :ti4-unit-mech:
 
 When a player commits 1 or more units to a planet you control adjacent to this system, you may swap this unit with 1 of your infantry on that planet.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

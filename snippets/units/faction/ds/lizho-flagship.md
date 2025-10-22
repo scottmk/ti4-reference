@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 This unit can only be destroyed by an uncanceled hit being assigned to it.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 When this unit retreats, you may destroy 1 ship in the active system that does not have <span style="font-variant:small-caps;">Sustain Damage</span>.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

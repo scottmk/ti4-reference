@@ -6,7 +6,8 @@ Unit Type: Mech :ti4-unit-mech:
 
 <span style="font-variant:small-caps;">Deploy</span>: When you would place a PDS on a planet, you may place 1 mech and 1 infantry on that planet instead.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

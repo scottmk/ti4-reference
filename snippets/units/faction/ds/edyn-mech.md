@@ -8,7 +8,8 @@ This system is a <span style="font-variant:small-caps;">Sigil</span> anomaly. Pl
 
 Game effects cannot prevent you from using this ability.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

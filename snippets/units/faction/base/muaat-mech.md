@@ -6,7 +6,8 @@ Unit Type: Mech :ti4-unit-mech:
 
 When you use your <span style="font-variant:small-caps;">Star Forge</span> faction ability in this system or an adjacent system, you may place 1 infantry from your reinforcements with this unit.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

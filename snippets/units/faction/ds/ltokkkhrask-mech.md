@@ -6,7 +6,8 @@ Unit Type: Mech :ti4-unit-mech:
 
 Units other than your mechs do not make combat rolls during the first round of ground combat on this planet.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

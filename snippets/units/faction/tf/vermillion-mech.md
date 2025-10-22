@@ -6,7 +6,8 @@ Unit Type: Vermillion Mech :ti4-unit-mech:
 
 <span style="font-variant:small-caps;">Deploy</span>: When your flagship is placed, you may place 1 mech into your flagship's space area.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

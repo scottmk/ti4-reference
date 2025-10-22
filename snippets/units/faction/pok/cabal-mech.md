@@ -6,7 +6,8 @@ Unit Type: Mech :ti4-unit-mech:
 
 When your infantry on this planet are destroyed, place them on your faction sheet; those units are captured.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

@@ -8,6 +8,8 @@ Unit Type: Carrier :ti4-unit-carrier:
 
 This unit may ignore the movement effects of anomalies.
 
+<sup><sub>Note: This does not ignore Gravity Rifts rolls/non-movement effects!</sub></sup>
+
 ---
 
 __|__ <span style="font-variant:small-caps;">Cost 3</span> __|__ <span style="font-variant:small-caps;">Combat 7</span> __|__ <span style="font-variant:small-caps;">Move 2</span> __|__ <span style="font-variant:small-caps;">Capacity 6</span> __|__

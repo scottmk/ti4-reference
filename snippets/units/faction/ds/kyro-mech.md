@@ -6,7 +6,8 @@ Unit Type: Mech :ti4-unit-mech:
 
 When this unit would be destroyed, if it is damaged, you may discard 1 action card to repair it instead.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

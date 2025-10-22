@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 When this unit makes a combat roll, it rolls 1 additional die for each secret objective you have scored.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

@@ -6,7 +6,8 @@ Unit Type: Mech :ti4-unit-mech:
 
 After you win a ground combat on this planet, if this planet contains exactly 1 other mech, explore this planet.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

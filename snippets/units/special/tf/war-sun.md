@@ -3,4 +3,6 @@
 <span style="font-variant:small-caps;">Cost 12</span> __|__ <span style="font-variant:small-caps;">Combat 5 :ti4-unit-dice-x2:</span> __|__ <span style="font-variant:small-caps;">Move 0</span> __|__ <span style="font-variant:small-caps;">Capacity 6</span>
 
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__ <span style="font-variant:small-caps;">Bombardment 5(x3)</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+* <span style="font-variant:small-caps;">Bombardment 5(x3)</span> 
+

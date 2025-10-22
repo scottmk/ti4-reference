@@ -6,7 +6,9 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 When another player's structure in this system is destroyed, gain 2 trade goods.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__ <span style="font-variant:small-caps;">Bombardment 5(x4)</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+* <span style="font-variant:small-caps;">Bombardment 5(x4)</span> 
+
 
 ---
 

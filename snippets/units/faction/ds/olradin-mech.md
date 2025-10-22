@@ -10,7 +10,8 @@ If you have at least 2 :material-plus: Policies, and if this planet contains no 
 
 If you have at least 2 :material-minus: Policies, and if this planet contains no more than 1 of your mechs, apply +1 to its resource value.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

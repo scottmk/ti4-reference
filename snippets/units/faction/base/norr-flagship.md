@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 Apply +1 to the result of each of your other ship's combat rolls in this system.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

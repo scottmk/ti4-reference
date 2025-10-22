@@ -6,7 +6,8 @@ Unit Type: Destroyer :ti4-unit-destroyer:
 
 At the end of any player's combat in this unit's system or an adjacent system, you may place 1 inactive breach in that system.
 
-__|__ <span style="font-variant:small-caps;">Anti-Fighter Barrage 9(x2)</span> __|__
+* <span style="font-variant:small-caps;">Anti-Fighter Barrage 9(x2)</span> 
+
 
 ---
 

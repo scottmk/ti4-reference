@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 For each unit upgrade technology your opponent owns, apply +1 to the results of this unit's combat rolls.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

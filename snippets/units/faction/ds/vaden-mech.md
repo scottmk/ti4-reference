@@ -6,7 +6,8 @@ Unit Type: Mech :ti4-unit-mech:
 
 At the end of a round of ground combat, you may remove 1 of your opponent's control tokens from your faction sheet to place 1 infantry unit from your reinforcements on this planet.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

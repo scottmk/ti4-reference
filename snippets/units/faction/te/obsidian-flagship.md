@@ -5,7 +5,8 @@ Unit Type: Decayed Flagship :ti4-unit-flagship:
 ---
 
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

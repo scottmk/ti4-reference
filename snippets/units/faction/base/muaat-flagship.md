@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 <span style="font-variant:small-caps;">Action</span>: Spend 1 token from your strategy pool to place 1 cruiser in this system.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

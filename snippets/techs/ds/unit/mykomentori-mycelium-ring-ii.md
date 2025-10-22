@@ -10,4 +10,5 @@ This unit's <span style="font-variant:small-caps;">Production</span> value is eq
 
 <span style="font-variant:small-caps;">Deploy</span>: When you gain control of a planet, you may replace 3 infantry on that planet with 1 space dock.
 
-<span style="font-variant:small-caps;">Planetary Shield</span> __|__ <span style="font-variant:small-caps;">Production</span> X+5
+* <span style="font-variant:small-caps;">Planetary Shield</span>
+* <span style="font-variant:small-caps;">Production X+5</span>

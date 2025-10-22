@@ -8,7 +8,8 @@ This unit produces only 1 fighter or infantry for their cost instead of 2.
 
 This unit cannot move or be produced.
 
-__|__ <span style="font-variant:small-caps;">Production 5</span> __|__
+* <span style="font-variant:small-caps;">Production 5</span> 
+
 
 ---
 

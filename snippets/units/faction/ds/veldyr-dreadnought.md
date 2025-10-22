@@ -4,7 +4,10 @@ Unit Type: Dreadnought :ti4-unit-dreadnought:
 
 ---
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__ <span style="font-variant:small-caps;">Bombardment 5</span> __|__ <span style="font-variant:small-caps;">Space Cannon 8</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+* <span style="font-variant:small-caps;">Bombardment 5</span> 
+* <span style="font-variant:small-caps;">Space Cannon 8</span> 
+
 
 ---
 

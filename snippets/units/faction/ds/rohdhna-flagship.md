@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 <span style="font-variant:small-caps;">Deploy</span>: After you activate a system, you may spend 4 resources to replace 1 of your non-fighter ships in that system with your flagship.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

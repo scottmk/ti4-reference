@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 Other player's ships in this system cannot use <span style="font-variant:small-caps;">Sustain Damage</span>.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

@@ -6,7 +6,8 @@ Unit Type: Mech :ti4-unit-mech:
 
 This unit may be committed to planets from space areas and planets in or adjacent to the active system.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

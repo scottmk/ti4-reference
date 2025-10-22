@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 If a unit in this system would be destroyed, you may remove it from the game board instead.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

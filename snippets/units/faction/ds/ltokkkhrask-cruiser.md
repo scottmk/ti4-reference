@@ -4,7 +4,8 @@ Unit Type: Cruiser :ti4-unit-cruiser:
 
 ---
 
-__|__ <span style="font-variant:small-caps;">Bombardment 8</span> __|__
+* <span style="font-variant:small-caps;">Bombardment 8</span> 
+
 
 ---
 

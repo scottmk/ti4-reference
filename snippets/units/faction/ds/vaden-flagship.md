@@ -6,7 +6,9 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 After this unit produces 1 or more hits during a <span style="font-variant:small-caps;">Bombardment</span> roll, gain 1 trade good.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__ <span style="font-variant:small-caps;">Bombardment 5(x2)</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+* <span style="font-variant:small-caps;">Bombardment 5(x2)</span> 
+
 
 ---
 

@@ -4,9 +4,10 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 ---
 
-<span style="font-variant:small-caps;">Sustain Damage</span> __|__ <span style="font-variant:small-caps;">Deep Space Cannon 5(x3)</span>
-
 You may use this unit's <span style="font-variant:small-caps;">Space Cannon</span> against ships that are in adjacent systems.
+
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+* <span style="font-variant:small-caps;">Deep Space Cannon 5(x3)</span>
 
 ---
 

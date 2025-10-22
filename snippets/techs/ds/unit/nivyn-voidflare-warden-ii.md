@@ -8,7 +8,8 @@ Unit Type: Mech :ti4-unit-mech:
 
 After a system is activated, you may have this unit become damaged to place or move the Wound token into this system.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

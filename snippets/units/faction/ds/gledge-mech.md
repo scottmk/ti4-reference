@@ -6,7 +6,8 @@ Unit Type: Mech :ti4-unit-mech:
 
 When you exhaust this planet to spend resources, you may also spend 1 of its influence as a resource.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

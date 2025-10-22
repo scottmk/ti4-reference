@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 After a player explores a planet in this system, place 1 infantry from their reinforcements on that planet.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

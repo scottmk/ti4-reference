@@ -6,7 +6,9 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 After you win a space combat in this system, you may have this ship become damaged to gain 1 command token.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__ <span style="font-variant:small-caps;">Bombardment 3</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+* <span style="font-variant:small-caps;">Bombardment 3</span> 
+
 
 ---
 

@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 Once per round of space combat, when a non-fighter ship in this system is destroyed, you may gain 1 commodity.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

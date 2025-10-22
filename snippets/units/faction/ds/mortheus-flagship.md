@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 After you activate this system, if it does not contain any planets, you may place 1 frontier token in this system.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

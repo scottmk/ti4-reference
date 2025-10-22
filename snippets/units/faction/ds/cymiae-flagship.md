@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 After you win a combat in this system, you may take 1 of your opponent's action cards, at random.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

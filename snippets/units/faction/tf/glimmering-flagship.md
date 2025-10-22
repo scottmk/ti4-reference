@@ -6,7 +6,8 @@ Unit Type: Glimmering Flagship :ti4-unit-flagship:
 
 When you splice, gain 2 commodities or convert up to 2 of your commodities to trade goods.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 Other players cannot play action cards during a space combat in this system.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

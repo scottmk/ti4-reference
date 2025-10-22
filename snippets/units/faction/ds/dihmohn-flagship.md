@@ -8,7 +8,8 @@ After this unit moves into the active system, you may produce up to 2 units that
 
 <sup><sub>Note: This cannot produce ships if enemy ships are present</sub></sup>
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

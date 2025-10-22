@@ -10,7 +10,8 @@ This unit can move and retreat as if it were a ship.
 
 If this unit is blockaded, it is destroyed.
 
-__|__ <span style="font-variant:small-caps;">Production 5</span> __|__
+* <span style="font-variant:small-caps;">Production 5</span> 
+
 
 ---
 

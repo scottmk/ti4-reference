@@ -10,7 +10,7 @@ The resource value of this planet is increased by 1.
 
 Up to 3 fighters in this system do not count against your ships' capacity.
 
-<span style="font-variant:small-caps;">Production</span> X+2
+* <span style="font-variant:small-caps;">Production X+2</span>
 
 ---
 

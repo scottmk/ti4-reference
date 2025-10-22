@@ -5,7 +5,9 @@ Unit Type: Flagship :ti4-unit-flagship:
 ---
 
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__ <span style="font-variant:small-caps;">Anti-Fighter Barrage 6(x4)</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+* <span style="font-variant:small-caps;">Anti-Fighter Barrage 6(x4)</span> 
+
 
 ---
 

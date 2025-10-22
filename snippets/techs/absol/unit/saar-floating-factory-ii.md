@@ -14,7 +14,8 @@ If this unit is blockaded, it is destroyed.
 
 1 non-fighter ship in this system does not count against your fleet pool.
 
-__|__ <span style="font-variant:small-caps;">Production 7</span> __|__
+* <span style="font-variant:small-caps;">Production 7</span> 
+
 
 ---
 

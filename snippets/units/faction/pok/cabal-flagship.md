@@ -6,7 +6,9 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 Capture all other non-structure units that are destroyed in this system, including your own.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__ <span style="font-variant:small-caps;">Bombardment 5</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+* <span style="font-variant:small-caps;">Bombardment 5</span> 
+
 
 ---
 

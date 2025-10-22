@@ -6,7 +6,8 @@ Unit Type: Decayed Mech :ti4-unit-mech:
 
 If this unit was coexisting when this card flipped to this side, gain control of its planet; the other player's units are now coexisting.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

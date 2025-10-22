@@ -6,7 +6,9 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 Hits produced by the <span style="font-variant:small-caps;">Space Cannon</span> abilities of your units in this system cannot be canceled.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__ <span style="font-variant:small-caps;">Space Cannon 7</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+* <span style="font-variant:small-caps;">Space Cannon 7</span> 
+
 
 ---
 

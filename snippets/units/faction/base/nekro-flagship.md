@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 At the start of a space combat, choose any number of your ground forces in this system to participate in that combat as if they were ships.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 At the end of a tactical action in this system, you may explore 1 planet you control in this system.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

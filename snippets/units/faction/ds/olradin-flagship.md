@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 When you move this ship, apply +1 to the move value of each of your other ships during this tactical action.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

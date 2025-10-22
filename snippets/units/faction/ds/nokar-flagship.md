@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 Apply +1 to the results of this unit's combat rolls for every 2 destroyers you control.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

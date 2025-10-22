@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 When this unit retreats, you may capture each of your units that retreat.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

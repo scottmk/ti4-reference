@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 After the first round of combat in this system, place up to 2 of your captured units in this system or on that planet.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

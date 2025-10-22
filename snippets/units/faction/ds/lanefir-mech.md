@@ -6,7 +6,8 @@ Unit Type: Mech :ti4-unit-mech:
 
 <span style="font-variant:small-caps;">Deploy</span>: At the start of your turn, purge 1 of your relic fragments to place 1 mech on a planet you control, if you do, you may end your turn. 
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

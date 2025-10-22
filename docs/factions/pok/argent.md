@@ -109,8 +109,6 @@ toc_depth: 2
 
         --8<-- "snippets/techs/pok/yellow/argent-aerie-hololattice.md"
 
-    ---
-
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/techs/absol/unit/argent-strike-wing-alpha-ii.md"
 

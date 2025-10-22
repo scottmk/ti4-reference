@@ -12,4 +12,4 @@ Up to 5 fighters in this system do not count against your ships' capacity.
 
 1 non-fighter ship in this system does not count against your fleet pool.
 
-<span style="font-variant:small-caps;">Production</span> X+4
+* <span style="font-variant:small-caps;">Production X+4</span>

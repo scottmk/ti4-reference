@@ -8,7 +8,8 @@ Unit Type: Destroyer :ti4-unit-destroyer:
 
 When this unit uses <span style="font-variant:small-caps;">Anti-Fighter Barrage</span>, each result of 9 or 10 also destroys 1 of your opponents infantry in the space area of the active system.
 
-__|__ <span style="font-variant:small-caps;">Anti-Fighter Barrage 6(x3)</span> __|__
+* <span style="font-variant:small-caps;">Anti-Fighter Barrage 6(x3)</span> 
+
 
 ---
 

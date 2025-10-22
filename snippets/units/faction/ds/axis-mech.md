@@ -6,7 +6,8 @@ Unit Type: Mech :ti4-unit-mech:
 
 You may treat a spacedock on this planet as if it has <span style="font-variant:small-caps;">Production 5</span>.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

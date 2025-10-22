@@ -6,7 +6,8 @@ Unit Type: Mech :ti4-unit-mech:
 
 You may use the <span style="font-variant:small-caps;">Indoctrination</span> ability on this planet without spending influence.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

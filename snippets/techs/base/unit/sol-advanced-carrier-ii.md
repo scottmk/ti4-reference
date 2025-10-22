@@ -7,7 +7,8 @@ Unit Type: Carrier :ti4-unit-carrier:
 ---
 
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

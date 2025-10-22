@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 Other players must spend 2 influence to activate the system that contains this ship.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

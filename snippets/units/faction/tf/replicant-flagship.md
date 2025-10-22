@@ -6,7 +6,8 @@ Unit Type: Replicant Flagship :ti4-unit-flagship:
 
 This unit gains the unit abilities and text abilities of your destroyer, cruiser, and dreadnought unit upgrade technologies.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

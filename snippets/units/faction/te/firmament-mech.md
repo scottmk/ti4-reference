@@ -7,7 +7,8 @@ Unit Type: Mech :ti4-unit-mech:
 When ground forces are committed to this planet, you may choose for your units to coexist, if they were not already.
 Flip this card if your faction becomes the Obsidian.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

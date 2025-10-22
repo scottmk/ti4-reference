@@ -6,7 +6,8 @@ Unit Type: Mech :ti4-unit-mech:
 
 At the start of invasion, if this unit is in the space area of the active system, you may remove this unit from the game board to destroy 1 unit on a planet in that system.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

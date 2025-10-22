@@ -6,7 +6,8 @@ Unit Type: Flagship :ti4-unit-flagship:
 
 After you roll a die during a space combat in this system, you may spend 1 trade good to apply +1 to the result.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

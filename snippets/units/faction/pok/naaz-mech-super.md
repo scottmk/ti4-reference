@@ -10,7 +10,8 @@ Repair it at the start of every combat round.
 Game effects cannot place or produce your mechs.
 When this unit is destroyed or removed, flip this card and return it to your play area.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

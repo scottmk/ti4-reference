@@ -6,7 +6,8 @@ Unit Type: Mech :ti4-unit-mech:
 
 After this unit uses it's <span style="font-variant:small-caps;">Sustain Damage</span> ability during ground combat, it produces 1 hit against your opponent's ground forces on this planet.
 
-__|__ <span style="font-variant:small-caps;">Sustain Damage</span> __|__
+* <span style="font-variant:small-caps;">Sustain Damage</span> 
+
 
 ---
 

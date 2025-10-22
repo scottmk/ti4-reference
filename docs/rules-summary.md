@@ -120,7 +120,7 @@ To perform a component action, a player reads the action's text and follows the 
     **Primary**: 
 
     * Gain 3 command tokens.
-    * Spend any amount of influence to gain 1 command token for every 3 influence spent
+    * Spend any amount of influence to gain 1 command token for every 3 influence spent.
 
     ---
     **Secondary**:

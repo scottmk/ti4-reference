@@ -19,6 +19,9 @@ It also includes references for the [_Discordant Stars_ fan expansion](https://t
 
 ## Changelog
 
+### **22 Oct 25**
+* Added _Twilight's Fall_ strategy cards to [rules section](twilights-fall/rules.md)
+
 ### **16 Oct 25**
 * Added _Twilight's Fall_ section
     * Added all the [Mad Mahact Kings](twilights-fall/mad-mahact-kings.md)

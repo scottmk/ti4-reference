@@ -1,5 +1,5 @@
 ### **TBA**
-:ti4-faction-te-obsidian:
+:ti4-faction-te-firmament:
 { .splice-faction }
 
 **Obsidian Paradigm**

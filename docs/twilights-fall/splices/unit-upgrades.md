@@ -84,7 +84,7 @@ toc_depth: 2
 
 -   
 
-    --8<-- "snippets/tf/unit-upgrades/obsidian-TBA.md"
+    --8<-- "snippets/tf/unit-upgrades/obsidian-warsun.md"
 
 -   
 

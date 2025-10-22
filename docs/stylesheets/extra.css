@@ -83,6 +83,39 @@
   color: #54296a;
 }
 
+.lux-card {
+  border: 5px solid #ec1f25 !important;
+  color: #fac4b7;
+}
+.noctis-card {
+  border: 5px solid #f57a20 !important;
+  color: #fdcc9d;
+}
+.tyrannus-card {
+  border: 5px solid #fee446 !important;
+  color: #ffeba8;
+}
+.civitas-card {
+  border: 5px solid #02ad4e !important;
+  color: #add8aa;
+}
+.amicus-card {
+  border: 5px solid #009d86 !important;
+  color: #9fd3cc;
+}
+.calamitas-card {
+  border: 5px solid #008fd2 !important;
+  color: #b4dbf3;
+}
+.magus-card {
+  border: 5px solid #662d91 !important;
+  color: #c1afd5;
+}
+.aeterna-card {
+  border: 5px solid #cf118c !important;
+  color: #eeb8d5;
+}
+
 .breakthrough-synergy {
   text-align: center !important;
   font-size: 24px;

@@ -13,5 +13,5 @@ Other players' units in this system lose their <span style="font-variant:small-c
 
 ---
 
-<span style="font-variant:small-caps;">Cost 10</span> __|__ <span style="font-variant:small-caps;">Combat 3 :ti4-unit-dice-x3:</span> __|__ <span style="font-variant:small-caps;">Move 3</span> __|__ <span style="font-variant:small-caps;">Capacity 6</span>
+__|__ <span style="font-variant:small-caps;">Cost 10</span> __|__ <span style="font-variant:small-caps;">Combat 3 :ti4-unit-dice-x3:</span> __|__ <span style="font-variant:small-caps;">Move 3</span> __|__ <span style="font-variant:small-caps;">Capacity 6</span> __|__
 { .unit-stats }

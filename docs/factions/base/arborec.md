@@ -70,10 +70,6 @@ toc_depth: 2
     === "Absol's Mod :ti4-absol:"
         --8<-- "snippets/units/faction/absol/arborec-mech.md"
 
-</div>
-
-<div class="grid cards" markdown>
-
 -   ## __Special Units__
 
     ---

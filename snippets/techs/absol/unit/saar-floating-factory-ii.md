@@ -18,5 +18,5 @@ If this unit is blockaded, it is destroyed.
 
 ---
 
-__|__ <span style="font-variant:small-caps;">Move 2</span> __|__ <span style="font-variant:small-caps;">Capacity 6</span> __|__
+__|__ <span style="font-variant:small-caps;white-space: nowrap;">**Move 2**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Capacity 6**</span> __|__
 { .unit-stats }

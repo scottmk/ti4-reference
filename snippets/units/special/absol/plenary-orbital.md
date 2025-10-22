@@ -19,5 +19,5 @@ When this unit is destroyed or removed, purge this card.
 
 ---
 
-__|__ <span style="font-variant:small-caps;">Capacity 8</span> __|__
+__|__ <span style="font-variant:small-caps;white-space: nowrap;">**Capacity 8**</span> __|__
 { .unit-stats }

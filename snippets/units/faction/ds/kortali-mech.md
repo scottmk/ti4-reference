@@ -11,5 +11,5 @@ This unit cannot lose its <span style="font-variant:small-caps;">Planetary Shiel
 
 ---
 
-__|__ <span style="font-variant:small-caps;">Cost 2</span> __|__ <span style="font-variant:small-caps;">Combat 5</span> __|__
+__|__ <span style="font-variant:small-caps;white-space: nowrap;">**Cost 2**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Combat 5**</span> __|__
 { .unit-stats }

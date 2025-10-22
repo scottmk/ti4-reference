@@ -10,5 +10,5 @@ Units other than your mechs do not make combat rolls during the first round of g
 
 ---
 
-__|__ <span style="font-variant:small-caps;">Cost 2</span> __|__ <span style="font-variant:small-caps;">Combat 6</span> __|__
+__|__ <span style="font-variant:small-caps;white-space: nowrap;">**Cost 2**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Combat 6**</span> __|__
 { .unit-stats }

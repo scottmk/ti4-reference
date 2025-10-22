@@ -12,5 +12,5 @@ After a system is activated, you may have this unit become damaged to place or m
 
 ---
 
-__|__ <span style="font-variant:small-caps;">Cost 2</span> __|__ <span style="font-variant:small-caps;">Combat 4</span> __|__
+__|__ <span style="font-variant:small-caps;white-space: nowrap;">**Cost 2**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Combat 4**</span> __|__
 { .unit-stats }

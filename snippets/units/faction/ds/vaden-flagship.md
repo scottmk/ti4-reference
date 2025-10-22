@@ -11,5 +11,5 @@ After this unit produces 1 or more hits during a <span style="font-variant:small
 
 ---
 
-__|__ <span style="font-variant:small-caps;">Cost 8</span> __|__ <span style="font-variant:small-caps;">Combat 7 :ti4-unit-dice-x2:</span> __|__ <span style="font-variant:small-caps;">Move 1</span> __|__ <span style="font-variant:small-caps;">Capacity 3</span> __|__
+__|__ <span style="font-variant:small-caps;white-space: nowrap;">**Cost 8**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Combat 7 :ti4-unit-dice-x2:**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Move 1**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Capacity 3**</span> __|__
 { .unit-stats }

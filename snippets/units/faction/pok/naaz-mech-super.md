@@ -14,7 +14,7 @@ When this unit is destroyed or removed, flip this card and return it to your pla
 
 ---
 
-__|__ <span style="font-variant:small-caps;">Combat 4 :ti4-unit-dice-x4:</span> __|__ <span style="font-variant:small-caps;">Move 3</span> __|__
+__|__ <span style="font-variant:small-caps;white-space: nowrap;">**Combat 4 :ti4-unit-dice-x4:**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Move 3**</span> __|__
 { .unit-stats }
 
 ---

@@ -10,5 +10,5 @@ At the end of a tactical action in this system, you may place up to 2 ground for
 
 ---
 
-__|__ <span style="font-variant:small-caps;">Cost 2</span> __|__ <span style="font-variant:small-caps;">Combat 6</span> __|__
+__|__ <span style="font-variant:small-caps;white-space: nowrap;">**Cost 2**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Combat 6**</span> __|__
 { .unit-stats }

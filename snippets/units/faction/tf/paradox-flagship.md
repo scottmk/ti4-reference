@@ -11,5 +11,5 @@ Its <span style="font-variant:small-caps;">Move</span> value is reduced by 1 for
 
 ---
 
-__|__ <span style="font-variant:small-caps;">Cost 7</span> __|__ <span style="font-variant:small-caps;">Combat 7</span> __|__ <span style="font-variant:small-caps;">Move 7</span> __|__ <span style="font-variant:small-caps;">Capacity 7</span> __|__
+__|__ <span style="font-variant:small-caps;white-space: nowrap;">**Cost 7**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Combat 7**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Move 7**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Capacity 7**</span> __|__
 { .unit-stats }

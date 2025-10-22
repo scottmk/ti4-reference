@@ -12,5 +12,5 @@ This unit cannot move or be produced.
 
 ---
 
-__|__ <span style="font-variant:small-caps;">Combat 5 :ti4-unit-dice-x2:</span> __|__ <span style="font-variant:small-caps;">Capacity 4</span> __|__
+__|__ <span style="font-variant:small-caps;white-space: nowrap;">**Combat 5 :ti4-unit-dice-x2:**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Capacity 4**</span> __|__
 { .unit-stats }

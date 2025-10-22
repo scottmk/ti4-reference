@@ -10,5 +10,5 @@ You may reroll 1 of your unit's combat dice during each round of ground combat o
 
 ---
 
-__|__ <span style="font-variant:small-caps;">Cost 3</span> __|__ <span style="font-variant:small-caps;">Combat 9</span> __|__ <span style="font-variant:small-caps;">Move 2</span> __|__ <span style="font-variant:small-caps;">Capacity 6</span> __|__
+__|__ <span style="font-variant:small-caps;white-space: nowrap;">**Cost 3**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Combat 9**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Move 2**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Capacity 6**</span> __|__
 { .unit-stats }

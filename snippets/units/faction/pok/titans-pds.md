@@ -13,5 +13,5 @@ This unit is treated as both a structure and a ground force. It cannot be transp
 
 ---
 
-__|__ <span style="font-variant:small-caps;">Combat 7</span> __|__
+__|__ <span style="font-variant:small-caps;white-space: nowrap;">**Combat 7**</span> __|__
 { .unit-stats }

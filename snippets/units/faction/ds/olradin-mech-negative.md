@@ -10,5 +10,5 @@ If this planet contains no more than 1 of your mechs, apply +1 to its resource v
 
 ---
 
-__|__ <span style="font-variant:small-caps;">Cost 2</span> __|__ <span style="font-variant:small-caps;">Combat 6</span> __|__
+__|__ <span style="font-variant:small-caps;white-space: nowrap;">**Cost 2**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Combat 6**</span> __|__
 { .unit-stats }

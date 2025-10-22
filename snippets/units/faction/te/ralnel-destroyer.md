@@ -10,5 +10,5 @@ This unit can use the <span style="font-variant:small-caps;">Space Cannon</span>
 
 ---
 
-__|__ <span style="font-variant:small-caps;">Cost 1</span> __|__ <span style="font-variant:small-caps;">Combat 9↑</span> __|__ <span style="font-variant:small-caps;">Move 3↑</span> __|__
+__|__ <span style="font-variant:small-caps;white-space: nowrap;">**Cost 1**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Combat 9↑**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Move 3↑**</span> __|__
 { .unit-stats }

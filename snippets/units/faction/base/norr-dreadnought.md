@@ -9,5 +9,5 @@ Unit Type: Dreadnought :ti4-unit-dreadnought:
 
 ---
 
-__|__ <span style="font-variant:small-caps;">Cost 4</span> __|__ <span style="font-variant:small-caps;">Combat 5</span> __|__ <span style="font-variant:small-caps;">Move 1</span> __|__ <span style="font-variant:small-caps;">Capacity 1</span> __|__
+__|__ <span style="font-variant:small-caps;white-space: nowrap;">**Cost 4**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Combat 5**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Move 1**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Capacity 1**</span> __|__
 { .unit-stats }

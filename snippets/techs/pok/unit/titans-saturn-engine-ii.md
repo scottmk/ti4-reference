@@ -10,5 +10,5 @@ Unit Type: Cruiser :ti4-unit-cruiser:
 
 ---
 
-__|__ <span style="font-variant:small-caps;">Cost 2</span> __|__ <span style="font-variant:small-caps;">Combat 6</span> __|__ <span style="font-variant:small-caps;">Move 3</span> __|__ <span style="font-variant:small-caps;">Capacity 2</span> __|__
+__|__ <span style="font-variant:small-caps;white-space: nowrap;">**Cost 2**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Combat 6**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Move 3**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Capacity 2**</span> __|__
 { .unit-stats }

@@ -13,5 +13,5 @@ You may treat this unit as if it were adjacent to systems that contain 1 or more
 
 ---
 
-__|__ <span style="font-variant:small-caps;">Cost 8</span> __|__ <span style="font-variant:small-caps;">Combat 5 :ti4-unit-dice-x3:</span> __|__ <span style="font-variant:small-caps;">Move 3</span> __|__ <span style="font-variant:small-caps;">Capacity 6</span> __|__
+__|__ <span style="font-variant:small-caps;white-space: nowrap;">**Cost 8**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Combat 5 :ti4-unit-dice-x3:**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Move 3**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Capacity 6**</span> __|__
 { .unit-stats }

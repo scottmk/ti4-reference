@@ -10,5 +10,5 @@ When this unit retreats, you may destroy 1 ship in the active system that does n
 
 ---
 
-__|__ <span style="font-variant:small-caps;">Cost 8</span> __|__ <span style="font-variant:small-caps;">Combat 8 :ti4-unit-dice-x2:</span> __|__ <span style="font-variant:small-caps;">Move 2</span> __|__ <span style="font-variant:small-caps;">Capacity 4</span> __|__
+__|__ <span style="font-variant:small-caps;white-space: nowrap;">**Cost 8**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Combat 8 :ti4-unit-dice-x2:**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Move 2**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Capacity 4**</span> __|__
 { .unit-stats }

@@ -14,5 +14,5 @@ At the start of your next turn, for every 2 units that are on this card, place 1
 
 ---
 
-__|__ <span style="font-variant:small-caps;">Cost 1:ti4-unit-inf-cost:</span> __|__ <span style="font-variant:small-caps;">Combat 7</span> __|__
+__|__ <span style="font-variant:small-caps;white-space: nowrap;">**Cost 1:ti4-unit-inf-cost:**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Combat 7**</span> __|__
 { .unit-stats }

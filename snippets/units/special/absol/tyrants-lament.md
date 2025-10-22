@@ -16,5 +16,5 @@ When this unit is removed or captured, purge this card.
 
 ---
 
-__|__ <span style="font-variant:small-caps;">Combat 5 :ti4-unit-dice-x3:</span> __|__ <span style="font-variant:small-caps;">Move 2</span> __|__
+__|__ <span style="font-variant:small-caps;white-space: nowrap;">**Combat 5 :ti4-unit-dice-x3:**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Move 2**</span> __|__
 { .unit-stats }

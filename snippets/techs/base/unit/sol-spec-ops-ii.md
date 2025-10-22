@@ -13,5 +13,5 @@ At the start of your next turn, place each unit that is on this card on a planet
 
 ---
 
-__|__ <span style="font-variant:small-caps;">Cost 1:ti4-unit-inf-cost:</span> __|__ <span style="font-variant:small-caps;">Combat 6</span> __|__
+__|__ <span style="font-variant:small-caps;white-space: nowrap;">**Cost 1:ti4-unit-inf-cost:**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Combat 6**</span> __|__
 { .unit-stats }

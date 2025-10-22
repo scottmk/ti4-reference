@@ -6,7 +6,7 @@ You cannot produce this unit unless you own its unit upgrade technology.
 
 ---
 
-__|__ <span style="font-variant:small-caps;">Cost –↑</span> __|__ <span style="font-variant:small-caps;">Combat –↑</span> __|__ <span style="font-variant:small-caps;">Move –↑</span> __|__ <span style="font-variant:small-caps;">Capacity –↑</span> __|__
+__|__ <span style="font-variant:small-caps;white-space: nowrap;">**Cost –↑**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Combat –↑**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Move –↑**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Capacity –↑**</span> __|__
 { .unit-stats }
 
 ---

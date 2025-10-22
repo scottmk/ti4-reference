@@ -18,5 +18,5 @@ You may use this unit's <span style="font-variant:small-caps;">Space Cannon</spa
 
 ---
 
-__|__ <span style="font-variant:small-caps;">Combat 6</span> __|__
+__|__ <span style="font-variant:small-caps;white-space: nowrap;">**Combat 6**</span> __|__
 { .unit-stats }

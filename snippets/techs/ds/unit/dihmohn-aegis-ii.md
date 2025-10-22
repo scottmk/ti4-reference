@@ -13,5 +13,5 @@ When another ship in this system would be destroyed by a game effect, you may ha
 
 ---
 
-__|__ <span style="font-variant:small-caps;">Cost 4</span> __|__ <span style="font-variant:small-caps;">Combat 4</span> __|__ <span style="font-variant:small-caps;">Move 2</span> __|__ <span style="font-variant:small-caps;">Capacity 1</span> __|__
+__|__ <span style="font-variant:small-caps;white-space: nowrap;">**Cost 4**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Combat 4**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Move 2**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Capacity 1**</span> __|__
 { .unit-stats }

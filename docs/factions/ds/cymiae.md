@@ -96,7 +96,6 @@ toc_depth: 2
 
     --8<-- "snippets/techs/ds/yellow/cymiae-recursive-worm.md"
 
-
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---

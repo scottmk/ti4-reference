@@ -10,7 +10,6 @@ This unit cannot move or be produced.
 
 * <span style="font-variant:small-caps;">Production 5</span> 
 
-
 ---
 
 __|__ <span style="font-variant:small-caps;">Combat 5 :ti4-unit-dice-x2:</span> __|__ <span style="font-variant:small-caps;">Capacity 4</span> __|__

@@ -13,7 +13,6 @@ After a round of space combat, you may destroy this unit to destroy up to 2 ship
 * <span style="font-variant:small-caps;">Sustain Damage</span> 
 * <span style="font-variant:small-caps;">Bombardment 4(x2)</span> 
 
-
 ---
 
 __|__ <span style="font-variant:small-caps;">Cost 4</span> __|__ <span style="font-variant:small-caps;">Combat 5</span> __|__ <span style="font-variant:small-caps;">Move 2</span> __|__ <span style="font-variant:small-caps;">Capacity 1</span> __|__

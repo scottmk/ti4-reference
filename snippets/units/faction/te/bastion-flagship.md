@@ -9,7 +9,6 @@ Apply +1 to the result of each of this unit's combat rolls for each non-home sys
 * <span style="font-variant:small-caps;">Sustain Damage</span> 
 * <span style="font-variant:small-caps;">Production 1</span> 
 
-
 ---
 
 __|__ <span style="font-variant:small-caps;">Cost 8</span> __|__ <span style="font-variant:small-caps;">Combat 9</span> __|__ <span style="font-variant:small-caps;">Move 1</span> __|__ <span style="font-variant:small-caps;">Capacity 3</span> __|__

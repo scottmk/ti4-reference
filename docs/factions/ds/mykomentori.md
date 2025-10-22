@@ -93,7 +93,6 @@ toc_depth: 2
 
     --8<-- "snippets/techs/ds/green/mykomentori-psychoactive-armaments.md"
 
-
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---

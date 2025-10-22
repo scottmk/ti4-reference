@@ -12,7 +12,6 @@ At the start of your next turn, for every 2 units that are on this card, place 1
 
 * <span style="font-variant:small-caps;">Production 2</span> 
 
-
 ---
 
 __|__ <span style="font-variant:small-caps;">Cost 1(x2)</span> __|__ <span style="font-variant:small-caps;">Combat 7</span> __|__

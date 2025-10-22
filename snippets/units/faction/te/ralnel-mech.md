@@ -8,7 +8,6 @@ At the end of a round of combat on this planet, you may move up to 2 of your gro
 
 * <span style="font-variant:small-caps;">Sustain Damage</span> 
 
-
 ---
 
 __|__ <span style="font-variant:small-caps;">Cost 2</span> __|__ <span style="font-variant:small-caps;">Combat 6</span> __|__

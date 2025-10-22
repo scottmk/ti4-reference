@@ -17,7 +17,6 @@ When this unit is destroyed or removed, purge this card.
 * <span style="font-variant:small-caps;">Planetary Shield</span>
 * <span style="font-variant:small-caps;">Production 10</span>
 
-
 ---
 
 __|__ <span style="font-variant:small-caps;">Capacity 8</span> __|__

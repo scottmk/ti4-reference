@@ -12,7 +12,6 @@ If this unit is blockaded, it is destroyed.
 
 * <span style="font-variant:small-caps;">Production 5</span> 
 
-
 ---
 
 __|__ <span style="font-variant:small-caps;">Move 1</span> __|__ <span style="font-variant:small-caps;">Capacity 4</span> __|__

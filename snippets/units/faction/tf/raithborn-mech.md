@@ -8,7 +8,6 @@ When you splice, capture 1 infantry from the reinforcements of any player with a
 
 * <span style="font-variant:small-caps;">Sustain Damage</span> 
 
-
 ---
 
 __|__ <span style="font-variant:small-caps;">Cost 2</span> __|__ <span style="font-variant:small-caps;">Combat 5 :ti4-unit-dice-x2:</span> __|__

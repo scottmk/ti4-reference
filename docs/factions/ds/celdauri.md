@@ -104,7 +104,6 @@ toc_depth: 2
 
     --8<-- "snippets/techs/ds/red/celdauri-emergency-mobilization.md"
 
-
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---

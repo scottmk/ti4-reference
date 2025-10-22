@@ -102,7 +102,6 @@ toc_depth: 2
 
     --8<-- "snippets/techs/ds/yellow/ghoti-parallel-production.md"
 
-
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---

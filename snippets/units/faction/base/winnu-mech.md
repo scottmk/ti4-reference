@@ -8,7 +8,6 @@ After you resolve a tactical action where you gained control of this planet, you
 
 * <span style="font-variant:small-caps;">Sustain Damage</span> 
 
-
 ---
 
 __|__ <span style="font-variant:small-caps;">Cost 2</span> __|__ <span style="font-variant:small-caps;">Combat 6</span> __|__

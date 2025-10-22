@@ -36,7 +36,6 @@
 |   [<font size="72">:ti4-faction-te-bastion:</font><br>Last Bastion](factions/te/bastion.md)   | [<font size="72">:ti4-faction-te-deepwrought:</font><br>Deepwrought Scholarate](factions/te/deepwrought.md) | [<font size="72">:ti4-faction-te-firmament:</font><br>The Firmament<br><font size="72">:ti4-faction-te-obsidian:</font><br>The Obsidian](factions/te/firmament.md) | [<font size="72">:ti4-faction-codex-keleres:</font><br>Council Keleres](factions/te/keleres.md) |
 | [<font size="72">:ti4-faction-te-ralnel:</font><br>Ral Nel Consortium](factions/te/ralnel.md) |     [<font size="72">:ti4-faction-te-rebellion:</font><br>Crimson Rebellion](factions/te/rebellion.md)      |                                                                                                                                                                    |                                                                                                 |
 
-
 ## Discordant Stars :ti4-ds:
 
 |                                                                                                           |                                                                                                             |                                                                                                          |                                                                                                    |

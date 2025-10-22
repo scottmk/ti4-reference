@@ -8,7 +8,6 @@ While this unit is in a space area during combat, you may use it's <span style="
 
 * <span style="font-variant:small-caps;">Sustain Damage</span> 
 
-
 ---
 
 __|__ <span style="font-variant:small-caps;">Cost 2</span> __|__ <span style="font-variant:small-caps;">Combat 6</span> __|__

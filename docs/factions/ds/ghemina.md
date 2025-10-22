@@ -101,7 +101,6 @@ toc_depth: 2
 
     --8<-- "snippets/techs/ds/green/ghemina-war-song-implants.md"
 
-
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---

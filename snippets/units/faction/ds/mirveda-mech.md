@@ -8,7 +8,6 @@ For every 2 unit upgrade technologies you own, apply +1 to the result of this un
 
 * <span style="font-variant:small-caps;">Sustain Damage</span> 
 
-
 ---
 
 __|__ <span style="font-variant:small-caps;">Cost 2</span> __|__ <span style="font-variant:small-caps;">Combat 6</span> __|__

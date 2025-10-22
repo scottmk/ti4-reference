@@ -114,7 +114,6 @@ toc_depth: 2
 
     --8<-- "snippets/techs/ds/yellow/nokar-local-contracts.md"
 
-
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---

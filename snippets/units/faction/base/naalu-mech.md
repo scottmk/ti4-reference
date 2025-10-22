@@ -8,7 +8,6 @@ Other players cannot use <span style="font-variant:small-caps;">Anti-Fighter Bar
 
 * <span style="font-variant:small-caps;">Sustain Damage</span> 
 
-
 ---
 
 __|__ <span style="font-variant:small-caps;">Cost 2</span> __|__ <span style="font-variant:small-caps;">Combat 6</span> __|__

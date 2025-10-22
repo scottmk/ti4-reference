@@ -11,7 +11,6 @@ You may treat this unit as if it were adjacent to systems that contain 1 or more
 * <span style="font-variant:small-caps;">Sustain Damage</span> 
 * <span style="font-variant:small-caps;">Anti-Fighter Barrage 5(x3)</span> 
 
-
 ---
 
 __|__ <span style="font-variant:small-caps;">Cost 8</span> __|__ <span style="font-variant:small-caps;">Combat 5 :ti4-unit-dice-x3:</span> __|__ <span style="font-variant:small-caps;">Move 3</span> __|__ <span style="font-variant:small-caps;">Capacity 6</span> __|__

@@ -129,7 +129,6 @@ toc_depth: 2
 
     --8<-- "snippets/techs/ds/blue/olradin-geosympathic-impeller.md"
 
-
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---

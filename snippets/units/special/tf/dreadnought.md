@@ -1,9 +1,7 @@
 ### :ti4-unit-dreadnought: **Dreadnought**
 
-
 * <span style="font-variant:small-caps;">Sustain Damage</span> 
 * <span style="font-variant:small-caps;">Bombardment 5</span> 
-
 
 ---
 

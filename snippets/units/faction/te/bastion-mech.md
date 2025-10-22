@@ -8,7 +8,6 @@ When this unit is destroyed, if it was galvanized, galvanize up to 3 of your inf
 
 * <span style="font-variant:small-caps;">Sustain Damage</span> 
 
-
 ---
 
 __|__ <span style="font-variant:small-caps;">Cost 2</span> __|__ <span style="font-variant:small-caps;">Combat 6</span> __|__

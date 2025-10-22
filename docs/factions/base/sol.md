@@ -79,7 +79,6 @@ toc_depth: 2
 
     --8<-- "snippets/units/faction/base/sol-infantry.md"
 
-
 -   
 
     --8<-- "snippets/units/faction/base/sol-carrier.md"

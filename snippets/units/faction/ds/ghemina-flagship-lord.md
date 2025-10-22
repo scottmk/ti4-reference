@@ -8,7 +8,6 @@ After a player explores a planet in this system, place 1 infantry from their rei
 
 * <span style="font-variant:small-caps;">Sustain Damage</span> 
 
-
 ---
 
 __|__ <span style="font-variant:small-caps;">Cost 6</span> __|__ <span style="font-variant:small-caps;">Combat 7 :ti4-unit-dice-x2:</span> __|__ <span style="font-variant:small-caps;">Move 2</span> __|__ <span style="font-variant:small-caps;">Capacity 7</span> __|__

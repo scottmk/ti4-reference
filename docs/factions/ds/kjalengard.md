@@ -84,7 +84,6 @@ toc_depth: 2
 
     --8<-- "snippets/techs/ds/green/kjalengard-zhrgar-stimulants.md"
 
-
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---

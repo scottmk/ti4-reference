@@ -95,7 +95,6 @@ _—Ahk-Syl Siven_
 
     --8<-- "snippets/techs/te/yellow/rebellion-subatomic-splicer.md"
 
-
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---

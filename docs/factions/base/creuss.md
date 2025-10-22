@@ -112,7 +112,6 @@ toc_depth: 2
     ---
     --8<-- "snippets/breakthroughs/base/creuss-particle-synthesis.md"
 
-
 -   ## __Faction Promissory Note__
 
     ---

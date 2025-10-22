@@ -9,7 +9,6 @@ When another player activates this system, if this unit is coexisting, you may m
 * <span style="font-variant:small-caps;">Sustain Damage</span> 
 * <span style="font-variant:small-caps;">Production 1</span> 
 
-
 ---
 
 __|__ <span style="font-variant:small-caps;">Cost 2</span> __|__ <span style="font-variant:small-caps;">Combat 6</span> __|__

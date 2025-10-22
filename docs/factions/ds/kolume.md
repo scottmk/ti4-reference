@@ -100,7 +100,6 @@ toc_depth: 2
 
     --8<-- "snippets/techs/ds/red/kolume-omniscience-field.md"
 
-
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---

@@ -8,7 +8,6 @@ If this unit is in the space area of the active system at the start of a space c
 
 * <span style="font-variant:small-caps;">Sustain Damage</span> 
 
-
 ---
 
 __|__ <span style="font-variant:small-caps;">Cost 2</span> __|__ <span style="font-variant:small-caps;">Combat 6 :ti4-unit-dice-x2:</span> __|__

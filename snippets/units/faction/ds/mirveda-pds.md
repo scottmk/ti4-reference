@@ -13,7 +13,6 @@ This unit can be blockaded, if it is blockaded, it is destroyed.
 * <span style="font-variant:small-caps;">Bombardment 6</span> 
 * <span style="font-variant:small-caps;">Space Cannon 6</span> 
 
-
 ---
 
 __|__ <span style="font-variant:small-caps;">Move 1</span> __|__

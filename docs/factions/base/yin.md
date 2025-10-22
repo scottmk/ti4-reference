@@ -107,7 +107,6 @@ toc_depth: 2
     ---
     --8<-- "snippets/breakthroughs/base/yin-yin-ascendent.md"
 
-
 -   ## __Faction Promissory Note__
 
     ---

@@ -13,7 +13,6 @@ At the start of your next turn, place each unit that is on this card on a planet
 
 * <span style="font-variant:small-caps;">Production 2</span> 
 
-
 ---
 
 __|__ <span style="font-variant:small-caps;">Cost 1(x2)</span> __|__ <span style="font-variant:small-caps;">Combat 7</span> __|__

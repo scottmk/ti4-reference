@@ -99,7 +99,6 @@ toc_depth: 2
 
     --8<-- "snippets/techs/ds/yellow/dihmohn-impressment-programs.md"
 
-
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---

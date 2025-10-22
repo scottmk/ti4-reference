@@ -6,9 +6,7 @@ Unit Type: Cruiser :ti4-unit-cruiser:
 
 ---
 
-
 * <span style="font-variant:small-caps;">Sustain Damage</span> 
-
 
 ---
 

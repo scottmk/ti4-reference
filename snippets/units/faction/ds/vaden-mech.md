@@ -8,7 +8,6 @@ At the end of a round of ground combat, you may remove 1 of your opponent's cont
 
 * <span style="font-variant:small-caps;">Sustain Damage</span> 
 
-
 ---
 
 __|__ <span style="font-variant:small-caps;">Cost 2</span> __|__ <span style="font-variant:small-caps;">Combat 6</span> __|__

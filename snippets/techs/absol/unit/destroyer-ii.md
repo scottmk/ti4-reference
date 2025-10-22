@@ -10,7 +10,6 @@ When this unit generates a hit on a combat roll, your opponent must destroy 1 fi
 
 * <span style="font-variant:small-caps;">Anti-Fighter Barrage 6(x3)</span> 
 
-
 ---
 
 __|__ <span style="font-variant:small-caps;">Cost 1</span> __|__ <span style="font-variant:small-caps;">Combat 8</span> __|__ <span style="font-variant:small-caps;">Move 2</span> __|__

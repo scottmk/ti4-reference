@@ -27,7 +27,6 @@ hide:
     1. Repeat this process if playing with 4 or fewer players.
 1. The speaker places one trade good token from the supply on each strategy card that was not chosen.
 
-
 ### Action Phase
 
 [See LRR 3](https://images-cdn.fantasyflightgames.com/filer_public/51/55/51552c7f-c05c-445b-84bf-4b073456d008/ti10_pok_living_rules_reference_20_web.pdf).

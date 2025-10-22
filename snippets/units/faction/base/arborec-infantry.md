@@ -4,9 +4,7 @@ Unit Type: Infantry :ti4-unit-infantry:
 
 ---
 
-
 * <span style="font-variant:small-caps;">Production 1</span> 
-
 
 ---
 

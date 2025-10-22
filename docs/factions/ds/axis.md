@@ -114,7 +114,6 @@ toc_depth: 2
     ---
     --8<-- "snippets/units/faction/ds/axis-mech.md"
 
-
 </div>
 
 <div class="grid cards" markdown>
@@ -128,7 +127,6 @@ toc_depth: 2
     ---
 
     --8<-- "snippets/techs/ds/yellow/axis-emergency-deployment.md"
-
 
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 

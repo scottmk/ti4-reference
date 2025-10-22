@@ -6,8 +6,6 @@ Your units do not roll for gravity rifts, and you ignore the movement effects of
 
 <sup><sub>Note: You must have an available Frontier token in order to use this action; it cannot be used as an empty stall</sub></sup>
 
-
-
 ---
 
 _Xuange touched the silver circlet that sat upon their temple. 

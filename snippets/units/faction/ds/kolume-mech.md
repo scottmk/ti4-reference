@@ -9,7 +9,6 @@ Hits produced by this unit cannot be assigned to non-fighter ships. After you sp
 * <span style="font-variant:small-caps;">Sustain Damage</span> 
 * <span style="font-variant:small-caps;">Space Cannon 8(x2)</span> 
 
-
 ---
 
 __|__ <span style="font-variant:small-caps;">Cost 2</span> __|__ <span style="font-variant:small-caps;">Combat 6</span> __|__

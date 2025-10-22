@@ -8,7 +8,6 @@ While in play, this unit is also treated as a space dock with a <span style="fon
 
 * <span style="font-variant:small-caps;">Sustain Damage</span> 
 
-
 ---
 
 __|__ <span style="font-variant:small-caps;">Cost 6</span> __|__ <span style="font-variant:small-caps;">Combat 7 :ti4-unit-dice-x2:</span> __|__ <span style="font-variant:small-caps;">Move 1</span> __|__ <span style="font-variant:small-caps;">Capacity 5</span> __|__

@@ -162,7 +162,6 @@ toc_depth: 2
 
         --8<-- "snippets/techs/te/green/obsidian-neural-parasite.md"
 
-
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---

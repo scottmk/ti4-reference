@@ -99,7 +99,6 @@ toc_depth: 2
 
     --8<-- "snippets/techs/ds/green/ltokkkhrask-stones-embrace.md"
 
-
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---

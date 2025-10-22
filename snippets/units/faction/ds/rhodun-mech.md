@@ -8,7 +8,6 @@ Apply +1 to this unit's combat rolls for each faction technology your opponent o
 
 * <span style="font-variant:small-caps;">Sustain Damage</span> 
 
-
 ---
 
 __|__ <span style="font-variant:small-caps;">Cost 2</span> __|__ <span style="font-variant:small-caps;">Combat 6</span> __|__

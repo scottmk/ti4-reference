@@ -8,7 +8,6 @@ After you win a combat in this system, you may take 1 of your opponent's action 
 
 * <span style="font-variant:small-caps;">Sustain Damage</span> 
 
-
 ---
 
 __|__ <span style="font-variant:small-caps;">Cost 8</span> __|__ <span style="font-variant:small-caps;">Combat 9 :ti4-unit-dice-x2:</span> __|__ <span style="font-variant:small-caps;">Move 1</span> __|__ <span style="font-variant:small-caps;">Capacity 6</span> __|__

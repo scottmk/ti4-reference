@@ -12,7 +12,6 @@ When this unit is destroyed or removed, flip this card and return it to your pla
 
 * <span style="font-variant:small-caps;">Sustain Damage</span> 
 
-
 ---
 
 __|__ <span style="font-variant:small-caps;">Combat 4 :ti4-unit-dice-x4:</span> __|__ <span style="font-variant:small-caps;">Move 3</span> __|__

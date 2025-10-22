@@ -86,7 +86,6 @@ toc_depth: 2
 
     --8<-- "snippets/techs/ds/blue/kollecc-shrouded-skirmishers.md"
 
-
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---

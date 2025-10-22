@@ -85,7 +85,6 @@ toc_depth: 2
 
     --8<-- "snippets/techs/ds/blue/rhodun-pilgrimage-beacons.md"
 
-
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---

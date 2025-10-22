@@ -8,7 +8,6 @@ When this unit would be destroyed, if it is damaged, you may discard 1 action ca
 
 * <span style="font-variant:small-caps;">Sustain Damage</span> 
 
-
 ---
 
 __|__ <span style="font-variant:small-caps;">Cost 2</span> __|__ <span style="font-variant:small-caps;">Combat 6</span> __|__

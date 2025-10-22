@@ -10,7 +10,6 @@ Unit Type: PDS :ti4-unit-pds:
 * <span style="font-variant:small-caps;">Sustain Damage</span> 
 * <span style="font-variant:small-caps;">Production 1</span>
 
-
 This unit is treated as both a structure and a ground force.
 It cannot be transported.
 

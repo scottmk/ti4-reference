@@ -10,7 +10,6 @@ When this unit uses <span style="font-variant:small-caps;">Anti-Fighter Barrage<
 
 * <span style="font-variant:small-caps;">Anti-Fighter Barrage 6(x3)</span> 
 
-
 ---
 
 __|__ <span style="font-variant:small-caps;">Cost 1</span> __|__ <span style="font-variant:small-caps;">Combat 7</span> __|__ <span style="font-variant:small-caps;">Move 2</span> __|__ <span style="font-variant:small-caps;">Capacity 1</span> __|__

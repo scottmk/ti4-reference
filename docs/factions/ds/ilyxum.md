@@ -97,7 +97,6 @@ toc_depth: 2
 
     --8<-- "snippets/techs/ds/yellow/ilyxum-sentient-datapool.md"
 
-
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---

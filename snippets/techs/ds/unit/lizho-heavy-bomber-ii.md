@@ -14,5 +14,5 @@ Fighters in excess of your ships' capacity count against your fleet pool.
 
 ---
 
-__|__ <span style="font-variant:small-caps;">Cost 1(x2)</span> __|__ <span style="font-variant:small-caps;">Combat 8</span> __|__ <span style="font-variant:small-caps;">Move 2</span> __|__
+__|__ <span style="font-variant:small-caps;">Cost:ti4-unit-fighter-cost:</span> __|__ <span style="font-variant:small-caps;">Combat 8</span> __|__ <span style="font-variant:small-caps;">Move 2</span> __|__
 { .unit-stats }

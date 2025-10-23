@@ -11,7 +11,7 @@ While you own this card, you can only have 1 war sun.
 When this unit uses <span style="font-variant:small-caps;white-space: nowrap;">**Bombardment**</span>, it uses it against each planet in its system and each adjacent system, even yours, ignoring <span style="font-variant:small-caps;white-space: nowrap;">**Planetary Shield**</span>.
 
 * <span style="font-variant:small-caps;white-space: nowrap;">**Sustain Damage**</span>
-* <span style="font-variant:small-caps;white-space: nowrap;">**Bombardment 3(x3)**</span>
+* <span style="font-variant:small-caps;white-space: nowrap;">**Bombardment 3 (x3)**</span>
 
 ---
 

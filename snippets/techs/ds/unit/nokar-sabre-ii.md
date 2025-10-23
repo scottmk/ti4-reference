@@ -8,7 +8,7 @@ Unit Type: Destroyer :ti4-unit-destroyer:
 
 After this unit is destroyed during combat, roll a die, on a result equal to or greater than 7, produce up to 1 hit against your opponent's ships.
 
-* <span style="font-variant:small-caps;">Anti-Fighter Barrage 6(x3)</span> 
+* <span style="font-variant:small-caps;">Anti-Fighter Barrage 6 (x3)</span> 
 
 ---
 

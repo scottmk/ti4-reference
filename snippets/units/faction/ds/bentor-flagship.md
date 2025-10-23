@@ -8,7 +8,7 @@ Apply +1 to the results of this ship's combat and ability rolls for each Fragmen
 
 * <span style="font-variant:small-caps;">Sustain Damage</span> 
 * <span style="font-variant:small-caps;">Bombardment 9</span> 
-* <span style="font-variant:small-caps;">Anti-Fighter Barrage 9(x2)</span> 
+* <span style="font-variant:small-caps;">Anti-Fighter Barrage 9 (x2)</span> 
 * <span style="font-variant:small-caps;">Space Cannon 9</span> 
 
 ---

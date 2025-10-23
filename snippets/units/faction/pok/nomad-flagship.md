@@ -7,7 +7,7 @@ Unit Type: Flagship :ti4-unit-flagship:
 You may treat this unit as if it were adjacent to systems that contain 1 or more of your mechs.
 
 * <span style="font-variant:small-caps;">Sustain Damage</span> 
-* <span style="font-variant:small-caps;">Anti-Fighter Barrage 8(x3)</span> 
+* <span style="font-variant:small-caps;">Anti-Fighter Barrage 8 (x3)</span> 
 
 ---
 

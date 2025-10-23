@@ -1,6 +1,6 @@
 ### :ti4-unit-destroyer: **Destroyer I**
 
-* <span style="font-variant:small-caps;">Anti-Fighter Barrage 9(x2)</span>
+* <span style="font-variant:small-caps;">Anti-Fighter Barrage 9 (x2)</span>
 
 ---
 

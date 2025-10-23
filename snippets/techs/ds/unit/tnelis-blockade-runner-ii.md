@@ -8,7 +8,7 @@ Unit Type: Destroyer :ti4-unit-destroyer:
 
 This ship can move through systems that contain other players' ships.
 
-* <span style="font-variant:small-caps;">Anti-Fighter Barrage 6(x4)</span> 
+* <span style="font-variant:small-caps;">Anti-Fighter Barrage 6 (x4)</span> 
 
 ---
 

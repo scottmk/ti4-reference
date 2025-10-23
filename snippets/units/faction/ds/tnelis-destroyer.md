@@ -4,7 +4,7 @@ Unit Type: Destroyer :ti4-unit-destroyer:
 
 ---
 
-* <span style="font-variant:small-caps;">Anti-Fighter Barrage 9(x3)</span> 
+* <span style="font-variant:small-caps;">Anti-Fighter Barrage 9 (x3)</span> 
 
 ---
 

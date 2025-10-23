@@ -11,7 +11,7 @@ Other player's units in this system lose <span style="font-variant:small-caps;">
 This unit produces only 1 fighter or infantry for their cost instead of 2.
 
 * <span style="font-variant:small-caps;">Sustain Damage</span>
-* <span style="font-variant:small-caps;">Bombardment 3(x3)</span>
+* <span style="font-variant:small-caps;">Bombardment 3 (x3)</span>
 * <span style="font-variant:small-caps;">Production 5</span>
 
 ---

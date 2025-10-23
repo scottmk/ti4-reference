@@ -7,7 +7,7 @@ Unit Type: Flagship :ti4-unit-flagship:
 Other player's units in this system lose <span style="font-variant:small-caps;">Planetary Shield</span>. At the start of each space combat round, repair this ship.
 
 * <span style="font-variant:small-caps;">Sustain Damage</span> 
-* <span style="font-variant:small-caps;">Bombardment 5(x3)</span> 
+* <span style="font-variant:small-caps;">Bombardment 5 (x3)</span> 
 
 ---
 

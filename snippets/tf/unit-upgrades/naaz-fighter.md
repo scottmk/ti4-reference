@@ -1,14 +1,16 @@
-### :ti4-tech-unit-upgrade: **Hybrid Crystal Fighter**
-:ti4-faction-base-naalu:
+### :ti4-tech-unit-upgrade: **Morphwing**
+:ti4-faction-pok-naaz:
 { .splice-faction }
 
-**Naalu Fighter** :ti4-unit-fighter:
+**Naaz-Rokha Fighter** :ti4-unit-fighter:
 
 ---
 
 This unit may move without being transported.
 
-Each fighter in excess of your ships' capacity counts as ½ of a ship against your fleet pool.
+Fighters in excess of your ships' capacity count against your fleet pool.
+
+This unit can be committed during an invasion; either return it to the space area or replace it with one infantry at the end of combat.
 
 ---
 

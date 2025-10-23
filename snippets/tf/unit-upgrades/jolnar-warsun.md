@@ -8,7 +8,8 @@
 
 Other players' units in this system lose <span style="font-variant:small-caps;">Planetary Shield</span>.
 
-__|__ <span style="font-variant:small-caps;white-space: nowrap;">Sustain Damage</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">Bombardment 4 (x3)</span> __|__
+* <span style="font-variant:small-caps;white-space: nowrap;">**Sustain Damage**</span> 
+* <span style="font-variant:small-caps;white-space: nowrap;">**Bombardment 4 (x3)**</span>
 
 ---
 

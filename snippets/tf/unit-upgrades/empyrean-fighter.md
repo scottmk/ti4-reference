@@ -1,14 +1,16 @@
-### :ti4-tech-unit-upgrade: **Hybrid Crystal Fighter**
-:ti4-faction-base-naalu:
+### :ti4-tech-unit-upgrade: **Triune**
+:ti4-faction-pok-empyrean:
 { .splice-faction }
 
-**Naalu Fighter** :ti4-unit-fighter:
+**Empyrean Fighter** :ti4-unit-fighter:
 
 ---
 
 This unit may move without being transported.
 
-Each fighter in excess of your ships' capacity counts as ½ of a ship against your fleet pool.
+Fighters in excess of your ships' capacity count against your fleet pool.
+
+You may remove 3 of your fighters from systems that contain or are adjacent to a player's units to cancel an action card played by that player.
 
 ---
 

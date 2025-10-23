@@ -21,6 +21,7 @@ It also includes references for the [_Discordant Stars_ fan expansion](https://t
 
 ### **23 Oct 25**
 * Added remaining _Twilight's Fall_ [abilities](twilights-fall/splices/abilities.md)
+* Added remaining _Twilight's Fall_ [unit upgrades](twilights-fall/splices/unit-upgrades.md)
 
 ### **22 Oct 25**
 * Added _Twilight's Fall_ strategy cards to [rules section](twilights-fall/rules.md)

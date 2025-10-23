@@ -8,9 +8,13 @@
 
 This unit is treated as both a structure and a ground force.
 It cannot be transported.
-You may use this unit's <span style="font-variant:small-caps;">Space Cannon</span> ability against ships that are adjacent to this unit's system.
 
-__|__ <span style="font-variant:small-caps;white-space: nowrap;">**Planetary Shield**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Space Cannon 5**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Sustain Damage**</span> __|__ <span style="font-variant:small-caps;white-space: nowrap;">**Production 1**</span> __|__
+You may use this unit's <span style="font-variant:small-caps;">**Space Cannon**</span> ability against ships that are adjacent to this unit's system.
+
+* <span style="font-variant:small-caps;white-space: nowrap;">**Planetary Shield**</span>
+* <span style="font-variant:small-caps;white-space: nowrap;">**Space Cannon 5**</span>
+* <span style="font-variant:small-caps;white-space: nowrap;">**Sustain Damage**</span> 
+* <span style="font-variant:small-caps;white-space: nowrap;">**Production 1**</span>
 
 ---
 

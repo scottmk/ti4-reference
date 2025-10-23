@@ -26,13 +26,13 @@ toc_depth: 2
     === "Firmament"
 
         * Cronos :ti4-planets-resources-2: :ti4-planets-influence-1:
-        * Talin :ti4-planets-resources-1: :ti4-planets-influence-2:
+        * Tallin :ti4-planets-resources-1: :ti4-planets-influence-2:
         * Commodities: 3
 
     === "Obsidian"
 
         * Cronos Hollow :ti4-planets-resources-3: :ti4-planets-influence-0:
-        * Talin Hollow :ti4-planets-resources-3: :ti4-planets-influence-0:
+        * Tallin Hollow :ti4-planets-resources-3: :ti4-planets-influence-0:
         * Commodities: 3
 
 </div>

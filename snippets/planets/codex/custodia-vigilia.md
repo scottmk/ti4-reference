@@ -1,6 +1,6 @@
 ### Custodia Vigilia :ti4-te:
 
-:ti4-planets-resources-2: :ti4-planets-influence-2: __|__ :ti4-faction-te-keleres:
+:ti4-planets-resources-2: :ti4-planets-influence-3: __|__ :ti4-faction-te-keleres:
 
 _Custodia Vigilia. 
 The fully realized seat of the Keleres.
@@ -11,7 +11,7 @@ Ten thousand people come and go daily, and the Keleres see them all._
 
 While you control Mecatol Rex, it gains <span style="font-variant:small-caps;">Space Cannon 5</span> and <span style="font-variant:small-caps;">Production 3</span>.
 
-Gain 2 command tokens when another player gains a Victory Point using the second clause of "Imperial."
+Gain 2 command tokens when another player scores VP using Imperial.
 
 ---
 

@@ -32,10 +32,11 @@ toc_depth: 3
 
 -   
 
-    --8<-- "snippets/planets/codex/ordinian.md"
+    --8<-- "snippets/planets/codex/custodia-vigilia.md"
 
 -   
-    
+
+    --8<-- "snippets/planets/codex/ordinian.md"
 
 </div>
 

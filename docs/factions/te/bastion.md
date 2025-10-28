@@ -17,16 +17,17 @@ _—Lyra Keen, Shield of the Reef_
 
     ---
 
+    ### Commodities: 1
+
+    ---
+
     --8<-- "snippets/planets/te/ordinian.md"
 
     ---
 
-    ### Revelation 
-    :ti4-planets-resources-1: :ti4-planets-influence-2: __|__ Space Station
+    ---
 
-    --- 
-
-    Commodities: 1
+    --8<-- "snippets/planets/te/hs/bastion-revelation.md"
 
 </div>
 

@@ -5,3 +5,10 @@
 Your action cards cannot be canceled by "Sabotage" action cards.
 
 The Nekro Virus cannot place assimilator tokens on your components.
+
+---
+
+_Ainip felt the surge of energy through the Eidolon as it interfaced with Helios.
+He gasped.
+Absolute synergy achieved.
+Incredible!_

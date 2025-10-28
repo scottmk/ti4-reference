@@ -2,7 +2,9 @@
 
 :ti4-planets-resources-2: :ti4-planets-influence-0: :ti4-tech-warfare: __|__ :ti4-planets-industrial: __|__ Asteroid Field
 
-_Coming soon._
+_With an unusually strong planetary magnetosphere, Industrex also sports an active and quite beautiful atmosphere full of auroras._
+
+---
 
 #### Aeurex Mechanica
 

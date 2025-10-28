@@ -19,6 +19,9 @@ It also includes references for the [_Discordant Stars_ fan expansion](https://t
 
 ## Changelog
 
+### **27 Oct 25**
+* Added all remaining _Thunder's Edge_ content, excluding _Twilight's Fall_
+
 ### **23 Oct 25**
 * Added remaining _Twilight's Fall_ [abilities](twilights-fall/splices/abilities.md)
 * Added remaining _Twilight's Fall_ [unit upgrades](twilights-fall/splices/unit-upgrades.md)

@@ -2,7 +2,9 @@
 
 :ti4-planets-resources-2: :ti4-planets-influence-0: __|__ :ti4-planets-hazardous: __|__ :ti4-faction-base-muaat:
 
-_Coming soon._
+_The first artificial world of this galactic age._
+
+---
 
 #### The Nucleus
 

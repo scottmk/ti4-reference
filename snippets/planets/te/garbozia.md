@@ -2,7 +2,9 @@
 
 :ti4-planets-resources-2: :ti4-planets-influence-1: __|__ :ti4-planets-hazardous:
 
-_Coming soon._
+_Once an Imperial dumping ground, the mixture of mineral and chemical waste on Garbozia has become a resource—and a hazard—of its own._
+
+---
 
 #### Doc 'n Pic's Salvage Yard
 

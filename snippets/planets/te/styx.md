@@ -2,6 +2,8 @@
 
 :ti4-planets-resources-4: :ti4-planets-influence-0: __|__ Gain Relic
 
+---
+
 #### A Song Like Marrow
 
 When you gain this card, gain 1 victory point.

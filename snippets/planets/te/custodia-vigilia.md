@@ -7,6 +7,8 @@ The fully realized seat of the Keleres.
 A veritable fortress in the heart of Mecatol City.
 Ten thousand people come and go daily, and the Keleres see them all._
 
+---
+
 #### Legendary Text
 
 While you control Mecatol Rex, it gains <span style="font-variant:small-caps;">Space Cannon 5</span> and <span style="font-variant:small-caps;">Production 3</span>.

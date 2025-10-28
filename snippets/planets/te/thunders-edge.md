@@ -2,7 +2,10 @@
 
 :ti4-planets-resources-5: :ti4-planets-influence-1:
 
-_Coming soon._
+_Lightning arcs between the stone spires of the planet.
+The constant storms give Thunder's Edge its name._
+
+---
 
 #### Jupiter Brain
 

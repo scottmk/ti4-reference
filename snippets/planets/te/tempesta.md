@@ -2,7 +2,10 @@
 
 :ti4-planets-resources-1: :ti4-planets-influence-1: :ti4-tech-propulsion: __|__ :ti4-planets-hazardous:
 
-_Coming soon._
+_The frozen halo in Tempesta's sky is a potent fuel for reaction drives.
+The planet itself is virtually uninhabitable._
+
+---
 
 #### Ionian Fuel Refinery
 

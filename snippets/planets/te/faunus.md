@@ -2,7 +2,9 @@
 
 :ti4-planets-resources-1: :ti4-planets-influence-3: :ti4-tech-biotic: __|__ :ti4-planets-industrial:
 
-_Coming soon._
+_Faunus is ecologically rich, which supports the controversial biogenetics research of the Maxis order._
+
+---
 
 #### Maxis Central Control
 

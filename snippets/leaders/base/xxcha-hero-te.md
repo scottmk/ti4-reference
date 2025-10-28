@@ -10,4 +10,5 @@ Then, purge this card.
 
 ---
 
-*Coming soon.*
+_Grom's harnessing of the council's inter-agency connections to expedite the Xxcha's defense proposal surprised no one.
+It turned out nearly everyone owed Xxekir Grom a favor._

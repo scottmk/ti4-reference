@@ -2,7 +2,9 @@
 
 :ti4-planets-resources-0: :ti4-planets-influence-2: __|__ :ti4-planets-cultural:
 
-_Coming soon_
+_The legendary ruins on Emelpar's moons must certainly date to before the Lazax, but no other trace of this vanished civilization remains._
+
+---
 
 #### The Acropolis
 

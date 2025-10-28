@@ -4,6 +4,8 @@
 
 _Once a splendid place, now a sad devastated wasteland. Only the radiation-shielded Mecatol city, the seat of the powerful Galactic Council, remains habitable._
 
+---
+
 #### The Galactic Council
 
 You may exhaust this card and discard 1 secret objective at the end of your turn to draw one secret objective.

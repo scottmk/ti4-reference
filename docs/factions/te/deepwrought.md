@@ -17,9 +17,12 @@ _—Aello, Kieros_
 -   ## __Home System__
 
     ---
+    
+    ### Commodities: 3
 
-    * Ikatena :ti4-planets-resources-4: :ti4-planets-influence-4:
-    * Commodities: 3
+    ---
+
+    --8<-- "snippets/planets/te/hs/deepwrought-ikatena.md"
 
 </div>
 

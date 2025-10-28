@@ -17,8 +17,11 @@ _—Ahk-Syl Siven_
 
     ---
 
-    * Ahk Creuxx :ti4-planets-resources-4: :ti4-planets-influence-2:
-    * Commodities: 2
+    ### Commodities: 2
+
+    ---
+
+    --8<-- "snippets/planets/te/hs/rebellion-ahk-creuxx.md"
 
 </div>
 

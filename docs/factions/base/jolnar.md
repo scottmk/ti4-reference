@@ -122,7 +122,11 @@ toc_depth: 2
 
     ---
 
-    --8<-- "snippets/leaders/base/jolnar-commander.md"
+    === "Base"
+        --8<-- "snippets/leaders/base/jolnar-commander.md"
+
+    === "_Thunder's Edge_ :ti4-te:"
+        --8<-- "snippets/leaders/base/jolnar-commander-te.md"
 
     ---
 

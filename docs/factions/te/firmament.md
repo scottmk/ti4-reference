@@ -23,17 +23,24 @@ toc_depth: 2
 -   ## __Home System__
 
     ---
+
+    ### Commodities: 3 
+
     === "Firmament"
 
-        * Cronos :ti4-planets-resources-2: :ti4-planets-influence-1:
-        * Tallin :ti4-planets-resources-1: :ti4-planets-influence-2:
-        * Commodities: 3
+        --8<-- "snippets/planets/te/hs/firmament-cronos.md"
+
+        ---
+
+        --8<-- "snippets/planets/te/hs/firmament-tallin.md"
 
     === "Obsidian"
 
-        * Cronos Hollow :ti4-planets-resources-3: :ti4-planets-influence-0:
-        * Tallin Hollow :ti4-planets-resources-3: :ti4-planets-influence-0:
-        * Commodities: 3
+        --8<-- "snippets/planets/te/hs/obsidian-cronos-hollow.md"
+
+        ---
+        
+        --8<-- "snippets/planets/te/hs/obsidian-tallin-hollow.md"
 
 </div>
 

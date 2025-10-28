@@ -1,4 +1,4 @@
-### :ti4-faction-te-ralnel: **Hero**: TBA :ti4-te:
+### :ti4-faction-te-ralnel: **Hero**: Director Nel – _Acquisitive Mind_ :ti4-te:
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 
@@ -10,4 +10,8 @@ You may choose to no longer be passed; if you do, gain 2 command tokens, draw 1 
 
 ---
 
-_Coming soon._
+_He was the master, the king.
+There were no limits to Nel's ambition.
+No rules to be broken, no obstacles to be avoided.
+Only choice.
+A matrix of pure, unfettered futures._

@@ -14,10 +14,15 @@ _—Actuary General "Watchful" Ojz_
 -   ## __Home System__
 
     ---
+    ### Commodities: 4
 
-    * Mez Lo Orz Pei Zsha: :ti4-planets-resources-2: :ti4-planets-influence-1:
-    * Rep Lo Orz Oet: :ti4-planets-resources-1: :ti4-planets-influence-3:
-    * Commodities: 4
+    ---
+
+    --8<-- "snippets/planets/te/hs/ralnel-mez-lo-orz-fei-zsha.md"
+
+    ---
+
+    --8<-- "snippets/planets/te/hs/ralnel-rep-lo-orz-qet.md"
 
 </div>
 

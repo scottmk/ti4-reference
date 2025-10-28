@@ -1,6 +1,6 @@
 ### :ti4-faction-te-ralnel: **Commander**: Watchful Ojz – _Actuary General_ :ti4-te:
 
-<span style="font-variant:small-caps;">Unlock</span>: TBA
+<span style="font-variant:small-caps;">Unlock</span>: Be the last player to pass during the action phase.
 
 When you delcare a retreat:
 
@@ -9,4 +9,5 @@ Place a command token from your reinforcements into that system.
 
 ---
 
-_Coming soon._
+_Ojz opened one eye.
+Had he fallen asleep? Perhaps. Perhaps..._

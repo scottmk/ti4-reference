@@ -153,6 +153,11 @@ th:empty {
   border: none;
 }
 
+.tech-type {
+  text-align: right !important;
+  font-size: 24px;
+}
+
 .splice-faction {
   text-align: right !important;
   font-size: 24px;

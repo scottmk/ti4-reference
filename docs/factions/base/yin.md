@@ -91,8 +91,11 @@ toc_depth: 2
 -   ## __Leaders__ <sup><sub>:ti4-pok:</sub></sup>
 
     ---
-    
-    --8<-- "snippets/leaders/base/yin-agent.md"
+    === "Codex :ti4-codex:"
+        --8<-- "snippets/leaders/base/yin-agent.md"
+
+    === "Thunder's Edge :ti4-te:"
+        --8<-- "snippets/leaders/base/yin-agent-te.md"
 
     ---
 

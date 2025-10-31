@@ -4,6 +4,13 @@
 
 At any time:
 
-This card satisfies a green technology prerequisite. When you research a tech owned by another player, you may return 1 of your infantry to reinforcements to ignore its prerequisites.
+This card satisfies a green technology prerequisite.
+
+When you research a technology owned by another player, you may return 1 of your infantry to reinforcements to ignore all prerequisites.
 
 :ti4-tech-biotic:
+{ .tech-type }
+
+---
+
+_It is said that Omar's creation of the genetic spinner loom is the greatest breakthrough for the Brotherhood since Darien's first forbidden research centuries ago._

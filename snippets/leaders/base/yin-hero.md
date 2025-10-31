@@ -6,4 +6,11 @@
 
 <span style="font-variant:small-caps;">Action</span>:
 
-Commit up to 3 infantry from your reinforcements to any non-home planets and resolve ground combats on those planets. Players cannot use <span style="font-variant:small-caps;">Space Cannon</span> against these units. Then, purge this card.
+Commit up to 3 infantry from your reinforcements to any non-home planets and resolve ground combats on those planets; players cannot use <span style="font-variant:small-caps;">Space Cannon</span> against these units.
+
+Then, purge this card.
+
+---
+
+At Dannel's command, they burned out their spinners, welcoming thousands of new brothers into their ranks in mere weeks.
+Such is the potential of the Yin._

@@ -1,7 +1,5 @@
 # Overview
 
-<sup><sub>Faction icons adapted from [AsyncTI4 emojis](https://github.com/AsyncTI4/TI4_map_generator_bot/tree/master/src/main/resources/emojis/factions).</sub></sup>
-
 ## Base Game
 
 |                                                                                                 |                                                                                                 |                                                                                                 |                                                                                                        |
@@ -18,6 +16,8 @@
 | :------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 |  [<font size="72">:ti4-faction-pok-argent:</font><br>Argent Flight](factions/pok/argent.md)  | [<font size="72">:ti4-faction-pok-cabal:</font><br>Vuil'raith Cabal](factions/pok/cabal.md) | [<font size="72">:ti4-faction-pok-empyrean:</font><br>The Empyrean](factions/pok/empyrean.md) | [<font size="72">:ti4-faction-pok-mahact:</font><br>Mahact Gene-Sorcerers](factions/pok/mahact.md) |
 | [<font size="72">:ti4-faction-pok-naaz:</font><br>Naaz-Rokha Alliance](factions/pok/naaz.md) |    [<font size="72">:ti4-faction-pok-nomad:</font><br>The Nomad](factions/pok/nomad.md)     |   [<font size="72">:ti4-faction-pok-titans:</font><br>Titans of Ul](factions/pok/titans.md)   |                                                                                                    |
+
+:material-information-outline: <sup><sub>Base and POK faction icons adapted from [gedsdead's emoji packs](https://drive.google.com/drive/folders/1P4yCUJfcOXVBsbzvv7pdAsjm3MKwRfca)</sub></sup>
 
 ## Codices <sup><sub>:ti4-codex:</sub></sup>
 
@@ -37,6 +37,8 @@
 | :-------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
 |   [<font size="72">:ti4-faction-te-bastion:</font><br>Last Bastion](factions/te/bastion.md)   | [<font size="72">:ti4-faction-te-deepwrought:</font><br>Deepwrought Scholarate](factions/te/deepwrought.md) | [<font size="72">:ti4-faction-te-firmament:</font><br>The Firmament<br><font size="72">:ti4-faction-te-obsidian:</font><br>The Obsidian](factions/te/firmament.md) | [<font size="72">:ti4-faction-codex-keleres:</font><br>Council Keleres](factions/te/keleres.md) |
 | [<font size="72">:ti4-faction-te-ralnel:</font><br>Ral Nel Consortium](factions/te/ralnel.md) |     [<font size="72">:ti4-faction-te-rebellion:</font><br>Crimson Rebellion](factions/te/rebellion.md)      |                                                                                                                                                                    |                                                                                                 |
+
+:material-information-outline: <sup><sub>TE Faction icons created by @Jazzxhands for [Async TI4](https://github.com/AsyncTI4/TI4_map_generator_bot/pull/3869)</sub></sup>
 
 ## Discordant Stars :ti4-ds:
 

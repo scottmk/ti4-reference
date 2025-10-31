@@ -3,7 +3,7 @@
 
 **Transcendence: The Ghoti Arise**
 
-<span style="font-variant:small-caps;">Action:</span>
+<span style="font-variant:small-caps;">Action</span>:
 
 For each system that contains 1 or more of your ships, you may replace 1 of your non-fighter ships in that system with a ship from your reinforcements that has a cost value of up to 2 greater than the cost value of that ship. 
 Then, purge this card.

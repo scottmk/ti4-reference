@@ -4,6 +4,6 @@
 
 **Crystal Chorus: Worlds Awaken**
 
-<span style="font-variant:small-caps;">Action:</span>
+<span style="font-variant:small-caps;">Action</span>:
 
 Purge this card to choose up to 4 planets. Exhaust or ready each of those planets.

@@ -3,6 +3,6 @@
 
 **Resonance Cascade: Broken Legacy**
 
-<span style="font-variant:small-caps;">Action:</span>
+<span style="font-variant:small-caps;">Action</span>:
 
 Draw and reveal up to 3 relics. For each relic that started this action in a player's play area, gain 1 command token. Then, you may swap that relic for 1 of the revealed relics or relics in a player's play area. Then, shuffle the remaining relics into the relic deck and purge this card.

@@ -2,7 +2,7 @@
 :ti4-faction-base-yssaril:
 { .splice-faction }
 
-**<span style="font-variant:small-caps;">Action:</span>**
+**<span style="font-variant:small-caps;">Action</span>:**
 
 Discard 1 action card from your hand.
 

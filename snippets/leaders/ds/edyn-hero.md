@@ -4,7 +4,7 @@
 
 **Peace Eternal**
 
-<span style="font-variant:small-caps;">Action:</span>
+<span style="font-variant:small-caps;">Action</span>:
 
 For each <span style="font-variant:small-caps;">Sigil</span> on the game board, draw 1 Agenda. 
 Reveal and resolve each agenda in any order as if you had cast 1 vote for an outcome of your choice. Other players cannot resolve abilities during this action. 

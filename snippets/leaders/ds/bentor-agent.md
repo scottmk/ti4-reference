@@ -2,7 +2,7 @@
 
 <span style="font-variant:small-caps;">Unlock</span>: Always Unlocked
 
-<span style="font-variant:small-caps;">Action:</span>
+<span style="font-variant:small-caps;">Action</span>:
 
 Exhaust this card and choose 1 player. 
 For each Fragment token on your faction sheet, that player gains 1 commodity. 

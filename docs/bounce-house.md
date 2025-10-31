@@ -6,18 +6,20 @@
 
 | Player              | Number of Games Won | Number of Games Played | Win Ratio |
 | ------------------- | :-----------------: | :--------------------: | :-------: |
-| :crown: LAPDConvict |          4          |           9            |   44.4%   |
+| :crown: LAPDConvict |          5          |           10           |    50%    |
 | scruffy             |          2          |           9            |   22.2%   |
-| mscott              |          2          |           10           |    20%    |
+| mscott              |          2          |           11           |   18.2%   |
+| theMikeNIke76       |          1          |           8            |   12.5%   |
 | patthepineapple     |          1          |           4            |    25%    |
-| theMikeNIke76       |          1          |           7            |   14.3%   |
-| hurripain           |          0          |           8            |    0%     |
-| ben                 |          0          |           1            |    0%     |
+| hurripain           |          0          |           9            |    0%     |
+| ben                 |          0          |           2            |    0%     |
+| jtexp               |          0          |           1            |    0%     |
+| Water               |          0          |           1            |    0%     |
 | RyRyTheThird        |          0          |           1            |    0%     |
 
 <div markdown class="grid cards">
 
--   ### **Game 1:** 2024.03.03 - 2024.05.05
+-   ### **Game 1:** 2024.03.03 – 2024.05.05
 
     ---
 
@@ -38,7 +40,7 @@
 
     \* <sup><sub>patthepineapple took over halfway thru the game</sub></sup>
 
--   ### **Game 2:** 2024.05.08 - 2025.05.22
+-   ### **Game 2:** 2024.05.08 – 2025.05.22
 
     ---
 
@@ -56,7 +58,7 @@
     | hurripain      | :ti4-faction-pok-titans: Titans of Ul  | 7 VP      |
     | LAPDConvict    | :ti4-faction-base-xxcha: Xxcha Kingdom | 6 VP      |
 
--   ### **Game 3:** 2024.07.10 - 2024.09.05
+-   ### **Game 3:** 2024.07.10 – 2024.09.05
 
     ---
 
@@ -76,7 +78,7 @@
     | LAPDConvict             | :ti4-faction-base-letnev: Barony of Letnev | 9 VP      |
     | scruffy                 | :ti4-faction-base-yin: Yin Brotherhood     | 8 VP      |
 
--   ### **Game 4:** 2024.07.14 - 2024.08.08
+-   ### **Game 4:** 2024.07.14 – 2024.08.08
 
     ---
 
@@ -94,7 +96,7 @@
     | LAPDConvict     | :ti4-faction-pok-empyrean: Empyrean            | 8 VP      |
     | mscott          | :ti4-faction-pok-mahact: Mahact Gene-Sorcerers | 7 VP      |
 
--   ### **Game 5:** 2024.08.16 - 2024.09.30
+-   ### **Game 5:** 2024.08.16 – 2024.09.30
 
     ---
 
@@ -113,7 +115,7 @@
     | theMikeNIke76       | :ti4-faction-base-jolnar: Universities of Jol-Nar    | 12 VP     |
     | scruffy             | :ti4-faction-pok-naaz: Naaz-Rokha Alliance           | 11 VP     |
 
--   ### **Game 6:** 2024.10.01 - 2024.11.18
+-   ### **Game 6:** 2024.10.01 – 2024.11.18
 
     ---
 
@@ -133,7 +135,7 @@
     | LAPDConvict           | :ti4-faction-base-saar: Clan of Saar       | 8 VP      |
     | patthepineapple       | :ti4-faction-base-l1z1x: L1Z1X Mindnet     | 5 VP      |
 
--   ### **Game 7:** 2024.11.19 - 2025.02.15
+-   ### **Game 7:** 2024.11.19 – 2025.02.15
 
     ---
 
@@ -154,7 +156,7 @@
     | mscott          | :ti4-faction-base-norr: Sardakk N'orr             | 7         |
     | patthepineapple | :ti4-faction-pok-cabal: Vuil'Raith Cabal          | 5         |
     
--   ### **Game 8:** 2025.02.19 - 2025.04.17
+-   ### **Game 8:** 2025.02.19 – 2025.04.17
 
     ---
 
@@ -174,7 +176,7 @@
     | mscott              | :ti4-faction-ds-axis: Shipwrights of Axis    | 6         |
     | hurripain           | :ti4-faction-ds-vaylerian: Vaylerian Scourge | 5         |
 
--   ### **Game 9:** 2025.03.05 - 2025.04.27
+-   ### **Game 9:** 2025.03.05 – 2025.04.27
 
     ---
 
@@ -193,7 +195,7 @@
     | mscott              | :ti4-faction-ds-celdauri: Celdauri Trade Confederation | 9         |
     | theMikeNIke76       | :ti4-faction-ds-vaden: Vaden Banking Clans             | 9         |
 
--   ### **Game 10:** 2025.04.26 - 2025.06.27
+-   ### **Game 10:** 2025.04.26 – 2025.06.27
 
     ---
 
@@ -214,7 +216,7 @@
     | mscott              | :ti4-faction-base-creuss: Ghosts of Creuss     | 5         |
     | ben                 | :ti4-faction-ds-florzen: Florzen Profiteers    | 0         |
 
--   ### **Game 11:** 2025.09.27 - TBD
+-   ### **Game 11:** 2025.09.27 – 2025.10.29
 
     ---
 
@@ -223,19 +225,19 @@
     * **Mod Content**: Absol's agendas/relics
     * **Galactic Events**: Hidden Agenda, Minor Factions
     * **Game Modes**: 4/4/4, 12 victory points, no support swaps
-    * **Winning Path**: TBD
+    * **Winning Path**: 3 stage 1s, 2 stage 2s, 3 secrets, 2 supports
 
     TBD
 
-    | Player        | Faction                                           | Total VPs |
-    | ------------- | ------------------------------------------------- | --------- |
-    | LAPDConvict   | :ti4-faction-ds-veldyr: Veldyr Sovreignty         |           |
-    | ben           | :ti4-faction-ds-freesystems: Free Systems Compact |           |
-    | hurripain     | :ti4-faction-base-arborec: Arborec                |           |
-    | Water         | :ti4-faction-base-saar: Clan of Saar              |           |
-    | mscott        | :ti4-faction-ds-ilyxum: Augurs of Ilyxum          |           |
-    | jtexp         | :ti4-faction-base-sol: Federation of Sol          |           |
-    | theMikeNIke76 | :ti4-faction-ds-ghoti: Ghoti Wayfarers            |           |
+    | Player             | Faction                                           | Total VPs |
+    | ------------------ | ------------------------------------------------- | --------- |
+    | :crown:LAPDConvict | :ti4-faction-ds-veldyr: Veldyr Sovreignty         | 12        |
+    | mscott             | :ti4-faction-ds-ilyxum: Augurs of Ilyxum          | 10        |
+    | Water              | :ti4-faction-base-saar: Clan of Saar              | 10        |
+    | hurripain          | :ti4-faction-base-arborec: Arborec                | 8         |
+    | jtexp              | :ti4-faction-base-sol: Federation of Sol          | 8         |
+    | theMikeNIke76      | :ti4-faction-ds-ghoti: Ghoti Wayfarers            | 7         |
+    | ben                | :ti4-faction-ds-freesystems: Free Systems Compact | 6         |
 </div>
 
 ## Alliance Games
@@ -255,7 +257,7 @@
 
 <div markdown class="grid cards">
 
--   ### **Alliance Game 1:** 2025.06.02 - 2025.08.03
+-   ### **Alliance Game 1:** 2025.06.02 – 2025.08.03
 
     ---
 
@@ -274,7 +276,7 @@
     | :crown:LAPDConvict<br>:crown:mscott | :ti4-faction-ds-ghemina: Ghemina Raiders<br>:ti4-faction-pok-nomad: Nomad              | 10<br>12  |
     | scruffy<br>scruffy                  | :ti4-faction-ds-mykomentori: Myko-Mentori<br>:ti4-faction-ds-rhodun: Zealots of Rhodun | 6<br>6    |
 
--   ### **Alliance Game 2:** 2025.07.16 - 2025.09.23
+-   ### **Alliance Game 2:** 2025.07.16 – 2025.09.23
 
     ---
 
@@ -430,8 +432,8 @@
 
     _Lose 35 resources worth of units in one combat_
 
-    | Player    | Faction                                                          | Game                                                                   |
-    | --------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- |
+    | Player    | Faction                                                          | Game                                                                 |
+    | --------- | ---------------------------------------------------------------- | -------------------------------------------------------------------- |
     | jtexp     | :ti4-faction-pok-naaz: Naaz-Rokha Alliance<br>(45 resources)     | [Alliance Game 2](bounce-house.md#alliance-game-2-20250716-20250923) |
     | hurripain | :ti4-faction-ds-rohdhna: Roh'Dhna Mechatronics<br>(43 resources) | [Alliance Game 2](bounce-house.md#alliance-game-2-20250716-20250923) |
 

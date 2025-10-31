@@ -4,18 +4,18 @@
 
 ### Leaderboard
 
-| Player              | Number of Games Won | Number of Games Played | Win Ratio |
-| ------------------- | :-----------------: | :--------------------: | :-------: |
-| :crown: LAPDConvict |          5          |           10           |    50%    |
-| scruffy             |          2          |           9            |   22.2%   |
-| mscott              |          2          |           11           |   18.2%   |
-| theMikeNIke76       |          1          |           8            |   12.5%   |
-| patthepineapple     |          1          |           4            |    25%    |
-| hurripain           |          0          |           9            |    0%     |
-| ben                 |          0          |           2            |    0%     |
-| jtexp               |          0          |           1            |    0%     |
-| Water               |          0          |           1            |    0%     |
-| RyRyTheThird        |          0          |           1            |    0%     |
+| Player                                                        | Number of Games Won | Number of Games Played | Win Ratio |
+| ------------------------------------------------------------- | :-----------------: | :--------------------: | :-------: |
+| <span style="white-space: nowrap;">:crown: LAPDConvict</span> |          5          |           10           |    50%    |
+| mscott                                                        |          2          |           11           |   18.2%   |
+| scruffy                                                       |          2          |           9            |   22.2%   |
+| theMikeNIke76                                                 |          1          |           8            |   12.5%   |
+| patthepineapple                                               |          1          |           4            |    25%    |
+| hurripain                                                     |          0          |           9            |    0%     |
+| ben                                                           |          0          |           2            |    0%     |
+| jtexp                                                         |          0          |           1            |    0%     |
+| Water                                                         |          0          |           1            |    0%     |
+| RyRyTheThird                                                  |          0          |           1            |    0%     |
 
 <div markdown class="grid cards">
 
@@ -30,13 +30,13 @@
 
     Round 7 Status Phase Win
 
-    | Player          | Faction                                           | Total VPs |
-    | --------------- | ------------------------------------------------- | --------- |
-    | :crown: mscott  | :ti4-faction-base-hacan: Emirates of Hacan        | 10 VP     |
-    | scruffy         | :ti4-faction-base-l1z1x: L1Z1X Mindnet            | 9 VP      |
-    | hurripain       | :ti4-faction-base-jolnar: Universities of Jol-Nar | 8 VP      |
-    | RyRyTheThird*   | :ti4-faction-base-sol: Federation of Sol          | 8 VP      |
-    | patthepineapple | :ti4-faction-base-saar: Clan of Saar              | 6 VP      |
+    | Player                                                   | Faction                                           | Total VPs |
+    | -------------------------------------------------------- | ------------------------------------------------- | --------- |
+    | <span style="white-space: nowrap;">:crown: mscott</span> | :ti4-faction-base-hacan: Emirates of Hacan        | 10 VP     |
+    | scruffy                                                  | :ti4-faction-base-l1z1x: L1Z1X Mindnet            | 9 VP      |
+    | hurripain                                                | :ti4-faction-base-jolnar: Universities of Jol-Nar | 8 VP      |
+    | RyRyTheThird*                                            | :ti4-faction-base-sol: Federation of Sol          | 8 VP      |
+    | patthepineapple                                          | :ti4-faction-base-saar: Clan of Saar              | 6 VP      |
 
     \* <sup><sub>patthepineapple took over halfway thru the game</sub></sup>
 
@@ -51,12 +51,12 @@
 
     Round 5 Action Phase Win
 
-    | Player         | Faction                                | Total VPs |
-    | -------------- | -------------------------------------- | --------- |
-    | :crown: mscott | :ti4-faction-base-arborec: The Arborec | 10 VP     |
-    | scruffy        | :ti4-faction-base-mentak: Mentak       | 8 VP      |
-    | hurripain      | :ti4-faction-pok-titans: Titans of Ul  | 7 VP      |
-    | LAPDConvict    | :ti4-faction-base-xxcha: Xxcha Kingdom | 6 VP      |
+    | Player                                                   | Faction                                | Total VPs |
+    | -------------------------------------------------------- | -------------------------------------- | --------- |
+    | <span style="white-space: nowrap;">:crown: mscott</span> | :ti4-faction-base-arborec: The Arborec | 10 VP     |
+    | scruffy                                                  | :ti4-faction-base-mentak: Mentak       | 8 VP      |
+    | hurripain                                                | :ti4-faction-pok-titans: Titans of Ul  | 7 VP      |
+    | LAPDConvict                                              | :ti4-faction-base-xxcha: Xxcha Kingdom | 6 VP      |
 
 -   ### **Game 3:** 2024.07.10 – 2024.09.05
 
@@ -69,14 +69,14 @@
 
     Round 7 Status Phase Win
 
-    | Player                  | Faction                                    | Total VPs |
-    | ----------------------- | ------------------------------------------ | --------- |
-    | :crown: patthepineapple | :ti4-faction-base-yssaril: Yssaril Tribes  | 10 VP     |
-    | theMikeNIke76           | :ti4-faction-base-hacan: Emirates of Hacan | 9 VP      |
-    | hurripain               | :ti4-faction-pok-cabal: Vuil'Raith Cabal   | 9 VP      |
-    | mscott                  | :ti4-faction-base-creuss: Ghosts of Creuss | 9 VP      |
-    | LAPDConvict             | :ti4-faction-base-letnev: Barony of Letnev | 9 VP      |
-    | scruffy                 | :ti4-faction-base-yin: Yin Brotherhood     | 8 VP      |
+    | Player                                                            | Faction                                    | Total VPs |
+    | ----------------------------------------------------------------- | ------------------------------------------ | --------- |
+    | <span style="white-space: nowrap;">:crown: patthepineapple</span> | :ti4-faction-base-yssaril: Yssaril Tribes  | 10 VP     |
+    | theMikeNIke76                                                     | :ti4-faction-base-hacan: Emirates of Hacan | 9 VP      |
+    | hurripain                                                         | :ti4-faction-pok-cabal: Vuil'Raith Cabal   | 9 VP      |
+    | mscott                                                            | :ti4-faction-base-creuss: Ghosts of Creuss | 9 VP      |
+    | LAPDConvict                                                       | :ti4-faction-base-letnev: Barony of Letnev | 9 VP      |
+    | scruffy                                                           | :ti4-faction-base-yin: Yin Brotherhood     | 8 VP      |
 
 -   ### **Game 4:** 2024.07.14 – 2024.08.08
 
@@ -89,12 +89,12 @@
 
     Round 5 Action Phase Win
 
-    | Player          | Faction                                        | Total VPs |
-    | --------------- | ---------------------------------------------- | --------- |
-    | :crown: scruffy | :ti4-faction-base-nekro: Nekro Virus           | 10 VP     |
-    | hurripain       | :ti4-faction-pok-argent: Argent Flight         | 8 VP      |
-    | LAPDConvict     | :ti4-faction-pok-empyrean: Empyrean            | 8 VP      |
-    | mscott          | :ti4-faction-pok-mahact: Mahact Gene-Sorcerers | 7 VP      |
+    | Player                                                    | Faction                                        | Total VPs |
+    | --------------------------------------------------------- | ---------------------------------------------- | --------- |
+    | <span style="white-space: nowrap;">:crown: scruffy</span> | :ti4-faction-base-nekro: Nekro Virus           | 10 VP     |
+    | hurripain                                                 | :ti4-faction-pok-argent: Argent Flight         | 8 VP      |
+    | LAPDConvict                                               | :ti4-faction-pok-empyrean: Empyrean            | 8 VP      |
+    | mscott                                                    | :ti4-faction-pok-mahact: Mahact Gene-Sorcerers | 7 VP      |
 
 -   ### **Game 5:** 2024.08.16 – 2024.09.30
 
@@ -107,13 +107,13 @@
 
     Round 7 Action Phase Win
 
-    | Player              | Faction                                              | Total VPs |
-    | ------------------- | ---------------------------------------------------- | --------- |
-    | :crown: LAPDConvict | :ti4-faction-codex-keleres: Council Keleres (Mentak) | 14 VP     |
-    | mscott              | :ti4-faction-base-naalu: Naalu Collective            | 13 VP     |
-    | hurripain           | :ti4-faction-pok-nomad: The Nomad                    | 13 VP     |
-    | theMikeNIke76       | :ti4-faction-base-jolnar: Universities of Jol-Nar    | 12 VP     |
-    | scruffy             | :ti4-faction-pok-naaz: Naaz-Rokha Alliance           | 11 VP     |
+    | Player                                                        | Faction                                              | Total VPs |
+    | ------------------------------------------------------------- | ---------------------------------------------------- | --------- |
+    | <span style="white-space: nowrap;">:crown: LAPDConvict</span> | :ti4-faction-codex-keleres: Council Keleres (Mentak) | 14 VP     |
+    | mscott                                                        | :ti4-faction-base-naalu: Naalu Collective            | 13 VP     |
+    | hurripain                                                     | :ti4-faction-pok-nomad: The Nomad                    | 13 VP     |
+    | theMikeNIke76                                                 | :ti4-faction-base-jolnar: Universities of Jol-Nar    | 12 VP     |
+    | scruffy                                                       | :ti4-faction-pok-naaz: Naaz-Rokha Alliance           | 11 VP     |
 
 -   ### **Game 6:** 2024.10.01 – 2024.11.18
 
@@ -127,13 +127,13 @@
 
     Round 5 Agenda Phase Win
 
-    | Player                | Faction                                    | Total VPs |
-    | --------------------- | ------------------------------------------ | --------- |
-    | :crown: theMikeNIke76 | :ti4-faction-pok-titans: Titans of Ul      | 12 VP     |
-    | mscott                | :ti4-faction-base-mentak: Mentak Coalition | 11 VP     |
-    | hurripain             | :ti4-faction-base-muaat: Embers of Muaat   | 10 VP     |
-    | LAPDConvict           | :ti4-faction-base-saar: Clan of Saar       | 8 VP      |
-    | patthepineapple       | :ti4-faction-base-l1z1x: L1Z1X Mindnet     | 5 VP      |
+    | Player                                                          | Faction                                    | Total VPs |
+    | --------------------------------------------------------------- | ------------------------------------------ | --------- |
+    | <span style="white-space: nowrap;">:crown: theMikeNIke76</span> | :ti4-faction-pok-titans: Titans of Ul      | 12 VP     |
+    | mscott                                                          | :ti4-faction-base-mentak: Mentak Coalition | 11 VP     |
+    | hurripain                                                       | :ti4-faction-base-muaat: Embers of Muaat   | 10 VP     |
+    | LAPDConvict                                                     | :ti4-faction-base-saar: Clan of Saar       | 8 VP      |
+    | patthepineapple                                                 | :ti4-faction-base-l1z1x: L1Z1X Mindnet     | 5 VP      |
 
 -   ### **Game 7:** 2024.11.19 – 2025.02.15
 
@@ -147,14 +147,14 @@
 
     Round 5 Agenda Phase Win
 
-    | Player          | Faction                                           | Total VPs |
-    | --------------- | ------------------------------------------------- | --------- |
-    | :crown: scruffy | :ti4-faction-base-yssaril: Yssaril Tribes         | 12        |
-    | theMikeNIke76   | :ti4-faction-base-nekro: Nekro Virus              | 11        |
-    | LAPDConvict     | :ti4-faction-base-jolnar: Universities of Jol-Nar | 11        |
-    | hurripain       | :ti4-faction-pok-naaz: Naaz-Rokha Alliance        | 10        |
-    | mscott          | :ti4-faction-base-norr: Sardakk N'orr             | 7         |
-    | patthepineapple | :ti4-faction-pok-cabal: Vuil'Raith Cabal          | 5         |
+    | Player                                                    | Faction                                           | Total VPs |
+    | --------------------------------------------------------- | ------------------------------------------------- | --------- |
+    | <span style="white-space: nowrap;">:crown: scruffy</span> | :ti4-faction-base-yssaril: Yssaril Tribes         | 12        |
+    | theMikeNIke76                                             | :ti4-faction-base-nekro: Nekro Virus              | 11        |
+    | LAPDConvict                                               | :ti4-faction-base-jolnar: Universities of Jol-Nar | 11        |
+    | hurripain                                                 | :ti4-faction-pok-naaz: Naaz-Rokha Alliance        | 10        |
+    | mscott                                                    | :ti4-faction-base-norr: Sardakk N'orr             | 7         |
+    | patthepineapple                                           | :ti4-faction-pok-cabal: Vuil'Raith Cabal          | 5         |
     
 -   ### **Game 8:** 2025.02.19 – 2025.04.17
 
@@ -168,13 +168,13 @@
 
     Round 5 Action Phase Win (Turn 1)
 
-    | Player              | Faction                                      | Total VPs |
-    | ------------------- | -------------------------------------------- | --------- |
-    | :crown: LAPDConvict | :ti4-faction-base-xxcha: Xxcha Kingdom       | 12        |
-    | scruffy             | :ti4-faction-ds-dihmohn: Dih-Mohn Flotilla   | 10        |
-    | theMikeNIke76       | :ti4-faction-ds-nivyn: Nivyn Star Kings      | 8         |
-    | mscott              | :ti4-faction-ds-axis: Shipwrights of Axis    | 6         |
-    | hurripain           | :ti4-faction-ds-vaylerian: Vaylerian Scourge | 5         |
+    | Player                                                        | Faction                                      | Total VPs |
+    | ------------------------------------------------------------- | -------------------------------------------- | --------- |
+    | <span style="white-space: nowrap;">:crown: LAPDConvict</span> | :ti4-faction-base-xxcha: Xxcha Kingdom       | 12        |
+    | scruffy                                                       | :ti4-faction-ds-dihmohn: Dih-Mohn Flotilla   | 10        |
+    | theMikeNIke76                                                 | :ti4-faction-ds-nivyn: Nivyn Star Kings      | 8         |
+    | mscott                                                        | :ti4-faction-ds-axis: Shipwrights of Axis    | 6         |
+    | hurripain                                                     | :ti4-faction-ds-vaylerian: Vaylerian Scourge | 5         |
 
 -   ### **Game 9:** 2025.03.05 – 2025.04.27
 
@@ -188,12 +188,12 @@
 
     Round 5 Status Phase Win
 
-    | Player              | Faction                                                | Total VPs |
-    | ------------------- | ------------------------------------------------------ | --------- |
-    | :crown: LAPDConvict | :ti4-faction-ds-mirveda: Mirveda Protectorate          | 13        |
-    | scruffy             | :ti4-faction-pok-titans: Titans of Ul                  | 10        |
-    | mscott              | :ti4-faction-ds-celdauri: Celdauri Trade Confederation | 9         |
-    | theMikeNIke76       | :ti4-faction-ds-vaden: Vaden Banking Clans             | 9         |
+    | Player                                                        | Faction                                                | Total VPs |
+    | ------------------------------------------------------------- | ------------------------------------------------------ | --------- |
+    | <span style="white-space: nowrap;">:crown: LAPDConvict</span> | :ti4-faction-ds-mirveda: Mirveda Protectorate          | 13        |
+    | scruffy                                                       | :ti4-faction-pok-titans: Titans of Ul                  | 10        |
+    | mscott                                                        | :ti4-faction-ds-celdauri: Celdauri Trade Confederation | 9         |
+    | theMikeNIke76                                                 | :ti4-faction-ds-vaden: Vaden Banking Clans             | 9         |
 
 -   ### **Game 10:** 2025.04.26 – 2025.06.27
 
@@ -207,14 +207,14 @@
 
     Round 4 Status Phase Win
 
-    | Player              | Faction                                        | Total VPs |
-    | ------------------- | ---------------------------------------------- | --------- |
-    | :crown: LAPDConvict | :ti4-faction-base-naalu: Naalu Collective      | 12        |
-    | theMikeNIke76       | :ti4-faction-pok-mahact: Mahact Gene-Sorcerers | 6         |
-    | scruffy             | :ti4-faction-ds-nokar: Nokar Sellships         | 5         |
-    | hurripain           | :ti4-faction-pok-argent: Argent Flight         | 5         |
-    | mscott              | :ti4-faction-base-creuss: Ghosts of Creuss     | 5         |
-    | ben                 | :ti4-faction-ds-florzen: Florzen Profiteers    | 0         |
+    | Player                                                        | Faction                                        | Total VPs |
+    | ------------------------------------------------------------- | ---------------------------------------------- | --------- |
+    | <span style="white-space: nowrap;">:crown: LAPDConvict</span> | :ti4-faction-base-naalu: Naalu Collective      | 12        |
+    | theMikeNIke76                                                 | :ti4-faction-pok-mahact: Mahact Gene-Sorcerers | 6         |
+    | scruffy                                                       | :ti4-faction-ds-nokar: Nokar Sellships         | 5         |
+    | hurripain                                                     | :ti4-faction-pok-argent: Argent Flight         | 5         |
+    | mscott                                                        | :ti4-faction-base-creuss: Ghosts of Creuss     | 5         |
+    | ben                                                           | :ti4-faction-ds-florzen: Florzen Profiteers    | 0         |
 
 -   ### **Game 11:** 2025.09.27 – 2025.10.29
 
@@ -229,15 +229,16 @@
 
     TBD
 
-    | Player             | Faction                                           | Total VPs |
-    | ------------------ | ------------------------------------------------- | --------- |
-    | :crown:LAPDConvict | :ti4-faction-ds-veldyr: Veldyr Sovreignty         | 12        |
-    | mscott             | :ti4-faction-ds-ilyxum: Augurs of Ilyxum          | 10        |
-    | Water              | :ti4-faction-base-saar: Clan of Saar              | 10        |
-    | hurripain          | :ti4-faction-base-arborec: Arborec                | 8         |
-    | jtexp              | :ti4-faction-base-sol: Federation of Sol          | 8         |
-    | theMikeNIke76      | :ti4-faction-ds-ghoti: Ghoti Wayfarers            | 7         |
-    | ben                | :ti4-faction-ds-freesystems: Free Systems Compact | 6         |
+    | Player                                                        | Faction                                           | Total VPs |
+    | ------------------------------------------------------------- | ------------------------------------------------- | --------- |
+    | <span style="white-space: nowrap;">:crown: LAPDConvict</span> | :ti4-faction-ds-veldyr: Veldyr Sovereignty        | 12        |
+    | mscott                                                        | :ti4-faction-ds-ilyxum: Augurs of Ilyxum          | 10        |
+    | Water                                                         | :ti4-faction-base-saar: Clan of Saar              | 10        |
+    | hurripain                                                     | :ti4-faction-base-arborec: Arborec                | 8         |
+    | jtexp                                                         | :ti4-faction-base-sol: Federation of Sol          | 8         |
+    | theMikeNIke76                                                 | :ti4-faction-ds-ghoti: Ghoti Wayfarers            | 7         |
+    | ben                                                           | :ti4-faction-ds-freesystems: Free Systems Compact | 6         |
+
 </div>
 
 ## Alliance Games

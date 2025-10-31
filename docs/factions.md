@@ -1,5 +1,7 @@
 # Overview
 
+<sup><sub>Faction icons adapted from [AsyncTI4 emojis](https://github.com/AsyncTI4/TI4_map_generator_bot/tree/master/src/main/resources/emojis/factions).</sub></sup>
+
 ## Base Game
 
 |                                                                                                 |                                                                                                 |                                                                                                 |                                                                                                        |

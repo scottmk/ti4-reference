@@ -1,9 +1,11 @@
-### **TBA Genome**
+### **Altruistic Genome**
 :ti4-faction-pok-titans:
 { .splice-faction }
 
-**TBA**
+**Mettle**
 
 ---
 
-_Coming soon._
+**When a hit is produced against a unit:**
+
+You may exhaust this card to cancel that hit.

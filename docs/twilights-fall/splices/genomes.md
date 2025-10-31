@@ -84,6 +84,10 @@ toc_depth: 2
 
 -   
 
+    --8<-- "snippets/tf/genomes/nomad-3-genome.md"
+
+-   
+
     --8<-- "snippets/tf/genomes/norr-genome.md"
 
 -   
@@ -125,9 +129,5 @@ toc_depth: 2
 -   
 
     --8<-- "snippets/tf/genomes/yssaril-genome.md"
-
--   
-
-    --8<-- "snippets/tf/genomes/TBA-genome.md"
 
 </div>

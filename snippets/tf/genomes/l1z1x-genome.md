@@ -1,9 +1,11 @@
-### **TBA Genome**
+### **Brutal Genome**
 :ti4-faction-base-l1z1x:
 { .splice-faction }
 
-**TBA**
+**Severity**
 
 ---
 
-_Coming soon._
+**After a player activates a system:**
+
+You may exhaust this card to allow that player to replace 1 of their infantry in the active system with 1 mech from their reinforcements.

@@ -1,9 +1,11 @@
-### **TBA Genome**
+### **Action Genome**
 :ti4-faction-te-keleres:
 { .splice-faction }
 
-**TBA**
+**Efficiency**
 
 ---
 
-_Coming soon._
+**At any time:**
+
+You may exhaust this card to allow any player to spend commodities as if they were trade goods.

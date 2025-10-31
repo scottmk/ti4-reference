@@ -1,9 +1,11 @@
-### **TBA Genome**
+### **Silver Genome**
 :ti4-faction-base-hacan:
 { .splice-faction }
 
-**TBA**
+**Prosperity**
 
 ---
 
-_Coming soon._
+**During the action phase:**
+
+You may exhaust this card to gain 2 commodities or replenish another player's commodities.

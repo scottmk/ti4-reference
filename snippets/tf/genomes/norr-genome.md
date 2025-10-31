@@ -1,9 +1,11 @@
-### **TBA Genome**
+### **Swarm Genome**
 :ti4-faction-base-norr:
 { .splice-faction }
 
-**TBA**
+**Fervor**
 
 ---
 
-_Coming soon._
+**At the end of a player's tactical action:**
+
+You may exhaust this card; if you do, that player may place 2 infantry from their reinforcements on a planet they control in the active system.

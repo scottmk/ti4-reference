@@ -1,9 +1,11 @@
-### **TBA Genome**
+### **Hyper Genome**
 :ti4-faction-base-mentak:
 { .splice-faction }
 
-**TBA**
+**Energy**
 
 ---
 
-_Coming soon._
+**At any time:**
+
+You may exhaust this card and choose another player; that player gives you 1 trade good, if able, then you each draw 1 action card.

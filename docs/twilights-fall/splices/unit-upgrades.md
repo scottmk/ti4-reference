@@ -1,5 +1,5 @@
 ---
-toc_depth: 2
+toc_depth: 3
 ---
 
 # Unit Upgrades

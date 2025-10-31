@@ -5,3 +5,7 @@
 At any time:
 
 You may look at your neighbors' hands of promissory notes and the top and bottom card of the agenda deck.
+
+---
+
+_First among Q'uesh's sorceresses, M'aban has been gifted with radium crystal enhancements, allowing her mind to sing to thousands of Naalu at once._

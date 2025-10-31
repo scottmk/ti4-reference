@@ -4,7 +4,7 @@ Unit Type: Mech :ti4-unit-mech:
 
 ---
 
-Other players must spend 1 influence to commit ground forces to the planet that contains this unit.
+Other players must spend 1 influence to commit ground forces to this planet.
 
 * <span style="font-variant:small-caps;">Sustain Damage</span> 
 

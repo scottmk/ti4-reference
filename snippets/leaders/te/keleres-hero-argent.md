@@ -2,12 +2,16 @@
 
 <span style="font-variant:small-caps;">Unlock</span>: Have 3 scored objectives.
 
-**Overwing Zeta: Artemiris Ascendant**
+Available if you chose the Argent Flight during setup.
 
-At the start of a round of of space combat in a system that contains a planet you control:
+#### Overwing Zeta: Artemiris Ascendant
 
-Place your flagship and up to a total of 2 cruisers and/or destroyers from your reinforcements in the active system. Then, purge this card.
+**At the start of a round of of space combat in a system that contains a planet you control:**
+
+Place your flagship and any combination of 2 cruisers or destroyers from your reinforcements in the active system.
+
+Then, purge this card.
 
 ---
 
-*Valor. Grace. Wisdom.*
+_Valor. Grace. Wisdom._

@@ -179,3 +179,7 @@ th:empty {
   text-align: center !important;
   font-size: 24px;
 }
+
+.md-typeset table td {
+  vertical-align: middle !important;
+}

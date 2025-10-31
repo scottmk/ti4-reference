@@ -37,6 +37,8 @@
 *[sever token]: Turns off all wormholes in a system for one round.
 *[Supernova]: A ship cannot move through or into a supernova.
 *[supernova]: A ship cannot move through or into a supernova.
+*[Supernovas]: A ship cannot move through or into a supernova.
+*[supernovas]: A ship cannot move through or into a supernova.
 *[Supernovae]: A ship cannot move through or into a supernova.
 *[supernovae]: A ship cannot move through or into a supernova.
 *[Synergy]: Whenever you are researching technology or scoring technology-related objectives, you can treat the technology colors on your breakthrough as either of the two for the purpose of fulfilling requirements (but not both)

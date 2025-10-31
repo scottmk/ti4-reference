@@ -1,10 +1,13 @@
-### **TBA**
-:ti4-faction-te-keleres: :ti4-faction-base-xxcha:
+### **Witching Hour**
+:ti4-faction-te-keleres:
 { .splice-faction }
 
-**Keleres – Xxcha Paradigm**
+**Keleres Paradigm**
 
 ---
 
-_Coming soon._
+**<span style="font-variant:small-caps;">Action</span>:** Choose a player other than the current speaker to gain the speaker token.
 
+Choose a player other than the tyrant to gain the benediction token.
+
+Then, purge this card.

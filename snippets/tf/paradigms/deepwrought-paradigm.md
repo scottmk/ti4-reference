@@ -1,4 +1,4 @@
-### **TBA**
+### **The Laws Unwritten**
 :ti4-faction-te-deepwrought:
 { .splice-faction }
 
@@ -6,5 +6,6 @@
 
 ---
 
-_Coming soon._
+**<span style="font-variant:small-caps;">Action</span>:** Purge an ability owned by any player.
 
+Then, purge this card.

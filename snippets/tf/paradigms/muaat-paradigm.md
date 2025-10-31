@@ -1,4 +1,4 @@
-### **TBA**
+### **Gravitational Collapse**
 :ti4-faction-base-muaat:
 { .splice-faction }
 
@@ -6,5 +6,7 @@
 
 ---
 
-_Coming soon._
+**After you move a war sun into a non-home system other than Mecatol Rex:**
 
+You may destroy all other players' units in that system and replace that system tile with the Muaat supernova tile.
+If you do, purge this card and each planet card that corresponds to the replaced system tile.

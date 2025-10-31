@@ -60,11 +60,11 @@
 
 -   
 
-    --8<-- "snippets/tf/paradigms/TBA-paradigm.md"
+    --8<-- "snippets/tf/paradigms/muaat-paradigm.md"
 
 -   
 
-    --8<-- "snippets/tf/paradigms/muaat-paradigm.md"
+    --8<-- "snippets/tf/paradigms/mentak-paradigm.md"
 
 -   
 

@@ -21,6 +21,7 @@ It also includes references for the [_Discordant Stars_ fan expansion](https://t
 
 ### **31 Oct 25**
 * Added remaining _Twilight's Fall_ [genomes](twilights-fall/splices/genomes.md)
+* Added remaining _Twilight's Fall_ [paradigms](twilights-fall/paradigms.md)
 
 ### **27 Oct 25**
 * Added all remaining _Thunder's Edge_ content, excluding _Twilight's Fall_

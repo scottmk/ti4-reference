@@ -227,7 +227,7 @@
     * **Game Modes**: 4/4/4, 12 victory points, no support swaps
     * **Winning Path**: 3 stage 1s, 2 stage 2s, 3 secrets, 2 supports
 
-    TBD
+    Round 6 Action Phase Win (Imperial)
 
     | Player                                                        | Faction                                           | Total VPs |
     | ------------------------------------------------------------- | ------------------------------------------------- | --------- |

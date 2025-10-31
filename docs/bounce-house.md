@@ -432,8 +432,8 @@
 
     | Player    | Faction                                                          | Game                                                                   |
     | --------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- |
-    | jtexp     | :ti4-faction-pok-naaz: Naaz-Rokha Alliance<br>(45 resources)     | [Alliance Game 2](bounce-house.md#alliance-game-2-20250716---20250923) |
-    | hurripain | :ti4-faction-ds-rohdhna: Roh'Dhna Mechatronics<br>(43 resources) | [Alliance Game 2](bounce-house.md#alliance-game-2-20250716---20250923) |
+    | jtexp     | :ti4-faction-pok-naaz: Naaz-Rokha Alliance<br>(45 resources)     | [Alliance Game 2](bounce-house.md#alliance-game-2-20250716-20250923) |
+    | hurripain | :ti4-faction-ds-rohdhna: Roh'Dhna Mechatronics<br>(43 resources) | [Alliance Game 2](bounce-house.md#alliance-game-2-20250716-20250923) |
 
 -   ### Rinfinity
 

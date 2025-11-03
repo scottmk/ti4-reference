@@ -2,7 +2,7 @@
 :ti4-faction-pok-naaz:
 { .splice-faction }
 
-**Perseverence**
+**Perseverance**
 
 ---
 

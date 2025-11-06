@@ -239,6 +239,48 @@
     | theMikeNIke76                                                 | :ti4-faction-ds-ghoti: Ghoti Wayfarers            | 7         |
     | ben                                                           | :ti4-faction-ds-freesystems: Free Systems Compact | 6         |
 
+-   ### **Game 12:** 2025.10.31 – TBD
+
+    ---
+
+    * Async TI4 ([pbd15270](https://asyncti4.com/game/pbd15270){:target="_blank"})
+    * **Expansion Content**: :ti4-pok:, :ti4-te:
+    * **Mod Content**: None
+    * **Galactic Events**: None
+    * **Game Modes**: 14 victory points, no support swaps
+    * **Winning Path**: TBD
+
+    TBD
+
+    | Player        | Faction                                             | Total VPs |
+    | ------------- | --------------------------------------------------- | --------- |
+    | hurripain     | :ti4-faction-te-rebellion: Crimson Rebellion        |           |
+    | LAPDConvict   | :ti4-faction-te-bastion: Last Bastion               |           |
+    | theMikeNIke76 | :ti4-faction-te-deepwrought: Deepwrought Scholarate |           |
+    | mscott        | :ti4-faction-base-muaat: Embers of Muaat            |           |
+    | scruffy       | :ti4-faction-te-ralnel: Ral Nel Consortium          |           |
+
+-   ### **Game 13:** 2025.10.31 – TBD
+
+    ---
+
+    * Async TI4 ([pbd15299](https://asyncti4.com/game/pbd15299){:target="_blank"})
+    * **Expansion Content**: :ti4-pok:, :ti4-te:
+    * **Mod Content**: None
+    * **Galactic Events**: None
+    * **Game Modes**: 14 victory points, no support swaps
+    * **Winning Path**: TBD
+
+    TBD
+
+    | Player      | Faction                                                                            | Total VPs |
+    | ----------- | ---------------------------------------------------------------------------------- | --------- |
+    | ben         | :ti4-faction-base-norr: Sardakk N'orr                                              |           |
+    | hurripain   | :ti4-faction-te-firmament: The Firmament<br>:ti4-faction-te-obsidian: The Obsidian |           |
+    | jtexp       | :ti4-faction-pok-cabal: Vuil'Raith Cabal                                           |           |
+    | LAPDConvict | :ti4-faction-te-deepwrought: Deepwrought Scholarate                                |           |
+    | mscott      | :ti4-faction-te-rebellion: Crimson Rebellion                                       |           |
+    | Water       | :ti4-faction-te-ralnel: Ral Nel Consortium                                         |           |
 </div>
 
 ## Alliance Games

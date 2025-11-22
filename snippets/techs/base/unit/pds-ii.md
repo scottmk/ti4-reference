@@ -7,5 +7,5 @@ Unit Type: PDS :ti4-unit-pds:
 ---
 
 * <span style="font-variant:small-caps;">Planetary Shield</span>
-* <span style="font-variant:small-caps;">Deep Space Cannon 5</span>
+* <span style="font-variant:small-caps;">Space Cannon 5</span>
 

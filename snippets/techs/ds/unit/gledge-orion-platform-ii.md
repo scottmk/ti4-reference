@@ -11,4 +11,4 @@ When this unit produces 1 or more hits against another player's units, explore t
 You may use this unit's <span style="font-variant:small-caps;">Space Cannon</span> against ships that are adjacent to this unit's system.
 
 * <span style="font-variant:small-caps;">Planetary Shield</span> 
-* <span style="font-variant:small-caps;">Deep Space Cannon 5</span>
+* <span style="font-variant:small-caps;">Space Cannon 5</span>

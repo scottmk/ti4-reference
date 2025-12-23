@@ -6,12 +6,12 @@
 
 | Player                                                        | Number of Games Won | Number of Games Played | Win Ratio |
 | ------------------------------------------------------------- | :-----------------: | :--------------------: | :-------: |
-| <span style="white-space: nowrap;">:crown: LAPDConvict</span> |          5          |           10           |    50%    |
-| mscott                                                        |          2          |           11           |   18.2%   |
-| scruffy                                                       |          2          |           9            |   22.2%   |
-| theMikeNIke76                                                 |          1          |           8            |   12.5%   |
+| <span style="white-space: nowrap;">:crown: LAPDConvict</span> |          6          |           11           |   54.5%   |
+| mscott                                                        |          2          |           12           |   16.6%   |
+| scruffy                                                       |          2          |           10           |    20%    |
+| theMikeNIke76                                                 |          1          |           9            |   11.1%   |
 | patthepineapple                                               |          1          |           4            |    25%    |
-| hurripain                                                     |          0          |           9            |    0%     |
+| hurripain                                                     |          0          |           10           |    0%     |
 | ben                                                           |          0          |           2            |    0%     |
 | jtexp                                                         |          0          |           1            |    0%     |
 | Water                                                         |          0          |           1            |    0%     |
@@ -239,7 +239,7 @@
     | theMikeNIke76                                                 | :ti4-faction-ds-ghoti: Ghoti Wayfarers            | 7         |
     | ben                                                           | :ti4-faction-ds-freesystems: Free Systems Compact | 6         |
 
--   ### **Game 12:** 2025.10.31 – TBD
+-   ### **Game 12:** 2025.10.31 – 2025.12.23
 
     ---
 
@@ -248,17 +248,17 @@
     * **Mod Content**: None
     * **Galactic Events**: None
     * **Game Modes**: 14 victory points, no support swaps
-    * **Winning Path**: TBD
+    * **Winning Path**: 5 stage 1s, 2 stage 2s, 3 secrets, 2 Imperial points 
 
-    TBD
+    Round 7 Action Phase Win (Imperial)
 
-    | Player        | Faction                                             | Total VPs |
-    | ------------- | --------------------------------------------------- | --------- |
-    | hurripain     | :ti4-faction-te-rebellion: Crimson Rebellion        |           |
-    | LAPDConvict   | :ti4-faction-te-bastion: Last Bastion               |           |
-    | theMikeNIke76 | :ti4-faction-te-deepwrought: Deepwrought Scholarate |           |
-    | mscott        | :ti4-faction-base-muaat: Embers of Muaat            |           |
-    | scruffy       | :ti4-faction-te-ralnel: Ral Nel Consortium          |           |
+    | Player                                                        | Faction                                             | Total VPs |
+    | ------------------------------------------------------------- | --------------------------------------------------- | --------- |
+    | <span style="white-space: nowrap;">:crown: LAPDConvict</span> | :ti4-faction-te-bastion: Last Bastion               | 14        |
+    | hurripain                                                     | :ti4-faction-te-rebellion: Crimson Rebellion        | 12        |
+    | scruffy                                                       | :ti4-faction-te-ralnel: Ral Nel Consortium          | 11        |
+    | mscott                                                        | :ti4-faction-base-muaat: Embers of Muaat            | 11        |
+    | theMikeNIke76                                                 | :ti4-faction-te-deepwrought: Deepwrought Scholarate | 10        |
 
 -   ### **Game 13:** 2025.10.31 – TBD
 
@@ -287,16 +287,16 @@
 
 ### Leaderboard
 
-| Player             | Number of Games Won | Number of Games Played | Win Ratio |
-| ------------------ | :-----------------: | :--------------------: | :-------: |
-| :crown:LAPDConvict |          1          |           2            |    50%    |
-| :crown:mscott      |          1          |           2            |    50%    |
-| jtexp              |          1          |           1            |   100%    |
-| Water              |          1          |           1            |   100%    |
-| hurripain          |          0          |           1            |    0%     |
-| ben                |          0          |           1            |    0%     |
-| scruffy            |          0          |           2            |    0%     |
-| theMikeNIke76      |          0          |           1            |    0%     |
+| Player              | Number of Games Won | Number of Games Played | Win Ratio |
+| ------------------- | :-----------------: | :--------------------: | :-------: |
+| :crown: LAPDConvict |          1          |           2            |    50%    |
+| :crown: mscott      |          1          |           2            |    50%    |
+| jtexp               |          1          |           1            |   100%    |
+| Water               |          1          |           1            |   100%    |
+| hurripain           |          0          |           1            |    0%     |
+| ben                 |          0          |           1            |    0%     |
+| scruffy             |          0          |           2            |    0%     |
+| theMikeNIke76       |          0          |           1            |    0%     |
 
 <div markdown class="grid cards">
 
@@ -314,10 +314,10 @@
 
     Round 6 Status Phase Win
 
-    | Player                              | Faction                                                                                | Total VPs |
-    | ----------------------------------- | -------------------------------------------------------------------------------------- | --------- |
-    | :crown:LAPDConvict<br>:crown:mscott | :ti4-faction-ds-ghemina: Ghemina Raiders<br>:ti4-faction-pok-nomad: Nomad              | 10<br>12  |
-    | scruffy<br>scruffy                  | :ti4-faction-ds-mykomentori: Myko-Mentori<br>:ti4-faction-ds-rhodun: Zealots of Rhodun | 6<br>6    |
+    | Player                                | Faction                                                                                | Total VPs |
+    | ------------------------------------- | -------------------------------------------------------------------------------------- | --------- |
+    | :crown: LAPDConvict<br>:crown: mscott | :ti4-faction-ds-ghemina: Ghemina Raiders<br>:ti4-faction-pok-nomad: Nomad              | 10<br>12  |
+    | scruffy<br>scruffy                    | :ti4-faction-ds-mykomentori: Myko-Mentori<br>:ti4-faction-ds-rhodun: Zealots of Rhodun | 6<br>6    |
 
 -   ### **Alliance Game 2:** 2025.07.16 – 2025.09.23
 
@@ -334,12 +334,12 @@
 
     Round 6 Action Phase Win
 
-    | Player                       | Faction                                                                                          | Total VPs |
-    | ---------------------------- | ------------------------------------------------------------------------------------------------ | --------- |
-    | :crown:jtexp<br>:crown:Water | :ti4-faction-pok-naaz: Naaz-Rokha Alliance<br>:ti4-faction-ds-cymiae: Savages of Cymiae          | 14<br>12  |
-    | hurripain<br>mscott          | :ti4-faction-ds-rohdhna: Roh'Dhna Mechatronics<br>:ti4-faction-base-l1z1x: L1Z1X Mindnet         | 12<br>12  |
-    | LAPDConvict<br>ben           | :ti4-faction-ds-zelian: Zelian Purifier<br>:ti4-faction-ds-cheiran: Cheiran Hordes               | 8<br>11   |
-    | scruffy<br>theMikeNIke76     | :ti4-faction-ds-kollecc: Kollecc Society<br>:ti4-faction-codex-keleres: Council Keleres (Mentak) | 3<br>4    |
+    | Player                         | Faction                                                                                          | Total VPs |
+    | ------------------------------ | ------------------------------------------------------------------------------------------------ | --------- |
+    | :crown: jtexp<br>:crown: Water | :ti4-faction-pok-naaz: Naaz-Rokha Alliance<br>:ti4-faction-ds-cymiae: Savages of Cymiae          | 14<br>12  |
+    | hurripain<br>mscott            | :ti4-faction-ds-rohdhna: Roh'Dhna Mechatronics<br>:ti4-faction-base-l1z1x: L1Z1X Mindnet         | 12<br>12  |
+    | LAPDConvict<br>ben             | :ti4-faction-ds-zelian: Zelian Purifier<br>:ti4-faction-ds-cheiran: Cheiran Hordes               | 8<br>11   |
+    | scruffy<br>theMikeNIke76       | :ti4-faction-ds-kollecc: Kollecc Society<br>:ti4-faction-codex-keleres: Council Keleres (Mentak) | 3<br>4    |
 
 </div>
 
@@ -379,9 +379,11 @@
 
     _Trade someone their own promissory note_
 
-    | Player | Faction                                    | Game                                                 |
-    | ------ | ------------------------------------------ | ---------------------------------------------------- |
-    | mscott | :ti4-faction-base-creuss: Ghosts of Creuss | [Game 10](bounce-house.md#game-10-20250426-20250627) |
+    | Player        | Faction                                             | Game                                                 |
+    | ------------- | --------------------------------------------------- | ---------------------------------------------------- |
+    | mscott        | :ti4-faction-base-creuss: Ghosts of Creuss          | [Game 10](bounce-house.md#game-10-20250426-20250627) |
+    | theMikeNIke76 | :ti4-faction-te-deepwrought: Deepwrought Scholarate | [Game 12](bounce-house.md#game-12-20251031-20251223) |
+    | LAPDConvict   | :ti4-faction-te-deepwrought: Deepwrought Scholarate | [Game 13](bounce-house.md#game-13-20251031-tbd)      |
 
 -   ### Interdimensional Highway
 
@@ -494,9 +496,10 @@
 
     _Have at least 1 promissory note that belongs to each other player in a 6–8 player game_
 
-    | Player      | Faction                                           | Game                                               |
-    | ----------- | ------------------------------------------------- | -------------------------------------------------- |
-    | LAPDConvict | :ti4-faction-base-jolnar: Universities of Jol-Nar | [Game 7](bounce-house.md#game-7-20241119-20250215) |
+    | Player      | Faction                                             | Game                                               |
+    | ----------- | --------------------------------------------------- | -------------------------------------------------- |
+    | LAPDConvict | :ti4-faction-base-jolnar: Universities of Jol-Nar   | [Game 7](bounce-house.md#game-7-20241119-20250215) |
+    | LAPDConvict | :ti4-faction-te-deepwrought: Deepwrought Scholarate | [Game 13](bounce-house.md#game-13-20251031-tbd)    |
 
 -   ### Sincerely, Deleted
 

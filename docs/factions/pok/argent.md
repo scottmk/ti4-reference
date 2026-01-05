@@ -36,7 +36,7 @@ toc_depth: 2
 
     ---
 
-    * :ti4-unit-fighter::ti4-unit-fighter::ti4-unit-fighter::ti4-unit-fighter::ti4-unit-fighter:
+    * :ti4-unit-infantry::ti4-unit-infantry::ti4-unit-infantry::ti4-unit-infantry::ti4-unit-infantry:
     * :ti4-unit-spacedock:
     * :ti4-unit-pds:
 

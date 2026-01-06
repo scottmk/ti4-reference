@@ -72,7 +72,7 @@ And all weakness must be eradicated._
 
 ---
 
-Commodities: 4
+Commodities: 2
 
 <div class="grid cards" markdown>
 -   ### __Flagship__

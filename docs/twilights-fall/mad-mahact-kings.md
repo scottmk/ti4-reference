@@ -48,7 +48,7 @@ toc_depth: 2
 
 ## Faction Technologies
 
-Whenever you take part in a slice—including the inaugural splice—you may instead choose to take one of the following faction technologies instead of a splice card.
+Whenever you take part in a splice—including the inaugural splice—you may instead choose to take one of the following faction technologies instead of a splice card.
 These technologies do not have any prerequisites, do not count as any technology color, and cannot be lost once gained.
 
 Note that you must play with the _Prophecy of Kings_ expansion to use the abilities preceded with a <sup><sub>:ti4-pok:</sub></sup> icon.

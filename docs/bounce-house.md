@@ -6,15 +6,15 @@
 
 | Player                                                        | Number of Games Won | Number of Games Played | Win Ratio |
 | ------------------------------------------------------------- | :-----------------: | :--------------------: | :-------: |
-| <span style="white-space: nowrap;">:crown: LAPDConvict</span> |          6          |           11           |   54.5%   |
-| mscott                                                        |          2          |           12           |   16.6%   |
+| <span style="white-space: nowrap;">:crown: LAPDConvict</span> |          6          |           12           |    50%    |
+| mscott                                                        |          3          |           13           |   23.1%   |
 | scruffy                                                       |          2          |           10           |    20%    |
 | theMikeNIke76                                                 |          1          |           9            |   11.1%   |
 | patthepineapple                                               |          1          |           4            |    25%    |
-| hurripain                                                     |          0          |           10           |    0%     |
-| ben                                                           |          0          |           2            |    0%     |
-| jtexp                                                         |          0          |           1            |    0%     |
-| Water                                                         |          0          |           1            |    0%     |
+| hurripain                                                     |          0          |           11           |    0%     |
+| ben                                                           |          0          |           3            |    0%     |
+| jtexp                                                         |          0          |           2            |    0%     |
+| Water                                                         |          0          |           2            |    0%     |
 | RyRyTheThird                                                  |          0          |           1            |    0%     |
 
 <div markdown class="grid cards">
@@ -260,7 +260,7 @@
     | mscott                                                        | :ti4-faction-base-muaat: Embers of Muaat            | 11        |
     | theMikeNIke76                                                 | :ti4-faction-te-deepwrought: Deepwrought Scholarate | 10        |
 
--   ### **Game 13:** 2025.10.31 – TBD
+-   ### **Game 13:** 2025.10.31 – 2026.01.28
 
     ---
 
@@ -269,18 +269,40 @@
     * **Mod Content**: None
     * **Galactic Events**: None
     * **Game Modes**: 14 victory points, no support swaps
+    * **Winning Path**: 5 stage 1s, 2 stage 2s, 3 secrets, 2 Imperial points
+
+    Round 9 Action Phase Win (Imperial)
+
+    | Player                                                   | Faction                                                                            | Total VPs |
+    | -------------------------------------------------------- | ---------------------------------------------------------------------------------- | --------- |
+    | <span style="white-space: nowrap;">:crown: mscott</span> | :ti4-faction-te-rebellion: Crimson Rebellion                                       | 14        |
+    | hurripain                                                | :ti4-faction-te-firmament: The Firmament<br>:ti4-faction-te-obsidian: The Obsidian | 12        |
+    | LAPDConvict                                              | :ti4-faction-te-deepwrought: Deepwrought Scholarate                                | 12        |
+    | jtexp                                                    | :ti4-faction-pok-cabal: Vuil'Raith Cabal                                           | 11        |
+    | Water                                                    | :ti4-faction-te-ralnel: Ral Nel Consortium                                         | 10        |
+    | ben                                                      | :ti4-faction-base-norr: Sardakk N'orr                                              | 7         |
+
+-   ### **Game 14:** 2026.01.01 – TBD
+
+    ---
+
+    * Async TI4 ([pbd17888](https://asyncti4.com/game/pbd17888){:target="_blank"})
+    * **Expansion Content**: :ti4-pok:, :ti4-te:
+    * **Mod Content**: None
+    * **Galactic Events**: None
+    * **Game Modes**: 12 victory points, Twilight's Fall
     * **Winning Path**: TBD
 
     TBD
 
-    | Player      | Faction                                                                            | Total VPs |
-    | ----------- | ---------------------------------------------------------------------------------- | --------- |
-    | ben         | :ti4-faction-base-norr: Sardakk N'orr                                              |           |
-    | hurripain   | :ti4-faction-te-firmament: The Firmament<br>:ti4-faction-te-obsidian: The Obsidian |           |
-    | jtexp       | :ti4-faction-pok-cabal: Vuil'Raith Cabal                                           |           |
-    | LAPDConvict | :ti4-faction-te-deepwrought: Deepwrought Scholarate                                |           |
-    | mscott      | :ti4-faction-te-rebellion: Crimson Rebellion                                       |           |
-    | Water       | :ti4-faction-te-ralnel: Ral Nel Consortium                                         |           |
+    | Player        | Faction                                                    | Total VPs |
+    | ------------- | ---------------------------------------------------------- | --------- |
+    | LAPDConvict   | :ti4-faction-tf-paradox: Il Na Viroset                     |           |
+    | theMikeNIke76 | :ti4-faction-tf-raithborn: A Sickening Lurch               |           |
+    | hurripain     | :ti4-faction-tf-divine: Radiant Aur                        |           |
+    | ben           | :ti4-faction-tf-vermillion: The Ruby Monarch               |           |
+    | mscott        | :ti4-faction-tf-tempered: The Saint of Swords              |           |
+    | scruffy       | :ti4-faction-tf-blossoming: Il Sai Lakoe, Herald of Thorns |           |
 </div>
 
 ## Alliance Games
@@ -383,7 +405,7 @@
     | ------------- | --------------------------------------------------- | ---------------------------------------------------- |
     | mscott        | :ti4-faction-base-creuss: Ghosts of Creuss          | [Game 10](bounce-house.md#game-10-20250426-20250627) |
     | theMikeNIke76 | :ti4-faction-te-deepwrought: Deepwrought Scholarate | [Game 12](bounce-house.md#game-12-20251031-20251223) |
-    | LAPDConvict   | :ti4-faction-te-deepwrought: Deepwrought Scholarate | [Game 13](bounce-house.md#game-13-20251031-tbd)      |
+    | LAPDConvict   | :ti4-faction-te-deepwrought: Deepwrought Scholarate | [Game 13](bounce-house.md#game-13-20251031-20260128) |
 
 -   ### Interdimensional Highway
 
@@ -399,7 +421,9 @@
 
     _Score your 10th (or last) victory point from Become a Martyr_
 
-    None
+    | Player | Faction                                | Game                                                      |
+    | ------ | -------------------------------------- | --------------------------------------------------------- |
+    | mscott | :ti4-faction-tf-paradox: Il Na Viroset | [staff tf (pbd15388)](https://asyncti4.com/game/pbd15388) |
 
 -   ### It's Probably Blue
 
@@ -496,10 +520,10 @@
 
     _Have at least 1 promissory note that belongs to each other player in a 6–8 player game_
 
-    | Player      | Faction                                             | Game                                               |
-    | ----------- | --------------------------------------------------- | -------------------------------------------------- |
-    | LAPDConvict | :ti4-faction-base-jolnar: Universities of Jol-Nar   | [Game 7](bounce-house.md#game-7-20241119-20250215) |
-    | LAPDConvict | :ti4-faction-te-deepwrought: Deepwrought Scholarate | [Game 13](bounce-house.md#game-13-20251031-tbd)    |
+    | Player      | Faction                                             | Game                                                 |
+    | ----------- | --------------------------------------------------- | ---------------------------------------------------- |
+    | LAPDConvict | :ti4-faction-base-jolnar: Universities of Jol-Nar   | [Game 7](bounce-house.md#game-7-20241119-20250215)   |
+    | LAPDConvict | :ti4-faction-te-deepwrought: Deepwrought Scholarate | [Game 13](bounce-house.md#game-13-20251031-20260128) |
 
 -   ### Sincerely, Deleted
 

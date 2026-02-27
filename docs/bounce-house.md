@@ -6,13 +6,13 @@
 
 | Player                                                        | Number of Games Won | Number of Games Played | Win Ratio |
 | ------------------------------------------------------------- | :-----------------: | :--------------------: | :-------: |
-| <span style="white-space: nowrap;">:crown: LAPDConvict</span> |          6          |           12           |    50%    |
-| mscott                                                        |          3          |           13           |   23.1%   |
-| scruffy                                                       |          2          |           10           |    20%    |
-| theMikeNIke76                                                 |          1          |           9            |   11.1%   |
+| <span style="white-space: nowrap;">:crown: LAPDConvict</span> |          7          |           13           |   53.8%   |
+| mscott                                                        |          3          |           14           |   21.4%   |
+| scruffy                                                       |          2          |           11           |   18.2%   |
+| theMikeNIke76                                                 |          1          |           10           |    10%    |
 | patthepineapple                                               |          1          |           4            |    25%    |
-| hurripain                                                     |          0          |           11           |    0%     |
-| ben                                                           |          0          |           3            |    0%     |
+| hurripain                                                     |          0          |           12           |    0%     |
+| ben                                                           |          0          |           4            |    0%     |
 | jtexp                                                         |          0          |           2            |    0%     |
 | Water                                                         |          0          |           2            |    0%     |
 | RyRyTheThird                                                  |          0          |           1            |    0%     |
@@ -282,7 +282,7 @@
     | Water                                                    | :ti4-faction-te-ralnel: Ral Nel Consortium                                         |    10     |
     | ben                                                      | :ti4-faction-base-norr: Sardakk N'orr                                              |     7     |
 
--   ### **Game 14:** 2026.01.01 – TBD
+-   ### **Game 14:** 2026.01.01 – 2026.02.25
 
     ---
 
@@ -291,18 +291,18 @@
     * **Mod Content**: None
     * **Galactic Events**: None
     * **Game Modes**: 12 victory points, Twilight's Fall
-    * **Winning Path**: TBD
+    * **Winning Path**: 4 stage 1s, 3 secrets, 1 public secret, 1 Custodians, 1 Shard, 1 Book of Latvinia, 1 Song like Marrow (Styx)
 
-    TBD
+    Round 5 Status Phase Win
 
-    | Player        | Faction                                                    | Total VPs |
-    | ------------- | ---------------------------------------------------------- | :-------: |
-    | LAPDConvict   | :ti4-faction-tf-paradox: Il Na Viroset                     |           |
-    | theMikeNIke76 | :ti4-faction-tf-raithborn: A Sickening Lurch               |           |
-    | hurripain     | :ti4-faction-tf-divine: Radiant Aur                        |           |
-    | ben           | :ti4-faction-tf-vermillion: The Ruby Monarch               |           |
-    | mscott        | :ti4-faction-tf-tempered: The Saint of Swords              |           |
-    | scruffy       | :ti4-faction-tf-blossoming: Il Sai Lakoe, Herald of Thorns |           |
+    | Player                                                        | Faction                                                    | Total VPs |
+    | ------------------------------------------------------------- | ---------------------------------------------------------- | :-------: |
+    | <span style="white-space: nowrap;">:crown: LAPDConvict</span> | :ti4-faction-tf-paradox: Il Na Viroset                     |    12     |
+    | scruffy                                                       | :ti4-faction-tf-blossoming: Il Sai Lakoe, Herald of Thorns |     8     |
+    | mscott                                                        | :ti4-faction-tf-tempered: The Saint of Swords              |     7     |
+    | theMikeNIke76                                                 | :ti4-faction-tf-raithborn: A Sickening Lurch               |     6     |
+    | hurripain                                                     | :ti4-faction-tf-divine: Radiant Aur                        |     5     |
+    | ben                                                           | :ti4-faction-tf-vermillion: The Ruby Monarch               |     5     |
 </div>
 
 ## Alliance Games

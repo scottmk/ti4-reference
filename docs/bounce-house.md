@@ -46,7 +46,7 @@
 
     * Async TI4 ([pbd3220](https://asyncti4.com/game/pbd3220){:target="_blank"})
     * **Expansion Content**: :ti4-pok:
-    * **Game Modes**: 0 victory points
+    * **Game Modes**: 10 victory points
     * **Winning Path**: 4 stage 1s, 0 stage 2s, 3 secrets, 1 support, 1 shard, 1 custodian/imperial 
 
     Round 5 Action Phase Win

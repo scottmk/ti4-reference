@@ -19,6 +19,9 @@ It also includes references for the [_Discordant Stars_ fan expansion](https://t
 
 ## Changelog
 
+### **06 Mar 26**
+* Added some errata for Twilight's Fall content
+
 ### **31 Oct 25**
 * Added remaining _Twilight's Fall_ [genomes](twilights-fall/splices/genomes.md)
 * Added remaining _Twilight's Fall_ [paradigms](twilights-fall/paradigms.md)

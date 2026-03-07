@@ -88,7 +88,8 @@ _Coming soon._
     ---
     **Secondary**:
 
-    * Spend 1 token from your strategy pool and 4 resources to either participate in the unit upgrade splice or use the <span style="font-variant:small-caps;">**Production**</span> abilities of the units in your home system.
+    * <s>Spend 1 token from your strategy pool and 4 resources to either participate in the unit upgrade splice or use the <span style="font-variant:small-caps;">**Production**</span> abilities of the units in your home system.</s>
+    * Spend 1 token from your strategy pool. Then, you may either use the <span style="font-variant:small-caps;">**Production**</span> abilities of the units in your home system or spend 4 resources to participate in the unit upgrade splice.
 
 </div>
 <div markdown class="grid cards">

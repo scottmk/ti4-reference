@@ -183,3 +183,24 @@ th:empty {
 .md-typeset table td {
   vertical-align: middle !important;
 }
+
+.md-typeset .admonition.coffee,
+.md-typeset details.coffee {
+  border-color: rgb(111, 78, 55);
+}
+
+.md-typeset .coffee > .admonition-title,
+.md-typeset .coffee > summary {
+  background-color: rgba(111, 78, 55, 0.1);
+}
+
+.md-typeset .coffee > .admonition-title::before,
+.md-typeset .coffee > summary::before {
+  background-color: rgb(111, 78, 55);
+  -webkit-mask-image: var(--md-admonition-icon--coffee);
+          mask-image: var(--md-admonition-icon--coffee);
+}
+
+
+
+

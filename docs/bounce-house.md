@@ -6,15 +6,16 @@
 
 | Player                                                        | Number of Games Won | Number of Games Played | Win Ratio |
 | ------------------------------------------------------------- | :-----------------: | :--------------------: | :-------: |
-| <span style="white-space: nowrap;">:crown: LAPDConvict</span> |          7          |           13           |   53.8%   |
-| mscott                                                        |          3          |           14           |   21.4%   |
-| scruffy                                                       |          2          |           11           |   18.2%   |
-| theMikeNIke76                                                 |          1          |           10           |    10%    |
+| <span style="white-space: nowrap;">:crown: LAPDConvict</span> |          7          |           14           |    50%    |
+| mscott                                                        |          3          |           15           |    20%    |
+| scruffy                                                       |          2          |           12           |   16.6%   |
+| theMikeNIke76                                                 |          1          |           11           |   9.1%    |
 | patthepineapple                                               |          1          |           4            |    25%    |
-| hurripain                                                     |          0          |           12           |    0%     |
-| ben                                                           |          0          |           4            |    0%     |
+| RedAlert                                                      |          1          |           1            |   100%    |
+| hurripain                                                     |          0          |           13           |    0%     |
+| ben                                                           |          0          |           5            |    0%     |
 | jtexp                                                         |          0          |           2            |    0%     |
-| Water                                                         |          0          |           2            |    0%     |
+| Water                                                         |          0          |           3            |    0%     |
 | RyRyTheThird                                                  |          0          |           1            |    0%     |
 
 <div markdown class="grid cards">
@@ -303,6 +304,31 @@
     | theMikeNIke76                                                 | :ti4-faction-tf-raithborn: A Sickening Lurch               |     6     |
     | hurripain                                                     | :ti4-faction-tf-divine: Radiant Aur                        |     5     |
     | ben                                                           | :ti4-faction-tf-vermillion: The Ruby Monarch               |     5     |
+
+-   ### **Game 15:** 2026.03.02 – 2026.06.03
+
+    ---
+
+    * Async TI4 ([pbd20720](https://asyncti4.com/game/pbd20720){:target="_blank"})
+    * **Expansion Content**: :ti4-pok:, :ti4-te:
+    * **Mod Content**: None
+    * **Galactic Events**: None
+    * **Game Modes**: 12 victory points, Twilight's Fall
+    * **Winning Path**: 5 stage 1s, 1 stage 2, 2 secrets, 1 Imperial, 1 Unravel (Scepter of Emelpar), 1 Song like Marrow (Styx)
+
+    Round 5 Status Phase Win
+
+    | Player                                                     | Faction                                                    | Total VPs |
+    | ---------------------------------------------------------- | ---------------------------------------------------------- | :-------: |
+    | <span style="white-space: nowrap;">:crown: RedAlert</span> | :ti4-faction-tf-raithborn: Sickening Lurch                 |    12     |
+    | scruffy                                                    | :ti4-faction-tf-vermillion: The Ruby Monarch               |    10     |
+    | theMikeNIke76                                              | :ti4-faction-tf-tempered: The Saint of Swords              |    10     |
+    | mscott                                                     | :ti4-faction-tf-glimmering: Avarice Rex                    |     8     |
+    | LAPDConvict                                                | :ti4-faction-tf-divine: Radiant Aur                        |     7     |
+    | hurripain                                                  | :ti4-faction-tf-paradox: Il Na Viroset                     |     7     |
+    | Water                                                      | :ti4-faction-tf-blossoming: Il Sai Lakoe, Herald of Thorns |     6     |
+    | ben                                                        | :ti4-faction-tf-replicant: El Nel Janovet                  |     6     |
+
 </div>
 
 ## Alliance Games
